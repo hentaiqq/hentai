@@ -1,0 +1,56 @@
+name: hentai CI
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+env:
+  GIT_USER: chinoll
+  GIT_EMAIL: chinoll@protonmail.com
+  THEME_BRANCH: master
+  DEPLOY_REPO: hentaiqq/hentai
+  DEPLOY_BRANCH: master
+
+jobs:
+  build:
+    name: Build on ${{ matrix.os }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Checkout deploy repo
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ env.DEPLOY_REPO }}
+          ref: ${{ env.DEPLOY_BRANCH }}
+          path: .deploy_git
+
+      - name: Configuration environment
+        env:
+          KEY: ${{secrets.KEY}}
+          ipb_member_id: ${{secrets.ipb_member_id}}
+          ipb_pass_hash: ${{secrets.ipb_pass_hash}}
+        run: |
+          export TZ='Asia/Shanghai'
+          sudo timedatectl set-timezone "Asia/Shanghai"
+          mkdir -p ~/.ssh/
+          echo "$KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git config --global user.name $GIT_USER
+          git config --global user.email $GIT_EMAIL
+          pip install bs4
+      - name: update database
+        env:
+            ipb_member_id: ${{secrets.ipb_member_id}}
+            ipb_pass_hash: ${{secrets.ipb_pass_hash}}
+        run: |
+          python ex-favor-exporter.py
+          python tag_make.py
+          git add list.json dict.json tags.json
+          git commit -m "update"
+          git push origin master
