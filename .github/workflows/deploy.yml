@@ -53,4 +53,4 @@ jobs:
           python tag_make.py
           git add list.json dict.json tags.json
           git commit -m "update"
-          git push origin master
+          git push origin master -f
