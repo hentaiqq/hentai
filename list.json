@@ -83,16 +83,6 @@
         "female:sole female",
         "female:twintails"
     ],
-    "(C83) [ナギヤマスギ (那岐山)] 東方陵辱24フルカラー・アリス野外催眠レイプ (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:alice margatroid",
-        "artist:nagiyama",
-        "male:dilf",
-        "male:kimono",
-        "female:mind control",
-        "female:rape",
-        "group"
-    ],
     "(C84) [BRIO (YO)] みこみさと不幸な男 (とある科学の超電磁砲) [中国翻訳] [無修正]":[
         "language:translated",
         "character:mikoto misaka",
@@ -112,19 +102,6 @@
         "female:very long hair",
         "group"
     ],
-    "(C84) [Dr.VERMILION (ペテン師)] インモラルセクスプレス (とある科学の超電磁砲) [中国翻訳]":[
-        "language:translated",
-        "character:ruiko saten",
-        "artist:petenshi",
-        "male:harem",
-        "female:anal",
-        "female:chikan",
-        "female:double penetration",
-        "female:mind break",
-        "female:rape",
-        "female:schoolgirl uniform",
-        "female:sole female"
-    ],
     "(C84) [Paperer’s Nest (天響龍音)] 狐さんと海で遊ぼう! [中国翻訳]":[
         "language:translated",
         "group:paperers nest",
@@ -136,18 +113,6 @@
         "female:tail",
         "female:urination",
         "group"
-    ],
-    "(C84) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画 10 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:marisa kirisame",
-        "group:kamikadou",
-        "male:sole male",
-        "female:drugs",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:x-ray",
-        "full color",
-        "multi-work series"
     ],
     "(C84) [ふじ家 (ねくたー)] ハルカノ Love (フォトカノ) [中国翻訳]":[
         "language:translated",
@@ -198,17 +163,6 @@
         "female:rape",
         "female:schoolgirl uniform",
         "female:speculum"
-    ],
-    "(C85) [鴨川屋 (鴨川たぬき)] サキトノドカ (咲-Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:nodoka haramura",
-        "group:kamogawaya",
-        "female:big breasts",
-        "female:schoolgirl uniform",
-        "female:sex toys",
-        "female:small breasts",
-        "female:stockings",
-        "group"
     ],
     "(C86) [popin'rabbit (絵空コト)] ゆろりきょういくっ二 [中国翻訳]":[
         "language:translated",
@@ -5594,23 +5548,6 @@
         "female:lolicon",
         "female:sole female"
     ],
-    "(例大祭10) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画09 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:koishi komeiji",
-        "character:satori komeiji",
-        "group:kamikadou",
-        "male:sole male",
-        "female:catgirl",
-        "female:chloroform",
-        "female:drugs",
-        "female:harem",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:rape",
-        "female:slave",
-        "female:x-ray",
-        "group"
-    ],
     "(例大祭11) [はぴねすみるく (おびゃー)] 肉欲神仰信 - Episode of religious faith - (東方Project) [中国翻訳]":[
         "language:translated",
         "character:suwako moriya",
@@ -5751,7 +5688,13 @@
         "language:translated",
         "character:marisa kirisame",
         "artist:nagiyama",
-        "female:sole female"
+        "male:kimono",
+        "female:anal",
+        "female:blowjob",
+        "female:double penetration",
+        "female:rape",
+        "female:sole female",
+        "female:x-ray"
     ],
     "(秋葉原同人祭 第二回) [fluffy×fluffy (わき)] ココアさんのこと考えちゃうんです (ご注文はうさぎですか?) [中国翻訳]":[
         "language:translated",
@@ -7007,13 +6950,14 @@
         "female:collar",
         "female:double penetration",
         "female:leash",
+        "female:lolicon",
         "female:niece",
         "female:sex toys",
         "female:shibari",
         "incest",
         "multi-work series"
     ],
-    "[D・N・A.Lab.、CHRONOLOG (ミヤスリサ、桜沢いづみ)] 没落お嬢様強制風俗落ち [中国翻訳] [2020年2月]":[
+    "[D・N・A.Lab.、CHRONOLOG (ミヤスリサ、桜沢いづみ)] 没落お嬢様強制風俗堕ち [中国翻訳] [2020年2月]":[
         "language:translated",
         "group:chronolog",
         "artist:miyasu risa",
@@ -7266,6 +7210,7 @@
         "female:bloomers",
         "female:catgirl",
         "female:kemonomimi",
+        "female:milf",
         "female:sex toys",
         "female:sole female",
         "female:stockings",
@@ -7516,6 +7461,11 @@
         "group:meltdown comet",
         "female:lolicon",
         "female:magical girl",
+        "female:twintails"
+    ],
+    "[Merkonig] B-Trayal 20 赫斯提亚 Part1（ダンジョンに出会いを求めるのは間違っているだろうか） [Chinese] [流木个人汉化]":[
+        "language:translated",
+        "character:hestia",
         "female:twintails"
     ],
     "[MonsieuR (MUK)] MUK's LOLIWORKS 2019 AUTUMN-WINTER 1 せっくすごっこ [中国翻訳]":[
@@ -7837,16 +7787,6 @@
         "female:tribadism",
         "female:yuri"
     ],
-    "[PiT (なつきしゅり)] 二重咲 HutaeSaki (咲-Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ryuuka shimizudani",
-        "group:pit",
-        "female:cunnilingus",
-        "female:females only",
-        "female:kissing",
-        "female:schoolgirl uniform",
-        "female:yuri"
-    ],
     "[Pixiv]  ふわり (9212166) [2019.03.24]":[
         "female:big breasts",
         "female:lingerie",
@@ -7967,8 +7907,7 @@
         "female:schoolgirl uniform",
         "female:stockings",
         "female:tanlines",
-        "female:twintails",
-        "mosaic censorship"
+        "female:twintails"
     ],
     "[Pixiv] リン☆ユウ (4754550)":[
         "female:big breasts",
@@ -8205,6 +8144,18 @@
         "female:nakadashi",
         "female:sole female",
         "mmf threesome"
+    ],
+    "[Story Circle (隣)] ダウナー系ゲーマー弟が兄さん好き好き妹サキュバスになるまで [中国翻訳]":[
+        "language:translated",
+        "artist:tonari",
+        "male:gender bender",
+        "male:sole male",
+        "female:crotch tattoo",
+        "female:emotionless sex",
+        "female:impregnation",
+        "female:lolicon",
+        "female:twintails",
+        "female:very long hair"
     ],
     "[Studio TAGATA (よんたろう)] 眠姦-家庭教師のアルバイト編- [中国翻訳]":[
         "language:translated",
@@ -8709,6 +8660,13 @@
         "female:deepthroat",
         "female:exhibitionism",
         "female:schoolgirl uniform",
+        "female:sole female"
+    ],
+    "[smooth (中村葛湯)] おとなりさん [中国翻訳]":[
+        "language:translated",
+        "group:smooth",
+        "male:sole male",
+        "female:lolicon",
         "female:sole female"
     ],
     "[smooth (中村葛湯)] おとなりさん [中国翻訳] [DL版]":[
@@ -10154,6 +10112,7 @@
         "language:translated",
         "artist:taguchi monyata",
         "male:gender bender",
+        "female:big breasts",
         "female:sister"
     ],
     "[きのもと杏] エッチ大好き! (COMIC LO 2020年9月号) [中国翻訳] [DL版]":[
@@ -10323,12 +10282,15 @@
     ],
     "[きょくちょ] 楓と鈴 (COMIC BAVEL 2018年4月号) [中国翻訳] [DL版]":[
         "language:translated",
+        "male:schoolboy uniform",
         "male:sole male",
         "female:bondage",
         "female:fingering",
         "female:nakadashi",
+        "female:pantyhose",
         "female:schoolgirl uniform",
         "female:sex toys",
+        "female:shimaidon",
         "female:twins",
         "group"
     ],
@@ -10338,6 +10300,7 @@
         "female:fingering",
         "female:maid",
         "female:sex toys",
+        "female:shimaidon",
         "female:stockings",
         "female:twins",
         "group"
@@ -10349,6 +10312,7 @@
         "female:bondage",
         "female:fingering",
         "female:incest",
+        "female:shimaidon",
         "female:sister",
         "female:stockings",
         "female:twins",
@@ -10490,6 +10454,17 @@
         "female:very long hair",
         "group",
         "uncensored"
+    ],
+    "[くうねりん] ねがいごと (ママ活百合えっち Vol.1) [中国翻訳] [DL版]":[
+        "language:translated",
+        "female:females only",
+        "female:mother",
+        "female:prostitution",
+        "female:schoolgirl uniform",
+        "female:stockings",
+        "female:twintails",
+        "female:widow",
+        "female:yuri"
     ],
     "[くどうひさし] はじめてのアルバイト (COMIC LO 2018年2月号) [中国翻訳] [DL版]":[
         "language:translated",
@@ -16616,8 +16591,6 @@
         "parody:original",
         "female:cervix penetration",
         "female:glasses",
-        "female:lolicon",
-        "female:oppai loli",
         "female:stockings",
         "female:stomach deformation",
         "multi-work series"
@@ -17153,6 +17126,14 @@
         "female:lolicon",
         "female:ponytail",
         "female:rape",
+        "female:twintails"
+    ],
+    "[宮内由香] みずいろ 一ともだち一[菓子铺X禁漫天堂汉化组]":[
+        "language:translated",
+        "male:sole male",
+        "male:teacher",
+        "female:lolicon",
+        "female:sole female",
         "female:twintails"
     ],
     "[宮部キウイ] #えちえち女子と繋がりたい [中国翻訳]":[
@@ -17995,6 +17976,7 @@
     "[暮林あさ美] Enjoy!スイミングレッスン (COMIC LO 2021年5月号) [中国翻訳] [DL版]":[
         "language:translated",
         "female:lolicon",
+        "female:sole female",
         "female:swimsuit"
     ],
     "[暮林あさ美] お売りください!高く買います! (COMIC LO 2020年10月号) [中国翻訳] [DL版]":[
@@ -20248,6 +20230,14 @@
         "female:schoolgirl uniform",
         "female:sole female",
         "mosaic censorship"
+    ],
+    "[萌姫連合 (Xin、obiwan)] カーニバル33-ココナッツヒツジのミルクを飲んだら色々おっきくなっちゃった…!? (原神) [中国翻訳]":[
+        "language:translated",
+        "character:ganyu",
+        "group:moe hime rengou",
+        "artist:xin",
+        "female:big breasts",
+        "female:horns"
     ],
     "[藤丸] 8月の灯 (COMIC快楽天2017年9月号) [中国翻訳] [DL版]":[
         "language:translated",
