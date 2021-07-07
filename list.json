@@ -5150,12 +5150,6 @@
         "female:urination",
         "female:yuri"
     ],
-    "(COMIC1☆5) [ノラネコノタマ(雪野みなと)] 籠の中の小鳥は何時出遣る 2 弐 [中国翻訳v2]":[
-        "language:translated",
-        "group:noraneko-no-tama",
-        "female:dark skin",
-        "female:lolicon"
-    ],
     "(COMIC1☆9) [くるみ並木 (みたくるみ)] エッチな神様でゴメンネ (ダンジョンに出会いを求めるのは間違っているだろうか) [中国翻訳]":[
         "language:translated",
         "character:hestia",
@@ -12084,6 +12078,17 @@
         "language:translated",
         "artist:doji ro"
     ],
+    "[どね] 豊穣のおいのりさま (永遠娘 朧絵巻 玖) [中国翻訳]":[
+        "language:translated",
+        "male:sole male",
+        "female:fox girl",
+        "female:impregnation",
+        "female:kemonomimi",
+        "female:lolicon",
+        "female:miko",
+        "female:sole female",
+        "female:thick eyebrows"
+    ],
     "[どよんど。 (たいやき)] Dear My Lover (アイカツスターズ!) [中国翻訳] [DL版]":[
         "language:translated",
         "character:mahiru kasumi",
@@ -16393,7 +16398,8 @@
         "male:sole male",
         "female:bondage",
         "female:sole female",
-        "female:stuck in wall"
+        "female:stuck in wall",
+        "female:urination"
     ],
     "[メガねぃ] 思春期のお勉強 [中国翻訳]":[
         "language:translated",
