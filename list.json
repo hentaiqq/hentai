@@ -5211,12 +5211,6 @@
         "female:urination",
         "female:yuri"
     ],
-    "(COMIC1☆5) [ノラネコノタマ(雪野みなと)] 籠の中の小鳥は何時出遣る 2 弐 [中国翻訳v2]":[
-        "language:translated",
-        "group:noraneko-no-tama",
-        "female:dark skin",
-        "female:lolicon"
-    ],
     "(COMIC1☆9) [くるみ並木 (みたくるみ)] エッチな神様でゴメンネ (ダンジョンに出会いを求めるのは間違っているだろうか) [中国翻訳]":[
         "language:translated",
         "character:hestia",
@@ -20438,6 +20432,13 @@
         "female:sole female",
         "female:stockings"
     ],
+    "[源五郎] 放課後なにしてるの? 第1話 (COMIC LO 2021年8月号) [中国翻訳] [DL版]":[
+        "language:translated",
+        "male:sole male",
+        "female:lolicon",
+        "female:schoolgirl uniform",
+        "female:sole female"
+    ],
     "[滝まくら] 曖昧アンチテーゼ (COMIC 快楽天ビースト 2021年1月号) [中国翻訳] [DL版]":[
         "language:translated",
         "male:sole male",
@@ -21704,6 +21705,8 @@
         "male:glasses",
         "male:schoolboy uniform",
         "male:teacher",
+        "female:anal",
+        "female:anal intercourse",
         "female:bbw",
         "female:beauty mark",
         "female:blindfold",
