@@ -17,7 +17,19 @@
         ]
     },
     {
-        "[砂漠] 真夜中の夜子さん「夜子に男らしいとこ見せて」[中国翻訳] [DL版]":[
+        "[野際かえで] 迷子になって帰れない (COMIC LO 2021年9月号) [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:schoolboy uniform",
+            "female:lolicon",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:sex toys",
+            "female:sole female",
+            "female:twintails"
+        ]
+    },
+    {
+        "[砂漠] 真夜中の夜子さん「夜子に男らしいとこ見せて」 COMIC LO 2021 6月号 [中国翻訳] [DL版]":[
             "language:translated",
             "male:glasses",
             "male:sole male",
@@ -71,7 +83,9 @@
             "language:translated",
             "character:youmu konpaku",
             "artist:nagiyama",
-            "female:sleeping",
+            "male:sole male",
+            "female:closed eyes",
+            "female:rape",
             "female:sole female"
         ]
     },
@@ -27424,25 +27438,6 @@
             "female:rape",
             "female:schoolgirl uniform",
             "female:sole female"
-        ]
-    },
-    {
-        "(例大祭10) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画09 (東方Project) [中国翻訳]":[
-            "language:translated",
-            "character:koishi komeiji",
-            "character:satori komeiji",
-            "group:kamikadou",
-            "male:sole male",
-            "female:catgirl",
-            "female:chloroform",
-            "female:drugs",
-            "female:harem",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:rape",
-            "female:slave",
-            "female:x-ray",
-            "group"
         ]
     }
 ]

@@ -5963,23 +5963,6 @@
         "female:lolicon",
         "female:sole female"
     ],
-    "(例大祭10) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画09 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:koishi komeiji",
-        "character:satori komeiji",
-        "group:kamikadou",
-        "male:sole male",
-        "female:catgirl",
-        "female:chloroform",
-        "female:drugs",
-        "female:harem",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:rape",
-        "female:slave",
-        "female:x-ray",
-        "group"
-    ],
     "(例大祭11) [はぴねすみるく (おびゃー)] 肉欲神仰信 - Episode of religious faith - (東方Project) [中国翻訳]":[
         "language:translated",
         "character:suwako moriya",
@@ -15880,7 +15863,9 @@
         "language:translated",
         "character:youmu konpaku",
         "artist:nagiyama",
-        "female:sleeping",
+        "male:sole male",
+        "female:closed eyes",
+        "female:rape",
         "female:sole female"
     ],
     "[ナギヤマスギ (那岐山)] 東方陵辱39 輪姦地蔵 (東方Project) [中国翻訳] [DL版]":[
@@ -21465,7 +21450,7 @@
         "female:sole female",
         "female:unusual pupils"
     ],
-    "[砂漠] 真夜中の夜子さん「夜子に男らしいとこ見せて」[中国翻訳] [DL版]":[
+    "[砂漠] 真夜中の夜子さん「夜子に男らしいとこ見せて」 COMIC LO 2021 6月号 [中国翻訳] [DL版]":[
         "language:translated",
         "male:glasses",
         "male:sole male",
@@ -22615,6 +22600,16 @@
         "male:sole male",
         "female:sister",
         "female:sole female"
+    ],
+    "[野際かえで] 迷子になって帰れない (COMIC LO 2021年9月号) [中国翻訳] [DL版]":[
+        "language:translated",
+        "male:schoolboy uniform",
+        "female:lolicon",
+        "female:rape",
+        "female:schoolgirl uniform",
+        "female:sex toys",
+        "female:sole female",
+        "female:twintails"
     ],
     "[金画輪 (しろまきみずが)] 狐巫女 2 (東方Project)[中国翻訳][DL版]":[
         "language:translated",
