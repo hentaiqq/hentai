@@ -3409,6 +3409,7 @@
     "(C96) [アットホーム酒家 (たくのみ)] 援助交配 8 [中国翻訳]":[
         "language:translated",
         "group:athome shuka",
+        "male:clone",
         "male:glasses",
         "male:teacher",
         "female:dark skin",
@@ -9071,9 +9072,9 @@
     "[TWILIGHT DUSK (藍夜)] 勤め先の娘さんをおいしく頂く本 運送会社編 [中国翻訳] [DL版]":[
         "language:translated",
         "group:twilight dusk",
+        "male:old man",
         "female:ahegao",
         "female:lolicon",
-        "female:mind break",
         "female:schoolgirl uniform",
         "female:sole female"
     ],
@@ -9725,8 +9726,12 @@
         "female:anal",
         "female:birth",
         "female:double penetration",
+        "female:impregnation",
+        "female:inflation",
+        "female:lactation",
         "female:living clothes",
         "female:lolicon",
+        "female:milking",
         "female:rape",
         "female:stockings",
         "female:tentacles"
@@ -13169,6 +13174,7 @@
         "group:hiyori hamster",
         "male:shotacon",
         "female:glasses",
+        "female:mind control",
         "female:sole female",
         "mosaic censorship"
     ],
@@ -21246,10 +21252,12 @@
     ],
     "[爽やか特濃みるく (在誠舞あゆか+)] ごめんねみかちゃん (快楽本能) [中国翻訳] [DL版]":[
         "language:translated",
-        "artist:arumamai ayuka plus",
+        "group:sawayaka tokunou milk",
+        "male:dilf",
         "male:shotacon",
         "female:bondage",
         "female:lolicon",
+        "female:rape",
         "female:sole female"
     ],
     "[牧村あかり] おばさんだけど、抱いてほしい。 [中国翻訳]":[
