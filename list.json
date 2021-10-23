@@ -150,23 +150,6 @@
         "female:sole female",
         "female:twintails"
     ],
-    "(C83) [SSB (まりりん)] 阿知賀秘密麻雀倶楽部 LEGEND (咲-Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ako atarashi",
-        "artist:ssa",
-        "female:prostitution",
-        "female:schoolgirl uniform"
-    ],
-    "(C83) [ナギヤマスギ (那岐山)] 東方陵辱24フルカラー・アリス野外催眠レイプ (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:alice margatroid",
-        "artist:nagiyama",
-        "male:dilf",
-        "male:kimono",
-        "female:mind control",
-        "female:rape",
-        "group"
-    ],
     "(C84) [BRIO (YO)] みこみさと不幸な男 (とある科学の超電磁砲) [中国翻訳] [無修正]":[
         "language:translated",
         "character:mikoto misaka",
@@ -647,8 +630,11 @@
         "language:translated",
         "character:miku maekawa",
         "artist:jp06",
+        "female:bondage",
         "female:collar",
+        "female:defloration",
         "female:kemonomimi",
+        "female:rape",
         "female:sole female"
     ],
     "(C89) [moriQ (森あいり)] チノちゃんが、こいびと (ご注文はうさぎですか？) [中国翻訳]":[
@@ -8733,6 +8719,7 @@
         "female:ahegao",
         "female:bdsm",
         "female:bondage",
+        "female:chastity belt",
         "female:drugs",
         "female:femdom",
         "female:forced exposure",
@@ -8841,16 +8828,6 @@
         "female:females only",
         "female:schoolgirl uniform",
         "female:tribadism",
-        "female:yuri"
-    ],
-    "[PiT (なつきしゅり)] 二重咲 HutaeSaki (咲-Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ryuuka shimizudani",
-        "group:pit",
-        "female:cunnilingus",
-        "female:females only",
-        "female:kissing",
-        "female:schoolgirl uniform",
         "female:yuri"
     ],
     "[Pixiv]  ふわり (9212166) [2019.03.24]":[
@@ -11845,6 +11822,19 @@
         "female:sweating",
         "female:twintails",
         "female:unusual pupils"
+    ],
+    "[きゃらだいん] ロンリー・ピンク・ホール (COMIC LO 2021年10月号) [中国翻訳] [DL版]":[
+        "language:translated",
+        "male:condom",
+        "male:shotacon",
+        "male:sole male",
+        "female:cunnilingus",
+        "female:defloration",
+        "female:lolicon",
+        "female:sister",
+        "female:sole female",
+        "female:sweating",
+        "mosaic censorship"
     ],
     "[きゃらだいん] 灼熱ねいきっどブルー (COMIC LO 2021年2月号) [中国翻訳] [DL版]":[
         "language:translated",
@@ -21866,6 +21856,16 @@
         "female:kimono",
         "female:sole female"
     ],
+    "[源五郎] ANCIENT QUEEN  第2話 (永遠娘 11) [中国翻訳] [DL版]":[
+        "language:translated",
+        "male:glasses",
+        "male:sole male",
+        "female:blowjob",
+        "female:dark skin",
+        "female:lolicon",
+        "female:sole female",
+        "female:twintails"
+    ],
     "[源五郎] ANCIENT QUEEN 第1話 (永遠娘 10) [中国翻訳] [DL版]":[
         "language:translated",
         "male:glasses",
@@ -23888,6 +23888,11 @@
         "female:twintails",
         "female:yuri",
         "uncensored"
+    ],
+    "[逆流茶会]小穴之日【中文】":[
+        "group:niliu chahui",
+        "female:females only",
+        "female:yuri"
     ],
     "[遊来りん] ふたりの風呂んてぃあ (COMIC 夢幻転生 2020年12月号)  [中国翻訳] [DL版]":[
         "language:translated",
