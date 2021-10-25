@@ -17,6 +17,19 @@
         "female:sole female",
         "female:swimsuit"
     ],
+    "(AC2) [Blue Mage (あおいまなぶ)] 惨状合体ひぐらしGO! (ひぐらしのなく頃に)":[
+        "character:hanyuu",
+        "character:rena ryuuguu",
+        "character:satoko houjou",
+        "group:bluemage",
+        "female:big breasts",
+        "female:horns",
+        "female:lolicon",
+        "female:low lolicon",
+        "female:oppai loli",
+        "female:paizuri",
+        "female:shared senses"
+    ],
     "(AC2) [しとろんの杜 (柚子奈ひよ)] 地味っ娘JKに恋したはずがギャルだった話。[中国翻訳]":[
         "language:translated",
         "group:citron no mori",
@@ -169,19 +182,6 @@
         "female:very long hair",
         "group"
     ],
-    "(C84) [Dr.VERMILION (ペテン師)] インモラルセクスプレス (とある科学の超電磁砲) [中国翻訳]":[
-        "language:translated",
-        "character:ruiko saten",
-        "artist:petenshi",
-        "male:harem",
-        "female:anal",
-        "female:chikan",
-        "female:double penetration",
-        "female:mind break",
-        "female:rape",
-        "female:schoolgirl uniform",
-        "female:sole female"
-    ],
     "(C84) [Paperer’s Nest (天響龍音)] 狐さんと海で遊ぼう! [中国翻訳]":[
         "language:translated",
         "group:paperers nest",
@@ -193,18 +193,6 @@
         "female:tail",
         "female:urination",
         "group"
-    ],
-    "(C84) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画 10 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:marisa kirisame",
-        "group:kamikadou",
-        "male:sole male",
-        "female:drugs",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:x-ray",
-        "full color",
-        "multi-work series"
     ],
     "(C84) [ふじ家 (ねくたー)] ハルカノ Love (フォトカノ) [中国翻訳]":[
         "language:translated",
@@ -4856,7 +4844,9 @@
         "artist:midorinocha",
         "female:elf",
         "female:harem",
-        "female:lolicon"
+        "female:lolicon",
+        "female:multiple paizuri",
+        "full color"
     ],
     "(COMIC1 BS祭 スペシャル) [SHINING (しゃいあん)] 断罪の皇女の下僕になりなさい (原神) [中国翻訳]":[
         "language:translated",
@@ -6198,23 +6188,6 @@
         "male:sole male",
         "female:lolicon",
         "female:sole female"
-    ],
-    "(例大祭10) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画09 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:koishi komeiji",
-        "character:satori komeiji",
-        "group:kamikadou",
-        "male:sole male",
-        "female:catgirl",
-        "female:chloroform",
-        "female:drugs",
-        "female:harem",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:rape",
-        "female:slave",
-        "female:x-ray",
-        "group"
     ],
     "(例大祭11) [はぴねすみるく (おびゃー)] 肉欲神仰信 - Episode of religious faith - (東方Project) [中国翻訳]":[
         "language:translated",
@@ -9120,6 +9093,15 @@
         "female:netorare",
         "female:sole female",
         "group"
+    ],
+    "[SIDE EFFECTS (さえき北都)] たんごのせっくＳ [中国翻訳]":[
+        "language:translated",
+        "group:side effects",
+        "male:sole male",
+        "female:lolicon",
+        "female:sister",
+        "female:sole female",
+        "female:stockings"
     ],
     "[STUDIO畑 (たろおいも)] 痛いのは嫌なのでエッチなスキルをいっぱい取得したいと思います。 (痛いのは嫌なので防御力に極振りしたいと思います。) [中国翻訳]":[
         "language:translated",
@@ -23075,6 +23057,12 @@
         "female:sole female",
         "female:twintails"
     ],
+    "[美術部 (しづきみちる)] ユーフォビアンの響き Trio (響け!ユーフォニアム) [中国翻訳] [DL版]":[
+        "language:translated",
+        "group:bijutsubu",
+        "female:females only",
+        "female:yuri"
+    ],
     "[羽原ヒロ] スキノシルシ [中国翻訳]":[
         "language:translated",
         "male:schoolboy uniform",
@@ -23892,7 +23880,7 @@
         "uncensored"
     ],
     "[逆流茶会]小穴之日【中文】":[
-        "group:niliu chahui",
+        "parody:original",
         "female:females only",
         "female:yuri"
     ],

@@ -1,7 +1,26 @@
 [
     {
+        "[美術部 (しづきみちる)] ユーフォビアンの響き Trio (響け!ユーフォニアム) [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:bijutsubu",
+            "female:females only",
+            "female:yuri"
+        ]
+    },
+    {
+        "[SIDE EFFECTS (さえき北都)] たんごのせっくＳ [中国翻訳]":[
+            "language:translated",
+            "group:side effects",
+            "male:sole male",
+            "female:lolicon",
+            "female:sister",
+            "female:sole female",
+            "female:stockings"
+        ]
+    },
+    {
         "[逆流茶会]小穴之日【中文】":[
-            "group:niliu chahui",
+            "parody:original",
             "female:females only",
             "female:yuri"
         ]
@@ -2561,7 +2580,9 @@
             "artist:midorinocha",
             "female:elf",
             "female:harem",
-            "female:lolicon"
+            "female:lolicon",
+            "female:multiple paizuri",
+            "full color"
         ]
     },
     {
@@ -6149,6 +6170,21 @@
             "male:sole male",
             "female:lolicon",
             "group"
+        ]
+    },
+    {
+        "(AC2) [Blue Mage (あおいまなぶ)] 惨状合体ひぐらしGO! (ひぐらしのなく頃に)":[
+            "character:hanyuu",
+            "character:rena ryuuguu",
+            "character:satoko houjou",
+            "group:bluemage",
+            "female:big breasts",
+            "female:horns",
+            "female:lolicon",
+            "female:low lolicon",
+            "female:oppai loli",
+            "female:paizuri",
+            "female:shared senses"
         ]
     },
     {
@@ -29028,54 +29064,6 @@
             "incest",
             "oyakodon",
             "tankoubon"
-        ]
-    },
-    {
-        "(C84) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画 10 (東方Project) [中国翻訳]":[
-            "language:translated",
-            "character:marisa kirisame",
-            "group:kamikadou",
-            "male:sole male",
-            "female:drugs",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:x-ray",
-            "full color",
-            "multi-work series"
-        ]
-    },
-    {
-        "(C84) [Dr.VERMILION (ペテン師)] インモラルセクスプレス (とある科学の超電磁砲) [中国翻訳]":[
-            "language:translated",
-            "character:ruiko saten",
-            "artist:petenshi",
-            "male:harem",
-            "female:anal",
-            "female:chikan",
-            "female:double penetration",
-            "female:mind break",
-            "female:rape",
-            "female:schoolgirl uniform",
-            "female:sole female"
-        ]
-    },
-    {
-        "(例大祭10) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画09 (東方Project) [中国翻訳]":[
-            "language:translated",
-            "character:koishi komeiji",
-            "character:satori komeiji",
-            "group:kamikadou",
-            "male:sole male",
-            "female:catgirl",
-            "female:chloroform",
-            "female:drugs",
-            "female:harem",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:rape",
-            "female:slave",
-            "female:x-ray",
-            "group"
         ]
     }
 ]
