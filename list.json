@@ -7311,7 +7311,6 @@
         "male:catboy",
         "male:kemonomimi",
         "male:sole male",
-        "female:big breasts",
         "female:bunny girl",
         "female:kemonomimi",
         "female:paizuri",
@@ -7325,7 +7324,6 @@
         "male:kemonomimi",
         "male:sole male",
         "male:tail",
-        "female:big breasts",
         "female:bunny girl",
         "female:kemonomimi",
         "female:sole female",
@@ -15281,8 +15279,13 @@
     "[ろこまに (真夏ろこ)] 優秀な僕の妹 [中国翻訳] [DL版]":[
         "language:translated",
         "group:rocomani",
+        "male:schoolboy uniform",
+        "male:sole male",
+        "female:rape",
         "female:schoolgirl uniform",
-        "female:sister"
+        "female:sister",
+        "female:sole female",
+        "twins"
     ],
     "[ろりおいる (ろいる)] お兄ちゃんだって甘えたい [中国翻訳]":[
         "language:translated",
