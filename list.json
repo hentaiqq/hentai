@@ -7563,6 +7563,7 @@
         "female:collar",
         "female:cumflation",
         "female:deepthroat",
+        "female:enema",
         "female:harem",
         "female:impregnation",
         "female:inflation",
@@ -9277,6 +9278,7 @@
         "female:ahegao",
         "female:anal",
         "female:big breasts",
+        "female:enema",
         "female:lolicon",
         "female:milf",
         "female:mind control",
@@ -9558,8 +9560,10 @@
         "language:translated",
         "male:sole male",
         "female:anal",
+        "female:blowjob",
         "female:footjob",
         "female:lolicon",
+        "female:prostitution",
         "female:sole female",
         "female:twintails",
         "female:unusual pupils"
@@ -13768,6 +13772,12 @@
         "female:blowjob",
         "female:lolicon",
         "female:sole female"
+    ],
+    "[ぱらゐそ祭具 (ぷっか)] 風俗情報マガジン KAMIHAMA Night (マギアレコード 魔法少女まどか☆マギカ外伝) [中国翻訳]":[
+        "language:translated",
+        "character:kanagi izumi",
+        "artist:pucca",
+        "female:prostitution"
     ],
     "[ぱんのみみ (ぱん)] スイート・スイート ホリデイ！ (ゆるゆり) [中国翻訳] [DL版]":[
         "language:translated",
@@ -19450,7 +19460,9 @@
         "parody:original",
         "female:anal",
         "female:big breasts",
+        "female:cumflation",
         "female:inflation",
+        "female:nakadashi",
         "female:oppai loli",
         "female:stockings",
         "female:stomach deformation"
@@ -21040,6 +21052,27 @@
         "female:schoolgirl uniform",
         "female:sole female",
         "female:twintails"
+    ],
+    "[暗中模索 (まるころんど)] 性指導員のお仕事 [中国翻訳] [DL版]":[
+        "language:translated",
+        "group:antyuumosaku",
+        "male:dilf",
+        "male:sole male",
+        "female:defloration",
+        "female:ponytail",
+        "female:schoolgirl uniform",
+        "female:stockings"
+    ],
+    "[暗中模索 (まるころんど)] 性指導員のお仕事2 なかがよさそうだったので二人まとめてほじくってあげた [中国翻訳] [DL版]":[
+        "language:translated",
+        "group:antyuumosaku",
+        "male:dilf",
+        "male:sole male",
+        "female:defloration",
+        "female:lolicon",
+        "female:schoolgirl uniform",
+        "female:twintails",
+        "group"
     ],
     "[暮林あさ美] 1989 前編 (COMIC LO 2021年7月号) [中国翻訳] [DL版]":[
         "language:translated",
@@ -23242,17 +23275,6 @@
         "female:swimsuit",
         "female:tomboy"
     ],
-    "[綿120パーセント (めんようじゃん)] AZUS@TTACK (けいおん！) [中国翻訳] [無修正]":[
-        "language:translated",
-        "character:azusa nakano",
-        "group:wata 120 percent",
-        "male:shotacon",
-        "male:sole male",
-        "female:defloration",
-        "female:sole female",
-        "female:twintails",
-        "multi-work series"
-    ],
     "[綿120パーセント (めんようじゃん)] AZUS@TTACK3 (けいおん！) [中国翻訳] [無修正]":[
         "language:translated",
         "character:azusa nakano",
@@ -23833,16 +23855,6 @@
         "artist:siina yuuki",
         "female:lolicon",
         "female:prostitution"
-    ],
-    "[要 (椎名悠輝)] 勇太くんじゃないけど愛さえあれば関係ないよね (中二病でも恋がしたい!!) [中国翻訳] [DL版]":[
-        "language:translated",
-        "character:rikka takanashi",
-        "group:kaname",
-        "female:eyepatch",
-        "female:lolicon",
-        "female:mind break",
-        "female:rape",
-        "female:schoolgirl uniform"
     ],
     "[規制当局 (リヒャルト・バフマン)] 放課後代理妻 義父は娘を孕ませたい [中国翻訳] [DL版]":[
         "language:translated",
@@ -24555,16 +24567,6 @@
         "female:tracksuit",
         "group",
         "tankoubon"
-    ],
-    "[雪雨こん] ラブ ・イズ・マネー（仮） (COMIC LO 2013 年4月号) [中国翻訳]":[
-        "language:translated",
-        "male:glasses",
-        "male:sole male",
-        "male:teacher",
-        "female:lolicon",
-        "female:prostitution",
-        "female:schoolgirl uniform",
-        "female:sole female"
     ],
     "[雪雨こん] 破れたっていい タイツだもの (COMIC LO 2021年7月号) [中国翻訳] [DL版]":[
         "language:translated",
