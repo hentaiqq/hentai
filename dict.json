@@ -1,5 +1,31 @@
 [
     {
+        "[ガロウド]  ほっとエジプト (永遠娘 8) [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:sole male",
+            "female:dark skin",
+            "female:horns",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:sole female",
+            "female:tail"
+        ]
+    },
+    {
+        "[どうしょく (ぴらそん)] 生意気美少女を催眠アプリでちんぽ大好きな彼女にしてやった [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:doushoku",
+            "male:bbm",
+            "male:glasses",
+            "male:sole male",
+            "female:lolicon",
+            "female:mind control",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:sole female"
+        ]
+    },
+    {
         "[Story Circle (瀬戸こうへい、かんむり)] 妊娠出産体験学習の教材♀にされた俺 [中国翻訳] [DL版]":[
             "language:translated",
             "group:story circle",
@@ -123,7 +149,9 @@
             "female:big breasts",
             "female:bikini",
             "female:bondage",
+            "female:harem",
             "female:ponytail",
+            "female:stockings",
             "female:swimsuit"
         ]
     },
@@ -271,9 +299,9 @@
             "female:twintails",
             "female:underwater",
             "female:unusual pupils",
-            "full censorship",
-            "group",
-            "inseki"
+            "mixed:group",
+            "mixed:inseki",
+            "other:full color"
         ]
     },
     {
@@ -1654,7 +1682,7 @@
             "female:glasses",
             "female:mind control",
             "female:sole female",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -1684,7 +1712,7 @@
             "language:translated",
             "character:chika takami",
             "group:ohoshisamadou",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -1694,7 +1722,7 @@
             "female:lingerie",
             "female:lolicon",
             "female:prostitution",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -1878,7 +1906,7 @@
             "artist:aki99",
             "female:lolicon",
             "female:masturbation",
-            "uncensored"
+            "other:uncensored"
         ]
     },
     {
@@ -1930,7 +1958,7 @@
             "female:lolicon",
             "female:rape",
             "female:sister",
-            "incest"
+            "mixed:incest"
         ]
     },
     {
@@ -2125,7 +2153,7 @@
             "male:gender bender",
             "male:shotacon",
             "female:sister",
-            "incest"
+            "other:full color"
         ]
     },
     {
@@ -2653,7 +2681,7 @@
             "female:ahegao",
             "female:lolicon",
             "female:rape",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -2758,7 +2786,7 @@
             "female:lolicon",
             "female:rape",
             "female:sex toys",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -2790,7 +2818,7 @@
             "female:demon girl",
             "female:sole female",
             "female:tail",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -2891,8 +2919,8 @@
             "female:sole female",
             "female:triple penetration",
             "female:x-ray",
-            "group",
-            "uncensored"
+            "mixed:mmf threesome",
+            "other:uncensored"
         ]
     },
     {
@@ -2948,7 +2976,7 @@
             "female:lolicon",
             "female:rape",
             "female:tomboy",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -3198,8 +3226,8 @@
             "female:twins",
             "female:twintails",
             "female:unusual pupils",
-            "full color",
-            "story arc"
+            "mixed:group",
+            "other:story arc"
         ]
     },
     {
@@ -3898,7 +3926,7 @@
             "female:masturbation",
             "female:sister",
             "female:sole female",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -4310,7 +4338,7 @@
             "female:rape",
             "female:schoolgirl uniform",
             "female:sex toys",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -4440,6 +4468,7 @@
             "male:glasses",
             "male:teacher",
             "female:anal",
+            "female:anal intercourse",
             "female:blowjob",
             "female:bukkake",
             "female:collar",
@@ -4447,6 +4476,7 @@
             "female:dark skin",
             "female:daughter",
             "female:defloration",
+            "female:double penetration",
             "female:exhibitionism",
             "female:glasses",
             "female:gloves",
@@ -4467,8 +4497,8 @@
             "female:tail plug",
             "female:tanlines",
             "female:twintails",
-            "incest",
-            "mmf threesome"
+            "mixed:incest",
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -4859,7 +4889,7 @@
             "female:sweating",
             "female:twintails",
             "female:x-ray",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -4911,8 +4941,8 @@
             "female:tracksuit",
             "female:twintails",
             "female:x-ray",
-            "incest",
-            "tankoubon"
+            "mixed:incest",
+            "other:tankoubon"
         ]
     },
     {
@@ -4950,7 +4980,7 @@
             "female:swimsuit",
             "female:twintails",
             "female:x-ray",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -4999,7 +5029,7 @@
             "female:sleeping",
             "female:twintails",
             "female:x-ray",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -5160,8 +5190,8 @@
             "female:tomboy",
             "female:twintails",
             "female:yuri",
-            "full color",
-            "story arc"
+            "other:full censorship",
+            "other:story arc"
         ]
     },
     {
@@ -5357,7 +5387,7 @@
             "female:x-ray",
             "female:yandere",
             "female:yuri",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -5583,8 +5613,8 @@
             "language:translated",
             "male:shotacon",
             "female:aunt",
-            "incest",
-            "uncensored"
+            "mixed:incest",
+            "other:uncensored"
         ]
     },
     {
@@ -5702,7 +5732,7 @@
             "female:tanlines",
             "female:tomboy",
             "female:urination",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -6148,7 +6178,7 @@
             "female:daughter",
             "female:lolicon",
             "female:sole female",
-            "inseki"
+            "mixed:inseki"
         ]
     },
     {
@@ -6282,7 +6312,7 @@
             "female:milf",
             "female:oyakodon",
             "female:tail",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -6394,7 +6424,7 @@
             "female:lolicon",
             "female:sole female",
             "female:x-ray",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -6441,7 +6471,7 @@
             "female:schoolgirl uniform",
             "female:twintails",
             "female:unusual pupils",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -6722,7 +6752,7 @@
             "language:translated",
             "group:cocoa holic",
             "female:lolicon",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -6799,7 +6829,7 @@
             "female:twintails",
             "female:unusual pupils",
             "female:x-ray",
-            "scanmark"
+            "other:scanmark"
         ]
     },
     {
@@ -7002,7 +7032,7 @@
             "male:shotacon",
             "female:femdom",
             "female:teacher",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -7148,8 +7178,8 @@
             "female:tail plug",
             "female:twintails",
             "female:x-ray",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -7797,8 +7827,8 @@
             "female:stockings",
             "female:triple penetration",
             "female:yuri",
-            "mmf threesome",
-            "tankoubon"
+            "mixed:mmf threesome",
+            "other:tankoubon"
         ]
     },
     {
@@ -8113,7 +8143,7 @@
             "female:lolicon",
             "female:sister",
             "female:sole female",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -8189,7 +8219,7 @@
             "female:blowjob",
             "female:lolicon",
             "female:sole female",
-            "no penetration"
+            "other:no penetration"
         ]
     },
     {
@@ -8373,7 +8403,7 @@
             "female:lolicon",
             "female:sister",
             "female:sole female",
-            "incest"
+            "other:full color"
         ]
     },
     {
@@ -8559,7 +8589,7 @@
             "female:mind control",
             "female:netorare",
             "female:rape",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -9353,7 +9383,7 @@
             "female:lolicon",
             "female:sister",
             "female:sole female",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -9429,7 +9459,7 @@
             "female:lolicon",
             "female:sole female",
             "female:tanlines",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -9477,7 +9507,7 @@
             "female:sweating",
             "female:swimsuit",
             "female:triple penetration",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -9638,7 +9668,7 @@
             "female:swimsuit",
             "female:tail plug",
             "female:unusual pupils",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -9954,8 +9984,8 @@
             "female:stockings",
             "female:tanlines",
             "female:x-ray",
-            "group",
-            "uncensored"
+            "mixed:group",
+            "other:uncensored"
         ]
     },
     {
@@ -9970,7 +10000,7 @@
             "female:piercing",
             "female:schoolgirl uniform",
             "female:sex toys",
-            "group"
+            "other:full color"
         ]
     },
     {
@@ -10235,8 +10265,8 @@
             "female:stockings",
             "female:swimsuit",
             "female:twintails",
-            "inseki",
-            "tankoubon"
+            "mixed:inseki",
+            "other:tankoubon"
         ]
     },
     {
@@ -10292,8 +10322,8 @@
             "female:tomboy",
             "female:twintails",
             "female:yuri",
-            "scanmark",
-            "uncensored"
+            "other:scanmark",
+            "other:uncensored"
         ]
     },
     {
@@ -10674,7 +10704,7 @@
             "female:stockings",
             "female:twintails",
             "female:x-ray",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -10967,8 +10997,8 @@
             "female:unusual pupils",
             "female:urination",
             "female:x-ray",
-            "incest",
-            "tankoubon"
+            "mixed:incest",
+            "other:tankoubon"
         ]
     },
     {
@@ -11652,7 +11682,7 @@
             "female:unusual pupils",
             "female:urination",
             "female:x-ray",
-            "inseki"
+            "mixed:inseki"
         ]
     },
     {
@@ -11855,8 +11885,8 @@
             "female:widow",
             "female:wings",
             "female:x-ray",
-            "group",
-            "story arc"
+            "mixed:group",
+            "other:story arc"
         ]
     },
     {
@@ -12061,7 +12091,7 @@
             "female:lolicon",
             "female:sister",
             "female:sole female",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -12138,8 +12168,8 @@
             "female:tiara",
             "female:twintails",
             "female:x-ray",
-            "group",
-            "oyakodon"
+            "mixed:group",
+            "mixed:oyakodon"
         ]
     },
     {
@@ -12236,7 +12266,7 @@
             "female:anal",
             "female:double penetration",
             "female:lolicon",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -12680,8 +12710,8 @@
             "female:unusual pupils",
             "female:x-ray",
             "female:yuri",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -12818,8 +12848,8 @@
             "female:lolicon",
             "female:tail",
             "female:tiara",
-            "ffm threesome",
-            "group"
+            "mixed:group",
+            "other:full color"
         ]
     },
     {
@@ -13618,7 +13648,7 @@
             "female:lolicon",
             "female:sister",
             "female:sole female",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -13875,7 +13905,7 @@
             "female:pixie cut",
             "female:stockings",
             "female:unusual pupils",
-            "multi-work series"
+            "mixed:ttm threesome"
         ]
     },
     {
@@ -14277,7 +14307,7 @@
             "female:tail",
             "female:ttf threesome",
             "female:x-ray",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -14311,8 +14341,8 @@
             "female:stomach deformation",
             "female:triple penetration",
             "female:very long hair",
-            "group",
-            "multi-work series"
+            "mixed:mmf threesome",
+            "other:multi-work series"
         ]
     },
     {
@@ -14604,7 +14634,7 @@
             "female:hairy",
             "female:sister",
             "female:sole female",
-            "uncensored"
+            "other:uncensored"
         ]
     },
     {
@@ -14809,8 +14839,8 @@
             "female:milf",
             "female:swimsuit",
             "female:swinging",
-            "incest",
-            "mmf threesome"
+            "mixed:incest",
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -14880,7 +14910,7 @@
             "female:twintails",
             "female:unusual pupils",
             "female:urination",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -15098,8 +15128,8 @@
             "female:tomboy",
             "female:twintails",
             "female:urination",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -15345,8 +15375,8 @@
             "female:stockings",
             "female:teacher",
             "female:twintails",
-            "ffm threesome",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -15625,7 +15655,7 @@
             "female:twintails",
             "female:unusual pupils",
             "female:urination",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -15672,8 +15702,8 @@
             "female:swimsuit",
             "female:tracksuit",
             "female:x-ray",
-            "group",
-            "story arc"
+            "mixed:group",
+            "other:story arc"
         ]
     },
     {
@@ -15809,7 +15839,7 @@
             "female:rape",
             "female:schoolgirl uniform",
             "female:sole female",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -16508,8 +16538,8 @@
             "female:twintails",
             "female:unusual pupils",
             "female:urination",
-            "full color",
-            "mosaic censorship"
+            "mixed:group",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -16790,8 +16820,8 @@
             "female:ponytail",
             "female:stockings",
             "female:very long hair",
-            "full color",
-            "multi-work series"
+            "mixed:group",
+            "other:multi-work series"
         ]
     },
     {
@@ -16813,7 +16843,7 @@
             "female:lolicon",
             "female:randoseru",
             "female:stockings",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -16878,7 +16908,7 @@
             "female:twintails",
             "female:x-ray",
             "female:yuri",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -17240,8 +17270,8 @@
             "female:swimsuit",
             "female:twintails",
             "female:urination",
-            "incest",
-            "uncensored"
+            "mixed:incest",
+            "other:uncensored"
         ]
     },
     {
@@ -17389,7 +17419,7 @@
             "female:stockings",
             "female:unusual pupils",
             "female:very long hair",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -17446,8 +17476,8 @@
             "female:sister",
             "female:stockings",
             "female:x-ray",
-            "group",
-            "inseki"
+            "mixed:group",
+            "mixed:inseki"
         ]
     },
     {
@@ -17596,7 +17626,7 @@
             "female:daughter",
             "female:lolicon",
             "female:sole female",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -18135,7 +18165,7 @@
             "female:strap-on",
             "female:tail plug",
             "female:urination",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -18329,7 +18359,7 @@
             "female:schoolgirl uniform",
             "female:sole female",
             "female:twintails",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -18584,7 +18614,7 @@
             "female:stockings",
             "female:tail plug",
             "female:twintails",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -18888,7 +18918,7 @@
             "female:sweating",
             "female:waitress",
             "female:x-ray",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -18958,7 +18988,7 @@
             "female:daughter",
             "female:lolicon",
             "female:sole female",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -19404,8 +19434,8 @@
             "female:twins",
             "female:twintails",
             "female:yuri",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "mixed:twins"
         ]
     },
     {
@@ -19856,7 +19886,7 @@
             "female:shimaidon",
             "female:swinging",
             "female:twins",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -19911,8 +19941,8 @@
             "female:ponytail",
             "female:prostitution",
             "female:urination",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -20077,7 +20107,7 @@
             "female:sister",
             "female:sole female",
             "female:tail",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -20492,7 +20522,7 @@
             "female:nakadashi",
             "female:sole female",
             "female:twintails",
-            "full censorship"
+            "other:full censorship"
         ]
     },
     {
@@ -20632,7 +20662,7 @@
             "character:mitsuha miyamizu",
             "artist:syukurin",
             "female:netorare",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -20971,7 +21001,7 @@
     {
         "[みちきんぐ] 性悪編集安里さん  (COMIC快楽天 2018年7月号) [中国翻訳]":[
             "language:translated",
-            "already uploaded"
+            "other:already uploaded"
         ]
     },
     {
@@ -21070,7 +21100,7 @@
             "female:blowjob",
             "female:lolicon",
             "female:x-ray",
-            "forbidden content"
+            "mixed:group"
         ]
     },
     {
@@ -21350,7 +21380,7 @@
             "female:unusual pupils",
             "female:urination",
             "female:yuri",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -21411,9 +21441,9 @@
             "female:teacher",
             "female:twintails",
             "female:x-ray",
-            "group",
-            "story arc",
-            "uncensored"
+            "mixed:group",
+            "other:story arc",
+            "other:uncensored"
         ]
     },
     {
@@ -21439,9 +21469,9 @@
             "female:sex toys",
             "female:sister",
             "female:stockings",
-            "group",
-            "inseki",
-            "tankoubon"
+            "mixed:group",
+            "mixed:inseki",
+            "other:tankoubon"
         ]
     },
     {
@@ -21530,7 +21560,7 @@
             "female:transformation",
             "female:twintails",
             "female:x-ray",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -21670,9 +21700,9 @@
             "female:twintails",
             "female:unusual pupils",
             "female:yuri",
-            "ffm threesome",
-            "incest",
-            "mosaic censorship"
+            "mixed:group",
+            "mixed:inseki",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -21726,8 +21756,8 @@
             "female:stockings",
             "female:tail",
             "female:twintails",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -21799,7 +21829,7 @@
             "female:schoolgirl uniform",
             "female:twintails",
             "female:x-ray",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -21828,8 +21858,8 @@
             "female:swimsuit",
             "female:twintails",
             "female:yandere",
-            "group",
-            "oyakodon"
+            "mixed:group",
+            "mixed:oyakodon"
         ]
     },
     {
@@ -22125,7 +22155,7 @@
             "female:stockings",
             "female:tanlines",
             "female:tentacles",
-            "story arc"
+            "other:story arc"
         ]
     },
     {
@@ -22239,7 +22269,7 @@
             "female:mind control",
             "female:possession",
             "female:schoolgirl uniform",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -22371,7 +22401,7 @@
             "female:ponytail",
             "female:sister",
             "female:sole female",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -22478,7 +22508,7 @@
             "female:lolicon",
             "female:sister",
             "female:twintails",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -22551,7 +22581,7 @@
             "female:stockings",
             "female:unusual pupils",
             "female:wings",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -22658,9 +22688,9 @@
             "female:sister",
             "female:small breasts",
             "female:tail",
-            "group",
-            "inseki",
-            "multi-work series"
+            "mixed:group",
+            "mixed:inseki",
+            "other:multi-work series"
         ]
     },
     {
@@ -22692,7 +22722,7 @@
             "female:kimono",
             "female:masturbation",
             "female:swimsuit",
-            "story arc"
+            "other:story arc"
         ]
     },
     {
@@ -23221,8 +23251,8 @@
             "female:teacher",
             "female:twintails",
             "female:wings",
-            "group",
-            "mmf threesome"
+            "mixed:group",
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -23371,7 +23401,7 @@
             "female:sweating",
             "female:unusual pupils",
             "female:x-ray",
-            "soushuuhen"
+            "other:soushuuhen"
         ]
     },
     {
@@ -23911,7 +23941,7 @@
             "female:tail",
             "female:tanlines",
             "female:urination",
-            "group"
+            "other:full color"
         ]
     },
     {
@@ -23948,8 +23978,8 @@
             "female:tanlines",
             "female:tomboy",
             "female:twintails",
-            "group",
-            "inseki"
+            "mixed:incest",
+            "other:full color"
         ]
     },
     {
@@ -24106,7 +24136,7 @@
             "female:unusual pupils",
             "female:urination",
             "female:x-ray",
-            "incest"
+            "other:anthology"
         ]
     },
     {
@@ -24135,8 +24165,8 @@
             "female:rape",
             "female:schoolgirl uniform",
             "female:yuri",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -24257,8 +24287,8 @@
             "female:unusual pupils",
             "female:wings",
             "female:x-ray",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -24345,7 +24375,7 @@
             "language:translated",
             "group:0000",
             "artist:kuroha reiji",
-            "full color"
+            "other:full color"
         ]
     },
     {
@@ -24560,7 +24590,7 @@
             "female:sister",
             "female:sole female",
             "female:stockings",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -24838,7 +24868,7 @@
             "female:stockings",
             "female:twintails",
             "female:unusual pupils",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -25028,7 +25058,7 @@
             "female:twintails",
             "female:unusual pupils",
             "female:x-ray",
-            "group"
+            "other:anthology"
         ]
     },
     {
@@ -25038,7 +25068,7 @@
             "female:fox girl",
             "female:kemonomimi",
             "female:lolicon",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -25155,7 +25185,7 @@
             "female:torture",
             "female:twintails",
             "female:yuri",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -25499,8 +25529,8 @@
             "female:unusual pupils",
             "female:urination",
             "female:x-ray",
-            "group",
-            "mmf threesome"
+            "mixed:group",
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -25667,7 +25697,7 @@
             "female:squirting",
             "female:triple penetration",
             "female:unusual pupils",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -25748,6 +25778,7 @@
             "male:kemonomimi",
             "male:shotacon",
             "male:sole male",
+            "female:anal",
             "female:big breasts",
             "female:blindfold",
             "female:exhibitionism",
@@ -26114,8 +26145,8 @@
             "female:swimsuit",
             "female:tanlines",
             "female:tomboy",
-            "ffm threesome",
-            "incest"
+            "mixed:group",
+            "other:anthology"
         ]
     },
     {
@@ -26749,7 +26780,7 @@
             "female:anal",
             "female:lolicon",
             "female:prostitution",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -27071,8 +27102,8 @@
             "female:tentacles",
             "female:thick eyebrows",
             "female:yuri",
-            "ffm threesome",
-            "incest"
+            "mixed:group",
+            "other:anthology"
         ]
     },
     {
@@ -27102,7 +27133,7 @@
             "female:swimsuit",
             "female:tanlines",
             "female:x-ray",
-            "incest"
+            "mixed:incest"
         ]
     },
     {
@@ -27154,8 +27185,8 @@
             "female:small breasts",
             "female:sweating",
             "female:x-ray",
-            "group",
-            "inseki"
+            "mixed:group",
+            "mixed:inseki"
         ]
     },
     {
@@ -27357,8 +27388,8 @@
             "female:schoolgirl uniform",
             "female:sister",
             "female:stockings",
-            "incest",
-            "tankoubon"
+            "mixed:incest",
+            "other:tankoubon"
         ]
     },
     {
@@ -27400,7 +27431,7 @@
             "female:sister",
             "female:stockings",
             "female:twintails",
-            "incest"
+            "mixed:incest"
         ]
     },
     {
@@ -27488,8 +27519,8 @@
             "female:tail plug",
             "female:twins",
             "female:x-ray",
-            "group",
-            "mmf threesome"
+            "mixed:group",
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -27557,7 +27588,7 @@
             "female:tanlines",
             "female:twintails",
             "female:x-ray",
-            "incest"
+            "other:anthology"
         ]
     },
     {
@@ -27615,8 +27646,8 @@
             "female:swimsuit",
             "female:widow",
             "female:x-ray",
-            "group",
-            "story arc"
+            "mixed:group",
+            "other:story arc"
         ]
     },
     {
@@ -27737,8 +27768,8 @@
             "female:tanlines",
             "female:tomboy",
             "female:unusual pupils",
-            "group",
-            "mmf threesome"
+            "mixed:group",
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -27808,8 +27839,8 @@
             "female:sweating",
             "female:twintails",
             "female:urination",
-            "group",
-            "scanmark"
+            "mixed:group",
+            "other:scanmark"
         ]
     },
     {
@@ -27869,8 +27900,8 @@
             "female:tanlines",
             "female:urination",
             "female:x-ray",
-            "group",
-            "mosaic censorship"
+            "mixed:incest",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -27952,9 +27983,9 @@
             "female:slave",
             "female:triple penetration",
             "female:vomit",
-            "group",
-            "multi-work series",
-            "tankoubon"
+            "mixed:group",
+            "other:multi-work series",
+            "other:tankoubon"
         ]
     },
     {
@@ -28164,9 +28195,9 @@
             "female:tanlines",
             "female:twintails",
             "female:witch",
-            "group",
-            "mmf threesome",
-            "tankoubon"
+            "mixed:group",
+            "mixed:mmf threesome",
+            "other:tankoubon"
         ]
     },
     {
@@ -28651,8 +28682,8 @@
             "female:twintails",
             "female:urination",
             "female:x-ray",
-            "group",
-            "mosaic censorship"
+            "mixed:incest",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -28730,8 +28761,8 @@
             "female:urination",
             "female:x-ray",
             "female:yuri",
-            "ffm threesome",
-            "incest"
+            "mixed:group",
+            "other:anthology"
         ]
     },
     {
@@ -28790,10 +28821,10 @@
             "female:sleeping",
             "female:stockings",
             "female:swimsuit",
-            "full color",
-            "incest",
-            "mmf threesome",
-            "uncensored"
+            "mixed:group",
+            "mixed:inseki",
+            "other:full color",
+            "other:uncensored"
         ]
     },
     {
@@ -29041,8 +29072,8 @@
             "female:stockings",
             "female:twintails",
             "female:x-ray",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -29168,8 +29199,8 @@
             "female:small breasts",
             "female:unusual pupils",
             "female:x-ray",
-            "incest",
-            "tankoubon"
+            "mixed:incest",
+            "other:tankoubon"
         ]
     },
     {
@@ -29210,7 +29241,7 @@
             "female:stockings",
             "female:swimsuit",
             "female:twintails",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -29250,7 +29281,7 @@
             "female:blowjob",
             "female:lolicon",
             "female:stockings",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -29313,8 +29344,8 @@
             "female:stockings",
             "female:x-ray",
             "female:yuri",
-            "group",
-            "story arc"
+            "mixed:group",
+            "other:story arc"
         ]
     },
     {
@@ -29387,7 +29418,7 @@
             "female:tickling",
             "female:x-ray",
             "female:yuri",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -29729,9 +29760,9 @@
             "female:stockings",
             "female:sundress",
             "female:unusual pupils",
-            "incest",
-            "oyakodon",
-            "tankoubon"
+            "mixed:incest",
+            "mixed:oyakodon",
+            "other:tankoubon"
         ]
     },
     {
@@ -29746,40 +29777,6 @@
             "female:x-ray",
             "full color",
             "multi-work series"
-        ]
-    },
-    {
-        "(C84) [Dr.VERMILION (ペテン師)] インモラルセクスプレス (とある科学の超電磁砲) [中国翻訳]":[
-            "language:translated",
-            "character:ruiko saten",
-            "artist:petenshi",
-            "male:harem",
-            "female:anal",
-            "female:chikan",
-            "female:double penetration",
-            "female:mind break",
-            "female:rape",
-            "female:schoolgirl uniform",
-            "female:sole female"
-        ]
-    },
-    {
-        "(例大祭10) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画09 (東方Project) [中国翻訳]":[
-            "language:translated",
-            "character:koishi komeiji",
-            "character:satori komeiji",
-            "group:kamikadou",
-            "male:sole male",
-            "female:catgirl",
-            "female:chloroform",
-            "female:drugs",
-            "female:harem",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:rape",
-            "female:slave",
-            "female:x-ray",
-            "group"
         ]
     }
 ]
