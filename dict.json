@@ -1,5 +1,41 @@
 [
     {
+        "うなクラブ (うなっち)":[
+            "parody:kishuku gakkou no juliet",
+            "character:belfast",
+            "character:juliet persia",
+            "character:ning hai",
+            "character:unicorn",
+            "female:big breasts",
+            "female:bikini",
+            "female:garter belt",
+            "female:gloves",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:maid",
+            "female:nakadashi",
+            "female:ponytail",
+            "female:stockings",
+            "female:swimsuit",
+            "female:tail",
+            "female:twintails",
+            "female:very long hair"
+        ]
+    },
+    {
+        "[OKINA] 家庭型少女畜産 (夜の孵る音) [中国翻訳]":[
+            "language:translated",
+            "male:dilf",
+            "male:sole male",
+            "female:defloration",
+            "female:drugs",
+            "female:lolicon",
+            "female:rape",
+            "female:sole female",
+            "female:twintails"
+        ]
+    },
+    {
         "[朝月堂 (夜歌)] お兄ちゃん大好きHしよ ～フルカラー漫画番外編～ [中国翻訳] [DL版]":[
             "language:translated",
             "group:asatsuki dou",
@@ -146,7 +182,7 @@
         "[無限軌道A (トモセシュンサク)] ひぐらす (ひぐらしのなく頃に) [中国翻訳]":[
             "language:translated",
             "group:mugenkidou a",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -233,29 +269,6 @@
             "female:ponytail",
             "female:stockings",
             "female:swimsuit"
-        ]
-    },
-    {
-        "うなクラブ (うなっち)":[
-            "parody:kishuku gakkou no juliet",
-            "character:belfast",
-            "character:juliet persia",
-            "character:ning hai",
-            "character:unicorn",
-            "female:big breasts",
-            "female:bikini",
-            "female:garter belt",
-            "female:gloves",
-            "female:kemonomimi",
-            "female:lolicon",
-            "female:maid",
-            "female:nakadashi",
-            "female:ponytail",
-            "female:stockings",
-            "female:swimsuit",
-            "female:tail",
-            "female:twintails",
-            "female:very long hair"
         ]
     },
     {
@@ -382,6 +395,22 @@
             "mixed:group",
             "mixed:inseki",
             "other:full color"
+        ]
+    },
+    {
+        "[色点屋] 奉仕部を見学しよう! [中国翻訳]":[
+            "language:translated",
+            "group:irotenya",
+            "male:bald",
+            "male:dark skin",
+            "male:dilf",
+            "female:big breasts",
+            "female:blowjob",
+            "female:defloration",
+            "female:impregnation",
+            "female:nun",
+            "female:stockings",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -826,7 +855,7 @@
             "female:elf",
             "female:nakadashi",
             "female:ponytail",
-            "group"
+            "other:full color"
         ]
     },
     {
@@ -904,7 +933,7 @@
             "female:stockings",
             "female:tanlines",
             "female:twintails",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -998,8 +1027,8 @@
             "female:sleeping",
             "female:sundress",
             "female:twintails",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -1186,7 +1215,7 @@
             "female:unusual pupils",
             "female:very long hair",
             "female:x-ray",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -1377,7 +1406,7 @@
             "female:rape",
             "female:schoolgirl uniform",
             "female:stockings",
-            "group"
+            "other:full censorship"
         ]
     },
     {
@@ -2025,7 +2054,7 @@
             "female:sole female",
             "female:stockings",
             "female:x-ray",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -2935,7 +2964,7 @@
             "female:sister",
             "female:sole female",
             "female:sweating",
-            "incest"
+            "mixed:incest"
         ]
     },
     {
@@ -3510,7 +3539,7 @@
             "female:sumata",
             "female:swimsuit",
             "female:twintails",
-            "no penetration"
+            "other:no penetration"
         ]
     },
     {
@@ -4272,7 +4301,7 @@
             "female:stomach deformation",
             "female:tail",
             "female:tentacles",
-            "group"
+            "other:anthology"
         ]
     },
     {
@@ -4435,7 +4464,7 @@
             "female:defloration",
             "female:lactation",
             "female:rape",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -4602,7 +4631,7 @@
             "female:tail plug",
             "female:twintails",
             "female:urination",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -4654,7 +4683,7 @@
             "female:lolicon",
             "female:possession",
             "female:sleeping",
-            "uncensored"
+            "other:uncensored"
         ]
     },
     {
@@ -4810,7 +4839,7 @@
             "female:stockings",
             "female:sweating",
             "female:swimsuit",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -5546,7 +5575,7 @@
             "female:sweating",
             "female:twintails",
             "female:wet clothes",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -5567,7 +5596,7 @@
             "female:cheating",
             "female:sole female",
             "female:swinging",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -6421,7 +6450,7 @@
             "female:slave",
             "female:sole female",
             "female:thigh high boots",
-            "group"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -7524,7 +7553,7 @@
             "female:blindfold",
             "female:electric shocks",
             "female:stockings",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -7606,7 +7635,7 @@
         "[史鬼匠人] TS☆Revolution＜第2話＞ (COMIC 夢幻転生 2020年12月号) [中国翻訳] [DL版]":[
             "language:translated",
             "male:gender bender",
-            "group"
+            "other:full censorship"
         ]
     },
     {
@@ -8933,7 +8962,7 @@
     {
         "[花札さくらの] ね、いいよ。 [中国翻訳] [DL版]":[
             "language:translated",
-            "story arc"
+            "other:story arc"
         ]
     },
     {
@@ -9159,8 +9188,8 @@
             "female:schoolgirl uniform",
             "female:triple penetration",
             "female:twintails",
-            "incest",
-            "tankoubon"
+            "mixed:incest",
+            "other:tankoubon"
         ]
     },
     {
@@ -9251,7 +9280,7 @@
             "female:ponytail",
             "female:schoolgirl uniform",
             "female:swimsuit",
-            "story arc"
+            "other:story arc"
         ]
     },
     {
@@ -9636,7 +9665,7 @@
             "female:sister",
             "female:sole female",
             "female:sweating",
-            "incest"
+            "other:full color"
         ]
     },
     {
@@ -10568,8 +10597,8 @@
             "female:sister",
             "female:twins",
             "female:twintails",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -10835,7 +10864,7 @@
             "female:stomach deformation",
             "female:sweating",
             "female:triple penetration",
-            "group"
+            "other:full color"
         ]
     },
     {
@@ -11463,7 +11492,7 @@
             "female:stockings",
             "female:twins",
             "female:twintails",
-            "full censorship"
+            "mixed:group"
         ]
     },
     {
@@ -11608,7 +11637,7 @@
             "female:nakadashi",
             "female:prostitution",
             "female:sole female",
-            "group"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -11852,7 +11881,7 @@
             "female:rape",
             "female:sole female",
             "female:sweating",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -11909,7 +11938,7 @@
             "female:lolicon",
             "female:tanlines",
             "female:twintails",
-            "group"
+            "other:full color"
         ]
     },
     {
@@ -12189,7 +12218,7 @@
             "female:schoolgirl uniform",
             "female:tentacles",
             "female:twintails",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -12504,7 +12533,7 @@
             "female:sister",
             "female:sole female",
             "female:twintails",
-            "uncensored"
+            "other:uncensored"
         ]
     },
     {
@@ -12581,8 +12610,8 @@
             "female:sister",
             "female:sweating",
             "female:swinging",
-            "group",
-            "inseki"
+            "mixed:group",
+            "mixed:inseki"
         ]
     },
     {
@@ -12680,7 +12709,7 @@
             "female:lolicon",
             "female:sister",
             "female:sole female",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -12867,7 +12896,7 @@
             "female:stomach deformation",
             "female:twintails",
             "female:unusual pupils",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -13370,7 +13399,7 @@
             "female:sole female",
             "female:tomboy",
             "female:x-ray",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -13669,7 +13698,7 @@
             "female:prostitution",
             "female:school swimsuit",
             "female:twintails",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -13768,7 +13797,7 @@
             "female:prostitution",
             "female:sole female",
             "female:sweating",
-            "inseki"
+            "mixed:inseki"
         ]
     },
     {
@@ -14854,7 +14883,7 @@
             "female:schoolgirl uniform",
             "female:sole female",
             "female:unusual pupils",
-            "group"
+            "other:goudoushi"
         ]
     },
     {
@@ -15143,7 +15172,7 @@
             "female:stockings",
             "female:swimsuit",
             "female:twintails",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -15479,7 +15508,7 @@
             "female:stockings",
             "female:tanlines",
             "female:twintails",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -15542,7 +15571,7 @@
             "female:lolicon",
             "female:oyakodon",
             "female:small breasts",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -16244,7 +16273,7 @@
             "female:tail",
             "female:twintails",
             "female:unusual pupils",
-            "incest"
+            "mixed:inseki"
         ]
     },
     {
@@ -16271,7 +16300,7 @@
             "female:lolicon",
             "female:stockings",
             "female:unusual pupils",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -16422,6 +16451,26 @@
             "female:schoolgirl uniform",
             "female:sex toys",
             "female:sole female"
+        ]
+    },
+    {
+        "[色点屋] チんポ売りのおっさん [中国翻訳]":[
+            "language:translated",
+            "group:irotenya",
+            "male:bald",
+            "male:bbm",
+            "male:dilf",
+            "male:exhibitionism",
+            "male:prostitution",
+            "female:defloration",
+            "female:lolicon",
+            "female:ponytail",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:stockings",
+            "female:twintails",
+            "female:x-ray",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -16880,7 +16929,7 @@
             "female:tanlines",
             "female:twins",
             "female:unusual pupils",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -17070,8 +17119,8 @@
             "female:lolicon",
             "female:stockings",
             "female:tail",
-            "full color",
-            "mosaic censorship"
+            "mixed:group",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -17306,7 +17355,7 @@
             "female:milf",
             "female:mother",
             "female:sole female",
-            "inseki"
+            "mixed:inseki"
         ]
     },
     {
@@ -19056,7 +19105,7 @@
             "male:shotacon",
             "male:tomgirl",
             "female:lolicon",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -19557,7 +19606,7 @@
             "female:schoolgirl uniform",
             "female:sole female",
             "female:stockings",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -22156,7 +22205,7 @@
             "female:ryona",
             "female:sole female",
             "female:x-ray",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -22262,7 +22311,7 @@
             "female:nakadashi",
             "female:netorare",
             "female:sole female",
-            "group"
+            "other:full color"
         ]
     },
     {
@@ -22396,7 +22445,7 @@
             "female:hidden sex",
             "female:sole female",
             "female:teacher",
-            "uncensored"
+            "other:uncensored"
         ]
     },
     {
@@ -22957,7 +23006,7 @@
             "language:translated",
             "male:harem",
             "female:sole female",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -23076,7 +23125,7 @@
             "female:cheating",
             "female:femdom",
             "female:schoolgirl uniform",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -23454,7 +23503,7 @@
             "female:stockings",
             "female:twins",
             "female:yuri",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -23907,7 +23956,7 @@
             "female:schoolgirl uniform",
             "female:sister",
             "female:sole female",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -24544,7 +24593,7 @@
             "female:swimsuit",
             "female:tanlines",
             "female:twintails",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -24706,7 +24755,7 @@
             "female:schoolgirl uniform",
             "female:sister",
             "female:sleeping",
-            "tankoubon"
+            "other:tankoubon"
         ]
     },
     {
@@ -25400,7 +25449,7 @@
             "male:virginity",
             "female:femdom",
             "female:footjob",
-            "group"
+            "mixed:group"
         ]
     },
     {
@@ -25652,7 +25701,7 @@
             "female:sole female",
             "female:swimsuit",
             "female:tail plug",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -25694,7 +25743,7 @@
             "female:lolicon",
             "female:sister",
             "female:sole female",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -26432,7 +26481,7 @@
             "female:table masturbation",
             "female:twintails",
             "female:yuri",
-            "uncensored"
+            "other:uncensored"
         ]
     },
     {
@@ -26825,7 +26874,7 @@
             "female:rape",
             "female:sole female",
             "female:stockings",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -26840,7 +26889,7 @@
             "female:blowjob",
             "female:glasses",
             "female:sole female",
-            "uncensored"
+            "other:uncensored"
         ]
     },
     {
@@ -27011,7 +27060,7 @@
             "character:kazuto kirigaya",
             "artist:makoushi",
             "female:sole female",
-            "mmf threesome"
+            "mixed:mmf threesome"
         ]
     },
     {
@@ -27422,7 +27471,7 @@
         "[软萌萝莉小仙]Izumi Sagiri":[
             "character:sagiri izumi",
             "female:small breasts",
-            "uncensored"
+            "other:uncensored"
         ]
     },
     {
@@ -27523,7 +27572,7 @@
             "female:exhibitionism",
             "female:lolicon",
             "female:stockings",
-            "multi-work series"
+            "other:multi-work series"
         ]
     },
     {
@@ -28197,7 +28246,7 @@
             "female:sex toys",
             "female:sole female",
             "female:sundress",
-            "mosaic censorship"
+            "other:mosaic censorship"
         ]
     },
     {
@@ -28342,8 +28391,8 @@
             "female:tanlines",
             "female:twintails",
             "female:x-ray",
-            "mmf threesome",
-            "multi-work series"
+            "mixed:mmf threesome",
+            "other:multi-work series"
         ]
     },
     {
@@ -28541,8 +28590,8 @@
             "female:swimsuit",
             "female:tanlines",
             "female:tomboy",
-            "group",
-            "tankoubon"
+            "mixed:group",
+            "other:tankoubon"
         ]
     },
     {
@@ -28673,6 +28722,19 @@
             "female:femdom",
             "female:masturbation",
             "group"
+        ]
+    },
+    {
+        "[色点屋] はじめてのしいれ [中国翻訳]":[
+            "language:translated",
+            "group:irotenya",
+            "male:dark skin",
+            "female:cervix penetration",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:sole female",
+            "mixed:mmf threesome",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -29192,7 +29254,7 @@
             "female:stuck in wall",
             "female:swimsuit",
             "female:urination",
-            "incest"
+            "mixed:incest"
         ]
     },
     {
@@ -29293,6 +29355,21 @@
             "female:schoolgirl uniform",
             "female:sole female",
             "female:stockings"
+        ]
+    },
+    {
+        "[色点屋] 女冒険者たちが砂漠のオアシスに立ち寄ると……2 [中国翻訳]":[
+            "language:translated",
+            "group:irotenya",
+            "male:dark skin",
+            "female:big breasts",
+            "female:blowjob",
+            "female:nakadashi",
+            "female:paizuri",
+            "female:rape",
+            "female:urination",
+            "female:x-ray",
+            "group"
         ]
     },
     {
@@ -29435,6 +29512,14 @@
             "group:hakka-ya",
             "female:females only",
             "female:schoolgirl uniform"
+        ]
+    },
+    {
+        "[色点屋] 新人従騎士の一日 [中国翻訳]":[
+            "language:translated",
+            "group:irotenya",
+            "female:x-ray",
+            "mosaic censorship"
         ]
     },
     {
@@ -29599,6 +29684,20 @@
             "female:swimsuit",
             "female:x-ray",
             "group"
+        ]
+    },
+    {
+        "[色点屋] エルフの里とオーガ軍 [中国翻訳]":[
+            "language:translated",
+            "group:irotenya",
+            "male:orc",
+            "female:anal",
+            "female:defloration",
+            "female:elf",
+            "female:lolicon",
+            "female:rape",
+            "female:x-ray",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -29890,7 +29989,7 @@
             "female:rape",
             "female:slave",
             "female:x-ray",
-            "group"
+            "other:full color"
         ]
     },
     {
@@ -30034,95 +30133,6 @@
             "female:twintails",
             "female:x-ray",
             "other:story arc"
-        ]
-    },
-    {
-        "(C82) [じぇのばけーき (たかやKi)] Angel雀士 憧 (咲-Saki-) [中国翻訳]":[
-            "language:translated",
-            "character:ako atarashi",
-            "artist:takayaki",
-            "male:condom",
-            "male:dilf",
-            "male:glasses",
-            "male:sole male",
-            "female:handjob",
-            "female:impregnation",
-            "female:prostitution",
-            "female:schoolgirl uniform",
-            "female:sole female",
-            "female:twintails"
-        ]
-    },
-    {
-        "(C82) [SSB (まりりん)] 私に勝てたらタダでいいよ (咲 -Saki-) [中国翻訳]":[
-            "language:translated",
-            "character:ako atarashi",
-            "artist:ssa",
-            "female:prostitution",
-            "female:schoolgirl uniform",
-            "female:sole female"
-        ]
-    },
-    {
-        "(HARUCC17) [綿120パーセント (めんようじゃん)] AZUS@TTACK2 (けいおん！) [中国翻訳] [無修正]":[
-            "language:translated",
-            "character:azusa nakano",
-            "group:wata 120 percent",
-            "male:shotacon",
-            "male:sole male",
-            "female:sole female",
-            "female:twintails",
-            "multi-work series"
-        ]
-    },
-    {
-        "(C82) [餅屋 (かろちー)] ヒメゴト 2.5 (東方Project) [中国翻訳]":[
-            "language:translated",
-            "character:momiji inubashiri",
-            "artist:karoti",
-            "female:big breasts",
-            "female:blindfold",
-            "female:blowjob",
-            "female:kemonomimi",
-            "female:squirting",
-            "female:tail",
-            "female:wolf girl",
-            "mmf threesome"
-        ]
-    },
-    {
-        "(COMIC1☆5) [ノラネコノタマ(雪野みなと)] 籠の中の小鳥は何時出遣る 2 弐 [中国翻訳v2]":[
-            "language:translated",
-            "group:noraneko-no-tama",
-            "female:dark skin",
-            "female:lolicon"
-        ]
-    },
-    {
-        "[黒澤pict (黒澤清崇)] 京子のヒミツBOX (ゆるゆり) [中国翻訳]":[
-            "language:translated",
-            "character:kyouko toshinou",
-            "artist:kurosawa kiyotaka",
-            "female:big breasts",
-            "female:schoolgirl uniform"
-        ]
-    },
-    {
-        "[岡田コウ] 好きで好きで、すきで [中国翻訳]":[
-            "language:translated",
-            "female:blackmail",
-            "female:closed eyes",
-            "female:defloration",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:netorare",
-            "female:rape",
-            "female:schoolgirl uniform",
-            "female:sister",
-            "female:sleeping",
-            "female:sumata",
-            "female:twintails",
-            "other:tankoubon"
         ]
     }
 ]
