@@ -1,5 +1,20 @@
 [
     {
+        "[古事式 (古事タカイチ)] 異世界に行こうと思ったら女の子になった件 [中国翻訳]":[
+            "language:translated",
+            "group:kozisiki",
+            "male:gender change",
+            "female:twintails"
+        ]
+    },
+    {
+        "[さくらぷちろー] にょたなづま (にょたいか！ものがたり) [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:gender change",
+            "female:sister"
+        ]
+    },
+    {
         "[tomika堂 (tksand)] えっちな天狗のお手伝いさん (東方Project) [中国翻訳] [DL版]":[
             "language:translated",
             "character:aya shameimaru",
@@ -1558,14 +1573,6 @@
         ]
     },
     {
-        "[古事式 (古事タカイチ)] 異世界に行こうと思ったら女の子になった件 [中国翻訳]":[
-            "language:translated",
-            "group:kozisiki",
-            "male:gender change",
-            "female:twintails"
-        ]
-    },
-    {
         "[ろりしn] おしっこはシャッターチャンス! (デジタルぷにぺどッ! Vol.16) [中国翻訳]":[
             "language:translated",
             "male:sole male",
@@ -1648,13 +1655,6 @@
             "female:stockings",
             "female:twintails",
             "other:multi-work series"
-        ]
-    },
-    {
-        "[さくらぷちろー] にょたなづま (にょたいか！ものがたり) [中国翻訳] [DL版]":[
-            "language:translated",
-            "male:gender change",
-            "female:sister"
         ]
     },
     {
@@ -3359,6 +3359,7 @@
     {
         "[いとううさぎ] 奈々がお母さん (コミックマショウ 2020年8月号) [中国翻訳] [DL版]":[
             "language:translated",
+            "artist:ponpon",
             "male:dilf",
             "male:sole male",
             "female:daughter",
@@ -26402,6 +26403,7 @@
             "language:translated",
             "character:hanamaru kunikida",
             "artist:ajishio",
+            "male:sole male",
             "female:big breasts",
             "female:chikan",
             "female:schoolgirl uniform",
