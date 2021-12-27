@@ -5181,6 +5181,11 @@
         "female:sole female",
         "female:sweating"
     ],
+    "(C99) [7分ノおでんは70円 (おでん70)] NFO裏クエスト (BanG Dream!) [中国翻訳]":[
+        "language:translated",
+        "group:7 no oden wa 70 yen",
+        "mixed:group"
+    ],
     "(COMIC1 BS祭 スペシャル) [MIDDLY (みどりのちや)] カラフルコネクト 4th:Dive (プリンセスコネクト!Re:Dive) [中国翻訳]":[
         "language:translated",
         "character:io hasekura",
@@ -7862,6 +7867,7 @@
         "male:glasses",
         "male:harem",
         "male:shotacon",
+        "male:virginity",
         "female:anal",
         "female:big breasts",
         "female:blowjob",
@@ -26278,13 +26284,6 @@
         "female:tentacles",
         "female:x-ray",
         "other:multi-work series"
-    ],
-    "[黒澤pict (黒澤清崇)] 京子のヒミツBOX (ゆるゆり) [中国翻訳]":[
-        "language:translated",
-        "character:kyouko toshinou",
-        "artist:kurosawa kiyotaka",
-        "female:big breasts",
-        "female:schoolgirl uniform"
     ],
     "[黒青郎君] 永世流転 [中国翻訳] [DL版]":[
         "language:translated",
