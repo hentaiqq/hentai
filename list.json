@@ -240,19 +240,6 @@
         "female:rape",
         "female:schoolgirl uniform"
     ],
-    "(C82) [餅屋 (かろちー)] ヒメゴト 2.5 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:momiji inubashiri",
-        "artist:karoti",
-        "female:big breasts",
-        "female:blindfold",
-        "female:blowjob",
-        "female:kemonomimi",
-        "female:squirting",
-        "female:tail",
-        "female:wolf girl",
-        "mixed:mmf threesome"
-    ],
     "(C83) [SSB (まりりん)] 阿知賀秘密麻雀倶楽部 LEGEND (咲-Saki-) [中国翻訳]":[
         "language:translated",
         "character:ako atarashi",
@@ -5181,11 +5168,6 @@
         "female:sole female",
         "female:sweating"
     ],
-    "(C99) [7分ノおでんは70円 (おでん70)] NFO裏クエスト (BanG Dream!) [中国翻訳]":[
-        "language:translated",
-        "group:7 no oden wa 70 yen",
-        "mixed:group"
-    ],
     "(COMIC1 BS祭 スペシャル) [MIDDLY (みどりのちや)] カラフルコネクト 4th:Dive (プリンセスコネクト!Re:Dive) [中国翻訳]":[
         "language:translated",
         "character:io hasekura",
@@ -5735,12 +5717,6 @@
         "female:urethra insertion",
         "female:urination",
         "female:yuri"
-    ],
-    "(COMIC1☆5) [ノラネコノタマ(雪野みなと)] 籠の中の小鳥は何時出遣る 2 弐 [中国翻訳v2]":[
-        "language:translated",
-        "group:noraneko-no-tama",
-        "female:dark skin",
-        "female:lolicon"
     ],
     "(COMIC1☆9) [Public bath (いずみゆひな)] ひみつのトイレ (ご注文はうさぎですか?) [中国翻訳]":[
         "language:translated",
@@ -7762,6 +7738,11 @@
         "female:schoolgirl uniform",
         "female:sole female"
     ],
+    "[7分ノおでんは70円 (おでん70)] NFO裏クエスト (BanG Dream!) [中国翻訳]":[
+        "language:translated",
+        "group:7 no oden wa 70 yen",
+        "mixed:group"
+    ],
     "[7分ノおでんは70円 (おでん70)] 氷川紗夜性指導 (BanG Dream!) [中国翻訳] [DL版]":[
         "language:translated",
         "character:sayo hikawa",
@@ -9064,6 +9045,11 @@
         "female:tanlines",
         "female:urination",
         "other:full color"
+    ],
+    "[Moo] もし宵宮が幕府軍に捕まってしまったら (原神) [中国翻訳] [無修正]":[
+        "language:translated",
+        "character:yoimiya naganohara",
+        "female:sole female"
     ],
     "[Moo] キャルちゃんと「お食事」 (プリンセスコネクト!Re:Dive) [中国翻訳]":[
         "language:translated",
@@ -19113,6 +19099,15 @@
         "female:sole female",
         "female:swimsuit"
     ],
+    "[ロボク] メスガキ☆マート (別冊コミックアンリアル メスガキわからせられ敗北射精！ Vol.2) [中国翻訳] [DL版]":[
+        "language:translated",
+        "female:demon girl",
+        "female:horns",
+        "female:lolicon",
+        "female:sole female",
+        "female:stockings",
+        "female:tail"
+    ],
     "[ロリっ子大好きクラブ] ノベタ性交しまた (リトルウィッチノベタ) [中国翻訳] [DL版]":[
         "language:translated",
         "group:lolikko daisuki club",
@@ -19584,7 +19579,7 @@
         "female:netorare",
         "female:rape"
     ],
-    "[丸居まる] 貼ったらヤレちゃう!? えろシール～ワガママJKのアソコをたった1枚で奴隷に～ 1-21 [中国翻訳] [DL版]":[
+    "[丸居まる] 貼ったらヤレちゃう!? えろシール～ワガママJKのアソコをたった1枚で奴隷に～ 1-22 [中国翻訳] [DL版]":[
         "language:translated",
         "male:bald",
         "male:bbm",
@@ -26442,6 +26437,7 @@
         "female:swimsuit"
     ],
     "アーティスト || B-銀河":[
+        "character:pecorine",
         "artist:b-ginga",
         "female:big ass",
         "female:big breasts",
@@ -26461,7 +26457,8 @@
         "female:pantyhose",
         "female:schoolgirl uniform",
         "female:stockings",
-        "female:swimsuit"
+        "female:swimsuit",
+        "mixed:mmf threesome"
     ],
     "アーティスト || sunhyun":[
         "parody:genshin impact",
