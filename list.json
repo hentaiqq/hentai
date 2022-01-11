@@ -6693,8 +6693,8 @@
     ],
     "(サンクリ2021 Summer) [URAN-FACTORY (URAN)] 仙獣の揺らめき (原神) [中国翻訳]":[
         "language:translated",
-        "character:ganyu",
-        "artist:uran",
+        "character:aether",
+        "group:uran-factory",
         "male:sole male",
         "female:horns",
         "female:sole female"
@@ -10931,15 +10931,15 @@
     ],
     "[valssu (茶琉)] 配信画面の向こう側 (大空スバル) [中国翻訳] [DL版]":[
         "language:translated",
-        "character:oozora subaru",
-        "artist:charu",
+        "group:valssu",
         "male:sole male",
         "female:exhibitionism",
         "female:filming",
         "female:masturbation",
         "female:sole female",
         "female:solo action",
-        "female:vtuber"
+        "female:vtuber",
+        "hololive"
     ],
     "[valssu (茶琉)] 露出少女日記25冊目 [中国翻訳] [DL版]":[
         "language:translated",
