@@ -8169,6 +8169,7 @@
         "female:hair buns",
         "female:nakadashi",
         "female:pantyhose",
+        "female:prolapse",
         "female:rape",
         "female:sex toys",
         "female:sole female",
@@ -10410,12 +10411,15 @@
     "[hente] おばさん！いっしょに風呂に入ってもいい？～～えぇ？ [中国翻訳]":[
         "language:translated",
         "group:hente",
+        "male:shaved head",
         "male:shotacon",
+        "male:sole male",
         "female:aunt",
         "female:beauty mark",
         "female:big breasts",
         "female:milf",
         "female:netorare",
+        "female:sole female",
         "other:mosaic censorship"
     ],
     "[ichiro] ともだち (COMIC BAVEL 2015年12月号) [中国翻訳]":[
@@ -11079,7 +11083,8 @@
         "female:rape",
         "female:sole female",
         "female:stockings",
-        "female:very long hair"
+        "female:very long hair",
+        "other:multi-work series"
     ],
     "[あいらんどう] この子孕ませてもいいですか? [中国翻訳]":[
         "language:translated",
@@ -12332,6 +12337,7 @@
         "male:sole male",
         "female:filming",
         "female:fingering",
+        "female:hair buns",
         "female:schoolgirl uniform",
         "female:sole female",
         "female:vtuber"
@@ -24203,6 +24209,7 @@
         "female:bloomers",
         "female:catgirl",
         "female:defloration",
+        "female:exposed clothing",
         "female:humiliation",
         "female:kemonomimi",
         "female:kissing",
