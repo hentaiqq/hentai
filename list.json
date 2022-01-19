@@ -194,19 +194,6 @@
         "female:very long hair",
         "mixed:group"
     ],
-    "(C84) [Dr.VERMILION (ペテン師)] インモラルセクスプレス (とある科学の超電磁砲) [中国翻訳]":[
-        "language:translated",
-        "character:ruiko saten",
-        "artist:petenshi",
-        "male:harem",
-        "female:anal",
-        "female:chikan",
-        "female:double penetration",
-        "female:mind break",
-        "female:rape",
-        "female:schoolgirl uniform",
-        "female:sole female"
-    ],
     "(C84) [Paperer’s Nest (天響龍音)] 狐さんと海で遊ぼう! [中国翻訳]":[
         "language:translated",
         "group:paperers nest",
@@ -218,18 +205,6 @@
         "female:tail",
         "female:urination",
         "mixed:group"
-    ],
-    "(C84) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画 10 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:marisa kirisame",
-        "group:kamikadou",
-        "male:sole male",
-        "female:drugs",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:x-ray",
-        "mixed:group",
-        "other:multi-work series"
     ],
     "(C84) [ふじ家 (ねくたー)] ハルカノ Love (フォトカノ) [中国翻訳]":[
         "language:translated",
@@ -1885,6 +1860,32 @@
         "female:schoolgirl uniform",
         "female:sister",
         "female:twintails"
+    ],
+    "(C93) [梅本制作委員会 (茶菓山しん太)] 藤原書記を孕ませたい 1 (かぐや様は告らせたい) [中国翻訳]":[
+        "language:translated",
+        "character:chika fujiwara",
+        "group:umemoto seisaku iinkai",
+        "male:schoolboy uniform",
+        "male:sole male",
+        "male:virginity",
+        "female:big breasts",
+        "female:defloration",
+        "female:schoolgirl uniform"
+    ],
+    "(C93) [梅本制作委員会 (茶菓山しん太)] 藤原書記を孕ませたい 2 (かぐや様は告らせたい) [中国翻訳]":[
+        "language:translated",
+        "character:chika fujiwara",
+        "artist:sakayama shinta",
+        "male:shotacon",
+        "male:sole male",
+        "female:big breasts",
+        "female:bondage",
+        "female:collar",
+        "female:impregnation",
+        "female:leash",
+        "female:nakadashi",
+        "female:rape",
+        "female:sole female"
     ],
     "(C93) [焼肉屋由史 (秋沢由史)] さいみんモザイク (きんいろモザイク) [中国翻訳]":[
         "language:translated",
@@ -5201,6 +5202,15 @@
         "female:sole female",
         "female:stockings"
     ],
+    "(C99) [サークルフィオレ (えかきびと)] 藤原書記は育てたい (かぐや様は告らせたい) [中国翻訳]":[
+        "language:translated",
+        "character:chika fujiwara",
+        "artist:ekakibit",
+        "male:shotacon",
+        "male:sole male",
+        "female:paizuri",
+        "female:sole female"
+    ],
     "(C99) [ハチゴ (あやみ)] 悪夢☆レムネトラレ (Re:ゼロから始める異世界生活) [中国翻訳]":[
         "language:translated",
         "character:rem",
@@ -6710,23 +6720,6 @@
         "female:schoolgirl uniform",
         "female:sole female",
         "female:stockings"
-    ],
-    "(例大祭10) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画09 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:koishi komeiji",
-        "character:satori komeiji",
-        "group:kamikadou",
-        "male:sole male",
-        "female:catgirl",
-        "female:chloroform",
-        "female:drugs",
-        "female:harem",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:rape",
-        "female:slave",
-        "female:x-ray",
-        "other:full color"
     ],
     "(例大祭11) [はぴねすみるく (おびゃー)] 肉欲神仰信 - Episode of religious faith - (東方Project) [中国翻訳]":[
         "language:translated",
@@ -9502,16 +9495,6 @@
         "female:tribadism",
         "female:yuri"
     ],
-    "[PiT (なつきしゅり)] 二重咲 HutaeSaki (咲-Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ryuuka shimizudani",
-        "group:pit",
-        "female:cunnilingus",
-        "female:females only",
-        "female:kissing",
-        "female:schoolgirl uniform",
-        "female:yuri"
-    ],
     "[Pixiv]  ふわり (9212166) [2019.03.24]":[
         "female:big breasts",
         "female:lingerie",
@@ -10937,15 +10920,15 @@
     ],
     "[valssu (茶琉)] 配信画面の向こう側 (大空スバル) [中国翻訳] [DL版]":[
         "language:translated",
-        "group:valssu",
+        "character:oozora subaru",
+        "artist:charu",
         "male:sole male",
         "female:exhibitionism",
         "female:filming",
         "female:masturbation",
         "female:sole female",
         "female:solo action",
-        "female:vtuber",
-        "hololive"
+        "female:vtuber"
     ],
     "[valssu (茶琉)] 露出少女日記25冊目 [中国翻訳] [DL版]":[
         "language:translated",
@@ -12980,6 +12963,18 @@
         "female:clothed male nude female",
         "female:defloration",
         "female:nakadashi"
+    ],
+    "[ぎんハハ] 学生会書記に特訓したい -四十八手バトルの正常位教えて~コーチ- (かぐや様は告らせたい) [中国語]":[
+        "parody:kaguya-sama wa kokurasetai",
+        "character:kaguya shinomiya",
+        "artist:ginhaha",
+        "male:sole male",
+        "female:ahegao",
+        "female:anal",
+        "female:big breasts",
+        "female:nakadashi",
+        "female:ponytail",
+        "female:x-ray"
     ],
     "[ぎんハハ] 溢れる愛 (ソードアート・オンライン) [中国語]":[
         "parody:sword art online",
@@ -15399,6 +15394,7 @@
         "female:double penetration",
         "female:masturbation",
         "female:nakadashi",
+        "female:public use",
         "female:schoolgirl uniform",
         "female:sex toys",
         "female:stockings",
@@ -23281,6 +23277,7 @@
         "female:bandages",
         "female:bisexual",
         "female:blowjob",
+        "female:blowjob face",
         "female:cousin",
         "female:crossdressing",
         "female:cunnilingus",
