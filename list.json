@@ -6816,23 +6816,6 @@
         "female:sole female",
         "female:stockings"
     ],
-    "(例大祭10) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画09 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:koishi komeiji",
-        "character:satori komeiji",
-        "group:kamikadou",
-        "male:sole male",
-        "female:catgirl",
-        "female:chloroform",
-        "female:drugs",
-        "female:harem",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:rape",
-        "female:slave",
-        "female:x-ray",
-        "other:full color"
-    ],
     "(例大祭11) [はぴねすみるく (おびゃー)] 肉欲神仰信 - Episode of religious faith - (東方Project) [中国翻訳]":[
         "language:translated",
         "character:suwako moriya",
@@ -10249,7 +10232,9 @@
     ],
     "[TSF妄想蓄積所 (皆月ななな、椎名悠輝)] 人生とりかえっこアプリ [中国翻訳]":[
         "language:translated",
-        "female:lolicon"
+        "artist:siina yuuki",
+        "female:lolicon",
+        "other:mosaic censorship"
     ],
     "[TWILIGHT DUSK (藍夜)] 勤め先の娘さんをおいしく頂く本 運送会社編 [中国翻訳] [DL版]":[
         "language:translated",
@@ -18231,11 +18216,13 @@
     ],
     "[トウメイ] 巫戀的修補時間 (明日方舟) [中国語]":[
         "parody:arknights",
+        "male:condom",
         "male:dark skin",
         "male:sole male",
         "female:foot licking",
         "female:kemonomimi",
         "female:pantyhose",
+        "female:rape",
         "female:sleeping",
         "female:sole female"
     ],
@@ -18318,9 +18305,12 @@
         "group:dot eito",
         "male:drunk",
         "male:sole male",
+        "female:defloration",
         "female:drunk",
         "female:lolicon",
-        "female:sole female"
+        "female:nakadashi",
+        "female:sole female",
+        "female:unusual pupils"
     ],
     "[ドットエイト (さわやか鮫肌)] けもみみメイドといちゃいちゃする本 [中国翻訳] [DL版]":[
         "language:translated",
@@ -21253,6 +21243,30 @@
         "female:stockings",
         "female:very long hair"
     ],
+    "[夜歌] カフェエターナルへようこそ! [中国翻訳] [DL版]":[
+        "language:translated",
+        "male:drugs",
+        "male:sole male",
+        "male:virginity",
+        "female:blowjob",
+        "female:catgirl",
+        "female:footjob",
+        "female:fox girl",
+        "female:grandmother",
+        "female:handjob",
+        "female:kemonomimi",
+        "female:kimono",
+        "female:lolicon",
+        "female:maid",
+        "female:nakadashi",
+        "female:stockings",
+        "female:tail",
+        "female:vampire",
+        "female:very long hair",
+        "female:witch",
+        "female:x-ray",
+        "other:story arc"
+    ],
     "[夜歌] カフェエターナルへようこそ! 第1話 (永遠娘 伍) [中国翻訳]":[
         "language:translated",
         "male:bondage",
@@ -21291,6 +21305,7 @@
     ],
     "[夜歌] カフェエターナルへようこそ! 第4話 (永遠娘 8) [中国翻訳] [DL版]":[
         "language:translated",
+        "male:sole male",
         "female:lolicon"
     ],
     "[夜歌] カフェエターナルへようこそ! 第5話 (永遠娘 九) [中国翻訳] [DL版]":[
@@ -24488,8 +24503,7 @@
     "[白玉もち]白玉もち 百合短篇[无糖·漫画组]":[
         "language:translated",
         "female:females only",
-        "female:schoolgirl uniform",
-        "female:yuri"
+        "female:schoolgirl uniform"
     ],
     "[皐月芋網] family X (COMIC 失楽天 2020年6月号) [中国翻訳] [DL版]":[
         "language:translated",
@@ -25394,6 +25408,7 @@
     "[芽の里 (めりーべ)] ディオナちゃんの発情反応 (原神) [中国翻訳] [DL版]":[
         "language:translated",
         "character:diona",
+        "artist:meriibe",
         "male:sole male",
         "female:catgirl",
         "female:kemonomimi",
@@ -26811,7 +26826,8 @@
         "male:sole male",
         "female:blowjob",
         "female:lolicon",
-        "female:sole female"
+        "female:sole female",
+        "female:twintails"
     ],
     "[魚山ケイジ] かりんちゃん頑張るっ! (COMIC BAVEL 2020年4月号) [中国翻訳] [DL版]":[
         "language:translated",
