@@ -9509,6 +9509,8 @@
     "[Moo] パイモン(偽物)とデート(有料)する絵 (原神)[中国翻訳]":[
         "language:translated",
         "character:paimon",
+        "female:nakadashi",
+        "female:rape",
         "female:sole female",
         "female:x-ray"
     ],
@@ -20043,8 +20045,7 @@
     "[上村なびあ] 上村なびあ 百合短篇 [中国翻訳]":[
         "language:translated",
         "female:females only",
-        "female:lolicon",
-        "female:yuri"
+        "female:lolicon"
     ],
     "[上海飯店 (相原翔太)] 椎菜と甘酸っぱい夏祭り♪ [中国翻訳] [DL版]":[
         "language:translated",
@@ -27072,7 +27073,8 @@
         "parody:kono subarashii sekai ni syukufuku o",
         "artist:oninarasu",
         "female:collar",
-        "female:sole female"
+        "female:sole female",
+        "female:stockings"
     ],
     "[魂神] 白露に咲く花 (コミックアンリアル 2019年8月号 Vol.80) [中国翻訳] [DL版]":[
         "language:translated",
