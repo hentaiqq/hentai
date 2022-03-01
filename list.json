@@ -199,14 +199,6 @@
         "female:defloration",
         "female:schoolgirl uniform"
     ],
-    "(C82) [SSB (まりりん)] 私に勝てたらタダでいいよ (咲 -Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ako atarashi",
-        "artist:ssa",
-        "female:prostitution",
-        "female:schoolgirl uniform",
-        "female:sole female"
-    ],
     "(C82) [こりすや (こりす)] Photogenic -家出少女- [中国翻訳]":[
         "language:translated",
         "group:korisuya",
@@ -214,21 +206,6 @@
         "male:sole male",
         "female:lolicon",
         "female:shimapan",
-        "female:sole female",
-        "female:twintails"
-    ],
-    "(C82) [じぇのばけーき (たかやKi)] Angel雀士 憧 (咲-Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ako atarashi",
-        "artist:takayaki",
-        "male:condom",
-        "male:dilf",
-        "male:glasses",
-        "male:sole male",
-        "female:handjob",
-        "female:impregnation",
-        "female:prostitution",
-        "female:schoolgirl uniform",
         "female:sole female",
         "female:twintails"
     ],
@@ -5479,6 +5456,15 @@
         "female:sole female",
         "female:stockings"
     ],
+    "(C99) [ゆにおんばすと (かずたろ)] ペコ姉さんの悪い子はた~べちゃうぞぉ♡ (プリンセスコネクト!Re:Dive) [中国翻訳]":[
+        "language:translated",
+        "character:kyaru",
+        "artist:kazutaro",
+        "male:shotacon",
+        "female:catgirl",
+        "female:kemonomimi",
+        "female:stockings"
+    ],
     "(C99) [サークルフィオレ (えかきびと)] 藤原書記は育てたい (かぐや様は告らせたい) [中国翻訳]":[
         "language:translated",
         "character:chika fujiwara",
@@ -6367,7 +6353,10 @@
     "(Patreon) [MANA] 胡桃 (原神) [中国語] [無修正]":[
         "parody:genshin impact",
         "artist:mana",
+        "female:blowjob",
         "female:collar",
+        "female:deepthroat",
+        "female:exhibitionism",
         "female:leash",
         "female:piercing",
         "female:sole female",
@@ -9246,6 +9235,16 @@
         "female:ponytail",
         "female:sole female",
         "other:variant set"
+    ],
+    "[LBL] お狐様と昼間から [中国翻訳]":[
+        "language:translated",
+        "artist:lbl",
+        "male:sole male",
+        "female:fox girl",
+        "female:kemonomimi",
+        "female:lolicon",
+        "female:sole female",
+        "female:tail"
     ],
     "[LBL] ロリババお義母さんは押しに弱い [中国翻訳] [DL版]":[
         "language:translated",
@@ -12520,9 +12519,7 @@
         "male:schoolboy uniform",
         "male:teacher",
         "female:angel",
-        "female:assjob",
         "female:beauty mark",
-        "female:big ass",
         "female:bike shorts",
         "female:blowjob",
         "female:chastity belt",
@@ -12533,11 +12530,7 @@
         "female:gloves",
         "female:gyaru",
         "female:lab coat",
-        "female:layer cake",
-        "female:leg lock",
         "female:lingerie",
-        "female:nakadashi",
-        "female:paizuri",
         "female:ponytail",
         "female:schoolgirl uniform",
         "female:stockings",
