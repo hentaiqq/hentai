@@ -4232,11 +4232,13 @@
             "male:catboy",
             "male:crossdressing",
             "male:kemonomimi",
+            "male:tail",
             "male:tomgirl",
             "male:tracksuit",
             "male:unusual pupils",
             "male:yaoi",
             "female:big breasts",
+            "female:eye-covering bang",
             "female:rape",
             "female:sleeping"
         ]
@@ -9838,8 +9840,9 @@
     {
         "(FF36) [蜂巢 (Apoidea)] 王都的名偵探 淫誘的三獸士 (プリンセスコネクト!Re:Dive) [中国語]":[
             "parody:princess connect",
-            "character:makoto aki",
-            "artist:apoidea",
+            "character:kasumi kirihara",
+            "character:yui kusano",
+            "group:hachinosu",
             "male:sole male",
             "female:catgirl",
             "female:collar",
