@@ -3067,6 +3067,8 @@
         "female:harem",
         "female:kemonomimi",
         "female:lolicon",
+        "female:tail",
+        "female:very long hair",
         "mixed:group"
     ],
     "(C95) [ノラネコノタマ (雪野みなと)] となり町の色模様 描きおろし8P(Incomplete) [中国翻訳]":[
@@ -4609,7 +4611,10 @@
         "language:translated",
         "character:momo chiyoda",
         "group:melty pot",
+        "female:demon girl",
         "female:females only",
+        "female:horns",
+        "female:tail",
         "female:yuri"
     ],
     "(C97) [Peach Candy (ゆき恵)]お兄ちゃんもっとい～っぱいお世話は私に任せてね～えっちな温泉旅行～ [中国翻訳]":[
@@ -6418,6 +6423,7 @@
         "character:yuuki",
         "artist:apoidea",
         "female:kemonomimi",
+        "female:tail",
         "other:already uploaded"
     ],
     "(GW超同人祭) [きのこのみ (konomi)] TSあきら君の性生活 5 [中国翻訳]":[
@@ -10126,6 +10132,16 @@
         "female:ponytail",
         "female:sole female"
     ],
+    "[P.A.Project (てるき熊)] おやつのじかん。[中国翻訳] [DL版]":[
+        "language:translated",
+        "group:p.a. project",
+        "male:teacher",
+        "female:bukkake",
+        "female:gokkun",
+        "female:kindergarten uniform",
+        "female:lolicon",
+        "female:nakadashi"
+    ],
     "[PIXIV]  占星術師":[
         "female:ahegao",
         "female:bdsm",
@@ -12550,9 +12566,11 @@
         "language:translated",
         "character:momo chiyoda",
         "group:ame usagi",
+        "female:demon girl",
         "female:females only",
         "female:horns",
         "female:stockings",
+        "female:tail",
         "female:yuri"
     ],
     "[あらおし悠、鈴音れな]百合ラブスレイブ わたしだけの委員長[中国翻訳]":[
@@ -18582,6 +18600,20 @@
         "female:stockings",
         "female:tracksuit"
     ],
+    "[ショーソン] 生イキ少女の受難 (二次元コミックマガジン メスガキ催眠制裁エッチ!) [中国翻訳]":[
+        "language:translated",
+        "male:sole male",
+        "female:blowjob",
+        "female:bukkake",
+        "female:domination loss",
+        "female:handjob",
+        "female:hotpants",
+        "female:lolicon",
+        "female:mind control",
+        "female:ponytail",
+        "female:sole female",
+        "female:stockings"
+    ],
     "[シンセカイセット (菖蒲)] どうしたら有名生主になれますか? 2 [中国翻訳] [DL版]":[
         "language:translated",
         "group:shinsekai set",
@@ -21079,6 +21111,7 @@
         "female:demon girl",
         "female:females only",
         "female:horns",
+        "female:tail",
         "female:yuri"
     ],
     "[中乃空] 恋ささやいて... [中国翻訳]":[
@@ -22137,23 +22170,6 @@
         "female:lolicon",
         "female:masturbation",
         "female:stockings"
-    ],
-    "[塩屋虻通信 (塩604)] 絶望の世界より (新世界より) [中国翻訳]":[
-        "language:translated",
-        "character:saki watanabe",
-        "artist:shio604",
-        "male:monster",
-        "female:ahegao",
-        "female:anal",
-        "female:blowjob",
-        "female:bondage",
-        "female:defloration",
-        "female:double penetration",
-        "female:impregnation",
-        "female:mind break",
-        "female:rape",
-        "female:stomach deformation",
-        "female:tentacles"
     ],
     "[士嬢マコ] ようこそ温泉旅館ながせへ 前篇+中篇 [中国翻訳] [DL版]":[
         "language:translated",
@@ -26190,7 +26206,7 @@
     "[紅茶屋 (大塚子虎)] 褐色メス相手に悪行稼ぎ! (戦闘員、派遣します!) [中国翻訳]":[
         "language:translated",
         "character:honou no heine",
-        "artist:ootsuka kotora",
+        "group:kouchaya",
         "male:sole male",
         "female:ahegao",
         "female:big breasts",
@@ -26275,17 +26291,6 @@
         "female:school swimsuit",
         "female:swimsuit",
         "female:tomboy"
-    ],
-    "[綿120パーセント (めんようじゃん)] AZUS@TTACK (けいおん！) [中国翻訳] [無修正]":[
-        "language:translated",
-        "character:azusa nakano",
-        "group:wata 120 percent",
-        "male:shotacon",
-        "male:sole male",
-        "female:defloration",
-        "female:sole female",
-        "female:twintails",
-        "other:multi-work series"
     ],
     "[綿120パーセント (めんようじゃん)] AZUS@TTACK3 (けいおん！) [中国翻訳] [無修正]":[
         "language:translated",
@@ -26877,6 +26882,17 @@
         "female:tanlines",
         "female:wet clothes"
     ],
+    "[蜂巣 (Apoidea)] 蘭德索爾實境秀 今晚誰對不起優衣 第三季 (プリンセスコネクト！Re：Dive) [中国語] [DL版]":[
+        "language:translated",
+        "character:hiyori harusaki",
+        "character:makoto aki",
+        "character:yui kusano",
+        "group:hachinosu",
+        "female:catgirl",
+        "female:kemonomimi",
+        "female:tail",
+        "female:very long hair"
+    ],
     "[蟻アンド村] 幼馴染催眠調教日記":[
         "group:arimuland",
         "male:shotacon",
@@ -26976,16 +26992,6 @@
         "artist:siina yuuki",
         "female:lolicon",
         "female:prostitution"
-    ],
-    "[要 (椎名悠輝)] 勇太くんじゃないけど愛さえあれば関係ないよね (中二病でも恋がしたい!!) [中国翻訳] [DL版]":[
-        "language:translated",
-        "character:rikka takanashi",
-        "group:kaname",
-        "female:eyepatch",
-        "female:lolicon",
-        "female:mind break",
-        "female:rape",
-        "female:schoolgirl uniform"
     ],
     "[規制当局 (リヒャルト・バフマン)] 放課後代理妻 義父は娘を孕ませたい [中国翻訳] [DL版]":[
         "group:kisei toukyoku",
