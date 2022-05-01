@@ -187,20 +187,6 @@
         "female:lolicon",
         "female:schoolgirl uniform"
     ],
-    "(C81) [たこ焼き畑 (たこ焼き)] 壊されたお守り (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:hina kagiyama",
-        "artist:takoyaki",
-        "female:anal",
-        "female:blowjob",
-        "female:bondage",
-        "female:double penetration",
-        "female:nakadashi",
-        "female:rape",
-        "female:stockings",
-        "female:x-ray",
-        "mixed:mmf threesome"
-    ],
     "(C82) [AKACIA (銀一)] 憧ちゃんは援交なんてやってない！ (咲-Saki- 阿知賀編) [中国翻訳]":[
         "language:translated",
         "character:ako atarashi",
@@ -219,34 +205,6 @@
         "female:shimapan",
         "female:sole female",
         "female:twintails"
-    ],
-    "(C82) [すてうかの小屋 (相音うしお)] 竜華と怜と××× (咲 -Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ryuuka shimizudani",
-        "group:suteuka no koya",
-        "female:defloration",
-        "female:rape",
-        "female:schoolgirl uniform",
-        "female:stockings"
-    ],
-    "(C82) [ゴロメンツ (ヤスイリオスケ)] 満貫全席 (咲-Saki- 阿知賀編) [中国翻訳]":[
-        "language:translated",
-        "character:ako atarashi",
-        "character:yuu matsumi",
-        "artist:yasui riosuke",
-        "male:dilf",
-        "male:old man",
-        "female:ahegao",
-        "female:anal",
-        "female:big breasts",
-        "female:blackmail",
-        "female:double penetration",
-        "female:mind break",
-        "female:nakadashi",
-        "female:pantyhose",
-        "female:prostitution",
-        "female:rape",
-        "female:schoolgirl uniform"
     ],
     "(C83) [SSB (まりりん)] 阿知賀秘密麻雀倶楽部 LEGEND (咲-Saki-) [中国翻訳]":[
         "language:translated",
@@ -5801,6 +5759,21 @@
         "female:drugs",
         "female:horns"
     ],
+    "(C99) [海通信 (なまもななせ)] 時を止めて強制種付け [中国翻訳]":[
+        "language:translated",
+        "group:kaitsushin",
+        "male:bald",
+        "male:bbm",
+        "male:dilf",
+        "male:glasses",
+        "male:teacher",
+        "female:defloration",
+        "female:lolicon",
+        "female:nakadashi",
+        "female:randoseru",
+        "female:rape",
+        "female:stockings"
+    ],
     "(C99) [缶子牧場 (缶子)] みんなで楽しく食事をするギルド (プリンセスコネクト!Re:Dive) [中国翻訳]":[
         "language:translated",
         "character:kokkoro",
@@ -9041,6 +9014,25 @@
         "female:sole dickgirl",
         "female:sole female",
         "other:uncensored"
+    ],
+    "[BEなんとか] 恋人は義兄弟 (COMIC LO 2014年11月号) [中国翻訳]":[
+        "language:translated",
+        "male:muscle",
+        "male:sole male",
+        "female:blowjob",
+        "female:bunny girl",
+        "female:cunnilingus",
+        "female:defloration",
+        "female:fishnets",
+        "female:gokkun",
+        "female:lingerie",
+        "female:lolicon",
+        "female:nakadashi",
+        "female:sole female",
+        "female:stockings",
+        "female:tail plug",
+        "female:tomboy",
+        "female:x-ray"
     ],
     "[BLACK DOG (黒犬獣)] 母と娘と丼キャンプ△ (ゆるキャン△) [中国翻訳] [2018年5月20日]":[
         "language:translated",
@@ -15347,7 +15339,8 @@
     ],
     "[どじろー] セックス優先車両 [中国翻訳]":[
         "language:translated",
-        "artist:doji ro"
+        "artist:doji ro",
+        "female:exhibitionism"
     ],
     "[どじろーブックス (どじろー)]「とりあえず生で!」+Girl's Side[中国翻訳]":[
         "language:translated",
@@ -19964,8 +19957,7 @@
         "female:lolicon",
         "female:nakadashi",
         "female:sole female",
-        "female:very long hair",
-        "female:x-ray"
+        "female:very long hair"
     ],
     "[ノラネコノタマ (雪野みなと)] みてみてもっと フルカラー [中国翻訳] [DL版]":[
         "language:translated",
@@ -23111,6 +23103,14 @@
         "female:sister",
         "female:sleeping",
         "other:tankoubon"
+    ],
+    "[島鵜製作所 (島鵜そりね)] 女の子が居眠りしてるふたなりお姉さんにイタズラしちゃう本 [中国翻訳] [DL版]":[
+        "language:translated",
+        "group:shimau seisakujo",
+        "female:futanari",
+        "female:schoolgirl uniform",
+        "female:sole dickgirl",
+        "female:sole female"
     ],
     "[嶺本八美] けいじが好きな女の子 (女のコはその指の動きに弱いんです) [中国翻訳] [DL版]":[
         "language:translated",
@@ -28802,13 +28802,13 @@
         "mixed:mmf threesome"
     ],
     "アーティスト || sunhyun":[
-        "parody:genshin impact",
-        "parody:kaguya-sama wa kokurasetai",
-        "parody:princess connect",
-        "character:altera",
-        "character:kyaru",
-        "character:monarch",
-        "artist:sunhyun",
+        "parody:fate grand order",
+        "parody:gotoubun no hanayome",
+        "parody:kono subarashii sekai ni syukufuku o",
+        "parody:re zero kara hajimeru isekai seikatsu",
+        "character:chika fujiwara",
+        "character:megumin",
+        "character:rem",
         "female:big breasts",
         "female:bikini",
         "female:bunny girl",
