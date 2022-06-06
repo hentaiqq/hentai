@@ -26,6 +26,7 @@
         "female:horns",
         "female:lolicon",
         "female:low lolicon",
+        "female:miko",
         "female:oppai loli",
         "female:paizuri",
         "female:shared senses"
@@ -219,15 +220,6 @@
         "female:shimapan",
         "female:sole female",
         "female:twintails"
-    ],
-    "(C82) [すてうかの小屋 (相音うしお)] 竜華と怜と××× (咲 -Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ryuuka shimizudani",
-        "group:suteuka no koya",
-        "female:defloration",
-        "female:rape",
-        "female:schoolgirl uniform",
-        "female:stockings"
     ],
     "(C83) [SSB (まりりん)] 阿知賀秘密麻雀倶楽部 LEGEND (咲-Saki-) [中国翻訳]":[
         "language:translated",
@@ -6538,6 +6530,16 @@
         "female:rimjob",
         "female:twintails",
         "mixed:group"
+    ],
+    "(COMIC1☆20) [サークルフィオレ (えかきびと)] ダイスキ禁止 (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) [中国翻訳]":[
+        "language:translated",
+        "character:setsuna yuki",
+        "artist:ekakibit",
+        "female:glasses",
+        "female:gloves",
+        "female:kemonomimi",
+        "female:schoolgirl uniform",
+        "female:sole female"
     ],
     "(COMIC1☆9) [Public bath (いずみゆひな)] ひみつのトイレ (ご注文はうさぎですか?) [中国翻訳]":[
         "language:translated",
@@ -20016,7 +20018,6 @@
         "female:ahegao",
         "female:beauty mark",
         "female:big breasts",
-        "female:cheating",
         "female:cosplaying",
         "female:drunk",
         "female:eye-covering bang",
