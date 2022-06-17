@@ -6641,12 +6641,6 @@
         "female:schoolgirl uniform",
         "female:sole female"
     ],
-    "(COMIC1☆5) [ノラネコノタマ(雪野みなと)] 籠の中の小鳥は何時出遣る 2 弐 [中国翻訳v2]":[
-        "language:translated",
-        "group:noraneko-no-tama",
-        "female:dark skin",
-        "female:lolicon"
-    ],
     "(COMIC1☆9) [Public bath (いずみゆひな)] ひみつのトイレ (ご注文はうさぎですか?) [中国翻訳]":[
         "language:translated",
         "character:chino kafuu",
@@ -7714,6 +7708,14 @@
         "female:twintails",
         "other:mosaic censorship"
     ],
+    "(バレンタインフェスタ第2回) [まだ子屋 (まだ子)] 旅々日記には記せなかったコト。 (魔女の旅々) [中国翻訳]":[
+        "language:translated",
+        "character:elaina",
+        "artist:madako",
+        "female:defloration",
+        "female:witch",
+        "mixed:mmf threesome"
+    ],
     "(マジ天使!2) [てすた厨房 (てすた)] LOWLOVER (私に天使が舞い降りた!) [中国翻訳]":[
         "language:translated",
         "character:hinata hoshino",
@@ -8011,6 +8013,12 @@
         "female:sister",
         "female:sleeping",
         "female:sole female"
+    ],
+    "(第2回ウルトラサマーフェスタ) [まだ子屋 (まだ子)] 旅々日記には記せなかったコト。2 (魔女の旅々) [中国翻訳]":[
+        "language:translated",
+        "character:elaina",
+        "artist:madako",
+        "female:stockings"
     ],
     "(第2回ウルトラサマーフェスタ) [アクアドロップ (三上ミカ)] おかあさんがえらんだ服で [中国翻訳]":[
         "language:translated",
@@ -9527,6 +9535,7 @@
     ],
     "[Darkmaya] 糸球体ソープランド (はたらく細胞) [中国語]":[
         "parody:hataraku saibou",
+        "artist:darkmaya",
         "female:hair buns",
         "female:sole female"
     ],
@@ -17986,6 +17995,13 @@
         "female:stockings",
         "mixed:mmf threesome"
     ],
+    "[ようどうさくせん！ (ぜつえん)] わたしが彼女じゃだめですか？2 [中国翻訳] [DL版]":[
+        "language:translated",
+        "group:youdou sakusen",
+        "male:sole male",
+        "female:lolicon",
+        "female:sole female"
+    ],
     "[よこしま日記] ゼミ友達 (コミックゼロス #74) [中国翻訳] [DL版]":[
         "language:translated",
         "female:netorare",
@@ -23931,22 +23947,6 @@
         "other:story arc",
         "other:uncensored"
     ],
-    "[岡田コウ] 好きで好きで、すきで [中国翻訳]":[
-        "language:translated",
-        "female:blackmail",
-        "female:closed eyes",
-        "female:defloration",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:netorare",
-        "female:rape",
-        "female:schoolgirl uniform",
-        "female:sister",
-        "female:sleeping",
-        "female:sumata",
-        "female:twintails",
-        "other:tankoubon"
-    ],
     "[岡田コウ] 思春期のココロ [中国翻訳]":[
         "language:translated",
         "male:condom",
@@ -29668,13 +29668,6 @@
         "female:x-ray",
         "other:multi-work series"
     ],
-    "[黒澤pict (黒澤清崇)] 京子のヒミツBOX (ゆるゆり) [中国翻訳]":[
-        "language:translated",
-        "character:kyouko toshinou",
-        "artist:kurosawa kiyotaka",
-        "female:big breasts",
-        "female:schoolgirl uniform"
-    ],
     "[黒礫] 脅迫されて犯されるフータオ[中国翻訳]":[
         "language:translated",
         "character:hu tao",
@@ -29739,6 +29732,7 @@
     "[黒魔法研究所 (ぬかじ)] 妹の彼氏がかわいいので [中国翻訳] [DL版]":[
         "language:translated",
         "group:kuromahou kenkyuujo",
+        "male:netorare",
         "male:shotacon",
         "female:femdom",
         "female:lolicon"
