@@ -211,14 +211,6 @@
         "female:defloration",
         "female:schoolgirl uniform"
     ],
-    "(C82) [SSB (まりりん)] 私に勝てたらタダでいいよ (咲 -Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ako atarashi",
-        "artist:ssa",
-        "female:prostitution",
-        "female:schoolgirl uniform",
-        "female:sole female"
-    ],
     "(C82) [こりすや (こりす)] Photogenic -家出少女- [中国翻訳]":[
         "language:translated",
         "group:korisuya",
@@ -226,21 +218,6 @@
         "male:sole male",
         "female:lolicon",
         "female:shimapan",
-        "female:sole female",
-        "female:twintails"
-    ],
-    "(C82) [じぇのばけーき (たかやKi)] Angel雀士 憧 (咲-Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ako atarashi",
-        "artist:takayaki",
-        "male:condom",
-        "male:dilf",
-        "male:glasses",
-        "male:sole male",
-        "female:handjob",
-        "female:impregnation",
-        "female:prostitution",
-        "female:schoolgirl uniform",
         "female:sole female",
         "female:twintails"
     ],
@@ -373,6 +350,7 @@
         "female:impregnation",
         "female:lolicon",
         "female:mind break",
+        "female:nakadashi",
         "female:pantyhose",
         "female:rape"
     ],
@@ -5547,6 +5525,16 @@
         "female:lolicon",
         "female:sole female"
     ],
+    "(C97) [大艦巨砲組 (あずさのりへー)] ユウリちゃんのグローリーキャンプ (ポケットモンスター ソード・シールド) [中国翻訳]":[
+        "language:translated",
+        "character:gloria",
+        "artist:azusa norihee",
+        "female:ahegao",
+        "female:double penetration",
+        "female:lolicon",
+        "female:sole female",
+        "mixed:mmf threesome"
+    ],
     "(C97) [天気輪 (甘露アメ)] 「だって服,高いんだもん♥」 (ポケットモンスター ソード・シールド, ポケットモンスター サン・ムーン) [中国翻訳]":[
         "language:translated",
         "character:gloria",
@@ -7432,6 +7420,18 @@
         "female:prostitution",
         "female:stockings",
         "female:x-ray"
+    ],
+    "(サンクリ2017 Summer) [Imitation Moon (成海優)] エルフちゃんとコスプレえっち (エロマンガ先生) [中国翻訳] [無修正]":[
+        "language:translated",
+        "character:elf yamada",
+        "group:imitation moon",
+        "male:sole male",
+        "female:bloomers",
+        "female:lolicon",
+        "female:school gym uniform",
+        "female:schoolgirl uniform",
+        "female:sole female",
+        "female:stockings"
     ],
     "(サンクリ2017 Summer) [千歳烏山第2出張所 (真未たつや)] エロマンガ先生の…! (エロマンガ先生) [中国翻訳]":[
         "language:translated",
@@ -10666,9 +10666,11 @@
         "language:translated",
         "character:midori saiba",
         "artist:syamonabe",
+        "male:sole male",
         "female:catgirl",
         "female:kemonomimi",
-        "female:lolicon"
+        "female:lolicon",
+        "female:sole female"
     ],
     "[Pale Scarlet (松河)] 睡華 [中国翻訳] [DL版]":[
         "language:translated",
@@ -21268,6 +21270,15 @@
         "female:sole female",
         "female:tomboy"
     ],
+    "[ポンスケ] 父娘スワッピング♥ (COMIC LO 2021年10月号) [中国翻訳] [DL版]":[
+        "language:translated",
+        "male:dilf",
+        "female:daughter",
+        "female:lolicon",
+        "female:sweating",
+        "female:swinging",
+        "mixed:incest"
+    ],
     "[ポンスケ] 骨まで接して♡ (COMIC LO 2021年5月号) [中国翻訳] [DL版]":[
         "language:translated",
         "male:sole male",
@@ -26518,7 +26529,15 @@
     "[猫の幼虫] 断われないジェシカちゃん [中国翻訳]":[
         "language:translated",
         "character:jessica",
-        "female:sole female"
+        "male:sole male",
+        "female:catgirl",
+        "female:kemonomimi",
+        "female:nakadashi",
+        "female:ponytail",
+        "female:sole female",
+        "female:tail",
+        "female:unusual pupils",
+        "female:x-ray"
     ],
     "[猫御所 (ヤナギユウ)] Neko Neko Note 4b [中国翻訳] [DL版]":[
         "language:translated",
@@ -26620,7 +26639,10 @@
     ],
     "[獅子千丸] 舐めすぎメスガキ☆ (COMIC LO 2021年9月号) [中国翻訳] [DL版]":[
         "language:translated",
+        "male:glasses",
         "male:sole male",
+        "male:teacher",
+        "male:virginity",
         "female:freckles",
         "female:lolicon",
         "female:sole female",
@@ -28424,29 +28446,6 @@
         "female:stockings",
         "female:twintails",
         "female:unusual pupils"
-    ],
-    "[赤月みゅうと] 奴隷兎とアンソニー [中国翻訳]":[
-        "language:translated",
-        "male:cheating",
-        "male:glasses",
-        "male:invisible",
-        "male:schoolboy uniform",
-        "female:ball sucking",
-        "female:blowjob",
-        "female:drugs",
-        "female:exhibitionism",
-        "female:harem",
-        "female:impregnation",
-        "female:lolicon",
-        "female:masturbation",
-        "female:nakadashi",
-        "female:schoolgirl uniform",
-        "female:shared senses",
-        "female:sleeping",
-        "female:stockings",
-        "female:twintails",
-        "female:x-ray",
-        "other:story arc"
     ],
     "[赤月みゅうと] 晒名読子は見られたい。 (COMIC 夢幻転生 2016年8月号) [中国翻訳]":[
         "language:translated",
