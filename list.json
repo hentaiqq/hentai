@@ -171,19 +171,6 @@
         "female:pantyhose",
         "female:schoolgirl uniform"
     ],
-    "(C78) [Bクルーズ (志堂マユル)] 放課Go To Heaven (ひぐらしのなく頃に) [中国翻訳]":[
-        "language:translated",
-        "character:mion sonozaki",
-        "character:rika furude",
-        "group:b-crews",
-        "female:ahegao",
-        "female:big breasts",
-        "female:lolicon",
-        "female:paizuri",
-        "female:schoolgirl uniform",
-        "female:sex toys",
-        "other:mosaic censorship"
-    ],
     "(C78) [ユビサキスタジオ (左カゲトラ)] れずちゅ～らいふ 4th invitation [中国翻訳]":[
         "language:translated",
         "group:yubisaki studio",
@@ -10779,6 +10766,12 @@
         "female:sole female",
         "female:sweating"
     ],
+    "[Nekone] Shenhe is finally part of human society! (Genshin Impact) (Animated) [中国翻訳]":[
+        "language:translated",
+        "character:shenhe",
+        "female:sole female",
+        "other:mosaic censorship"
+    ],
     "[Nijie] Artist cab":[
         "parody:kantai collection",
         "artist:caburi",
@@ -12500,6 +12493,15 @@
         "female:swinging",
         "mixed:group",
         "other:story arc"
+    ],
+    "[satsukiimonet (皐月芋網)] HAMEDORI no YATSU♥ [中国翻訳] [DL版] [ページ欠落]":[
+        "language:translated",
+        "group:satsukiimonet",
+        "male:big penis",
+        "female:filming",
+        "female:sister",
+        "female:stockings",
+        "other:incomplete"
     ],
     "[shakestyle (ShAKe)] Re:Temptation1 [中国翻訳] [DL版]":[
         "language:translated",
@@ -14450,8 +14452,8 @@
         "female:schoolgirl uniform"
     ],
     "[がめんはじ (ノジ)] ななかだし♥せっX!! [中国語] [DL版]":[
-        "language:translated",
-        "group:gamenhaji",
+        "parody:original",
+        "artist:noji",
         "male:sole male",
         "female:nakadashi",
         "female:schoolgirl uniform",
@@ -14460,8 +14462,8 @@
         "other:multi-work series"
     ],
     "[がめんはじ (ノジ)] ナナカセっX2 [中国語] [DL版]":[
-        "language:translated",
-        "group:gamenhaji",
+        "parody:original",
+        "artist:noji",
         "male:sole male",
         "female:blowjob",
         "female:blowjob face",
@@ -29681,18 +29683,6 @@
         "male:schoolboy uniform",
         "female:schoolgirl uniform",
         "female:twintails"
-    ],
-    "[雨がっぱ少女群] 小指でかきまぜて [中国翻訳]":[
-        "language:translated",
-        "male:teacher",
-        "female:daughter",
-        "female:defloration",
-        "female:ghost",
-        "female:glasses",
-        "female:lolicon",
-        "female:prostitution",
-        "female:sister",
-        "other:tankoubon"
     ],
     "[雨宮ミズキ] きらら★キララNTR 魔法少女は変わっていく… THE COMIC 1話 (二次元ドリームマガジン 2019年12月号 Vol.109) [中国翻訳] [DL版]":[
         "language:translated",
