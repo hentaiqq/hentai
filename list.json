@@ -233,19 +233,6 @@
         "female:very long hair",
         "mixed:group"
     ],
-    "(C84) [Dr.VERMILION (ペテン師)] インモラルセクスプレス (とある科学の超電磁砲) [中国翻訳]":[
-        "language:translated",
-        "character:ruiko saten",
-        "artist:petenshi",
-        "male:harem",
-        "female:anal",
-        "female:chikan",
-        "female:double penetration",
-        "female:mind break",
-        "female:rape",
-        "female:schoolgirl uniform",
-        "female:sole female"
-    ],
     "(C84) [Paperer’s Nest (天響龍音)] 狐さんと海で遊ぼう! [中国翻訳]":[
         "language:translated",
         "group:paperers nest",
@@ -9531,10 +9518,13 @@
     ],
     "[BruLee] プレジャーブルームフェスティバル Pleasure Blume Festival Comic (原神) [中国翻訳]":[
         "language:translated",
+        "character:aether",
+        "character:eula lawrence",
         "female:impregnation",
         "female:nakadashi",
         "female:paizuri",
-        "female:x-ray"
+        "female:x-ray",
+        "other:full color"
     ],
     "[Come Through (あづみ一樹)] もーっと正直イイなよ？妹ちゃん！[中国翻訳] [DL版]":[
         "language:translated",
@@ -11824,6 +11814,14 @@
         "female:twintails",
         "mixed:group"
     ],
+    "[VYCMa] Mondstadt Spring Festival Act 2 (Genshin Impact) [Chinese]":[
+        "parody:genshin impact",
+        "artist:vycma",
+        "female:bunny girl",
+        "female:double penetration",
+        "female:stockings",
+        "other:full color"
+    ],
     "[VYCMa] 蒙德温泉节":[
         "parody:genshin impact",
         "artist:vycma",
@@ -13027,8 +13025,11 @@
         "language:translated",
         "male:sole male",
         "female:lolicon",
+        "female:nakadashi",
+        "female:oppai loli",
         "female:sister",
-        "female:sole female"
+        "female:sole female",
+        "other:mosaic censorship"
     ],
     "[あいらんどう] 宗教上の理由でオナニーできない兄妹 (COMIC LO 2020年9月号) [中国翻訳] [DL版]":[
         "language:translated",
@@ -16415,7 +16416,9 @@
     "[なげ] 宵宫 (原神) [丘丘人纯爱汉化组] [fanbox] [中国翻译]":[
         "language:translated",
         "character:yoimiya naganohara",
-        "female:impregnation"
+        "female:impregnation",
+        "female:nakadashi",
+        "female:sole female"
     ],
     "[なだでここ] おとなり小学三姉妹 (COMIC LO 2019年4月号) [中国翻訳] [DL版]":[
         "language:translated",
