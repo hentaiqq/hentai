@@ -1,5 +1,15 @@
 [
     {
+        "[Fanbox] タク道":[
+            "character:chino kafuu",
+            "character:megumi natsu",
+            "female:females only",
+            "female:lolicon",
+            "female:stockings",
+            "female:yuri"
+        ]
+    },
+    {
         "[くまQM] 終末百合物語ろりゆり [中国翻訳]":[
             "language:translated",
             "group:kuma qm",
@@ -705,16 +715,6 @@
             "female:mind control",
             "female:nakadashi",
             "female:sole female"
-        ]
-    },
-    {
-        "[Fanbox] タク道":[
-            "character:chino kafuu",
-            "character:megumi natsu",
-            "female:females only",
-            "female:lolicon",
-            "female:stockings",
-            "female:yuri"
         ]
     },
     {
@@ -5454,7 +5454,12 @@
             "group:shiitake nouen",
             "male:big penis",
             "male:multiple straddling",
+            "male:sole male",
+            "female:bikini",
             "female:blowjob",
+            "female:bunny girl",
+            "female:catgirl",
+            "female:cervix penetration",
             "female:clit stimulation",
             "female:collar",
             "female:cunnilingus",
@@ -5471,7 +5476,10 @@
             "female:prostitution",
             "female:squirting",
             "female:stockings",
+            "female:swimsuit",
+            "female:tomboy",
             "female:twintails",
+            "female:x-ray",
             "mixed:group"
         ]
     },
@@ -9228,11 +9236,15 @@
             "male:bbm",
             "male:dilf",
             "female:anal",
+            "female:anal intercourse",
+            "female:asphyxiation",
             "female:daughter",
             "female:double penetration",
             "female:impregnation",
             "female:lolicon",
             "female:nakadashi",
+            "female:rape",
+            "female:sex toys",
             "female:sister",
             "female:sole female",
             "mixed:incest",
@@ -16090,13 +16102,16 @@
             "language:translated",
             "male:shotacon",
             "male:sole male",
+            "male:virginity",
             "female:big breasts",
+            "female:blowjob",
+            "female:femdom",
             "female:hairy",
             "female:harem",
             "female:nakadashi",
             "female:schoolgirl uniform",
             "female:x-ray",
-            "other:mosaic censorship"
+            "mixed:group"
         ]
     },
     {
@@ -18972,6 +18987,7 @@
             "female:blowjob",
             "female:lolicon",
             "female:prostitution",
+            "female:sister",
             "female:sole female",
             "female:sweating",
             "mixed:inseki"
@@ -29741,6 +29757,8 @@
             "female:collar",
             "female:crotch tattoo",
             "female:demon girl",
+            "female:domination loss",
+            "female:double blowjob",
             "female:drill hair",
             "female:femdom",
             "female:footjob",
