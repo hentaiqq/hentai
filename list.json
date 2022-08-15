@@ -6189,6 +6189,7 @@
         "artist:gibuchoko",
         "male:sole male",
         "female:exhibitionism",
+        "female:invisible",
         "female:sole female"
     ],
     "(C99) [餅屋 (かろちー)] ごめんなさい主さま3 (プリンセスコネクト!Re:Dive) [中国翻訳]":[
@@ -15900,7 +15901,7 @@
         "female:schoolgirl uniform",
         "female:stockings"
     ],
-    "[さがみおきば (さがみゆき)] 男の子さらって女装させる部 ～女装に興味ある男の子に女装させよう！～[中国翻译]":[
+    "[さがみおきば (さがみゆき)] 男の子さらって女装させる部 ～女装に興味ある男の子に女装させよう！～ [中国翻訳]":[
         "language:translated",
         "artist:sagami yuki",
         "male:crossdressing",
@@ -21489,12 +21490,6 @@
         "female:lolicon",
         "female:sole female"
     ],
-    "[トリプラ少年] TSメス堕ち～女の子にされてラブラブ百合セックス～ [中国翻訳]":[
-        "language:translated",
-        "group:toripura shounen",
-        "male:gender change",
-        "female:yuri"
-    ],
     "[ドットエイト (さわやか鮫肌)] がんばるおんなのこ [中国翻訳] [DL版]":[
         "language:translated",
         "group:dot eito",
@@ -23327,7 +23322,10 @@
         "female:lolicon",
         "female:pregnant",
         "female:rape",
-        "female:stomach deformation"
+        "female:sole female",
+        "female:stomach deformation",
+        "female:twintails",
+        "female:very long hair"
     ],
     "[下り坂ガードレール (しらそ)] 駆錬輝晶 クォルタ アメテュス #10 [中国翻訳] [DL版]":[
         "language:translated",
@@ -23485,6 +23483,7 @@
         "female:prostitution",
         "female:sole female",
         "female:stockings",
+        "female:torture",
         "female:triple penetration",
         "female:twintails",
         "mixed:mmf threesome"
@@ -24841,6 +24840,12 @@
         "female:lolicon",
         "female:schoolgirl uniform",
         "female:sole female"
+    ],
+    "[夏木グミ (夏木グミ)] TSメス堕ち～女の子にされてラブラブ百合セックス～ [中国翻訳] [DL版]":[
+        "language:translated",
+        "group:toripura shounen",
+        "male:gender change",
+        "female:yuri"
     ],
     "[夏桜] 花びら乙女 + 虎穴&蜜瓜特典 [中国翻訳]":[
         "language:translated",
