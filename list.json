@@ -175,9 +175,15 @@
         "group:horonaminz",
         "male:glasses",
         "male:sole male",
+        "female:blowjob",
+        "female:deepthroat",
+        "female:electric shocks",
+        "female:exposed clothing",
         "female:lolicon",
+        "female:nakadashi",
         "female:rape",
         "female:schoolgirl uniform",
+        "female:stockings",
         "female:twintails"
     ],
     "(C100) [毒電波受信中 (炉心)] ちはやさんと楽しい生徒指導 [中国翻訳]":[
@@ -7089,6 +7095,17 @@
         "other:multi-work series",
         "other:watermarked"
     ],
+    "(FF37) [四季注意 (四季)] 你媽是可可蘿！我媽也是可可蘿！我幹你娘也沒差吧！ (プリンセスコネクト!Re:Dive) [中國語] [無修正]":[
+        "parody:princess connect",
+        "group:shiki be careful",
+        "male:bbm",
+        "female:anal",
+        "female:blowjob",
+        "female:elf",
+        "female:lolicon",
+        "female:mind control",
+        "other:uncensored"
+    ],
     "(FF37) [蜂巢 (Apoidea)] 優衣與騎士君的倆人♡時光 (プリンセスコネクト!Re:Dive) [中国語]":[
         "parody:princess connect",
         "character:kasumi kirihara",
@@ -8092,23 +8109,6 @@
         "female:schoolgirl uniform",
         "female:sole female",
         "female:stockings"
-    ],
-    "(例大祭10) [かみか堂 (銀曜ハル)] 幻想郷楽園化計画09 (東方Project) [中国翻訳]":[
-        "language:translated",
-        "character:koishi komeiji",
-        "character:satori komeiji",
-        "group:kamikadou",
-        "male:sole male",
-        "female:catgirl",
-        "female:chloroform",
-        "female:drugs",
-        "female:harem",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:rape",
-        "female:slave",
-        "female:x-ray",
-        "other:full color"
     ],
     "(例大祭11) [はぴねすみるく (おびゃー)] 肉欲神仰信 - Episode of religious faith - (東方Project) [中国翻訳]":[
         "language:translated",
@@ -11385,16 +11385,6 @@
         "female:tribadism",
         "female:yuri"
     ],
-    "[PiT (なつきしゅり)] 二重咲 HutaeSaki (咲-Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ryuuka shimizudani",
-        "group:pit",
-        "female:cunnilingus",
-        "female:females only",
-        "female:kissing",
-        "female:schoolgirl uniform",
-        "female:yuri"
-    ],
     "[Pixiv]  ふわり (9212166) [2019.03.24]":[
         "female:big breasts",
         "female:lingerie",
@@ -11550,7 +11540,7 @@
     ],
     "[Poison Gray (松竜太)] たのしいたねまきいちねんせい! [中国翻訳] [DL版]":[
         "language:translated",
-        "artist:matsuriuta",
+        "group:poison gray",
         "male:mind control",
         "male:shotacon",
         "male:sole male",
@@ -14180,6 +14170,15 @@
         "female:daughter",
         "female:lolicon",
         "female:sole female"
+    ],
+    "[あんぶれらはうす (ぐっち庵)] Sister Princess (プリンセスコネクト!Re:Dive) [中国翻訳] [DL版]":[
+        "language:translated",
+        "character:ayane hojo",
+        "character:kurumi kuribayashi",
+        "character:misogi hodaka",
+        "group:annbrellahouse",
+        "female:elf",
+        "female:lolicon"
     ],
     "[あ～る・こが] 神待ちっ子！(デジタルぷにぺどッ! Vol.11) [中国翻訳] [DL版]":[
         "language:translated",
@@ -25561,6 +25560,7 @@
     ],
     "[寺田ぬき] 生放送ちゅう (ろりどころ ) [中国翻訳]":[
         "language:translated",
+        "male:sole male",
         "female:lolicon",
         "female:nakadashi",
         "female:sole female",
