@@ -1,5 +1,15 @@
 [
     {
+        "(C97) [Steel Mayonnaise (ひぐちいさみ)] 肉巫女の宴 漆 ～肉巫女達の休日～ [中国翻訳]":[
+            "language:translated",
+            "group:steel mayonnaise",
+            "female:birth",
+            "female:nakadashi",
+            "female:pregnant",
+            "female:tentacles"
+        ]
+    },
+    {
         "(C99) [難民ふぇすてぃばる (ぎヴちょこ)] 意識されないことをいいことに人前でこいしちゃんと致してみた (東方Project) [中国翻訳]":[
             "language:translated",
             "character:koishi komeiji",
@@ -12,9 +22,9 @@
     },
     {
         "[Fanbox] タク道":[
-            "character:chino kafuu",
-            "character:megumi natsu",
-            "artist:takumichi",
+            "parody:gochuumon wa usagi desu ka",
+            "character:fuyu fuiba",
+            "character:paimon",
             "female:females only",
             "female:lolicon",
             "female:stockings",
@@ -34,6 +44,14 @@
             "female:rape",
             "female:schoolgirl uniform",
             "female:twintails"
+        ]
+    },
+    {
+        "[TSFのF (神楽くるみ)] こすちぇん! コスプレギャル♀に変えられた僕♂ [中国翻訳]":[
+            "language:translated",
+            "group:tsf no f",
+            "male:gender change",
+            "female:mind control"
         ]
     },
     {
@@ -191,7 +209,7 @@
             "female:double penetration",
             "female:exhibitionism",
             "female:sole female",
-            "other:uncensored"
+            "other:multi-work series"
         ]
     },
     {
@@ -1006,6 +1024,8 @@
             "female:femdom",
             "female:glasses",
             "female:gloves",
+            "female:handjob",
+            "female:hidden sex",
             "female:kissing",
             "female:sole female",
             "other:multi-work series"
@@ -33108,6 +33128,7 @@
             "male:ahegao",
             "male:bald",
             "male:exhibitionism",
+            "male:harem",
             "male:masturbation",
             "male:muscle",
             "male:shotacon",
@@ -33133,6 +33154,7 @@
             "female:sex toys",
             "female:squirting",
             "female:triple penetration",
+            "female:twintails",
             "female:unusual pupils",
             "mixed:mmf threesome"
         ]
@@ -38127,37 +38149,6 @@
             "artist:ssa",
             "female:prostitution",
             "female:schoolgirl uniform"
-        ]
-    },
-    {
-        "[雪雨こん] ラブ ・イズ・マネー（仮） (COMIC LO 2013 年4月号) [中国翻訳]":[
-            "language:translated",
-            "male:glasses",
-            "male:sole male",
-            "male:teacher",
-            "female:lolicon",
-            "female:prostitution",
-            "female:schoolgirl uniform",
-            "female:sole female"
-        ]
-    },
-    {
-        "[塩屋虻通信 (塩604)] 絶望の世界より (新世界より) [中国翻訳]":[
-            "language:translated",
-            "character:saki watanabe",
-            "artist:shio604",
-            "male:monster",
-            "female:ahegao",
-            "female:anal",
-            "female:blowjob",
-            "female:bondage",
-            "female:defloration",
-            "female:double penetration",
-            "female:impregnation",
-            "female:mind break",
-            "female:rape",
-            "female:stomach deformation",
-            "female:tentacles"
         ]
     }
 ]
