@@ -357,13 +357,6 @@
         "female:sole female",
         "female:twintails"
     ],
-    "(C83) [SSB (まりりん)] 阿知賀秘密麻雀倶楽部 LEGEND (咲-Saki-) [中国翻訳]":[
-        "language:translated",
-        "character:ako atarashi",
-        "artist:ssa",
-        "female:prostitution",
-        "female:schoolgirl uniform"
-    ],
     "(C83) [くまたんFlash! (はなぉ。)] Mebius：gate (東方Project) [中国翻訳]":[
         "language:translated",
         "character:aya shameimaru",
@@ -20613,6 +20606,16 @@
         "female:sister",
         "female:sole female",
         "other:multi-work series"
+    ],
+    "[アサツキミント (みんとあいす)] にゃんここにゃんこ本気妊娠 [中国翻訳]":[
+        "language:translated",
+        "group:asatsukimint",
+        "female:catgirl",
+        "female:impregnation",
+        "female:kemonomimi",
+        "female:school swimsuit",
+        "female:sole female",
+        "female:tail"
     ],
     "[アズマサワヨシ] あやかし館へようこそ! [中国翻訳]":[
         "language:translated",
