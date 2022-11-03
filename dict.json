@@ -1,5 +1,15 @@
 [
     {
+        "(C100) [MURDER HOUSE (若穂りく)] さくらと小狼のお家デート (カードキャプターさくら) [中国翻訳]":[
+            "language:translated",
+            "character:sakura kinomoto",
+            "group:murderhouse",
+            "male:sole male",
+            "female:sole female",
+            "female:stockings"
+        ]
+    },
+    {
         "[satsukiimonet (皐月芋網)] HAMEDORI no YATSU♥ [中国翻訳] [DL版]":[
             "language:translated",
             "group:satsukiimonet",
@@ -23,7 +33,6 @@
     {
         "[MM] ギャルJKおねショタ 4 [中国翻訳]":[
             "language:translated",
-            "artist:mm",
             "male:shotacon",
             "male:sole male",
             "female:blowjob",
@@ -40,7 +49,7 @@
     {
         "[ANCHOR (武藤まと)] ねこみみ先輩は撮られたい [中国翻訳] [DL版]":[
             "language:translated",
-            "artist:mutou mato",
+            "group:anchor",
             "female:catgirl",
             "female:filming",
             "female:kemonomimi",
@@ -51,7 +60,8 @@
         "[シャンデガ] ふたなり裟羅ちゃん、夢中えっちで脱・童貞♡ (原神) [中国翻訳] [DL版]":[
             "language:translated",
             "character:raiden shogun",
-            "other:full color"
+            "female:futanari",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -38838,30 +38848,6 @@
             "female:sleeping",
             "female:sumata",
             "female:twintails",
-            "other:tankoubon"
-        ]
-    },
-    {
-        "[鬼束直] ポルノグラフィティ [中国翻訳]":[
-            "language:translated",
-            "male:condom",
-            "male:glasses",
-            "male:schoolboy uniform",
-            "male:shotacon",
-            "male:teacher",
-            "female:collar",
-            "female:cousin",
-            "female:daughter",
-            "female:defloration",
-            "female:exhibitionism",
-            "female:femdom",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:prostitution",
-            "female:schoolgirl uniform",
-            "female:sister",
-            "female:sundress",
-            "female:tanlines",
             "other:tankoubon"
         ]
     }

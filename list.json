@@ -192,6 +192,14 @@
         "female:sole female",
         "female:twintails"
     ],
+    "(C100) [MURDER HOUSE (若穂りく)] さくらと小狼のお家デート (カードキャプターさくら) [中国翻訳]":[
+        "language:translated",
+        "character:sakura kinomoto",
+        "group:murderhouse",
+        "male:sole male",
+        "female:sole female",
+        "female:stockings"
+    ],
     "(C100) [kuma-puro (小路あゆむ)] 実はせんせいと付きあってる女の子[中国翻訳]":[
         "language:translated",
         "group:kuma-puro",
@@ -10033,7 +10041,7 @@
     ],
     "[ANCHOR (武藤まと)] ねこみみ先輩は撮られたい [中国翻訳] [DL版]":[
         "language:translated",
-        "artist:mutou mato",
+        "group:anchor",
         "female:catgirl",
         "female:filming",
         "female:kemonomimi",
@@ -11376,7 +11384,6 @@
     ],
     "[MM] ギャルJKおねショタ 4 [中国翻訳]":[
         "language:translated",
-        "artist:mm",
         "male:shotacon",
         "male:sole male",
         "female:blowjob",
@@ -21974,7 +21981,8 @@
     "[シャンデガ] ふたなり裟羅ちゃん、夢中えっちで脱・童貞♡ (原神) [中国翻訳] [DL版]":[
         "language:translated",
         "character:raiden shogun",
-        "other:full color"
+        "female:futanari",
+        "other:mosaic censorship"
     ],
     "[シュクリーン] 君がため。 [中国翻訳]":[
         "language:translated",
@@ -32968,28 +32976,6 @@
         "female:lolicon",
         "female:sole female",
         "female:twintails"
-    ],
-    "[鬼束直] ポルノグラフィティ [中国翻訳]":[
-        "language:translated",
-        "male:condom",
-        "male:glasses",
-        "male:schoolboy uniform",
-        "male:shotacon",
-        "male:teacher",
-        "female:collar",
-        "female:cousin",
-        "female:daughter",
-        "female:defloration",
-        "female:exhibitionism",
-        "female:femdom",
-        "female:lolicon",
-        "female:nakadashi",
-        "female:prostitution",
-        "female:schoolgirl uniform",
-        "female:sister",
-        "female:sundress",
-        "female:tanlines",
-        "other:tankoubon"
     ],
     "[鬼頭サケル] ハッピー・イミテイション (コミックゼロス #90) [中国翻訳] [DL版]":[
         "language:translated",
