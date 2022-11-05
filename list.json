@@ -1968,6 +1968,15 @@
         "female:twintails",
         "mixed:mmf threesome"
     ],
+    "(C91) [モレリークス (モレ)] 一夜の嫉妬曜日 (ラブライブ! サンシャイン!!) [中国翻訳]":[
+        "language:translated",
+        "character:you watanabe",
+        "artist:more",
+        "male:sole male",
+        "female:schoolgirl uniform",
+        "female:sole female",
+        "female:swimsuit"
+    ],
     "(C91) [九十九里ニャ獣会 (不良品)] 小○生ビッチは最高だぜ!!唯川真結の同級生と大人遊び始まり編 [中国翻訳]":[
         "language:translated",
         "group:kujuukuri nyajuu kai",
@@ -7302,12 +7311,6 @@
         "female:schoolgirl uniform",
         "female:sole female"
     ],
-    "(COMIC1☆5) [ノラネコノタマ(雪野みなと)] 籠の中の小鳥は何時出遣る 2 弐 [中国翻訳v2]":[
-        "language:translated",
-        "group:noraneko-no-tama",
-        "female:dark skin",
-        "female:lolicon"
-    ],
     "(COMIC1☆9) [Public bath (いずみゆひな)] ひみつのトイレ (ご注文はうさぎですか?) [中国翻訳]":[
         "language:translated",
         "character:chino kafuu",
@@ -11892,12 +11895,6 @@
         "female:torture",
         "female:yuri"
     ],
-    "[PIXIV] cedar (43115256)":[
-        "parody:touhou project",
-        "female:lolicon",
-        "female:spanking",
-        "female:urination"
-    ],
     "[PLEIADES☆FORTUNE (蟹山ゆうすけ)] いっしょに宿題 『エロ本なんかに、負けないんだから!』 [中国翻訳]":[
         "language:translated",
         "group:pleiades fortune",
@@ -13182,8 +13179,7 @@
         "female:masturbation",
         "female:rape",
         "female:sole female",
-        "female:tentacles",
-        "female:urination"
+        "female:tentacles"
     ],
     "[imotare (moyori)] 少女はユニコーンの角がほしい [中国翻訳]":[
         "language:translated",
@@ -24284,7 +24280,8 @@
         "character:you watanabe",
         "artist:more",
         "female:incest",
-        "female:schoolgirl uniform"
+        "female:schoolgirl uniform",
+        "other:soushuuhen"
     ],
     "[ヤサカニ・アン] コンフェッション (壁に埋め込まれた少女で性欲処理 Vol.2) [中国翻訳] [DL版]":[
         "language:translated",
@@ -33349,6 +33346,12 @@
         "female:swimsuit",
         "female:twintails",
         "female:waitress"
+    ],
+    "●PIXIV● cedar [43115256]":[
+        "parody:touhou project",
+        "female:lolicon",
+        "female:spanking",
+        "female:urination"
     ],
     "「思春棄 (すがる春)」「ボクが!」「私が!」「一番エロいのです!」「ですわ!」「mo个人汉化」":[
         "language:translated",
