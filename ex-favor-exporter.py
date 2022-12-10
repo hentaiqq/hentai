@@ -63,10 +63,12 @@ jsondata = {}
 def getfavor(curUrl):
     fakeua={}
     fakeua['user-agent']=random.choice(USER_AGENTS)
-    soup=bs(rq.get(curUrl,cookies=cookies,headers=fakeua).text,'html.parser')
+    soup=bs(rq.get(curUrl,cookies=cookies,headers=fakeua,proxies=proxies).text,'html.parser')
     count=0
     linklist = []
     name = []
+    url = soup.find(attrs={'id':'unext'}).get('href')
+    print(url)
     for i in iter(link(soup)):
         count+=1
         print(str(count)+'/'+'50')
@@ -79,7 +81,7 @@ def getfavor(curUrl):
             for l in linklist:
                 l = l.split("/")
                 data["gidlist"].append([int(l[-3]),l[-2]])
-            text = rq.post("https://api.e-hentai.org/api.php",data=json.dumps(data)).text
+            text = rq.post("https://api.e-hentai.org/api.php",data=json.dumps(data),proxies=proxies).text
             text = json.loads(text)
             for j in range(25):
                 if not name[j] in jsondata:
@@ -95,60 +97,30 @@ def getfavor(curUrl):
             name = []
             linklist = []
             time.sleep(1)
-        # try:
-        #     imgName=i[0].div.img.attrs['title']
-        #     try:
-        #         imgUrl=i[0].div.img.attrs['data-src']
-        #         saveImage(imgUrl,imgName)
-        #     except KeyError:
-        #         imgUrl=i[0].div.img.attrs['src']
-        #         saveImage(imgUrl,imgName)
-        # except:
-        #     print("封面下载错误")
-
         print(Name,Link)
-
+    return url
 fakeua={}
 fakeua['user-agent']=random.choice(USER_AGENTS)
 cookies = {"ipb_member_id":os.environ["ipb_member_id"],"ipb_pass_hash":os.environ["ipb_pass_hash"]}
+# proxies = {"https":'http://127.0.0.1:1081'}
+proxies = {}
 try:
-    sp=bs(rq.get('https://e-hentai.org/favorites.php',cookies=cookies,headers=fakeua).text,'html.parser')
+    sp=bs(rq.get('https://e-hentai.org/favorites.php',cookies=cookies,headers=fakeua,proxies=proxies).text,'html.parser')
 except AttributeError:
     print("请检查cookie是否配置正确、ip是否被ban")
-
-# 以下逻辑仅为获取收藏数，如果发现获取失败，但确认cookies配置正确，可以手动删掉以下逻辑，配置 pagenum=[你的收藏数]
-favornum=int((sp.find(attrs={'name':'favform'}).p.string.split(' ')[1]).replace(',','').replace(' ',''))
-#favornum=1697
-pagenum=favornum//50+1
-
-urlList=['https://e-hentai.org/favorites.php']
-for i in range(1,pagenum):
-    urlList.append('https://e-hentai.org/favorites.php?page='+str(i))
-
-#加载配置
-# if os.path.exists("settings.json"):
-#     with open("settings.json","r",encoding="utf-8") as f:
-#         settings = json.loads(f.read())
-#         count = settings[0]
-#         cookies = settings[1]
-# else:
-#     count = 0
-
-#加载上次退出的地方
-# if os.path.exists("list.json"):
-#     with open("list.json","r",encoding="utf-8") as f:
-#         try:
-#             jsondata = json.loads(f.read())
-#         except:
-#             jsondata = []
-# else:
-#     jsondata = []
+url = sp.find(attrs={'id':'unext'}).get('href')
+try:
+    jsondata = json.load(open('list.json'))
+except:
+    jsondata = {}
 
 try:
     count = 0
-    for url in urlList:
+    while True:
         print("==========正在下载%d页==========" % (count))
-        getfavor(url)
+        url = getfavor(url)
+        if url is None:
+            break
         count += 1
 except Exception as e:
     print(e)
@@ -157,10 +129,6 @@ except Exception as e:
 #转换为bot使用的格式
 with open("dict.json","w",encoding="utf-8") as f:
     f.write(json.dumps([{key:value} for key,value in jsondata.items()],ensure_ascii=False,sort_keys=True, indent=4, separators=(',', ':')))
-
-#保存上次同步的地方
-with open("settings.json","w",encoding="utf-8") as f:
-    f.write(json.dumps([count,cookies]))
 
 with open("list.json","w",encoding="utf-8") as f:
     f.write(json.dumps(jsondata,ensure_ascii=False,sort_keys=True, indent=4, separators=(',', ':')))
