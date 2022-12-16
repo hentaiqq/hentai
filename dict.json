@@ -177,7 +177,6 @@
     },
     {
         "(C100) [MURDER HOUSE (若穂りく)] さくらと小狼のお家デート (カードキャプターさくら) [中国翻訳]":[
-            "character:sakura kinomoto",
             "male:sole male",
             "female:sole female",
             "female:stockings"
@@ -9457,8 +9456,7 @@
             "female:sole female",
             "female:unusual pupils",
             "female:very long hair",
-            "female:x-ray",
-            "other:variant set"
+            "female:x-ray"
         ]
     },
     {
@@ -9576,7 +9574,6 @@
     },
     {
         "[Cosplay] Liyu Ristuki":[
-            "character:yukino yukinoshita",
             "female:bunny girl",
             "female:catgirl",
             "female:chinese dress",
@@ -10441,6 +10438,20 @@
             "female:lolicon",
             "female:mind control",
             "female:sole female",
+            "female:twintails"
+        ]
+    },
+    {
+        "[Lonely Church (鈴音れな)] 生意気メスガキに催眠指導～マイクロビキニで公開露出～ [中国翻訳] [DL版]":[
+            "group:lonely church",
+            "male:bbm",
+            "male:glasses",
+            "male:teacher",
+            "female:bikini",
+            "female:lolicon",
+            "female:mind control",
+            "female:sole female",
+            "female:swimsuit",
             "female:twintails"
         ]
     },
@@ -12230,9 +12241,7 @@
     },
     {
         "[imotare (moyori)] アリス・淫・アリス (不思議の国のアリス) [中国翻訳] [DL版]":[
-            "language:translated",
             "character:alice liddell",
-            "artist:moyori",
             "female:lolicon",
             "female:masturbation",
             "female:rape",
@@ -32439,7 +32448,6 @@
     },
     {
         "●PIXIV● cedar [43115256]":[
-            "parody:touhou project",
             "female:lolicon",
             "female:spanking",
             "female:urination"
@@ -32626,18 +32634,13 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[Lonely Church (鈴音れな)] 生意気メスガキに催眠指導～マイクロビキニで公開露出～ [中国翻訳] [DL版]":[
+        "[思春棄 (すがる春)]「ボクが!」「私が!」「一番エロいのです!」「ですわ!」 (ひぐらしのなく頃に) [中国翻訳] [DL版]":[
             "language:translated",
-            "group:lonely church",
-            "male:bbm",
-            "male:glasses",
-            "male:teacher",
-            "female:bikini",
-            "female:lolicon",
-            "female:mind control",
-            "female:sole female",
-            "female:swimsuit",
-            "female:twintails"
+            "character:keiichi maebara",
+            "character:satoko houjou",
+            "artist:kakuzato yun",
+            "female:schoolgirl uniform",
+            "mixed:group"
         ]
     }
 ]
