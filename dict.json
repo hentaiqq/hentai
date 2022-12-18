@@ -11197,9 +11197,7 @@
         ]
     },
     {
-        "[Pixiv] たや (5323203)":[
-            "artist:taya"
-        ]
+        "[Pixiv] たや (5323203)":[]
     },
     {
         "[Pixiv] なの (4163045)":[
@@ -23278,14 +23276,10 @@
     },
     {
         "[モレリークス (モレ)] モレリークスサンシャインコレクション2 (ラブライブ! サンシャイン!!) [中国翻訳] [DL版]":[
-            "language:translated",
             "character:chika takami",
-            "character:hanamaru kunikida",
             "character:you watanabe",
-            "artist:more",
             "female:incest",
-            "female:schoolgirl uniform",
-            "other:soushuuhen"
+            "female:schoolgirl uniform"
         ]
     },
     {
@@ -26596,7 +26590,6 @@
     },
     {
         "[思春棄 (すがる春)]「ボクが!」「私が!」「一番エロいのです!」「ですわ!」 (ひぐらしのなく頃に) [中国翻訳] [DL版]":[
-            "character:keiichi maebara",
             "artist:kakuzato yun",
             "female:schoolgirl uniform"
         ]
@@ -32637,5 +32630,23 @@
     },
     {
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
+    },
+    {
+        "(C86) [Number2 (たくじ)] にことまきのなつやすみ♪ (ラブライブ!) [中国翻訳] [無修正]":[
+            "language:translated",
+            "character:maki nishikino",
+            "group:number2",
+            "male:sole male",
+            "female:bikini",
+            "female:nakadashi",
+            "female:schoolgirl uniform",
+            "female:small breasts",
+            "female:stockings",
+            "female:swimsuit",
+            "female:twintails",
+            "female:x-ray",
+            "mixed:group",
+            "other:uncensored"
+        ]
     }
 ]
