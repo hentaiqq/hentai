@@ -9,3 +9,9 @@ QQ Bot本子数据库
 
 # 如何使用
 点击settings->secrets，然后设置IPB_MEMBER_ID和IPB_PASS_HASH环境变量
+
+# xp统计
+```bash
+python xp_statistics.py
+```
+统计tag的数量并绘制为统计图和词云
