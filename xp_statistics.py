@@ -4,7 +4,7 @@ from collections import Counter
 import wordcloud as wc
 import matplotlib as mpl
 
-# Set the font size for all text elements to 14
+# Set the font size for all text elements to 6
 mpl.rcParams['font.size'] = 6
 
 include_tag = ['female','male','other','mixed']
