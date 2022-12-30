@@ -1762,15 +1762,13 @@
         "female:triple penetration"
     ],
     "(C93) [Steel Mayonnaise (ひぐちいさみ)] 肉巫女の宴 参 ～妖幻の淫囚～ [中国翻訳] [無修正]":[
-        "group:steel mayonnaise",
         "female:anal",
         "female:double anal",
         "female:double penetration",
         "female:double vaginal",
         "female:miko",
         "female:nakadashi",
-        "female:triple penetration",
-        "other:uncensored"
+        "female:triple penetration"
     ],
     "(C93) [TYPE-57 (ふらんべる)] TYPE-45 spec-02 (大家さんは思春期) [中国翻訳]":[
         "male:glasses",
@@ -9554,7 +9552,6 @@
         "female:sole female"
     ],
     "[Steel Mayonnaise (ひぐちいさみ)] 肉巫女の宴 弐 ～濡れ堕ちの贄～ [中国翻訳] [無修正]":[
-        "group:steel mayonnaise",
         "male:bbm",
         "male:ghost",
         "male:masked face",
@@ -9563,8 +9560,7 @@
         "female:exhibitionism",
         "female:miko",
         "female:nakadashi",
-        "female:sole female",
-        "other:uncensored"
+        "female:sole female"
     ],
     "[Steel Mayonnaise (ひぐちいさみ)] 肉巫女の宴 肆 ～彷徨の縛卯～[中国翻訳] [無修正]":[
         "male:ghost",
@@ -9656,7 +9652,6 @@
         "female:sex toys"
     ],
     "[TSFのF (NOMU)] サキュバス倶楽部へようこそ2 妹の妹♀にされたけど彼女ができました♥ [中国翻訳]":[
-        "language:translated",
         "group:tsf no f",
         "male:gender change",
         "female:demon girl",
@@ -12131,6 +12126,18 @@
         "female:schoolgirl uniform",
         "female:sole female",
         "female:x-ray"
+    ],
+    "[おとなごっこ委員会 (ホロナミン)] 彼女は夜に消える (僕らのCQC) [中国翻訳]":[
+        "language:translated",
+        "group:otonagokko iinkai",
+        "female:anal",
+        "female:anal intercourse",
+        "female:double penetration",
+        "female:lolicon",
+        "female:rape",
+        "female:schoolgirl uniform",
+        "female:sole female",
+        "mixed:mmf threesome"
     ],
     "[おぴょん] ひみつの道具で助けてカナえもん2 [中国翻訳]":[
         "female:kemonomimi",
@@ -17528,7 +17535,6 @@
         "female:tail"
     ],
     "[シイナ] ノラネコ少女との暮らしかた 第22-36話 [中国翻訳]":[
-        "language:translated",
         "male:christmas",
         "female:deer girl",
         "female:drunk",
@@ -20348,6 +20354,26 @@
         "female:sole female",
         "female:twintails"
     ],
+    "[二三月そう] 1LDK+JK いきなり同居? 密着!? 初エッチ!!? 第18-38話  [中国翻訳]":[
+        "language:translated",
+        "male:business suit",
+        "male:schoolboy uniform",
+        "male:sole male",
+        "male:teacher",
+        "female:blowjob",
+        "female:defloration",
+        "female:exhibitionism",
+        "female:hairy",
+        "female:maid",
+        "female:masturbation",
+        "female:nakadashi",
+        "female:paizuri",
+        "female:pantyhose",
+        "female:schoolgirl uniform",
+        "female:smell",
+        "female:sole female",
+        "female:twintails"
+    ],
     "[二次結び (大野かなえ)] ぼくらのひみつきち [中国翻訳] [DL版]":[
         "male:shotacon",
         "male:virginity",
@@ -21113,6 +21139,18 @@
         "female:christmas",
         "female:milf",
         "female:sole female"
+    ],
+    "[卡滋箱 (卡滋馬)] ジャヒー様は我慢しない! (ジャヒー様はくじけない!) [中国語] [DL版]":[
+        "language:translated",
+        "character:jahy",
+        "artist:kazma",
+        "female:lolicon",
+        "female:masturbation",
+        "female:sex toys",
+        "female:sole female",
+        "female:solo action",
+        "female:squirting",
+        "female:unusual insertions"
     ],
     "[卡滋箱 (卡滋馬)] 魔王城でおなにー (魔王城でおやすみ) [日本語、中国語]":[
         "female:lolicon",
@@ -27353,6 +27391,10 @@
         "female:tail",
         "female:twintails",
         "female:very long hair"
+    ],
+    "おにまいエロ漫画/別醬了小黃漫(咕鴿翻譯)":[
+        "language:translated",
+        "artist:ashita cha"
     ],
     "アーティスト - かるたも":[
         "female:lolicon"
