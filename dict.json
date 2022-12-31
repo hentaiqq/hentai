@@ -11761,7 +11761,6 @@
     },
     {
         "[TSFのF (NOMU)] サキュバス倶楽部へようこそ2 妹の妹♀にされたけど彼女ができました♥ [中国翻訳]":[
-            "group:tsf no f",
             "male:gender change",
             "female:demon girl",
             "female:schoolgirl uniform",
@@ -14675,6 +14674,18 @@
             "female:schoolgirl uniform",
             "female:sole female",
             "female:x-ray"
+        ]
+    },
+    {
+        "[おとなごっこ委員会 (ホロナミン)] 彼女は夜に消える (僕らのCQC) [中国翻訳]":[
+            "group:otonagokko iinkai",
+            "female:anal",
+            "female:anal intercourse",
+            "female:double penetration",
+            "female:lolicon",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:sole female"
         ]
     },
     {
@@ -24459,6 +24470,27 @@
         ]
     },
     {
+        "[二三月そう] 1LDK+JK いきなり同居? 密着!? 初エッチ!!? 第18-38話  [中国翻訳]":[
+            "male:business suit",
+            "male:schoolboy uniform",
+            "male:sole male",
+            "male:teacher",
+            "female:blowjob",
+            "female:defloration",
+            "female:exhibitionism",
+            "female:hairy",
+            "female:maid",
+            "female:masturbation",
+            "female:nakadashi",
+            "female:paizuri",
+            "female:pantyhose",
+            "female:schoolgirl uniform",
+            "female:smell",
+            "female:sole female",
+            "female:twintails"
+        ]
+    },
+    {
         "[二次結び (大野かなえ)] ぼくらのひみつきち [中国翻訳] [DL版]":[
             "male:shotacon",
             "male:virginity",
@@ -25344,6 +25376,18 @@
             "female:christmas",
             "female:milf",
             "female:sole female"
+        ]
+    },
+    {
+        "[卡滋箱 (卡滋馬)] ジャヒー様は我慢しない! (ジャヒー様はくじけない!) [中国語] [DL版]":[
+            "character:jahy",
+            "female:lolicon",
+            "female:masturbation",
+            "female:sex toys",
+            "female:sole female",
+            "female:solo action",
+            "female:squirting",
+            "female:unusual insertions"
         ]
     },
     {
@@ -32711,6 +32755,11 @@
         ]
     },
     {
+        "おにまいエロ漫画/別醬了小黃漫(咕鴿翻譯)":[
+            "artist:ashita cha"
+        ]
+    },
+    {
         "アーティスト - かるたも":[
             "female:lolicon"
         ]
@@ -32858,59 +32907,104 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[二三月そう] 1LDK+JK いきなり同居? 密着!? 初エッチ!!? 第18-38話  [中国翻訳]":[
+        "[文雅] 従順ナデシコ [中国翻訳] [DL版]":[
             "language:translated",
-            "male:business suit",
             "male:schoolboy uniform",
-            "male:sole male",
-            "male:teacher",
+            "male:virginity",
             "female:blowjob",
             "female:defloration",
-            "female:exhibitionism",
-            "female:hairy",
-            "female:maid",
-            "female:masturbation",
-            "female:nakadashi",
-            "female:paizuri",
-            "female:pantyhose",
+            "female:dog girl",
+            "female:fox girl",
+            "female:garter belt",
+            "female:kemonomimi",
+            "female:lingerie",
+            "female:pixie cut",
+            "female:ponytail",
             "female:schoolgirl uniform",
-            "female:smell",
-            "female:sole female",
-            "female:twintails"
+            "female:sex toys",
+            "female:sister",
+            "female:stockings",
+            "female:twintails",
+            "mixed:group",
+            "mixed:inseki"
         ]
     },
     {
-        "[おとなごっこ委員会 (ホロナミン)] 彼女は夜に消える (僕らのCQC) [中国翻訳]":[
+        "(COMIC1 BS祭 スペシャル) [サークルフィオレ (えかきびと)] 青春独占日 (プリンセスコネクト!Re:Dive)  [中国翻訳]":[
             "language:translated",
-            "group:otonagokko iinkai",
+            "character:chieru kazama",
+            "artist:ekakibit",
+            "male:sole male",
+            "female:sole female"
+        ]
+    },
+    {
+        "(C94) [クロ缶 (伊月クロ)] 凛の問題拡散中! (ラブライブ!) [中国翻訳]":[
+            "language:translated",
+            "character:hanayo koizumi",
+            "character:rin hoshizora",
+            "artist:itsuki kuro",
+            "female:condom",
+            "female:futanari",
+            "female:group",
+            "female:small breasts",
+            "female:sole female",
+            "female:ttf threesome",
+            "female:x-ray"
+        ]
+    },
+    {
+        "(C93) [クロ缶 (伊月クロ)] 凛の問題解決中! (ラブライブ!) [中国翻訳]":[
+            "language:translated",
+            "character:hanayo koizumi",
+            "character:rin hoshizora",
+            "artist:itsuki kuro",
+            "female:fft threesome",
+            "female:fingering",
+            "female:futanari",
+            "female:group",
+            "female:schoolgirl uniform",
+            "female:sole dickgirl"
+        ]
+    },
+    {
+        "[あおむし] 中田さんと邪悪なふたなり元カノ軍団 (コミックアンリアル 2019年2月号 Vol.77)  [中国翻訳] [DL版]":[
+            "language:translated",
             "female:anal",
-            "female:anal intercourse",
+            "female:defloration",
+            "female:demon girl",
+            "female:dick growth",
+            "female:dickgirl on dickgirl",
             "female:double penetration",
-            "female:lolicon",
+            "female:futanari",
+            "female:group",
+            "female:horns",
+            "female:nakadashi",
+            "female:pixie cut",
+            "female:ponytail",
             "female:rape",
             "female:schoolgirl uniform",
+            "female:small breasts",
             "female:sole female",
-            "mixed:mmf threesome"
+            "female:ttf threesome",
+            "female:unusual pupils"
         ]
     },
     {
-        "[卡滋箱 (卡滋馬)] ジャヒー様は我慢しない! (ジャヒー様はくじけない!) [中国語] [DL版]":[
+        "(C84) [ゲルピン(水無月十三)] アソコのキュンキュンとまらないよ (ドキドキ!プリキュア) [中国翻訳]":[
             "language:translated",
-            "character:jahy",
-            "artist:kazma",
+            "character:cure beauty",
+            "character:cure heart",
+            "group:gerupin",
+            "female:anal",
+            "female:blowjob",
+            "female:dick growth",
+            "female:dickgirl on dickgirl",
+            "female:double penetration",
+            "female:futanari",
+            "female:group",
             "female:lolicon",
-            "female:masturbation",
-            "female:sex toys",
-            "female:sole female",
-            "female:solo action",
-            "female:squirting",
-            "female:unusual insertions"
-        ]
-    },
-    {
-        "おにまいエロ漫画/別醬了小黃漫(咕鴿翻譯)":[
-            "language:translated",
-            "artist:ashita cha"
+            "female:ttf threesome"
         ]
     }
 ]
