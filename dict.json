@@ -3489,7 +3489,6 @@
     },
     {
         "(C95) [ちりめんすたじお (もやしばーすと)] コスえっち♡ようむちゃん (東方Project) [中国翻訳]":[
-            "character:youmu konpaku",
             "male:dark skin",
             "male:sole male",
             "female:christmas",
@@ -7009,9 +7008,7 @@
     },
     {
         "(Like!Love!Live!9) [virophilia (織日ちひろ)] カーテンコールと呼ぶには甘美過ぎた (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) [中国翻訳]":[
-            "language:translated",
             "character:shizuku osaka",
-            "group:virophilia",
             "female:futanari",
             "female:sole dickgirl",
             "female:sole female"
@@ -7970,6 +7967,17 @@
             "male:sole male",
             "female:lolicon",
             "female:minigirl",
+            "female:sole female"
+        ]
+    },
+    {
+        "(例大祭16) [ももエゴ (けいじえい)] ハレのヒ〇ナリ (東方Project) [中国翻訳]":[
+            "character:sanae kochiya",
+            "female:anal",
+            "female:anal intercourse",
+            "female:detached sleeves",
+            "female:masturbation",
+            "female:miko",
             "female:sole female"
         ]
     },
@@ -12126,6 +12134,24 @@
             "female:tail plug",
             "female:twintails",
             "female:yuri"
+        ]
+    },
+    {
+        "[Usacastle (うさ城まに)] とつげき♥双子さきゅばすちゃん [中国翻訳] [DL版]":[
+            "group:usacastle",
+            "male:sole male",
+            "female:demon girl",
+            "female:exposed clothing",
+            "female:lingerie",
+            "female:lolicon",
+            "female:multimouth blowjob",
+            "female:oppai loli",
+            "female:shimaidon",
+            "female:stockings",
+            "female:tail",
+            "female:twins",
+            "female:twintails",
+            "female:very long hair"
         ]
     },
     {
@@ -33160,37 +33186,93 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "(例大祭16) [ももエゴ (けいじえい)] ハレのヒ〇ナリ (東方Project) [中国翻訳]":[
+        "[きつね屋 (リーフィ)] アビドス借金対策委員会 (ブルーアーカイブ) [中国翻訳] [DL版]":[
             "language:translated",
-            "character:sanae kochiya",
-            "artist:kei jiei",
-            "female:anal",
-            "female:anal intercourse",
-            "female:detached sleeves",
-            "female:masturbation",
-            "female:miko",
-            "female:sole female",
-            "mixed:mmf threesome"
+            "character:hoshino takanashi",
+            "artist:leafy",
+            "female:bikini",
+            "female:drugs",
+            "female:lolicon",
+            "female:prostitution",
+            "female:swimsuit"
         ]
     },
     {
-        "[Usacastle (うさ城まに)] とつげき♥双子さきゅばすちゃん [中国翻訳] [DL版]":[
+        "[あいらんどう] せっかく異世界転生したからロリ魔女に弟子入りしてみた [中国翻訳]":[
             "language:translated",
-            "group:usacastle",
-            "male:sole male",
-            "female:demon girl",
-            "female:exposed clothing",
-            "female:lingerie",
+            "artist:airandou",
+            "female:crotch tattoo",
             "female:lolicon",
-            "female:multimouth blowjob",
-            "female:oppai loli",
-            "female:shimaidon",
+            "female:nakadashi",
+            "female:sole female",
+            "female:thick eyebrows",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[銀ちゃん] 莉莉丝的烦恼 [中国語] [進行中]":[
+            "parody:original",
+            "female:collar",
+            "female:demon girl",
+            "female:females only",
+            "female:horns",
+            "female:leash",
+            "female:schoolgirl uniform",
             "female:stockings",
-            "female:tail",
-            "female:twins",
             "female:twintails",
-            "female:very long hair",
-            "mixed:group"
+            "female:yuri"
+        ]
+    },
+    {
+        "(C84) [SSB (まりりん)] 撮り下ろし新規映像 奈良円光-東京出張編- (咲-Saki-) [中国翻訳]":[
+            "language:translated",
+            "character:ako atarashi",
+            "artist:ssa",
+            "male:chikan",
+            "male:condom",
+            "male:dilf",
+            "female:blowjob",
+            "female:chikan",
+            "female:nakadashi",
+            "female:schoolgirl uniform",
+            "female:sole female"
+        ]
+    },
+    {
+        "(C85) [カミナリネコ (えーたろー)] 咲みだれ (咲-Saki-) [中国翻訳]":[
+            "language:translated",
+            "character:ako atarashi",
+            "character:kuro matsumi",
+            "character:yuu matsumi",
+            "artist:eitarou",
+            "female:lolicon",
+            "female:stockings"
+        ]
+    },
+    {
+        "[千変万化式 (DATE)] 他人になるクスリ4 [中国翻訳]":[
+            "language:translated",
+            "group:senpenbankashiki",
+            "male:gender change",
+            "female:ponytail",
+            "female:possession",
+            "female:schoolgirl uniform",
+            "female:yuri"
+        ]
+    },
+    {
+        "(C84) [shakestyle (ShAKe)] おじさませっくす (咲-Saki-) [中国翻訳]":[
+            "language:translated",
+            "character:ako atarashi",
+            "group:shakestyle",
+            "male:condom",
+            "male:dilf",
+            "female:anal",
+            "female:blowjob",
+            "female:double penetration",
+            "female:schoolgirl uniform",
+            "female:stockings",
+            "mixed:mmf threesome"
         ]
     }
 ]
