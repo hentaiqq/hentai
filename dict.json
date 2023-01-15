@@ -597,7 +597,6 @@
     },
     {
         "(C85) [カミナリネコ (えーたろー)] 咲みだれ (咲-Saki-) [中国翻訳]":[
-            "character:yuu matsumi",
             "female:lolicon",
             "female:stockings"
         ]
@@ -20985,6 +20984,22 @@
         ]
     },
     {
+        "[クワガタの園 (おいしいクワガタ)] 穢れた白鷺 (原神)  [中国翻訳]":[
+            "character:ayaka kamisato",
+            "male:bald",
+            "male:bbm",
+            "male:dark skin",
+            "male:dilf",
+            "male:sole male",
+            "female:blackmail",
+            "female:blowjob",
+            "female:bondage",
+            "female:ponytail",
+            "female:rape",
+            "female:sole female"
+        ]
+    },
+    {
         "[ココアホリック (ユイザキカズヤ)] おんなのこのまゆ3 －ヰタ・セクスアリス－ [中国翻訳] [DL版]":[
             "female:kimono",
             "female:lolicon",
@@ -33254,20 +33269,23 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[クワガタの園 (おいしいクワガタ)] 穢れた白鷺 (原神)  [中国翻訳]":[
+        "[愛は暗闇 (まるいりゅう)] 甘くてほろ苦い世界 (BanG Dream!) [中国翻訳]":[
             "language:translated",
-            "character:ayaka kamisato",
-            "male:bald",
-            "male:bbm",
-            "male:dark skin",
-            "male:dilf",
+            "character:moca aoba",
+            "artist:marui ryuu",
             "male:sole male",
-            "female:blackmail",
-            "female:blowjob",
-            "female:bondage",
-            "female:ponytail",
-            "female:rape",
+            "female:collar",
             "female:sole female"
+        ]
+    },
+    {
+        "[愛は暗闇 (まるいりゅう)] 反骨メッシュカラー (BanG Dream!) [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:ai wa kurayami",
+            "male:sole male",
+            "female:blowjob",
+            "female:collar",
+            "other:mosaic censorship"
         ]
     }
 ]
