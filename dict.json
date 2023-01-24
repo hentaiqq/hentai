@@ -8261,6 +8261,17 @@
         ]
     },
     {
+        "(秋季例大祭9) [難民ふぇすてぃばる (ぎヴちょこ)] 博麗の小さな巫女さんとの秘密のアイビキ (東方Project) [中国翻訳]":[
+            "character:reimu hakurei",
+            "male:kimono",
+            "male:sole male",
+            "female:kimono",
+            "female:miko",
+            "female:nakadashi",
+            "female:sole female"
+        ]
+    },
+    {
         "(秋葉原同人祭 第一回) [小糸創作所 (ひなた睦月)] 主さまのためなら... (プリンセスコネクト!Re:Dive) [中国翻訳]":[
             "female:anal",
             "female:defloration",
@@ -11602,6 +11613,18 @@
             "female:sister",
             "female:stockings",
             "female:twintails"
+        ]
+    },
+    {
+        "[Rico] 快感フィジカルトレーニング (COMIC LO 2023年1月号) [中国翻訳] [DL版]":[
+            "male:coach",
+            "male:sole male",
+            "female:bikini",
+            "female:bisexual",
+            "female:defloration",
+            "female:lolicon",
+            "female:sweating",
+            "female:swimsuit"
         ]
     },
     {
@@ -33442,29 +33465,43 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[Rico] 快感フィジカルトレーニング (COMIC LO 2023年1月号) [中国翻訳] [DL版]":[
+        "[流石堂 (流ひょうご)] 衝撃反動 (リコリス・リコイル) [中国翻訳]":[
             "language:translated",
-            "male:coach",
-            "male:sole male",
-            "female:bikini",
-            "female:bisexual",
-            "female:defloration",
-            "female:lolicon",
-            "female:sweating",
-            "female:swimsuit",
-            "mixed:group"
+            "character:takina inoue",
+            "artist:nagare hyo-go",
+            "male:condom",
+            "male:dilf",
+            "male:snuff",
+            "female:nakadashi",
+            "female:prostitution",
+            "female:schoolgirl uniform",
+            "female:sole female"
         ]
     },
     {
-        "(秋季例大祭9) [難民ふぇすてぃばる (ぎヴちょこ)] 博麗の小さな巫女さんとの秘密のアイビキ (東方Project) [中国翻訳]":[
+        "[VENOM (Rusty Soul、或十せねか)] Eat Meat Girl 4 (ラブライブ!) [中国翻訳] [DL版]":[
             "language:translated",
-            "character:reimu hakurei",
-            "artist:gibuchoko",
-            "male:kimono",
+            "character:cotaro yazawa",
+            "group:venom",
+            "artist:rusty soul",
+            "male:crossdressing",
+            "male:shotacon",
             "male:sole male",
-            "female:kimono",
-            "female:miko",
-            "female:nakadashi",
+            "male:tomgirl",
+            "male:twintails",
+            "female:femdom"
+        ]
+    },
+    {
+        "[VENOM (Rusty Soul、或十せねか)] Eat Meat Girl 2 (ラブライブ!) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:cotaro yazawa",
+            "group:venom",
+            "artist:rusty soul",
+            "male:shotacon",
+            "male:sole male",
+            "female:anal",
+            "female:big breasts",
             "female:sole female"
         ]
     }
