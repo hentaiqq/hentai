@@ -8262,7 +8262,6 @@
     },
     {
         "(秋季例大祭9) [難民ふぇすてぃばる (ぎヴちょこ)] 博麗の小さな巫女さんとの秘密のアイビキ (東方Project) [中国翻訳]":[
-            "character:reimu hakurei",
             "male:kimono",
             "male:sole male",
             "female:kimono",
@@ -12282,6 +12281,29 @@
             "female:tail",
             "female:twins",
             "female:twintails"
+        ]
+    },
+    {
+        "[VENOM (Rusty Soul、或十せねか)] Eat Meat Girl 2 (ラブライブ!) [中国翻訳] [DL版]":[
+            "character:cotaro yazawa",
+            "artist:rusty soul",
+            "male:shotacon",
+            "male:sole male",
+            "female:anal",
+            "female:big breasts",
+            "female:sole female"
+        ]
+    },
+    {
+        "[VENOM (Rusty Soul、或十せねか)] Eat Meat Girl 4 (ラブライブ!) [中国翻訳] [DL版]":[
+            "character:cotaro yazawa",
+            "artist:rusty soul",
+            "male:crossdressing",
+            "male:shotacon",
+            "male:sole male",
+            "male:tomgirl",
+            "male:twintails",
+            "female:femdom"
         ]
     },
     {
@@ -28966,6 +28988,18 @@
         ]
     },
     {
+        "[流石堂 (流ひょうご)] 衝撃反動 (リコリス・リコイル) [中国翻訳]":[
+            "character:takina inoue",
+            "male:condom",
+            "male:dilf",
+            "male:snuff",
+            "female:nakadashi",
+            "female:prostitution",
+            "female:schoolgirl uniform",
+            "female:sole female"
+        ]
+    },
+    {
         "[浅月のりと] 有栖川煉ってホントは女なんだよね。 [中国翻訳]":[
             "male:sole male",
             "female:bandages",
@@ -33465,44 +33499,99 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[流石堂 (流ひょうご)] 衝撃反動 (リコリス・リコイル) [中国翻訳]":[
-            "language:translated",
-            "character:takina inoue",
-            "artist:nagare hyo-go",
-            "male:condom",
-            "male:dilf",
-            "male:snuff",
-            "female:nakadashi",
-            "female:prostitution",
-            "female:schoolgirl uniform",
-            "female:sole female"
+        "[Hamao] オフライン [無邪気漢化組]":[]
+    },
+    {
+        "[Kataokasan] 阿能 vs 巨型源石虫 (明日方舟) [中国語] [無修正]":[
+            "parody:arknights",
+            "artist:kataokasan",
+            "female:anal",
+            "female:angel",
+            "female:defloration",
+            "female:double penetration",
+            "female:drugs",
+            "female:eggs",
+            "female:eye-covering bang",
+            "female:pantyhose",
+            "female:pregnant",
+            "female:rape",
+            "female:sole female",
+            "female:tentacles",
+            "female:urethra insertion",
+            "female:vore",
+            "other:uncensored"
         ]
     },
     {
-        "[VENOM (Rusty Soul、或十せねか)] Eat Meat Girl 4 (ラブライブ!) [中国翻訳] [DL版]":[
+        "[あいらんどう] 先生おちんちん見せてください! (COMIC LO 2021年7月号) [中国翻訳] [無修正] [DL版]":[
             "language:translated",
-            "character:cotaro yazawa",
-            "group:venom",
-            "artist:rusty soul",
-            "male:crossdressing",
-            "male:shotacon",
+            "male:glasses",
+            "male:smegma",
             "male:sole male",
-            "male:tomgirl",
-            "male:twintails",
-            "female:femdom"
+            "male:teacher",
+            "female:ahegao",
+            "female:blowjob",
+            "female:deepthroat",
+            "female:lolicon",
+            "female:masturbation",
+            "female:nakadashi",
+            "female:randoseru",
+            "female:sole female",
+            "female:squirting",
+            "female:sweating",
+            "female:x-ray"
         ]
     },
     {
-        "[VENOM (Rusty Soul、或十せねか)] Eat Meat Girl 2 (ラブライブ!) [中国翻訳] [DL版]":[
+        "[えのころくらげ (NOSA)] Let's enjoy our life together (ラブライブ!虹ヶ咲学園スクールアイドル同好会) [中国翻訳][DL版]":[
             "language:translated",
-            "character:cotaro yazawa",
-            "group:venom",
-            "artist:rusty soul",
-            "male:shotacon",
+            "character:emma verde",
+            "character:kasumi nakasu",
+            "character:yu takasaki",
+            "artist:nosa",
+            "female:dickgirl on dickgirl",
+            "female:futanari"
+        ]
+    },
+    {
+        "(C95) [Sniff Dogs (氏家もく)] JS*あならいず [中国翻訳]":[
+            "language:translated",
+            "group:sniff dogs",
             "male:sole male",
             "female:anal",
-            "female:big breasts",
+            "female:anal intercourse",
+            "female:focus anal",
+            "female:lolicon",
+            "female:sex toys",
             "female:sole female"
+        ]
+    },
+    {
+        "[Tempest (伊巻てん、温野りょく)] TSねこサキュバスさんは搾精なんてしたくない! [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:tempest",
+            "male:gender change",
+            "male:shotacon",
+            "male:sole male",
+            "female:ahegao",
+            "female:collar",
+            "female:gloves",
+            "female:kemonomimi",
+            "female:sole female",
+            "female:tail"
+        ]
+    },
+    {
+        "(C86) [VENOM (Rusty Soul, 或十せねか)] Love Pure！ (Love Live!) [中国翻訳]":[
+            "language:translated",
+            "character:hanayo koizumi",
+            "character:nozomi tojo",
+            "artist:alto seneka",
+            "male:dark skin",
+            "female:ahegao",
+            "female:bikini",
+            "female:swimsuit",
+            "other:full color"
         ]
     }
 ]
