@@ -669,7 +669,6 @@
     },
     {
         "(C86) [VENOM (Rusty Soul, 或十せねか)] Love Pure！ (Love Live!) [中国翻訳]":[
-            "character:hanayo koizumi",
             "artist:alto seneka",
             "male:dark skin",
             "female:ahegao",
@@ -2186,6 +2185,18 @@
         ]
     },
     {
+        "(C92) [第6基地 (キチロク)] 女子大生南ことりのヤリサー事件簿 Case.1 (ラブライブ!) [中国翻訳]":[
+            "character:kotori minami",
+            "male:condom",
+            "female:blowjob",
+            "female:drugs",
+            "female:drunk",
+            "female:rape",
+            "female:sole female",
+            "female:stockings"
+        ]
+    },
+    {
         "(C92) [鴨川屋 (鴨川たぬき)] ラブハレ! Love Halation! Ver.H&R (ラブライブ!) [中国翻訳]":[
             "female:glasses",
             "female:pantyhose",
@@ -2577,6 +2588,32 @@
             "female:sole female",
             "female:stockings",
             "female:twintails"
+        ]
+    },
+    {
+        "(C93) [第6基地 (キチロク)] 女子大生南ことりのヤリサー事件簿Case.1.5 (ラブライブ!) [中国翻訳]":[
+            "character:kotori minami",
+            "female:masturbation",
+            "female:sex toys",
+            "female:sole female"
+        ]
+    },
+    {
+        "(C93) [第6基地 (キチロク)] 女子大生南ことりのヤリサー事件簿Case.2 (ラブライブ!) [中国翻訳]":[
+            "character:kotori minami",
+            "male:harem",
+            "female:anal",
+            "female:bikini",
+            "female:blackmail",
+            "female:blowjob",
+            "female:double penetration",
+            "female:drugs",
+            "female:drunk",
+            "female:mind break",
+            "female:nakadashi",
+            "female:sole female",
+            "female:swimsuit",
+            "female:unusual pupils"
         ]
     },
     {
@@ -3374,7 +3411,6 @@
     },
     {
         "(C95) [Sniff Dogs (氏家もく)] JS*あならいず [中国翻訳]":[
-            "group:sniff dogs",
             "male:sole male",
             "female:anal",
             "female:anal intercourse",
@@ -3701,6 +3737,21 @@
             "female:sole female",
             "female:stockings",
             "female:twintails"
+        ]
+    },
+    {
+        "(C95) [第6基地 (キチロク)] 女子大生南ことりのヤリサー事件簿Case.4 (ラブライブ!) [中国翻訳]":[
+            "character:kotori minami",
+            "male:bbm",
+            "male:condom",
+            "male:dark skin",
+            "male:dilf",
+            "male:harem",
+            "female:anal",
+            "female:blowjob",
+            "female:double penetration",
+            "female:exhibitionism",
+            "female:lingerie"
         ]
     },
     {
@@ -5896,6 +5947,18 @@
             "female:sweating",
             "female:tiara",
             "female:x-ray"
+        ]
+    },
+    {
+        "(C97) [第6基地 (キチロク)] 女子大生高坂穂乃果のヤリサー事件簿 (ラブライブ!) [中国翻訳]":[
+            "parody:love live",
+            "artist:kichirock",
+            "female:ahegao",
+            "female:blowjob",
+            "female:double penetration",
+            "female:drugs",
+            "female:mind break",
+            "female:rape"
         ]
     },
     {
@@ -10409,7 +10472,6 @@
     },
     {
         "[Kataokasan] 阿能 vs 巨型源石虫 (明日方舟) [中国語] [無修正]":[
-            "artist:kataokasan",
             "female:anal",
             "female:angel",
             "female:defloration",
@@ -12141,7 +12203,6 @@
     },
     {
         "[Tempest (伊巻てん、温野りょく)] TSねこサキュバスさんは搾精なんてしたくない! [中国翻訳] [DL版]":[
-            "group:tempest",
             "male:gender change",
             "male:shotacon",
             "male:sole male",
@@ -12343,7 +12404,6 @@
     },
     {
         "[VENOM (Rusty Soul、或十せねか)] Eat Meat Girl 2 (ラブライブ!) [中国翻訳] [DL版]":[
-            "artist:rusty soul",
             "male:shotacon",
             "male:sole male",
             "female:anal",
@@ -12353,7 +12413,6 @@
     },
     {
         "[VENOM (Rusty Soul、或十せねか)] Eat Meat Girl 4 (ラブライブ!) [中国翻訳] [DL版]":[
-            "artist:rusty soul",
             "male:crossdressing",
             "male:shotacon",
             "male:sole male",
@@ -14884,7 +14943,6 @@
     },
     {
         "[えのころくらげ (NOSA)] Let's enjoy our life together (ラブライブ!虹ヶ咲学園スクールアイドル同好会) [中国翻訳][DL版]":[
-            "character:emma verde",
             "character:yu takasaki",
             "female:dickgirl on dickgirl",
             "female:futanari"
@@ -30696,6 +30754,17 @@
         ]
     },
     {
+        "[第6基地 (キチロク)] コトリのハナシ (ラブライブ!) [中国翻訳]  [DL版] [ページ欠落]":[
+            "character:kotori minami",
+            "female:blackmail",
+            "female:milf",
+            "female:mind break",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:stockings"
+        ]
+    },
+    {
         "[篠屋 (推乃)] 夜の避難先 [中国翻訳]":[
             "male:glasses",
             "male:sole male",
@@ -33581,96 +33650,64 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[第6基地 (キチロク)] コトリのハナシ (ラブライブ!) [中国翻訳]  [DL版] [ページ欠落]":[
+        "[ふずめ] 【NTR】子供たちの性処理係になったココナちゃんとシュン(幼女) (ブルーアーカイブ) [中国翻訳]":[
             "language:translated",
-            "character:kotori minami",
-            "artist:kichirock",
-            "female:blackmail",
-            "female:milf",
-            "female:mind break",
-            "female:rape",
-            "female:schoolgirl uniform",
-            "female:stockings",
-            "other:multi-work series"
+            "character:kokona sunohara",
+            "group:fuzume",
+            "male:shotacon",
+            "female:chinese dress",
+            "female:impregnation",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:twintails",
+            "female:very long hair"
         ]
     },
     {
-        "(C97) [第6基地 (キチロク)] 女子大生高坂穂乃果のヤリサー事件簿 (ラブライブ!) [中国翻訳]":[
-            "language:rewrite",
-            "parody:love live",
-            "character:kotori minami",
-            "artist:kichirock",
-            "female:ahegao",
-            "female:blowjob",
-            "female:double penetration",
-            "female:drugs",
-            "female:mind break",
-            "female:rape",
-            "mixed:mmf threesome"
-        ]
-    },
-    {
-        "(C95) [第6基地 (キチロク)] 女子大生南ことりのヤリサー事件簿Case.4 (ラブライブ!) [中国翻訳]":[
+        "[えのころくらげ (NOSA)] あなたの声に応えたい (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) [中国翻訳] [DL版]":[
             "language:translated",
-            "character:kotori minami",
-            "artist:kichirock",
-            "male:bbm",
-            "male:condom",
-            "male:dark skin",
-            "male:dilf",
-            "male:harem",
+            "character:setsuna yuki",
+            "artist:nosa",
             "female:anal",
-            "female:blowjob",
-            "female:double penetration",
-            "female:exhibitionism",
-            "female:lingerie",
-            "mixed:mmf threesome"
-        ]
-    },
-    {
-        "(C93) [第6基地 (キチロク)] 女子大生南ことりのヤリサー事件簿Case.1.5 (ラブライブ!) [中国翻訳]":[
-            "language:translated",
-            "character:kotori minami",
-            "artist:kichirock",
-            "female:masturbation",
-            "female:sex toys",
-            "female:sole female"
-        ]
-    },
-    {
-        "(C93) [第6基地 (キチロク)] 女子大生南ことりのヤリサー事件簿Case.2 (ラブライブ!) [中国翻訳]":[
-            "language:translated",
-            "character:kotori minami",
-            "artist:kichirock",
-            "male:harem",
-            "female:anal",
+            "female:anal intercourse",
             "female:bikini",
-            "female:blackmail",
             "female:blowjob",
             "female:double penetration",
-            "female:drugs",
-            "female:drunk",
-            "female:mind break",
-            "female:nakadashi",
             "female:sole female",
             "female:swimsuit",
-            "female:unusual pupils",
-            "mixed:mmf threesome"
+            "female:triple penetration",
+            "female:twintails"
         ]
     },
     {
-        "(C92) [第6基地 (キチロク)] 女子大生南ことりのヤリサー事件簿 Case.1 (ラブライブ!) [中国翻訳]":[
+        "[にゃんこたつ (にゃるこ)] 新しいお義母さんとエッチな初体験 [中国翻訳]":[
             "language:translated",
-            "character:kotori minami",
-            "artist:kichirock",
-            "male:condom",
-            "female:blowjob",
-            "female:drugs",
-            "female:drunk",
-            "female:rape",
+            "group:nyan kotatsu",
+            "male:shotacon",
+            "male:sole male",
+            "female:mother",
+            "female:pantyhose",
             "female:sole female",
+            "female:widow",
+            "mixed:inseki",
+            "other:mosaic censorship"
+        ]
+    },
+    {
+        "[きのこのみ (konomi)] ニャンコロジ総集編 [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:kinokonomi",
+            "male:schoolboy uniform",
+            "female:bloomers",
+            "female:bunny girl",
+            "female:catgirl",
+            "female:kemonomimi",
+            "female:schoolgirl uniform",
             "female:stockings",
-            "mixed:mmf threesome"
+            "female:sweating",
+            "female:tail",
+            "female:twintails",
+            "other:story arc"
         ]
     }
 ]
