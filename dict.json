@@ -10483,7 +10483,6 @@
     },
     {
         "[Kataokasan] 阿能的生日派对（明日方舟）[中文] [无修正]":[
-            "character:fiammetta",
             "character:texas",
             "female:anal",
             "female:anal intercourse",
@@ -14488,6 +14487,20 @@
             "female:glasses",
             "female:netorare",
             "female:rape"
+        ]
+    },
+    {
+        "[あらまあ] 思春期息子はお母さんに欲情する [中国翻訳]":[
+            "group:aramaa",
+            "male:sole male",
+            "female:big ass",
+            "female:big breasts",
+            "female:cheating",
+            "female:drunk",
+            "female:milf",
+            "female:mother",
+            "female:sleeping",
+            "female:sole female"
         ]
     },
     {
@@ -33710,19 +33723,35 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[あらまあ] 思春期息子はお母さんに欲情する [中国翻訳]":[
+        "[すぱいらる (在誠舞あゆか+)] 娘の友達のメスガキに犯されました [中国翻訳]":[
             "language:translated",
-            "group:aramaa",
-            "male:sole male",
-            "female:big ass",
-            "female:big breasts",
-            "female:cheating",
-            "female:drunk",
-            "female:milf",
-            "female:mother",
-            "female:sleeping",
+            "group:spiral",
+            "male:anal",
+            "male:cheating",
+            "male:dilf",
+            "male:facial hair",
+            "male:multiple orgasms",
+            "male:sex toys",
+            "female:collar",
+            "female:femdom",
+            "female:lolicon",
+            "female:shimapan",
+            "female:smalldom",
             "female:sole female",
-            "other:mosaic censorship"
+            "female:x-ray"
+        ]
+    },
+    {
+        "(秋葉原超同人祭) [ロリポップコンプリート (恋小いろり)] うちのネコはウイルスにつよい!! [中国翻訳]":[
+            "language:translated",
+            "group:lolipop complete",
+            "male:sole male",
+            "female:catgirl",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:sole female",
+            "female:stockings",
+            "female:tail"
         ]
     }
 ]
