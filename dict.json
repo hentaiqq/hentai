@@ -3885,7 +3885,6 @@
     },
     {
         "(C96) [ACID EATERS (和馬村政)] 見逃してほしいルン (スター☆トゥインクルプリキュア) [中国翻訳]":[
-            "character:cure milky",
             "male:glasses",
             "female:gloves",
             "female:small breasts",
@@ -10747,6 +10746,20 @@
             "female:kemonomimi",
             "female:lolicon",
             "female:oni"
+        ]
+    },
+    {
+        "[LBL] ロリババお義母さんは押しに弱い７ [中国翻訳]":[
+            "artist:lbl",
+            "male:sole male",
+            "female:cumflation",
+            "female:fox girl",
+            "female:inflation",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:mother",
+            "female:sole female",
+            "female:stomach deformation"
         ]
     },
     {
@@ -34045,19 +34058,15 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[LBL] ロリババお義母さんは押しに弱い７ [中国翻訳]":[
+        "(C101) [ソチコチ (そらモチ)] テイワット秘密クラブ (原神) [中国翻訳]":[
             "language:translated",
-            "artist:lbl",
-            "male:sole male",
-            "female:cumflation",
-            "female:fox girl",
-            "female:inflation",
-            "female:kemonomimi",
-            "female:lolicon",
-            "female:mother",
-            "female:sole female",
-            "female:stomach deformation",
-            "mixed:inseki"
+            "character:ganyu",
+            "character:mona megistus",
+            "artist:soramoti",
+            "female:gloves",
+            "female:horns",
+            "female:prostitution",
+            "female:twintails"
         ]
     }
 ]
