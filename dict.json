@@ -25491,7 +25491,6 @@
     },
     {
         "[仔馬牧場 (ぼに～)] 一夜ちゃんとお猿さんと温泉 [中国翻訳]":[
-            "group:pony farm",
             "male:big balls",
             "male:monkey",
             "female:bestiality",
@@ -34210,5 +34209,40 @@
     },
     {
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
+    },
+    {
+        "[無道叡智] ごめんねおじさん (COMIC LO 2022年1月号) [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:glasses",
+            "male:sole male",
+            "female:lolicon",
+            "female:sole female"
+        ]
+    },
+    {
+        "[ノラネコノタマ (雪野みなと)] あやつり人形な毎日の中で フルカラー版 [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:noraneko-no-tama",
+            "male:sole male",
+            "female:lolicon",
+            "female:mind control",
+            "female:sister",
+            "female:sole female",
+            "female:stockings",
+            "other:full color"
+        ]
+    },
+    {
+        "[鬼鳴らす] 亞絲娜-西田 (ソードアート・オンライン) [中国語]":[
+            "parody:sword art online",
+            "character:kazuto kirigaya",
+            "male:bald",
+            "male:glasses",
+            "male:old man",
+            "female:netorare",
+            "female:sleeping",
+            "female:sole female",
+            "female:very long hair"
+        ]
     }
 ]
