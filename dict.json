@@ -23301,6 +23301,17 @@
         ]
     },
     {
+        "[ノラネコノタマ (雪野みなと)] あやつり人形な毎日の中で フルカラー版 [中国翻訳] [DL版]":[
+            "group:noraneko-no-tama",
+            "male:sole male",
+            "female:lolicon",
+            "female:mind control",
+            "female:sister",
+            "female:sole female",
+            "female:stockings"
+        ]
+    },
+    {
         "[ノラネコノタマ (雪野みなと)] かなえちゃんスマイル! [中国翻訳] [DL版]":[
             "male:dilf",
             "male:facial hair",
@@ -30181,6 +30192,14 @@
         ]
     },
     {
+        "[無道叡智] ごめんねおじさん (COMIC LO 2022年1月号) [中国翻訳] [DL版]":[
+            "male:glasses",
+            "male:sole male",
+            "female:lolicon",
+            "female:sole female"
+        ]
+    },
+    {
         "[無道叡智] コオペレイティブ (COMIC LO 2021年2月号) [中国翻訳] [DL版]":[
             "male:sole male",
             "female:lolicon",
@@ -33660,6 +33679,18 @@
         ]
     },
     {
+        "[鬼鳴らす] 亞絲娜-西田 (ソードアート・オンライン) [中国語]":[
+            "character:kazuto kirigaya",
+            "male:bald",
+            "male:glasses",
+            "male:old man",
+            "female:netorare",
+            "female:sleeping",
+            "female:sole female",
+            "female:very long hair"
+        ]
+    },
+    {
         "[鬼鳴らす] 惠惠 (この素晴らしい世界に祝福を!) [中国語]":[
             "male:dark skin",
             "male:sole male",
@@ -34211,38 +34242,41 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[無道叡智] ごめんねおじさん (COMIC LO 2022年1月号) [中国翻訳] [DL版]":[
+        "[23.4ド (イチリ)] ボクの理想の異世界生活 11 [中国翻訳] [DL版]":[
             "language:translated",
-            "male:glasses",
-            "male:sole male",
-            "female:lolicon",
-            "female:sole female"
+            "group:23.4do",
+            "male:kemonomimi",
+            "male:shotacon",
+            "male:tail",
+            "female:gloves",
+            "female:kemonomimi",
+            "female:lingerie",
+            "female:stockings",
+            "female:tail",
+            "other:multi-work series"
         ]
     },
     {
-        "[ノラネコノタマ (雪野みなと)] あやつり人形な毎日の中で フルカラー版 [中国翻訳] [DL版]":[
-            "language:translated",
-            "group:noraneko-no-tama",
-            "male:sole male",
-            "female:lolicon",
+        "[たわわデリバリー (たわわ)] ウーマンイーツ〜夢の美少女宅配アプリ〜 [中国語]":[
+            "parody:original",
+            "group:tawawa delivery",
+            "female:big breasts",
+            "female:bunny girl",
+            "female:gyaru",
             "female:mind control",
+            "other:mosaic censorship"
+        ]
+    },
+    {
+        "[れオナるド16世] 地味なヤツとは言わないで (COMIC LO 2022年9月号) [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:sole male",
+            "female:glasses",
+            "female:hidden sex",
+            "female:lolicon",
             "female:sister",
             "female:sole female",
-            "female:stockings",
-            "other:full color"
-        ]
-    },
-    {
-        "[鬼鳴らす] 亞絲娜-西田 (ソードアート・オンライン) [中国語]":[
-            "parody:sword art online",
-            "character:kazuto kirigaya",
-            "male:bald",
-            "male:glasses",
-            "male:old man",
-            "female:netorare",
-            "female:sleeping",
-            "female:sole female",
-            "female:very long hair"
+            "other:mosaic censorship"
         ]
     }
 ]
