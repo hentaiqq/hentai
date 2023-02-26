@@ -321,7 +321,6 @@
     },
     {
         "(C101) [7分ノおでんは70円 (おでん70)] ポピパ風俗堕ち (BanG Dream!) [中国翻訳]":[
-            "artist:oden70",
             "female:lingerie",
             "female:ponytail",
             "female:twintails"
@@ -4300,6 +4299,15 @@
             "female:stockings",
             "female:swimsuit",
             "female:tail plug"
+        ]
+    },
+    {
+        "(C96) [T.4.P (猫玄)] 隣のロリは犯れるロリ。II [中国翻訳]":[
+            "group:t.4.p",
+            "male:sole male",
+            "female:lolicon",
+            "female:sex toys",
+            "female:sole female"
         ]
     },
     {
@@ -17454,8 +17462,7 @@
             "female:sister",
             "female:sole female",
             "female:sweating",
-            "female:swinging",
-            "mixed:mmf threesome"
+            "female:swinging"
         ]
     },
     {
@@ -28084,8 +28091,7 @@
             "female:stockings",
             "female:swinging",
             "female:teacher",
-            "female:very long hair",
-            "other:tankoubon"
+            "female:very long hair"
         ]
     },
     {
@@ -30173,7 +30179,6 @@
     },
     {
         "[灯色の研究室 (灯問)] 援交彼女と見学会 [中国翻訳] [DL版]":[
-            "group:hiiro no kenkyuushitsu",
             "male:bald",
             "male:bbm",
             "male:dilf",
@@ -34427,13 +34432,72 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "(C96) [T.4.P (猫玄)] 隣のロリは犯れるロリ。II [中国翻訳]":[
+        "[やみなべ] いじめられっこの僕、催眠アプリで女の子たちに復讐する [中国翻訳] [DL版]":[
             "language:translated",
-            "group:t.4.p",
-            "male:sole male",
+            "male:shotacon",
+            "female:anal",
+            "female:bloomers",
+            "female:chikan",
+            "female:double penetration",
+            "female:harem",
             "female:lolicon",
-            "female:sex toys",
+            "female:mind control",
+            "female:randoseru",
+            "female:schoolgirl uniform",
+            "female:stockings",
+            "female:tentacles",
+            "female:twintails",
+            "female:vore",
+            "other:tankoubon"
+        ]
+    },
+    {
+        "[アイリミアーシュ (ラブ)] 大晦日におまんこ108回突くだけの本～おっぱい見せて外伝～+あとがき [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:airimiash",
+            "male:shotacon",
+            "male:sole male",
+            "male:tomgirl",
+            "female:lolicon",
             "female:sole female"
+        ]
+    },
+    {
+        "[武将武] 妹の恋人 (COMIC 快楽天ビースト 2023年2月号) [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:sole male",
+            "female:bisexual",
+            "female:femdom",
+            "female:stockings"
+        ]
+    },
+    {
+        "[コンディメントは8分目 (前島龍)] ドスケベ巨乳JCが校内オナニーする話 [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:condiment moderately",
+            "female:big breasts",
+            "female:exhibitionism",
+            "female:glasses",
+            "female:lolicon",
+            "female:masturbation",
+            "female:oppai loli",
+            "female:paizuri",
+            "female:schoolgirl uniform",
+            "female:sex toys",
+            "female:solo action"
+        ]
+    },
+    {
+        "(C100) [U.R.C (桃屋しょう猫)] ゆいちゃん♡いただきます! (デリシャスパーティ♡プリキュア) [中国翻訳]":[
+            "language:translated",
+            "group:u.r.c",
+            "female:anal",
+            "female:blowjob",
+            "female:double penetration",
+            "female:magical girl",
+            "female:rape",
+            "female:sole female",
+            "female:triple penetration"
         ]
     }
 ]
