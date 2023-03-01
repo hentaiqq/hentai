@@ -9800,7 +9800,6 @@
     },
     {
         "[Asunaro Neat. (ろんな)] TSロリおじさんの冒険 オナニー編 [中国翻訳] [DL版]":[
-            "group:asunaro neat.",
             "male:age regression",
             "male:gender change",
             "female:exhibitionism",
@@ -12471,6 +12470,19 @@
         ]
     },
     {
+        "[Tempest (伊巻てん、温野りょく)] TSねこサキュバスさんは搾精なんてしたくない! 2 [中国翻訳] [DL版]":[
+            "group:tempest",
+            "male:gender change",
+            "male:sole male",
+            "female:catgirl",
+            "female:collar",
+            "female:gloves",
+            "female:kemonomimi",
+            "female:sole female",
+            "female:tail"
+        ]
+    },
+    {
         "[Tempest (伊巻てん、温野りょく)] TSねこサキュバスさんは搾精なんてしたくない! [中国翻訳] [DL版]":[
             "male:gender change",
             "male:shotacon",
@@ -12673,7 +12685,6 @@
     },
     {
         "[VENOM (Rusty Soul、或十せねか)] Eat Meat Girl (ラブライブ!) [中国翻訳] [DL版]":[
-            "character:cotaro yazawa",
             "artist:alto seneka",
             "male:shotacon",
             "male:sole male",
@@ -12933,7 +12944,6 @@
     },
     {
         "[face to face (りょう@涼)] 遠いひなた 2 [中国翻訳] [DL版]":[
-            "group:face to face",
             "male:anal",
             "male:bdsm",
             "male:bondage",
@@ -19343,6 +19353,23 @@
         ]
     },
     {
+        "[ぼに〜] いんとぅーあぶのーまる (COMIC 失楽天 2018年8月号) [中国翻訳] [DL版]":[
+            "male:condom",
+            "male:hairy",
+            "male:schoolboy uniform",
+            "male:sole male",
+            "male:virginity",
+            "female:blowjob",
+            "female:exhibitionism",
+            "female:hairy",
+            "female:hidden sex",
+            "female:kissing",
+            "female:schoolgirl uniform",
+            "female:sole female",
+            "female:x-ray"
+        ]
+    },
+    {
         "[ぽっぷマシンガン (華火れん)] 堅物な担任女教師とマッチングしたから性処理してもらって…3 (中文)":[
             "female:pantyhose",
             "female:pixie cut",
@@ -21304,7 +21331,6 @@
     },
     {
         "[アルカ一区 (なだしお)] 全ての精子は神聖なり [中国翻訳]":[
-            "artist:nada shio",
             "male:dilf",
             "male:facial hair",
             "female:impregnation",
@@ -34544,35 +34570,45 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[ぼに〜] いんとぅーあぶのーまる (COMIC 失楽天 2018年8月号) [中国翻訳] [DL版]":[
+        "[ラマンダ] 催眠おじさんとみはりちゃん (お兄ちゃんはおしまい!) [中文翻訳]":[
             "language:translated",
-            "male:condom",
-            "male:hairy",
-            "male:schoolboy uniform",
-            "male:sole male",
-            "male:virginity",
+            "artist:ramanda",
+            "male:bbm",
+            "male:big penis",
             "female:blowjob",
-            "female:exhibitionism",
-            "female:hairy",
-            "female:hidden sex",
-            "female:kissing",
-            "female:schoolgirl uniform",
+            "female:mind control",
+            "female:sister",
             "female:sole female",
-            "female:x-ray"
+            "female:twintails"
         ]
     },
     {
-        "[Tempest (伊巻てん、温野りょく)] TSねこサキュバスさんは搾精なんてしたくない! 2 [中国翻訳] [DL版]":[
+        "(C101) [KFC (Yu)] 妹とパパと僕の複雑な家庭事情 [中国翻訳]":[
             "language:translated",
-            "group:tempest",
-            "male:gender change",
-            "male:sole male",
-            "female:catgirl",
-            "female:collar",
-            "female:gloves",
-            "female:kemonomimi",
+            "group:kfc",
+            "male:shotacon",
+            "female:daughter",
+            "female:lolicon",
+            "female:sister",
             "female:sole female",
-            "female:tail"
+            "mixed:incest"
+        ]
+    },
+    {
+        "(C88) [LemonMaiden (蒼海)] 吸精魔力中毒 (Fate/kaleid liner プリズマ☆イリヤ) [中国翻訳]":[
+            "language:translated",
+            "character:illyasviel von einzbern",
+            "artist:aoi masami",
+            "male:glasses",
+            "male:harem",
+            "male:teacher",
+            "female:ahegao",
+            "female:anal",
+            "female:defloration",
+            "female:double penetration",
+            "female:lolicon",
+            "female:schoolgirl uniform",
+            "mixed:mmf threesome"
         ]
     }
 ]
