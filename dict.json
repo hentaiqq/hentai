@@ -2269,9 +2269,7 @@
     },
     {
         "(C92) [兔子老大 (神奈弥莎)] エッチな本は本当だったんだ (エロマンガ先生) [中国翻訳]":[
-            "language:translated",
             "character:elf yamada",
-            "group:tuzi laoda",
             "male:sole male",
             "female:defloration",
             "female:drill hair",
@@ -2279,8 +2277,7 @@
             "female:lolicon",
             "female:mind break",
             "female:nakadashi",
-            "female:very long hair",
-            "mixed:group"
+            "female:very long hair"
         ]
     },
     {
@@ -15920,7 +15917,6 @@
     },
     {
         "[きのこのみ (konomi)] ニャンコロジ総集編 2 [中国翻訳] [無修正] [DL版]":[
-            "group:kinokonomi",
             "female:catgirl",
             "female:kemonomimi",
             "female:stockings",
@@ -34630,5 +34626,17 @@
     },
     {
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
+    },
+    {
+        "[みやぜん] ヒモと制服 (COMIC LO 2022年11月号) [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:sole male",
+            "female:blowjob",
+            "female:glasses",
+            "female:lolicon",
+            "female:schoolgirl uniform",
+            "female:sole female",
+            "female:tomboy"
+        ]
     }
 ]
