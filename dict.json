@@ -11540,7 +11540,6 @@
     },
     {
         "[OTOREKO (トイレ籠)] 無人島JK!ちょろいよ吉村さん!volume.3 [中国翻訳] [DL版]":[
-            "group:otoreko",
             "male:harem",
             "female:ahegao",
             "female:anal",
@@ -34930,5 +34929,14 @@
     },
     {
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
+    },
+    {
+        "[OTOREKO (トイレ籠)] 無人島JK!ちょろいよ吉村さん!volume.4 [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:otoreko",
+            "female:eye-covering bang",
+            "female:sole female",
+            "other:uncensored"
+        ]
     }
 ]
