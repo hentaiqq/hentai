@@ -1118,7 +1118,6 @@
     },
     {
         "(C88) [暗中模索 (まるころんど)] 姪っこな少女の絵本5(後編) [中国翻訳]":[
-            "group:antyuumosaku",
             "male:bbm",
             "male:glasses",
             "female:lolicon",
@@ -1300,7 +1299,6 @@
     },
     {
         "(C89) [暗中模索 (まるころんど)] 姪っこな少女の絵本6(前編) [中国翻訳]":[
-            "group:antyuumosaku",
             "female:blowjob",
             "female:lolicon",
             "female:nakadashi",
@@ -5953,6 +5951,13 @@
         ]
     },
     {
+        "(C97) [ロリメイト製造工場 (ロリメイト)] お債権箱紫苑ちゃん (東方Project) [中国翻訳]":[
+            "character:shion yorigami",
+            "female:lolicon",
+            "female:sole female"
+        ]
+    },
+    {
         "(C97) [一本杭 (一本杭)] 仕事に疲れたら龍驤を呼びだしてヌいてもらう。 (艦隊これくしょん -艦これ-) [中国翻訳]":[
             "male:sole male",
             "female:bikini",
@@ -6601,7 +6606,6 @@
     },
     {
         "(COMIC1☆10) [暗中模索 (まるころんど)] 姪っこな少女の絵本6(後編) [中国翻訳]":[
-            "group:antyuumosaku",
             "male:bbm",
             "male:glasses",
             "female:blowjob",
@@ -6612,8 +6616,7 @@
             "female:school swimsuit",
             "female:swimsuit",
             "female:swinging",
-            "female:tanlines",
-            "other:multi-work series"
+            "female:tanlines"
         ]
     },
     {
@@ -7629,7 +7632,6 @@
     },
     {
         "(コミティア108) [暗中模索 (まるころんど)] 姪っこな少女の絵本 [中国翻訳]":[
-            "group:antyuumosaku",
             "male:sole male",
             "female:hidden sex",
             "female:hotpants",
@@ -8252,7 +8254,6 @@
     },
     {
         "(サンクリ64) [暗中模索 (まるころんど)] 姪っこな少女の絵本 2 [中国翻訳]":[
-            "group:antyuumosaku",
             "female:kimono",
             "female:lolicon",
             "female:nakadashi",
@@ -8271,7 +8272,6 @@
     },
     {
         "(サンクリ65) [暗中模索 (まるころんど)] 姪っこな少女の絵本 3 [中国翻訳]":[
-            "group:antyuumosaku",
             "male:bbm",
             "male:glasses",
             "female:defloration",
@@ -21797,6 +21797,25 @@
         ]
     },
     {
+        "[アヘアジフ (さなつき、日高久志)] デリパコぱーてぃぶたきゅあ (デリシャスパーティ♡プリキュア) [中国翻訳] [DL版]":[
+            "parody:pretty cure",
+            "female:anal",
+            "female:anal intercourse",
+            "female:blowjob",
+            "female:blowjob face",
+            "female:corruption",
+            "female:dick growth",
+            "female:fft threesome",
+            "female:futanari",
+            "female:incest",
+            "female:magical girl",
+            "female:mind control",
+            "female:moral degeneration",
+            "female:mother",
+            "female:stockings"
+        ]
+    },
+    {
         "[アヤナキトリ] ちんこが生えたらどうするか[中国翻訳] [DL版]":[
             "female:futanari",
             "female:glasses",
@@ -34695,6 +34714,15 @@
         ]
     },
     {
+        "[鬼鳴らす] 0V0III [中国語]":[
+            "male:glasses",
+            "male:sole male",
+            "female:big breasts",
+            "female:emotionless sex",
+            "female:sole female"
+        ]
+    },
+    {
         "[鬼鳴らす] 亞絲娜 (ソードアート・オンライン) [中国語]":[
             "male:big penis",
             "male:condom",
@@ -35268,43 +35296,16 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[アヘアジフ (さなつき、日高久志)] デリパコぱーてぃぶたきゅあ (デリシャスパーティ♡プリキュア) [中国翻訳] [DL版]":[
+        "(C100) [ものくろサーキット (racer)] アリスは伝説の装備をてにいれた。 (ブルーアーカイブ) [中国翻訳]":[
             "language:translated",
-            "parody:pretty cure",
-            "artist:sanatuki",
-            "female:anal",
-            "female:anal intercourse",
-            "female:blowjob",
-            "female:blowjob face",
-            "female:corruption",
-            "female:dick growth",
-            "female:fft threesome",
-            "female:futanari",
-            "female:incest",
-            "female:magical girl",
-            "female:mind control",
-            "female:moral degeneration",
-            "female:mother",
-            "female:stockings"
-        ]
-    },
-    {
-        "(C97) [ロリメイト製造工場 (ロリメイト)] お債権箱紫苑ちゃん (東方Project) [中国翻訳]":[
-            "language:translated",
-            "character:shion yorigami",
-            "artist:niisan",
-            "female:lolicon",
-            "female:sole female"
-        ]
-    },
-    {
-        "[鬼鳴らす] 0V0III [中国語]":[
-            "parody:original",
-            "male:glasses",
+            "character:alice tendou",
+            "artist:racer",
             "male:sole male",
-            "female:big breasts",
-            "female:emotionless sex",
-            "female:sole female"
+            "female:lolicon",
+            "female:ponytail",
+            "female:sex toys",
+            "female:sole female",
+            "female:very long hair"
         ]
     }
 ]
