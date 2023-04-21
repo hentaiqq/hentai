@@ -184,7 +184,6 @@
     },
     {
         "(C100) [MeltdoWN COmet (雪雨こん)] 楽しいパパ活 [中国翻訳]":[
-            "group:meltdown comet",
             "female:lolicon",
             "female:prostitution",
             "female:schoolgirl uniform",
@@ -401,6 +400,19 @@
             "female:gloves",
             "female:horns",
             "female:prostitution",
+            "female:twintails"
+        ]
+    },
+    {
+        "(C101) [熟成角砂糖 (sugarBt)] おいしい笑顔なんてなかった (デリシャスパーティ♡プリキュア) [中国翻訳]":[
+            "character:kokone fuwa",
+            "male:sole male",
+            "female:bikini",
+            "female:blowjob",
+            "female:eyemask",
+            "female:harem",
+            "female:pantyhose",
+            "female:small breasts",
             "female:twintails"
         ]
     },
@@ -7355,7 +7367,6 @@
     },
     {
         "(FF40) [サービスヘブン(ahorobo)] リコリス♥パコパコ (リコリス・リコイル) [中国翻訳] [無修正]":[
-            "character:chisato nishikigi",
             "female:anal",
             "female:anal intercourse",
             "female:blowjob",
@@ -7946,7 +7957,6 @@
     },
     {
         "(コミティア137) [MeltdoWN COmet (雪雨こん)] 催眠夢現 [中国翻訳]":[
-            "group:meltdown comet",
             "female:blowjob",
             "female:lolicon",
             "female:mind control",
@@ -10521,6 +10531,13 @@
             "female:sleeping",
             "female:tail",
             "female:x-ray"
+        ]
+    },
+    {
+        "[FAN] Bokki like a Rock (ぼっち・ざ・ろっく!) [中国語]":[
+            "character:ikuyo kita",
+            "female:big penis",
+            "female:futanari"
         ]
     },
     {
@@ -35589,27 +35606,16 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[FAN] Bokki like a Rock (ぼっち・ざ・ろっく!) [中国語]":[
-            "parody:bocchi the rock",
-            "character:ikuyo kita",
-            "female:big penis",
-            "female:futanari"
-        ]
-    },
-    {
-        "(C101) [熟成角砂糖 (sugarBt)] おいしい笑顔なんてなかった (デリシャスパーティ♡プリキュア) [中国翻訳]":[
+        "[U.R.C (桃屋しょう猫)] ここねちゃんvいただきます! (デリシャスパーティ♡プリキュア) [中国翻訳] [DL版]":[
             "language:translated",
             "character:kokone fuwa",
-            "group:jukusei kakuzatou",
-            "male:sole male",
-            "female:bikini",
+            "artist:momoya show-neko",
+            "female:anal",
             "female:blowjob",
-            "female:eyemask",
-            "female:harem",
-            "female:pantyhose",
-            "female:small breasts",
-            "female:twintails",
-            "mixed:group"
+            "female:chikan",
+            "female:double penetration",
+            "female:rape",
+            "female:sole female"
         ]
     }
 ]
