@@ -319,6 +319,13 @@
         "female:sister",
         "female:sole female"
     ],
+    "(C101) [YUYUHIYU (YuzuKi)] イチャラブ甘雨様～催眠を添えて～ (原神) [中国翻訳]":[
+        "language:translated",
+        "character:ganyu",
+        "female:horns",
+        "female:mind control",
+        "female:pantyhose"
+    ],
     "(C101) [ここのき屋 (ここのき奈緒)] ふたじょっ！1 [中国翻訳]":[
         "female:blowjob",
         "female:dark skin",
@@ -7687,7 +7694,6 @@
         "female:tail"
     ],
     "[23.4ド (イチリ)] ボクの理想の異世界生活 7 [中国翻訳] [無修正] [DL版]":[
-        "group:23.4do",
         "male:catboy",
         "male:kemonomimi",
         "male:shotacon",
@@ -7701,8 +7707,7 @@
         "female:lolicon",
         "female:school swimsuit",
         "female:stockings",
-        "female:tail",
-        "other:uncensored"
+        "female:tail"
     ],
     "[23.4ド (イチリ)] ボクの理想の異世界生活 9 [中国翻訳]  [DL版]":[
         "male:catboy",
@@ -7828,7 +7833,6 @@
         "female:tail"
     ],
     "[23.4ド (イチリ)] ボクの理想の異世界生活6.5 [中国翻訳] [無修正] [DL版]":[
-        "group:23.4do",
         "male:catboy",
         "male:kemonomimi",
         "male:shotacon",
@@ -18086,6 +18090,16 @@
         "female:stockings",
         "female:swimsuit",
         "female:twintails"
+    ],
+    "[やりいか] 甘雨 (原神) [中国翻訳]":[
+        "language:translated",
+        "character:ganyu",
+        "male:dark skin",
+        "male:sole male",
+        "female:horns",
+        "female:ponytail",
+        "female:sole female",
+        "female:very long hair"
     ],
     "[ゆずのきいち] 特別な日 (COMIC 快楽天 2019年6月号) [中国翻訳] [DL版]":[
         "male:condom",
