@@ -3151,7 +3151,6 @@
         "female:yuri"
     ],
     "(C95) [みくろぺえじ (黒本君)] JC痴漢で性教育2 [中国翻訳]":[
-        "group:micro page",
         "male:bbm",
         "male:dilf",
         "male:exhibitionism",
@@ -12068,6 +12067,13 @@
         "female:yuri"
     ],
     "[tomika堂 (tksand)] えっちな天狗のお手伝いさん (東方Project) [中国翻訳] [DL版]":[
+        "male:sole male",
+        "female:sole female"
+    ],
+    "[tomika堂 (tksand)] えっちな天狗のお手伝いさん♥ (東方Project) [中国翻訳] [DL版]":[
+        "language:translated",
+        "character:aya shameimaru",
+        "artist:tksand",
         "male:sole male",
         "female:sole female"
     ],
@@ -23724,9 +23730,7 @@
         "female:yuri"
     ],
     "[十安愛七 / toyasu aina] Pixiv FANBOX rewards Pt. 1 (Love Live! series) [Uncensored]":[
-        "character:dia kurosawa",
         "character:kotori minami",
-        "character:ruby kurosawa",
         "female:anal",
         "female:beauty mark",
         "female:blindfold",
@@ -30388,7 +30392,6 @@
         "female:tanlines"
     ],
     "[鬼針草] Fanbox":[
-        "character:laffey",
         "female:glasses",
         "female:kemonomimi",
         "female:lolicon",
