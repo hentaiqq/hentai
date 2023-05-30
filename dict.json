@@ -14658,7 +14658,6 @@
     },
     {
         "[tomika堂 (tksand)] えっちな天狗のお手伝いさん♥ (東方Project) [中国翻訳] [DL版]":[
-            "character:aya shameimaru",
             "male:sole male",
             "female:sole female"
         ]
@@ -36994,5 +36993,14 @@
     },
     {
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
+    },
+    {
+        "[MだSたろう] ロリサーヴァント裸並べ (Fate/Grand Order) [中国翻訳]":[
+            "language:translated",
+            "artist:mda starou",
+            "female:lolicon",
+            "female:very long hair",
+            "female:x-ray"
+        ]
     }
 ]
