@@ -348,7 +348,6 @@
     },
     {
         "(C100) [灯色の研究室 (灯問)] 落ち葉日記 夏芽苗編 [無邪気漢化組]":[
-            "group:hiiro no kenkyuushitsu",
             "male:bald",
             "male:dilf",
             "male:teacher",
@@ -7319,6 +7318,14 @@
         ]
     },
     {
+        "(COMIC1☆22) [猫専用牛乳 (那須花花)] ぼっち・ざ・調教! (ぼっち・ざ・ろっく!) [中国翻訳]":[
+            "character:hitori gotou",
+            "male:sole male",
+            "female:sole female",
+            "female:very long hair"
+        ]
+    },
+    {
         "(COMIC1☆5) [ノラネコノタマ(雪野みなと)] 籠の中の小鳥は何時出遣る 2 弐 [中国翻訳v2]":[
             "female:dark skin",
             "female:lolicon"
@@ -13655,7 +13662,6 @@
     },
     {
         "[X仮歯 (mmm)] いろはちゃんオナホ杯 (マギアレコード 魔法少女まどか☆マギカ外伝) [中国翻訳] [DL版]":[
-            "parody:puella magi madoka magica side story magia record",
             "female:anal",
             "female:blowjob",
             "female:defloration",
@@ -19494,6 +19500,34 @@
         ]
     },
     {
+        "[とっととねろ太郎。] 催眠即堕ちリーリエちゃん＋おまけ (ポケットモンスター サン・ムーン) [中国翻訳]":[
+            "character:lillie",
+            "male:bbm",
+            "male:dilf",
+            "male:sole male",
+            "female:mind control",
+            "female:ponytail",
+            "female:sole female",
+            "female:unusual pupils"
+        ]
+    },
+    {
+        "[とっととねろ太郎。] 即堕ちハルカ (ポケットモンスター ルビー・サファイア) [中国翻訳]":[
+            "character:may",
+            "male:bald",
+            "male:dilf",
+            "male:sole male",
+            "female:big areolae",
+            "female:big breasts",
+            "female:bike shorts",
+            "female:nakadashi",
+            "female:prostitution",
+            "female:sole female",
+            "female:unusual pupils",
+            "female:x-ray"
+        ]
+    },
+    {
         "[とりぷるぴんち! (ひかみいずと)] こうえんのおねーさん [中国翻訳] [無修正] [DL版]":[
             "male:shotacon",
             "female:lolicon",
@@ -22872,7 +22906,6 @@
     },
     {
         "[アクアドロップ (三上ミカ)] おでかけせっくす総集編 [中国翻訳] [DL版]":[
-            "group:aquadrop",
             "male:sole male",
             "female:blowjob",
             "female:lingerie",
@@ -22882,13 +22915,11 @@
             "female:sister",
             "female:sole female",
             "female:twintails",
-            "female:unusual pupils",
-            "other:story arc"
+            "female:unusual pupils"
         ]
     },
     {
         "[アクアドロップ (三上ミカ)] おやすみせっくす総集編 [中国翻訳] [DL版]":[
-            "group:aquadrop",
             "male:sole male",
             "female:defloration",
             "female:lolicon",
@@ -22897,8 +22928,7 @@
             "female:sister",
             "female:sleeping",
             "female:sole female",
-            "female:unusual pupils",
-            "other:story arc"
+            "female:unusual pupils"
         ]
     },
     {
@@ -24657,6 +24687,14 @@
         ]
     },
     {
+        "[チグチミリ] 娘に実演で教えてます (はなまるじあん) [中国翻訳] [DL版]":[
+            "male:sole male",
+            "female:daughter",
+            "female:lolicon",
+            "female:sole female"
+        ]
+    },
+    {
         "[チグチミリ] 娘の××で膣出ししています 第1話 (COMIC LO 2020年9月号) [中国翻訳] [DL版]":[
             "male:dilf",
             "male:sole male",
@@ -25196,6 +25234,16 @@
     },
     {
         "[ナツイチ] パパがママになる話 [中国翻訳]":[]
+    },
+    {
+        "[ナポりたん (なな骨)] いちたすいち 元セクシー女優一花せんせいの性のお勉強 [中国翻訳]":[
+            "group:naporitan",
+            "male:shotacon",
+            "male:sole male",
+            "female:cheating",
+            "female:sole female",
+            "female:teacher"
+        ]
     },
     {
         "[ネクサス工房 (在誠舞あゆか+)] おじさんの女児遊び [中国翻訳] [DL版]":[
@@ -31365,7 +31413,6 @@
     },
     {
         "[東横サーフライダー (ふみー)] こまちのきもちいい [中国翻訳] [DL版]":[
-            "group:touyoko surfrider",
             "female:lolicon",
             "female:masturbation",
             "female:sex toys",
@@ -35061,6 +35108,16 @@
         ]
     },
     {
+        "[貓崎葵] 灌注永雛塔菲喵❤底边线的偶像生活~ (永雛タフィー) [中国語]":[
+            "female:body writing",
+            "female:gloves",
+            "female:sole female",
+            "female:stockings",
+            "female:unusual pupils",
+            "female:vtuber"
+        ]
+    },
+    {
         "[赤セイリュウ] かたくな兄妹 (コミックゼロス #82) [中国翻訳] [DL版]":[
             "male:business suit",
             "male:sole male",
@@ -36698,7 +36755,6 @@
     },
     {
         "[黒礫] 実験＜だー17＞ (原神) [中国翻訳]":[
-            "character:nahida",
             "male:bald",
             "male:dark skin",
             "male:dilf",
@@ -37090,75 +37146,90 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[ナポりたん (なな骨)] いちたすいち 元セクシー女優一花せんせいの性のお勉強 [中国翻訳]":[
+        "[大嘘] オナホ教室 ～女子全員妊娠計画～ [中国翻訳] [DL版]":[
             "language:translated",
-            "group:naporitan",
-            "male:shotacon",
-            "male:sole male",
-            "female:cheating",
-            "female:sole female",
-            "female:teacher",
-            "other:mosaic censorship"
-        ]
-    },
-    {
-        "[貓崎葵] 灌注永雛塔菲喵❤底边线的偶像生活~ (永雛タフィー) [中国語]":[
-            "parody:original",
-            "female:body writing",
-            "female:gloves",
-            "female:sole female",
-            "female:stockings",
-            "female:unusual pupils",
-            "female:vtuber"
-        ]
-    },
-    {
-        "(COMIC1☆22) [猫専用牛乳 (那須花花)] ぼっち・ざ・調教! (ぼっち・ざ・ろっく!) [中国翻訳]":[
-            "language:translated",
-            "character:hitori gotou",
-            "artist:nasu hanahana",
-            "male:sole male",
-            "female:sole female",
-            "female:very long hair"
-        ]
-    },
-    {
-        "[チグチミリ] 娘に実演で教えてます (はなまるじあん) [中国翻訳] [DL版]":[
-            "language:translated",
-            "male:sole male",
-            "female:daughter",
-            "female:lolicon",
-            "female:sole female"
-        ]
-    },
-    {
-        "[とっととねろ太郎。] 催眠即堕ちリーリエちゃん＋おまけ (ポケットモンスター サン・ムーン) [中国翻訳]":[
-            "language:translated",
-            "character:lillie",
-            "male:bbm",
-            "male:dilf",
-            "male:sole male",
-            "female:mind control",
-            "female:ponytail",
-            "female:sole female",
-            "female:unusual pupils"
-        ]
-    },
-    {
-        "[とっととねろ太郎。] 即堕ちハルカ (ポケットモンスター ルビー・サファイア) [中国翻訳]":[
-            "language:translated",
-            "character:may",
-            "male:bald",
-            "male:dilf",
-            "male:sole male",
-            "female:big areolae",
-            "female:big breasts",
-            "female:bike shorts",
+            "male:blackmail",
+            "male:clothed female nude male",
+            "male:filming",
+            "male:foot licking",
+            "male:invisible",
+            "male:onahole",
+            "male:schoolboy uniform",
+            "male:shared senses",
+            "female:anal",
+            "female:anal intercourse",
+            "female:beauty mark",
+            "female:defloration",
+            "female:double penetration",
+            "female:exhibitionism",
+            "female:femdom",
+            "female:filming",
+            "female:footjob",
+            "female:forced exposure",
+            "female:garter belt",
+            "female:hairy",
+            "female:humiliation",
+            "female:impregnation",
             "female:nakadashi",
-            "female:prostitution",
-            "female:sole female",
+            "female:pantyhose",
+            "female:ponytail",
+            "female:pregnant",
+            "female:schoolgirl uniform",
+            "female:shared senses",
+            "female:stockings",
+            "female:teacher",
+            "female:twintails",
             "female:unusual pupils",
-            "female:x-ray"
+            "female:urination",
+            "female:wormhole",
+            "other:tankoubon"
+        ]
+    },
+    {
+        "[イコール] 女の子は断れない [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:condom",
+            "male:onahole",
+            "male:shotacon",
+            "male:virginity",
+            "female:anal",
+            "female:anal intercourse",
+            "female:big breasts",
+            "female:bikini",
+            "female:blowjob",
+            "female:chikan",
+            "female:defloration",
+            "female:double penetration",
+            "female:filming",
+            "female:fingering",
+            "female:glasses",
+            "female:hidden sex",
+            "female:kissing",
+            "female:masturbation",
+            "female:mouth mask",
+            "female:nakadashi",
+            "female:oppai loli",
+            "female:paizuri",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:sex toys",
+            "female:stockings",
+            "female:swimsuit",
+            "female:tomboy",
+            "female:tracksuit",
+            "female:twintails",
+            "female:x-ray",
+            "mixed:mmf threesome"
+        ]
+    },
+    {
+        "(C93) [CARAMEL CRUNCH! (りかたん☆)] もっとチマハメ隊っ! (ご注文はうさぎですか?) [中国翻訳]":[
+            "language:translated",
+            "character:chino kafuu",
+            "character:megumi natsu",
+            "artist:rikatan",
+            "female:lolicon",
+            "other:mosaic censorship"
         ]
     }
 ]
