@@ -5503,7 +5503,6 @@
     },
     {
         "(C97) [Re:Cre@tors (柊はじめ)] 橘ありすの催眠レッスン (アイドルマスター シンデレラガールズ) [中国翻訳]":[
-            "character:arisu tachibana",
             "male:bald",
             "male:bbm",
             "male:dark skin",
@@ -15362,6 +15361,23 @@
             "female:randoseru",
             "female:sister",
             "female:sole female",
+            "female:twintails"
+        ]
+    },
+    {
+        "[あいらんどう] 真夏のとらいあんぐる ( 妹TRIP♡ ) [中国翻訳] [無修正]  [DL版]":[
+            "male:dark skin",
+            "male:shotacon",
+            "male:sole male",
+            "male:tanlines",
+            "male:virginity",
+            "female:ahegao",
+            "female:blowjob",
+            "female:dark skin",
+            "female:defloration",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:tanlines",
             "female:twintails"
         ]
     },
@@ -37302,24 +37318,5 @@
     },
     {
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
-    },
-    {
-        "[あいらんどう] 真夏のとらいあんぐる ( 妹TRIP♡ ) [中国翻訳] [無修正]  [DL版]":[
-            "language:translated",
-            "male:dark skin",
-            "male:shotacon",
-            "male:sole male",
-            "male:tanlines",
-            "male:virginity",
-            "female:ahegao",
-            "female:blowjob",
-            "female:dark skin",
-            "female:defloration",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:tanlines",
-            "female:twintails",
-            "mixed:group"
-        ]
     }
 ]
