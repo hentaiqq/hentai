@@ -7345,6 +7345,21 @@
         ]
     },
     {
+        "(COMIC1☆22) [魚ウサ王国 (魚ウサ王)] やさしい?メスガキサキュバス [中国翻訳]":[
+            "group:uousaohkoku",
+            "male:sole male",
+            "female:collar",
+            "female:dark skin",
+            "female:demon girl",
+            "female:gyaru",
+            "female:lolicon",
+            "female:sole female",
+            "female:stockings",
+            "female:tail",
+            "female:twintails"
+        ]
+    },
+    {
         "(COMIC1☆5) [ノラネコノタマ(雪野みなと)] 籠の中の小鳥は何時出遣る 2 弐 [中国翻訳v2]":[
             "female:dark skin",
             "female:lolicon"
@@ -37377,19 +37392,26 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "(COMIC1☆22) [魚ウサ王国 (魚ウサ王)] やさしい?メスガキサキュバス [中国翻訳]":[
+        "[フルポンツインテール (おもちなべ)] 田舎の親戚とHをする話 夏海編 [中国翻訳]":[
             "language:translated",
-            "group:uousaohkoku",
-            "male:sole male",
-            "female:collar",
-            "female:dark skin",
-            "female:demon girl",
-            "female:gyaru",
+            "male:shotacon",
             "female:lolicon",
-            "female:sole female",
-            "female:stockings",
-            "female:tail",
-            "female:twintails"
+            "female:low lolicon",
+            "female:pixie cut",
+            "female:tomboy",
+            "other:mosaic censorship"
+        ]
+    },
+    {
+        "[ノア] アニメプリコネ If 漫画 (プリンセスコネクト!Re:Dive) [中国翻訳]":[
+            "language:translated",
+            "character:kokkoro",
+            "character:pecorine",
+            "female:bestiality",
+            "female:elf",
+            "female:futanari",
+            "female:lolicon",
+            "female:sole dickgirl"
         ]
     }
 ]
