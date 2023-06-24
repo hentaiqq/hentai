@@ -12015,7 +12015,6 @@
     },
     {
         "[NCP (猫ノ瀬はじめ)] 家賃がムリならお前の身体で払ってもらおうか?[中国翻訳] [無修正]":[
-            "group:ncp",
             "male:sole male",
             "female:milf",
             "female:nakadashi",
@@ -12024,8 +12023,7 @@
             "female:prostitution",
             "female:shimaidon",
             "female:stockings",
-            "female:twintails",
-            "other:uncensored"
+            "female:twintails"
         ]
     },
     {
@@ -17739,7 +17737,6 @@
     },
     {
         "[ぎっくり豆腐店 (木綿豆腐)] 早苗さんとショタくんがえっちする本 (東方Project) [中国翻訳] [DL版]":[
-            "character:sanae kochiya",
             "male:shotacon",
             "male:sole male",
             "female:sole female",
@@ -26315,14 +26312,12 @@
     },
     {
         "[フクロウなる鳥] 新妻七歌の露出店員～前編～[中国翻訳]":[
-            "group:fukurou naru tori",
             "female:apron",
             "female:blowjob",
             "female:exhibitionism",
             "female:ponytail",
             "female:sex toys",
-            "female:sole female",
-            "other:multi-work series"
+            "female:sole female"
         ]
     },
     {
@@ -29006,7 +29001,6 @@
     },
     {
         "[卡滋箱 (卡滋馬)] 転生したら娘ができました (転生したら剣でした) [中国語] [DL版]":[
-            "group:kazbox",
             "female:catgirl",
             "female:fingering",
             "female:kemonomimi",
@@ -29762,7 +29756,6 @@
     },
     {
         "[妖夢くん] Fanbox Collection uncensored (Touhou Project)":[
-            "character:eiki shiki",
             "character:youmu konpaku",
             "female:bikini",
             "female:chinese dress",
@@ -31465,6 +31458,15 @@
         ]
     },
     {
+        "[朝月堂 (夜歌)] お兄ちゃん♥ひなのおっぱいで元気だして♪ [中国翻訳] [DL版]":[
+            "group:asatsuki dou",
+            "male:sole male",
+            "female:lolicon",
+            "female:sister",
+            "female:sole female"
+        ]
+    },
+    {
         "[朝月堂 (夜歌)] お兄ちゃんひなのおっぱいで元気だして♪ [DL版] [中国翻訳]":[
             "male:sole male",
             "female:lolicon",
@@ -32386,7 +32388,6 @@
     },
     {
         "[毛玉牛乳 (玉之けだま)] 先生がエロすぎてようちえん留年しそうな件 [中国翻訳] [DL版] [ページ欠落]":[
-            "artist:tamano kedama",
             "male:sole male",
             "female:lactation",
             "female:lolicon",
@@ -37535,13 +37536,35 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[朝月堂 (夜歌)] お兄ちゃん♥ひなのおっぱいで元気だして♪ [中国翻訳] [DL版]":[
-            "language:translated",
-            "group:asatsuki dou",
-            "male:sole male",
+        "[Fanbox] サインこす (2018.12.26 - 2023.06.23)":[
+            "parody:lycoris recoil",
+            "artist:sincos",
+            "male:bbm",
+            "male:dilf",
+            "female:bestiality",
+            "female:big breasts",
+            "female:eye penetration",
             "female:lolicon",
-            "female:sister",
-            "female:sole female"
+            "female:low bestiality",
+            "female:netorare",
+            "female:pregnant",
+            "female:stomach deformation",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[マンダラ流星群 (シグノマンダラ)] 日直はマイクロビキニで～スケベなカッコで性処理活動～ +Pixiv Fanbox [中国翻訳]":[
+            "language:translated",
+            "artist:signo mandara",
+            "male:big penis",
+            "male:dark skin",
+            "female:big breasts",
+            "female:bikini",
+            "female:nakadashi",
+            "female:schoolgirl uniform",
+            "female:stockings",
+            "female:swimsuit",
+            "mixed:mmf threesome"
         ]
     }
 ]
