@@ -2438,7 +2438,6 @@
     },
     {
         "(C92) [乱視と君と。 (santa)] 魔法少女催眠パコパコーズ (Fate/Grand Order、Fate/kaleid liner プリズマ☆イリヤ) [中国翻訳]":[
-            "parody:fate kaleid liner prisma illya",
             "male:bald",
             "male:bbm",
             "male:big penis",
@@ -2804,7 +2803,6 @@
     },
     {
         "(C93) [乱視と君と。 (santa)] 魔法少女催眠パコパコーズ2 (Fate/Grand Order) [中国翻訳]":[
-            "parody:fate kaleid liner prisma illya",
             "artist:santa",
             "male:bald",
             "male:bbm",
@@ -7352,6 +7350,16 @@
             "female:stockings",
             "female:tribadism",
             "female:yuri"
+        ]
+    },
+    {
+        "(COMIC1☆16) [HappyBirthday (丸ちゃん。)] クロと美遊のえっちなさつえーかい♥ (Fate/kaleid liner プリズマ☆イリヤ) [中国翻訳]":[
+            "character:chloe von einzbern",
+            "female:bikini",
+            "female:crotch tattoo",
+            "female:lolicon",
+            "female:ponytail",
+            "female:swimsuit"
         ]
     },
     {
@@ -24886,6 +24894,15 @@
         ]
     },
     {
+        "[スギユウ] 負けミソラ漫画 (プリンセスコネクト!Re:Dive) [中国翻訳]":[
+            "character:misora nagare",
+            "female:bondage",
+            "female:crotch tattoo",
+            "female:sole female",
+            "female:tentacles"
+        ]
+    },
+    {
         "[スズラメ] 親友の彼女は寝取られ希望の清楚ビッチ!? [中国翻訳]":[
             "male:virginity",
             "female:anal",
@@ -37771,26 +37788,24 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "(COMIC1☆16) [HappyBirthday (丸ちゃん。)] クロと美遊のえっちなさつえーかい♥ (Fate/kaleid liner プリズマ☆イリヤ) [中国翻訳]":[
-            "language:translated",
-            "character:chloe von einzbern",
-            "group:happy birthday",
-            "female:bikini",
-            "female:crotch tattoo",
+        "[Fanbox] サインこす (2018.12.26 - 2023.07.02)":[
+            "parody:lycoris recoil",
+            "artist:sincos",
+            "male:bbm",
+            "male:big penis",
+            "male:dilf",
+            "female:bestiality",
+            "female:big breasts",
+            "female:bunny girl",
+            "female:eye penetration",
             "female:lolicon",
-            "female:ponytail",
-            "female:swimsuit"
-        ]
-    },
-    {
-        "[スギユウ] 負けミソラ漫画 (プリンセスコネクト!Re:Dive) [中国翻訳]":[
-            "language:translated",
-            "character:misora nagare",
-            "female:bondage",
-            "female:crotch tattoo",
-            "female:sole female",
-            "female:tentacles",
-            "other:mosaic censorship"
+            "female:low bestiality",
+            "female:netorare",
+            "female:oppai loli",
+            "female:pregnant",
+            "female:stomach deformation",
+            "female:twintails",
+            "female:x-ray"
         ]
     }
 ]
