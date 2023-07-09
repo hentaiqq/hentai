@@ -20288,6 +20288,11 @@
         ]
     },
     {
+        "[に向思考 (猫崎葵)] 公主飯 [中国語] [DL版]":[
+            "character:pecorine"
+        ]
+    },
+    {
         "[に向思考 (貓崎葵)] 為惠惠獻上華麗的爆射! (この素晴らしい世界に祝福を!) [中国語] [DL版]":[
             "male:sole male",
             "female:bloomers",
@@ -37945,10 +37950,14 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[に向思考 (猫崎葵)] 公主飯 [中国語] [DL版]":[
-            "parody:princess connect",
-            "character:pecorine",
-            "group:nikoushikou"
+        "[じゃじゅじょ (じょぶじゅん。)] きりたん お前がママになるんだよ。[中国翻訳] (VOICEROID) [DL版]":[
+            "language:translated",
+            "character:kiritan tohoku",
+            "artist:jovejun.",
+            "male:condom",
+            "female:lactation",
+            "female:lolicon",
+            "female:sole female"
         ]
     }
 ]
