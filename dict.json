@@ -19210,6 +19210,15 @@
         ]
     },
     {
+        "[じゃじゅじょ (じょぶじゅん。)] きりたん お前がママになるんだよ。[中国翻訳] (VOICEROID) [DL版]":[
+            "character:kiritan tohoku",
+            "male:condom",
+            "female:lactation",
+            "female:lolicon",
+            "female:sole female"
+        ]
+    },
+    {
         "[じゃじゅじょ (じょぶじゅん。)] めぐみんはぬるぬるがお好き!? (この素晴らしい世界に祝福を!) [中国翻訳] [DL版]":[
             "male:sole male",
             "female:bandages",
@@ -20288,9 +20297,7 @@
         ]
     },
     {
-        "[に向思考 (猫崎葵)] 公主飯 [中国語] [DL版]":[
-            "character:pecorine"
-        ]
+        "[に向思考 (猫崎葵)] 公主飯 [中国語] [DL版]":[]
     },
     {
         "[に向思考 (貓崎葵)] 為惠惠獻上華麗的爆射! (この素晴らしい世界に祝福を!) [中国語] [DL版]":[
@@ -37950,14 +37957,96 @@
         "美国纽约摄影学院摄影教材(下册) New York Institute of Photography: Complete Course in Professional Photography(P2)":[]
     },
     {
-        "[じゃじゅじょ (じょぶじゅん。)] きりたん お前がママになるんだよ。[中国翻訳] (VOICEROID) [DL版]":[
+        "魔法少女セレスフォニア":[
+            "male:dog",
+            "male:monster",
+            "male:shotacon",
+            "male:tentacles",
+            "female:bestiality",
+            "female:big breasts",
+            "female:blindfold",
+            "female:bondage",
+            "female:clit stimulation",
+            "female:collar",
+            "female:corruption",
+            "female:crotch tattoo",
+            "female:dog girl",
+            "female:drugs",
+            "female:eggs",
+            "female:gloves",
+            "female:impregnation",
+            "female:leash",
+            "female:magical girl",
+            "female:ponytail",
+            "female:pregnant",
+            "female:rape",
+            "female:sex toys",
+            "female:slave",
+            "female:stockings",
+            "female:tentacles",
+            "female:tickling"
+        ]
+    },
+    {
+        "[かみか堂 (銀曜ハル)] 幻想郷計画 1-20+補完":[
             "language:translated",
-            "character:kiritan tohoku",
-            "artist:jovejun.",
-            "male:condom",
-            "female:lactation",
+            "group:kamikadou",
             "female:lolicon",
-            "female:sole female"
+            "other:compilation",
+            "other:mosaic censorship"
+        ]
+    },
+    {
+        "(C79) [わんちょ家 (わんちょ)] 妹はみんなお兄ちゃんが好き! [中国翻訳]":[
+            "language:translated",
+            "group:wancho-ke",
+            "male:onahole",
+            "female:anal",
+            "female:lolicon",
+            "female:prostitution",
+            "female:schoolgirl uniform",
+            "female:sister",
+            "female:twintails"
+        ]
+    },
+    {
+        "[INS-mode (天凪青磁)] 痴漢の存在しない素晴らしいセカイ 総集編 [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:ins-mode",
+            "male:invisible",
+            "female:anal",
+            "female:anal intercourse",
+            "female:double penetration",
+            "female:glasses",
+            "female:impregnation",
+            "female:mind control",
+            "female:nakadashi",
+            "female:pantyhose",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:stockings",
+            "mixed:mmf threesome"
+        ]
+    },
+    {
+        "[Fanbox] サインこす (2018.12.26 - 2023.07.10)":[
+            "parody:lycoris recoil",
+            "artist:sincos",
+            "male:bbm",
+            "male:big penis",
+            "male:dilf",
+            "female:bestiality",
+            "female:big breasts",
+            "female:bunny girl",
+            "female:eye penetration",
+            "female:lolicon",
+            "female:low bestiality",
+            "female:netorare",
+            "female:oppai loli",
+            "female:pregnant",
+            "female:stomach deformation",
+            "female:twintails",
+            "female:x-ray"
         ]
     }
 ]
