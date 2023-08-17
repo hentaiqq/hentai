@@ -1740,7 +1740,6 @@
     },
     {
         "(C90) [コーラーボルト (平国風鈴)] つるつるツイスター こいし&こころwithフランドール (東方Project) [中国翻訳]":[
-            "character:flandre scarlet",
             "artist:kotomuke fuurin",
             "male:sole male",
             "female:lolicon"
@@ -12148,7 +12147,6 @@
     },
     {
         "[Leonat] コッコロとランドソル日常性活 (プリンセスコネクト!Re:Dive) [中国翻訳] [無修正]":[
-            "character:kokkoro",
             "male:sole male",
             "female:elf",
             "female:lolicon",
@@ -28064,6 +28062,18 @@
         ]
     },
     {
+        "[レオナト] 私と主さまの妊活日誌+おまけ (プリンセスコネクト!Re:Dive) [中国翻訳]":[
+            "character:kokkoro",
+            "female:elf",
+            "female:impregnation",
+            "female:lactation",
+            "female:lolicon",
+            "female:pregnant",
+            "female:sole female",
+            "female:vaginal birth"
+        ]
+    },
+    {
         "[レオナト] 雨の日のミソギと (プリンセスコネクト!Re:Dive) [中国翻訳]":[
             "male:sole male",
             "female:lolicon",
@@ -38926,16 +38936,84 @@
         ]
     },
     {
-        "[レオナト] 私と主さまの妊活日誌+おまけ (プリンセスコネクト!Re:Dive) [中国翻訳]":[
+        "[木鈴亭 (木鈴カケル、コウリ)] ワンナイト♥レッスン (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
             "language:translated",
-            "character:kokkoro",
-            "female:elf",
-            "female:impregnation",
-            "female:lactation",
+            "character:hotaru shiragiku",
+            "group:kirintei",
+            "artist:kouri",
+            "male:sole male",
             "female:lolicon",
-            "female:pregnant",
+            "female:sole female"
+        ]
+    },
+    {
+        "[木鈴亭 (木鈴カケル、コウリ)] 真夏の恋と通り雨 (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:hotaru shiragiku",
+            "group:kirintei",
+            "male:sole male",
+            "female:lolicon",
             "female:sole female",
-            "female:vaginal birth"
+            "female:stockings",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[木鈴亭 (木鈴カケル)] ももありくらべ (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:arisu tachibana",
+            "character:producer",
+            "artist:kirin kakeru",
+            "male:sole male",
+            "female:blowjob",
+            "female:lolicon",
+            "female:stockings",
+            "female:unusual pupils",
+            "mixed:group"
+        ]
+    },
+    {
+        "[レオナト] 路地裏のユニちゃん (プリンセスコネクト!Re:Dive) [中国翻訳]":[
+            "language:rewrite",
+            "parody:princess connect",
+            "artist:leonat",
+            "male:bald",
+            "male:sole male",
+            "female:blowjob",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:pantyhose",
+            "female:sole female",
+            "female:x-ray"
+        ]
+    },
+    {
+        "(C99) [MIDDLY (みどりのちや)] カラフルコネクト 5th:Dive (プリンセスコネクト!Re:Dive) [中国翻訳]":[
+            "language:translated",
+            "character:akari kazemiya",
+            "character:rino inosaki",
+            "character:shizuru hoshino",
+            "character:yuuki",
+            "artist:midorinocha",
+            "female:demon girl",
+            "female:gloves",
+            "female:kemonomimi",
+            "female:shimaidon",
+            "female:stockings",
+            "other:full color"
+        ]
+    },
+    {
+        "[シイナ] ノラネコ少女との暮らしかた 第22-40話 [中国翻訳]":[
+            "language:translated",
+            "male:christmas",
+            "female:deer girl",
+            "female:drunk",
+            "female:horns",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:stockings",
+            "female:tail"
         ]
     }
 ]
