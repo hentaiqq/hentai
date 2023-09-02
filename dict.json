@@ -6835,6 +6835,17 @@
         ]
     },
     {
+        "(C99) [くせもの屋 (加藤シグ)] 甘雨ちゃんがクズ商人に捕らわれた (原神) [中国翻訳]":[
+            "character:ganyu",
+            "female:bondage",
+            "female:collar",
+            "female:horns",
+            "female:pantyhose",
+            "female:rape",
+            "female:sole female"
+        ]
+    },
+    {
         "(C99) [そらみるソフト(そらみる)] ユウカが素直になるオクスリ (ブルーアーカイブ) [中国翻訳]":[
             "male:sole male",
             "female:netorare",
@@ -17813,7 +17824,6 @@
     },
     {
         "[おとなごっこ委員会 (よろず)] 僕らのCQC [中国翻訳]":[
-            "group:otonagokko iinkai",
             "artist:ichihaya",
             "male:blindfold",
             "male:bondage",
@@ -23349,7 +23359,6 @@
     },
     {
         "[めたこらぷす (めたこら)] JCち○ぽ部屋一ヶ月性活チャレンジ！！（後編） [中国翻訳] [DL版]":[
-            "group:metacorapusu",
             "female:ahegao",
             "female:blowjob",
             "female:bunny girl",
@@ -39588,15 +39597,55 @@
         ]
     },
     {
-        "(C99) [くせもの屋 (加藤シグ)] 甘雨ちゃんがクズ商人に捕らわれた (原神) [中国翻訳]":[
+        "[灯色の研究室 (灯問)] ヒミツのミダラ [中国翻訳] [DL版]":[
             "language:translated",
-            "character:ganyu",
-            "female:bondage",
-            "female:collar",
-            "female:horns",
-            "female:pantyhose",
-            "female:rape",
+            "group:hiiro no kenkyuushitsu",
+            "female:cheating",
+            "female:fingering",
+            "female:lolicon",
+            "female:netorare",
             "female:sole female"
+        ]
+    },
+    {
+        "[羊小屋 (橘由宇)] 星が堕ちた日 (原神) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:hilichurl",
+            "group:sheepfold",
+            "female:anal",
+            "female:anal intercourse",
+            "female:double penetration",
+            "female:impregnation",
+            "female:nakadashi",
+            "female:pantyhose",
+            "female:pregnant",
+            "female:rape",
+            "female:twintails",
+            "female:vaginal birth",
+            "female:witch"
+        ]
+    },
+    {
+        "[うぉーたーどろっぷ (MA-SA)] 姉妹の性事情 (東方Project) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:koishi komeiji",
+            "group:water drop",
+            "male:sole male",
+            "female:bikini"
+        ]
+    },
+    {
+        "(C102) [ILD CAT (弥猫うた)] U149に挟まれたい (アイドルマスター シンデレラガールズ) [中国翻訳]":[
+            "language:translated",
+            "character:arisu tachibana",
+            "character:miria akagi",
+            "character:risa matoba",
+            "artist:yaneko uta",
+            "male:dark skin",
+            "female:harem",
+            "female:lolicon",
+            "female:mind control",
+            "mixed:group"
         ]
     }
 ]
