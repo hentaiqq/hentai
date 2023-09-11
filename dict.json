@@ -575,7 +575,6 @@
     },
     {
         "(C102) [URAN-FACTORY(URAN)] 続・隔絶楽園遊戯 (原神) [中国翻訳]":[
-            "character:ganyu",
             "female:horns",
             "female:machine"
         ]
@@ -806,6 +805,19 @@
             "female:swimsuit",
             "female:tail",
             "female:urination"
+        ]
+    },
+    {
+        "(C84) [SSB (まりりん)] 撮り下ろし新規映像 『奈良円光 -東京出張編-』 (奈良円光 THE BEST) (咲-Saki-) [中国翻訳]":[
+            "character:ako atarashi",
+            "male:chikan",
+            "male:condom",
+            "male:dilf",
+            "female:blowjob",
+            "female:chikan",
+            "female:nakadashi",
+            "female:schoolgirl uniform",
+            "female:sole female"
         ]
     },
     {
@@ -12474,7 +12486,6 @@
     },
     {
         "[MM] ギャルJKおねショタ [中国翻訳]":[
-            "artist:mm",
             "male:masturbation",
             "male:shotacon",
             "male:sole male",
@@ -12491,8 +12502,7 @@
             "female:nipple stimulation",
             "female:schoolgirl uniform",
             "female:sister",
-            "female:sole female",
-            "other:full color"
+            "female:sole female"
         ]
     },
     {
@@ -21471,6 +21481,17 @@
         ]
     },
     {
+        "[はだいろクレヨン (羽田暮)] らぶびぃと (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
+            "character:haru yuuki",
+            "male:sole male",
+            "female:bikini",
+            "female:lolicon",
+            "female:swimsuit",
+            "female:twintails",
+            "female:unusual pupils"
+        ]
+    },
+    {
         "[はちこ] 中華オタク用語辞典":[]
     },
     {
@@ -25193,7 +25214,6 @@
     },
     {
         "[エゾクロテン (宮野木ジジ)] わるい子ゆきこず (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
-            "character:kozue yusa",
             "male:sole male",
             "female:blowjob",
             "female:lolicon"
@@ -25755,6 +25775,30 @@
             "female:sole female",
             "female:swimsuit",
             "female:tanlines"
+        ]
+    },
+    {
+        "[サボテンビンタ (河上康)] 争奪!股問のセンセイ2 [中国翻訳] [DL版]":[
+            "group:saboten binta",
+            "male:sole male",
+            "male:teacher",
+            "female:anal",
+            "female:anal intercourse",
+            "female:big breasts",
+            "female:blowjob",
+            "female:bunny girl",
+            "female:exposed clothing",
+            "female:fingering",
+            "female:kemonomimi",
+            "female:oppai loli",
+            "female:pasties",
+            "female:pixie cut",
+            "female:sex toys",
+            "female:stockings",
+            "female:tail plug",
+            "female:tomboy",
+            "female:vaginal sticker",
+            "female:x-ray"
         ]
     },
     {
@@ -26458,7 +26502,6 @@
     },
     {
         "[タイガーロマン (タイガー)] 寝てるお兄ちゃんのアレを借りる話 [中国翻訳] [DL版]":[
-            "group:tiger roman",
             "male:sleeping",
             "male:sole male",
             "female:sister",
@@ -39750,58 +39793,38 @@
         ]
     },
     {
-        "[サボテンビンタ (河上康)] 争奪!股問のセンセイ2 [中国翻訳] [DL版]":[
+        "[サボテンビンタ (河上康)] 争奪!股問のセンセイ1.5 [中国翻訳] [DL版]":[
             "language:translated",
             "group:saboten binta",
             "male:sole male",
             "male:teacher",
-            "female:anal",
-            "female:anal intercourse",
             "female:big breasts",
-            "female:blowjob",
-            "female:bunny girl",
-            "female:exposed clothing",
-            "female:fingering",
-            "female:kemonomimi",
-            "female:oppai loli",
-            "female:pasties",
-            "female:pixie cut",
-            "female:sex toys",
-            "female:stockings",
-            "female:tail plug",
-            "female:tomboy",
-            "female:vaginal sticker",
-            "female:x-ray",
-            "mixed:group"
-        ]
-    },
-    {
-        "[はだいろクレヨン (羽田暮)] らぶびぃと (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
-            "language:translated",
-            "character:haru yuuki",
-            "group:hadairo crayon",
-            "male:sole male",
-            "female:bikini",
+            "female:bloomers",
             "female:lolicon",
-            "female:swimsuit",
-            "female:twintails",
-            "female:unusual pupils",
+            "female:oppai loli",
+            "female:pixie cut",
+            "female:school gym uniform",
             "mixed:group"
         ]
     },
     {
-        "(C84) [SSB (まりりん)] 撮り下ろし新規映像 『奈良円光 -東京出張編-』 (奈良円光 THE BEST) (咲-Saki-) [中国翻訳]":[
+        "(COMIC1☆19) [サボテンビンタ (河上康)] 争奪!股問のセンセイ [中国翻訳]":[
             "language:translated",
-            "character:ako atarashi",
-            "artist:ssa",
-            "male:chikan",
-            "male:condom",
-            "male:dilf",
+            "group:saboten binta",
+            "male:sole male",
+            "male:teacher",
+            "female:big breasts",
+            "female:bloomers",
             "female:blowjob",
-            "female:chikan",
-            "female:nakadashi",
+            "female:lolicon",
+            "female:oppai loli",
+            "female:paizuri",
+            "female:pixie cut",
+            "female:school swimsuit",
             "female:schoolgirl uniform",
-            "female:sole female"
+            "female:tomboy",
+            "female:twintails",
+            "mixed:group"
         ]
     }
 ]
