@@ -606,7 +606,6 @@
     },
     {
         "(C102) [AMAYADORI+ (ハレノチアメ)] 海祇島の秘密の部屋 (原神) [中国翻訳]":[
-            "character:kokomi sangonomiya",
             "male:sole male",
             "female:sole female"
         ]
@@ -667,7 +666,6 @@
     },
     {
         "(C102) [カミナリネコ (えーたろー)] 第三芸能課催眠レッスン (アイドルマスター シンデレラガールズ) [中国翻訳]":[
-            "character:arisu tachibana",
             "female:anal",
             "female:lolicon",
             "female:mind control"
@@ -684,6 +682,12 @@
         ]
     },
     {
+        "(C102) [パンダの缶詰 (KA-9)] 旅人敗北記 (原神) [中国翻訳]":[
+            "character:lumine",
+            "female:bondage"
+        ]
+    },
+    {
         "(C102) [勇者様御一行 (ねみぎつかさ)] 極楽紀行・甘 (原神) [中国翻訳]":[
             "male:sole male",
             "female:bunny girl",
@@ -694,7 +698,6 @@
     },
     {
         "(C102) [夜風亭(鳴神銀龍)] 蛍のオナニー事情 (原神) [中国翻訳]":[
-            "character:lumine",
             "female:masturbation",
             "female:sex toys",
             "female:sole female",
@@ -727,7 +730,6 @@
     },
     {
         "(C102) [炙りパセリ(もずく)] 発情秘境のかんうちゃん (原神) [中国翻訳]":[
-            "character:ganyu",
             "male:monster",
             "female:anal",
             "female:big breasts",
@@ -40369,12 +40371,21 @@
         ]
     },
     {
-        "(C102) [パンダの缶詰 (KA-9)] 旅人敗北記 (原神) [中国翻訳]":[
+        "[23.4ド (イチリ)] 堕天計画3 -不感天使は強制感度アップで堕とす- [中国翻訳] [DL版]":[
             "language:translated",
-            "character:lumine",
-            "artist:ka-9",
-            "female:bondage",
-            "other:watermarked"
+            "group:23.4do",
+            "male:sole male",
+            "female:angel",
+            "female:collar",
+            "female:halo",
+            "female:kemonomimi",
+            "female:kissing",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:sole female",
+            "female:twintails",
+            "female:unusual pupils",
+            "female:very long hair"
         ]
     }
 ]
