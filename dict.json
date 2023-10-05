@@ -683,7 +683,6 @@
     },
     {
         "(C102) [パンダの缶詰 (KA-9)] 旅人敗北記 (原神) [中国翻訳]":[
-            "character:lumine",
             "female:bondage"
         ]
     },
@@ -10465,6 +10464,23 @@
             "female:sole female",
             "female:stomach deformation",
             "female:twintails",
+            "female:very long hair"
+        ]
+    },
+    {
+        "[23.4ド (イチリ)] 堕天計画3 -不感天使は強制感度アップで堕とす- [中国翻訳] [DL版]":[
+            "group:23.4do",
+            "male:sole male",
+            "female:angel",
+            "female:collar",
+            "female:halo",
+            "female:kemonomimi",
+            "female:kissing",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:sole female",
+            "female:twintails",
+            "female:unusual pupils",
             "female:very long hair"
         ]
     },
@@ -40371,21 +40387,29 @@
         ]
     },
     {
-        "[23.4ド (イチリ)] 堕天計画3 -不感天使は強制感度アップで堕とす- [中国翻訳] [DL版]":[
+        "(C102) [Asunaro Neat. (ろんな)] TSロリおじさんの冒険 閑話 -ふわふわドーム編- [中国翻訳]":[
             "language:translated",
-            "group:23.4do",
-            "male:sole male",
-            "female:angel",
-            "female:collar",
-            "female:halo",
-            "female:kemonomimi",
-            "female:kissing",
+            "group:asunaro neat.",
+            "male:gender change",
+            "female:exhibitionism",
+            "female:females only",
             "female:lolicon",
-            "female:nakadashi",
-            "female:sole female",
-            "female:twintails",
-            "female:unusual pupils",
-            "female:very long hair"
+            "female:masturbation",
+            "female:sex toys"
+        ]
+    },
+    {
+        "[梟屋 (フクロウ)] 即はめ!!めすけもの森2 (どうぶつの森) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:ankha",
+            "character:isabelle",
+            "artist:fukurou",
+            "male:group",
+            "male:human on furry",
+            "female:catgirl",
+            "female:dog girl",
+            "female:fox girl",
+            "female:furry"
         ]
     }
 ]
