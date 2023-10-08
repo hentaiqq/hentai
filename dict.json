@@ -34505,7 +34505,6 @@
     },
     {
         "[梟屋 (フクロウ)] 即はめ!!めすけもの森2 (どうぶつの森) [中国翻訳] [DL版]":[
-            "artist:fukurou",
             "male:group",
             "male:human on furry",
             "female:catgirl",
@@ -38467,6 +38466,15 @@
         ]
     },
     {
+        "[逆流茶会] 小穴之日 [中国語]":[
+            "artist:taketori zaiku",
+            "female:females only",
+            "female:garter belt",
+            "female:stockings",
+            "female:yuri"
+        ]
+    },
+    {
         "[逆流茶会]小穴之日【中文】":[
             "female:females only",
             "female:garter belt",
@@ -40407,13 +40415,84 @@
         ]
     },
     {
-        "[逆流茶会] 小穴之日 [中国語]":[
-            "parody:original",
-            "artist:taketori zaiku",
-            "female:females only",
-            "female:garter belt",
+        "[Kataokasan] 阿能的入职体检 (明日方舟) [中国語] [無修正]":[
+            "parody:arknights",
+            "artist:kataokasan",
+            "male:bald",
+            "male:dark skin",
+            "male:muscle",
+            "female:anal",
+            "female:anal intercourse",
+            "female:angel",
+            "female:blowjob",
+            "female:bondage",
+            "female:bukkake",
+            "female:clamp",
+            "female:deepthroat",
+            "female:double penetration",
+            "female:eye-covering bang",
+            "female:footjob",
+            "female:gloves",
+            "female:halo",
+            "female:kemonomimi",
+            "female:mind break",
+            "female:nakadashi",
+            "female:pantyhose",
+            "female:piercing",
+            "female:rape",
+            "female:ryona",
+            "female:sex toys",
+            "female:stomach deformation",
+            "female:triple penetration",
+            "female:x-ray",
+            "mixed:mmf threesome"
+        ]
+    },
+    {
+        "[FANBOX] kataokasan":[
+            "character:exusiai",
+            "character:mostima",
+            "character:skadi",
+            "artist:kataokasan",
+            "female:amputee",
+            "female:bandages",
+            "female:blood",
+            "female:blowjob",
+            "female:body painting",
+            "female:bondage",
+            "female:collar",
+            "female:double penetration",
+            "female:exhibitionism",
+            "female:eyepatch",
+            "female:footjob",
+            "female:futanari",
+            "female:gag",
+            "female:gaping",
+            "female:guro",
+            "female:halo",
+            "female:leash",
+            "female:nakadashi",
+            "female:nipple stimulation",
+            "female:pantyhose",
+            "female:sex toys",
+            "female:shibari",
+            "female:squirting",
             "female:stockings",
-            "female:yuri"
+            "female:tail",
+            "female:tentacles",
+            "female:vaginal sticker",
+            "female:x-ray"
+        ]
+    },
+    {
+        "(C100) [すずめねすと (雨美すずめ)] サキュバスちゃん召喚してみました [中国翻訳]":[
+            "language:translated",
+            "group:suzume nest",
+            "female:crotch tattoo",
+            "female:demon girl",
+            "female:lolicon",
+            "female:tail",
+            "female:wings"
         ]
     }
 ]
