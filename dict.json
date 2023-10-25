@@ -694,6 +694,14 @@
         ]
     },
     {
+        "(C102) [ZIP (萌木原ふみたけ)] 綺良々の“Ki” (原神) [中国翻訳]":[
+            "character:kirara",
+            "female:kemonomimi",
+            "female:sole female",
+            "female:tail"
+        ]
+    },
+    {
         "(C102) [こむぎばたけ (こむぎ)] おりこうさん [中国翻訳]":[
             "male:sole male",
             "female:collar",
@@ -8943,6 +8951,14 @@
             "female:mind control",
             "female:sister",
             "female:sole female"
+        ]
+    },
+    {
+        "(コミティア137) [わんちょ家、kuma-puro (わんちょ、小路あゆむ)] kuma-puroらくがき帳+わんちょ家ノォトちぇんじ！ [中国翻訳]":[
+            "group:kuma-puro",
+            "female:bondage",
+            "female:lolicon",
+            "female:twintails"
         ]
     },
     {
@@ -17869,7 +17885,6 @@
     },
     {
         "[あらと屋 (あらと安里)] ダヴィガキ理解らせっくす2-催眠ごっこであそぼう- [中国翻訳] [DL版]":[
-            "group:aratoya",
             "female:big areolae",
             "female:big breasts",
             "female:inverted nipples",
@@ -41070,23 +41085,58 @@
         ]
     },
     {
-        "(C102) [ZIP (萌木原ふみたけ)] 綺良々の“Ki” (原神) [中国翻訳]":[
+        "[ラマンダ] 陸上ユニのありすちゃんとエッチ漫画 (アイドルマスター シンデレラガールズ) [中国翻訳]":[
             "language:translated",
-            "character:kirara",
-            "artist:moekibara fumitake",
-            "female:kemonomimi",
+            "character:arisu tachibana",
+            "artist:ramanda",
+            "male:sole male",
+            "female:bloomers",
+            "female:blowjob",
+            "female:lolicon",
             "female:sole female",
-            "female:tail"
+            "female:squirting",
+            "female:sweating"
         ]
     },
     {
-        "(コミティア137) [わんちょ家、kuma-puro (わんちょ、小路あゆむ)] kuma-puroらくがき帳+わんちょ家ノォトちぇんじ！ [中国翻訳]":[
+        "[しぐれえび (レフトハンド)] 冒険者ちゃんとえっちな冒険1 [中国翻訳] [DL版]":[
             "language:translated",
-            "group:kuma-puro",
-            "artist:shouji ayumu",
-            "female:bondage",
-            "female:lolicon",
-            "female:twintails"
+            "group:shigure ebi",
+            "male:goblin",
+            "male:monster",
+            "female:anal",
+            "female:anal intercourse",
+            "female:bestiality",
+            "female:big breasts",
+            "female:bunny girl",
+            "female:demon girl",
+            "female:horns",
+            "female:impregnation",
+            "female:mind control",
+            "female:pregnant",
+            "female:rape",
+            "female:stockings",
+            "female:vaginal birth"
+        ]
+    },
+    {
+        "[もすきーと音。 (ぐれーともす)] 清楚彼女、堕ちる。 [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:mosquitone.",
+            "male:gyaru-oh",
+            "female:big breasts",
+            "female:netorare",
+            "female:sole female",
+            "other:forbidden content",
+            "other:story arc"
+        ]
+    },
+    {
+        "[はやけ] クールなあの娘の心模様 (COMIC LO 2023年10月号) [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:sole male",
+            "male:teacher",
+            "female:sole female"
         ]
     }
 ]
