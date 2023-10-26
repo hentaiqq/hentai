@@ -695,7 +695,6 @@
     },
     {
         "(C102) [ZIP (萌木原ふみたけ)] 綺良々の“Ki” (原神) [中国翻訳]":[
-            "character:kirara",
             "female:kemonomimi",
             "female:sole female",
             "female:tail"
@@ -8955,7 +8954,6 @@
     },
     {
         "(コミティア137) [わんちょ家、kuma-puro (わんちょ、小路あゆむ)] kuma-puroらくがき帳+わんちょ家ノォトちぇんじ！ [中国翻訳]":[
-            "group:kuma-puro",
             "female:bondage",
             "female:lolicon",
             "female:twintails"
@@ -20701,6 +20699,26 @@
         ]
     },
     {
+        "[しぐれえび (レフトハンド)] 冒険者ちゃんとえっちな冒険1 [中国翻訳] [DL版]":[
+            "group:shigure ebi",
+            "male:goblin",
+            "male:monster",
+            "female:anal",
+            "female:anal intercourse",
+            "female:bestiality",
+            "female:big breasts",
+            "female:bunny girl",
+            "female:demon girl",
+            "female:horns",
+            "female:impregnation",
+            "female:mind control",
+            "female:pregnant",
+            "female:rape",
+            "female:stockings",
+            "female:vaginal birth"
+        ]
+    },
+    {
         "[ししおとめ (ししを)] ド田舎サンドイッチ ～全校生徒三名の学校で女子二人のオモチャにされる僕～ [中国翻訳]":[
             "male:shotacon",
             "male:sole male",
@@ -22382,6 +22400,13 @@
             "female:lolicon",
             "female:ponytail",
             "female:sister",
+            "female:sole female"
+        ]
+    },
+    {
+        "[はやけ] クールなあの娘の心模様 (COMIC LO 2023年10月号) [中国翻訳] [DL版]":[
+            "male:sole male",
+            "male:teacher",
             "female:sole female"
         ]
     },
@@ -24404,6 +24429,16 @@
             "female:tomboy",
             "female:twintails",
             "female:x-ray"
+        ]
+    },
+    {
+        "[もすきーと音。 (ぐれーともす)] 清楚彼女、堕ちる。 [中国翻訳] [DL版]":[
+            "group:mosquitone.",
+            "male:gyaru-oh",
+            "female:big breasts",
+            "female:netorare",
+            "female:sole female",
+            "other:story arc"
         ]
     },
     {
@@ -29737,6 +29772,18 @@
             "female:sister",
             "female:sole female",
             "female:twintails"
+        ]
+    },
+    {
+        "[ラマンダ] 陸上ユニのありすちゃんとエッチ漫画 (アイドルマスター シンデレラガールズ) [中国翻訳]":[
+            "character:arisu tachibana",
+            "male:sole male",
+            "female:bloomers",
+            "female:blowjob",
+            "female:lolicon",
+            "female:sole female",
+            "female:squirting",
+            "female:sweating"
         ]
     },
     {
@@ -41085,57 +41132,26 @@
         ]
     },
     {
-        "[ラマンダ] 陸上ユニのありすちゃんとエッチ漫画 (アイドルマスター シンデレラガールズ) [中国翻訳]":[
+        "(ぷにケット47) [村井村] まひろちゃんがロスクエでひどい目に遭う本 (ちゃんはおしまい!) [中国翻訳]":[
             "language:translated",
-            "character:arisu tachibana",
-            "artist:ramanda",
-            "male:sole male",
-            "female:bloomers",
-            "female:blowjob",
-            "female:lolicon",
-            "female:sole female",
-            "female:squirting",
-            "female:sweating"
-        ]
-    },
-    {
-        "[しぐれえび (レフトハンド)] 冒険者ちゃんとえっちな冒険1 [中国翻訳] [DL版]":[
-            "language:translated",
-            "group:shigure ebi",
+            "character:mahiro oyama",
+            "male:gender change",
+            "male:gender morph",
             "male:goblin",
-            "male:monster",
-            "female:anal",
-            "female:anal intercourse",
-            "female:bestiality",
-            "female:big breasts",
-            "female:bunny girl",
-            "female:demon girl",
-            "female:horns",
-            "female:impregnation",
-            "female:mind control",
-            "female:pregnant",
-            "female:rape",
-            "female:stockings",
-            "female:vaginal birth"
+            "male:shotacon",
+            "female:lolicon",
+            "female:rape"
         ]
     },
     {
-        "[もすきーと音。 (ぐれーともす)] 清楚彼女、堕ちる。 [中国翻訳] [DL版]":[
+        "(C102) [K.Y.HIRO] かなのズパマン (推しの子) [中国翻訳]":[
             "language:translated",
-            "group:mosquitone.",
-            "male:gyaru-oh",
-            "female:big breasts",
-            "female:netorare",
-            "female:sole female",
-            "other:forbidden content",
-            "other:story arc"
-        ]
-    },
-    {
-        "[はやけ] クールなあの娘の心模様 (COMIC LO 2023年10月号) [中国翻訳] [DL版]":[
-            "language:translated",
+            "character:kana arima",
+            "male:bbm",
+            "male:dark skin",
             "male:sole male",
-            "male:teacher",
+            "female:filming",
+            "female:nakadashi",
             "female:sole female"
         ]
     }
