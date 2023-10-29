@@ -12273,6 +12273,16 @@
         ]
     },
     {
+        "[GUILTY HEARTS (五月雨せつな)] 桃華と二人きりで過ごす愛のプライベートアイランド (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
+            "character:momoka sakurai",
+            "male:sole male",
+            "female:bikini",
+            "female:lolicon",
+            "female:sole female",
+            "female:swimsuit"
+        ]
+    },
+    {
         "[Gallery Culter (磯カズナリ)] ゴブリンだって女冒険者と純愛Hしたい [中国翻訳] [DL版]":[
             "male:goblin",
             "female:garter belt",
@@ -22044,7 +22054,6 @@
     },
     {
         "[にぎりうさぎ] 王女の命令でストーカーと結婚させられる話①-③ [中国翻訳]":[
-            "artist:nigiri usagi",
             "male:bald",
             "male:bbm",
             "male:dark skin",
@@ -41169,18 +41178,6 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
-        ]
-    },
-    {
-        "[GUILTY HEARTS (五月雨せつな)] 桃華と二人きりで過ごす愛のプライベートアイランド (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
-            "language:translated",
-            "character:momoka sakurai",
-            "artist:samidare setsuna",
-            "male:sole male",
-            "female:bikini",
-            "female:lolicon",
-            "female:sole female",
-            "female:swimsuit"
         ]
     }
 ]
