@@ -29275,6 +29275,17 @@
         ]
     },
     {
+        "[ベイコン (すりお)] CRAZY SEX [中国翻訳] [DL版]":[
+            "group:beicon",
+            "male:sole male",
+            "male:sweating",
+            "female:dark skin",
+            "female:lolicon",
+            "female:sole female",
+            "female:sweating"
+        ]
+    },
+    {
         "[ベコ太郎] うす紅色の面影 (COMIC 快楽天ビースト 2019年7月号) [中国翻訳] [DL版]":[
             "male:sole male",
             "female:beauty mark",
@@ -41218,15 +41229,69 @@
         ]
     },
     {
-        "[ベイコン (すりお)] CRAZY SEX [中国翻訳] [DL版]":[
+        "[ほかまみつり] 雨上りは記念日♡ (COMIC LO 2018年10月号) [中国翻訳] [DL版]":[
             "language:translated",
-            "group:beicon",
+            "female:lolicon",
+            "female:oppai loli",
+            "female:twintails",
+            "mixed:group"
+        ]
+    },
+    {
+        "(COMIC1☆15) [きつね屋 (リーフィ)] 狐楽6 (Fate/Grand Order) [中国翻訳]":[
+            "language:translated",
+            "character:kama",
+            "artist:leafy",
             "male:sole male",
-            "male:sweating",
-            "female:dark skin",
             "female:lolicon",
             "female:sole female",
-            "female:sweating"
+            "female:stockings"
+        ]
+    },
+    {
+        "[オオカミうお] ウラオモテ (ふくらみかけの見せたがり願望) [中国翻訳]":[
+            "language:translated",
+            "male:dark skin",
+            "male:gyaru-oh",
+            "male:sole male",
+            "female:glasses",
+            "female:lolicon",
+            "female:pantyhose",
+            "female:ponytail",
+            "female:sole female"
+        ]
+    },
+    {
+        "[にぎりうさぎ] 王女の命令でストーカーと結婚させられる話①-④ [中国翻訳]":[
+            "language:translated",
+            "artist:nigiri usagi",
+            "male:bald",
+            "male:bbm",
+            "male:dark skin",
+            "male:dilf",
+            "male:hairy",
+            "female:beauty mark",
+            "female:blowjob",
+            "female:defloration",
+            "female:filming",
+            "female:fingering",
+            "female:glasses",
+            "female:kissing",
+            "female:lolicon",
+            "female:netorare",
+            "female:ponytail",
+            "female:twintails"
+        ]
+    },
+    {
+        "[くろこ屋 (式神くろ子)] 全員!!あの世イキ♥ (原神) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:hu tao",
+            "artist:shikigami kuroko",
+            "female:double penetration",
+            "female:sole female",
+            "female:triple penetration",
+            "female:unusual pupils"
         ]
     }
 ]
