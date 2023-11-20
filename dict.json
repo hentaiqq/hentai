@@ -11825,7 +11825,6 @@
     },
     {
         "[Digital Lover (なかじまゆか)] DLO-08 カレとの約束2.5 [中国翻訳] [DL版]":[
-            "group:digital lover",
             "male:facial hair",
             "male:teacher",
             "male:tracksuit",
@@ -11851,7 +11850,6 @@
     },
     {
         "[Digital Lover (なかじまゆか)] カレとの約束4 [中国翻訳] [DL版]":[
-            "group:digital lover",
             "male:teacher",
             "female:big breasts",
             "female:chinese dress",
@@ -11887,8 +11885,19 @@
         ]
     },
     {
-        "[Digital Lover (なかじまゆか)] 孕ませ屋3 DLO-22 [中国翻訳] [DL版]":[
+        "[Digital Lover (なかじまゆか)] 孕ませ屋2 DLO-19 [中国翻訳] [DL版]":[
             "group:digital lover",
+            "male:glasses",
+            "male:sole male",
+            "female:big breasts",
+            "female:cheating",
+            "female:impregnation",
+            "female:lingerie",
+            "female:sole female"
+        ]
+    },
+    {
+        "[Digital Lover (なかじまゆか)] 孕ませ屋3 DLO-22 [中国翻訳] [DL版]":[
             "male:glasses",
             "male:sole male",
             "female:anal",
@@ -11897,6 +11906,16 @@
             "female:defloration",
             "female:kimono",
             "female:yuri"
+        ]
+    },
+    {
+        "[Digital Lover (なかじまゆか)] 孕ませ屋3.5 DLO-23 [中国翻訳] [DL版]":[
+            "group:digital lover",
+            "male:glasses",
+            "male:sole male",
+            "female:breast feeding",
+            "female:lingerie",
+            "female:pregnant"
         ]
     },
     {
@@ -41716,28 +41735,50 @@
         ]
     },
     {
-        "[Digital Lover (なかじまゆか)] 孕ませ屋2 DLO-19 [中国翻訳] [DL版]":[
+        "[ラインアウト (無道叡智)] おじょじさん TSしたおじさんが幼馴染のおじさんとのセックスにどハマりしちゃう全記録 [中国翻訳] [DL版]":[
             "language:translated",
-            "group:digital lover",
-            "male:glasses",
-            "male:sole male",
-            "female:big breasts",
-            "female:cheating",
-            "female:impregnation",
-            "female:lingerie",
-            "female:sole female"
+            "artist:mdo-h",
+            "male:gender change",
+            "male:gender morph",
+            "female:bikini",
+            "female:defloration",
+            "female:glasses",
+            "female:lolicon",
+            "female:masturbation",
+            "female:nakadashi",
+            "female:ponytail",
+            "female:sole female",
+            "female:swimsuit"
         ]
     },
     {
-        "[Digital Lover (なかじまゆか)] 孕ませ屋3.5 DLO-23 [中国翻訳] [DL版]":[
+        "[きょくちょ] 楓と鈴 7 (COMIC BAVEL 2023年8月号) [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:sole male",
+            "female:kimono",
+            "female:shimaidon",
+            "female:sister",
+            "female:twins",
+            "mixed:group"
+        ]
+    },
+    {
+        "[Digital Lover (なかじまゆか)] 孕ませ屋 DLO-16 [中国翻訳]":[
             "language:translated",
             "group:digital lover",
             "male:glasses",
+            "male:prostitution",
             "male:sole male",
+            "female:beauty mark",
+            "female:big breasts",
             "female:breast feeding",
+            "female:cheating",
+            "female:impregnation",
+            "female:lactation",
             "female:lingerie",
-            "female:pregnant",
-            "mixed:group"
+            "female:milf",
+            "female:nakadashi",
+            "female:pregnant"
         ]
     }
 ]
