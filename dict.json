@@ -11885,8 +11885,25 @@
         ]
     },
     {
-        "[Digital Lover (なかじまゆか)] 孕ませ屋2 DLO-19 [中国翻訳] [DL版]":[
+        "[Digital Lover (なかじまゆか)] 孕ませ屋 DLO-16 [中国翻訳]":[
             "group:digital lover",
+            "male:glasses",
+            "male:prostitution",
+            "male:sole male",
+            "female:beauty mark",
+            "female:big breasts",
+            "female:breast feeding",
+            "female:cheating",
+            "female:impregnation",
+            "female:lactation",
+            "female:lingerie",
+            "female:milf",
+            "female:nakadashi",
+            "female:pregnant"
+        ]
+    },
+    {
+        "[Digital Lover (なかじまゆか)] 孕ませ屋2 DLO-19 [中国翻訳] [DL版]":[
             "male:glasses",
             "male:sole male",
             "female:big breasts",
@@ -11910,7 +11927,6 @@
     },
     {
         "[Digital Lover (なかじまゆか)] 孕ませ屋3.5 DLO-23 [中国翻訳] [DL版]":[
-            "group:digital lover",
             "male:glasses",
             "male:sole male",
             "female:breast feeding",
@@ -19903,6 +19919,15 @@
             "female:schoolgirl uniform",
             "female:sex toys",
             "female:solo action"
+        ]
+    },
+    {
+        "[きょくちょ] 楓と鈴 7 (COMIC BAVEL 2023年8月号) [中国翻訳] [DL版]":[
+            "male:sole male",
+            "female:kimono",
+            "female:shimaidon",
+            "female:sister",
+            "female:twins"
         ]
     },
     {
@@ -30246,6 +30271,22 @@
             "female:stockings",
             "female:twintails",
             "female:unusual pupils"
+        ]
+    },
+    {
+        "[ラインアウト (無道叡智)] おじょじさん TSしたおじさんが幼馴染のおじさんとのセックスにどハマりしちゃう全記録 [中国翻訳] [DL版]":[
+            "artist:mdo-h",
+            "male:gender change",
+            "male:gender morph",
+            "female:bikini",
+            "female:defloration",
+            "female:glasses",
+            "female:lolicon",
+            "female:masturbation",
+            "female:nakadashi",
+            "female:ponytail",
+            "female:sole female",
+            "female:swimsuit"
         ]
     },
     {
@@ -41735,50 +41776,36 @@
         ]
     },
     {
-        "[ラインアウト (無道叡智)] おじょじさん TSしたおじさんが幼馴染のおじさんとのセックスにどハマりしちゃう全記録 [中国翻訳] [DL版]":[
+        "[トランポリンプリン (マッパニナッタ)] 良妻ちゃん 下 [中国翻訳] [DL版]":[
             "language:translated",
-            "artist:mdo-h",
-            "male:gender change",
-            "male:gender morph",
-            "female:bikini",
-            "female:defloration",
-            "female:glasses",
-            "female:lolicon",
-            "female:masturbation",
-            "female:nakadashi",
-            "female:ponytail",
-            "female:sole female",
-            "female:swimsuit"
-        ]
-    },
-    {
-        "[きょくちょ] 楓と鈴 7 (COMIC BAVEL 2023年8月号) [中国翻訳] [DL版]":[
-            "language:translated",
-            "male:sole male",
-            "female:kimono",
-            "female:shimaidon",
-            "female:sister",
-            "female:twins",
-            "mixed:group"
-        ]
-    },
-    {
-        "[Digital Lover (なかじまゆか)] 孕ませ屋 DLO-16 [中国翻訳]":[
-            "language:translated",
-            "group:digital lover",
-            "male:glasses",
-            "male:prostitution",
-            "male:sole male",
-            "female:beauty mark",
+            "group:mappa namatta",
+            "male:bbm",
+            "female:ahegao",
+            "female:anal",
+            "female:anal intercourse",
             "female:big breasts",
-            "female:breast feeding",
+            "female:blowjob",
             "female:cheating",
-            "female:impregnation",
-            "female:lactation",
-            "female:lingerie",
-            "female:milf",
+            "female:double penetration",
+            "female:filming",
+            "female:mind break",
+            "female:moral degeneration",
             "female:nakadashi",
-            "female:pregnant"
+            "female:netorare",
+            "female:sole female",
+            "other:multi-work series"
+        ]
+    },
+    {
+        "[SSB (まりりん)] 初体験、コスプレセックスで童貞奪われて性癖バグっちゃったハナシ [中国翻訳] [DL版]":[
+            "language:translated",
+            "parody:blue archive",
+            "group:ssb",
+            "male:masturbation",
+            "female:cosplaying",
+            "female:filming",
+            "female:maid",
+            "female:sole female"
         ]
     }
 ]
