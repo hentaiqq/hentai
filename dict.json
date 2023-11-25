@@ -657,7 +657,6 @@
     },
     {
         "(C101) [褐色のしおり (すりお)] アヌビスのエロ死者審判 [中国翻訳]":[
-            "group:beicon",
             "male:bondage",
             "male:sole male",
             "female:blowjob",
@@ -11839,6 +11838,22 @@
         "[Darkmaya] 糸球体ソープランド (はたらく細胞) [中国語]":[
             "female:hair buns",
             "female:sole female"
+        ]
+    },
+    {
+        "[Digital Lover (なかじまゆか)] DLO-04 カレと私の壊れたキズナ [中国翻訳] [DL版]":[
+            "group:digital lover",
+            "male:bbm",
+            "male:condom",
+            "male:dilf",
+            "male:glasses",
+            "female:apron",
+            "female:blackmail",
+            "female:netorare",
+            "female:niece",
+            "female:sole female",
+            "female:waitress",
+            "other:multi-work series"
         ]
     },
     {
@@ -37256,7 +37271,6 @@
     },
     {
         "[狐近寺本舗] しほちゃんの旦那代理券 [中国翻訳]":[
-            "group:kokonji honpo",
             "female:glasses",
             "female:netorare",
             "female:netorase",
@@ -39952,8 +39966,7 @@
             "female:tail plug",
             "female:twintails",
             "female:urination",
-            "female:very long hair",
-            "other:tankoubon"
+            "female:very long hair"
         ]
     },
     {
@@ -41437,6 +41450,15 @@
         ]
     },
     {
+        "[黒礫] 実験＜だー17＞ (原神) [中国語]":[
+            "artist:kokureki",
+            "male:dark skin",
+            "female:lolicon",
+            "female:sole female",
+            "female:unusual pupils"
+        ]
+    },
+    {
         "[黒礫] 火種 (原神) [中国語]":[
             "female:bondage",
             "female:lolicon",
@@ -41838,6 +41860,19 @@
         ]
     },
     {
+        "禾野吧未解之谜 - 小鬼":[
+            "male:sole male",
+            "female:bondage",
+            "female:hotpants",
+            "female:lolicon",
+            "female:mesugaki",
+            "female:ponytail",
+            "female:rape",
+            "female:sole female",
+            "female:stomach deformation"
+        ]
+    },
+    {
         "美国纽约摄影学院摄影教材(上册) New York Institute of Photography: Complete Course in Professional Photography(P1)":[]
     },
     {
@@ -41875,46 +41910,68 @@
         ]
     },
     {
-        "禾野吧未解之谜 - 小鬼":[
-            "male:sole male",
-            "female:bondage",
-            "female:hotpants",
+        "[半里バード] わからせラブ [中国翻訳] [無修正]":[
+            "language:translated",
+            "male:bbm",
+            "male:harem",
+            "male:tutor",
+            "female:ahegao",
+            "female:bikini",
+            "female:blindfold",
+            "female:blowjob",
+            "female:bukkake",
+            "female:collar",
+            "female:defloration",
+            "female:domination loss",
+            "female:glasses",
+            "female:kemonomimi",
             "female:lolicon",
             "female:mesugaki",
-            "female:ponytail",
-            "female:rape",
-            "female:sole female",
+            "female:schoolgirl uniform",
+            "female:sister",
+            "female:stockings",
             "female:stomach deformation",
-            "other:mosaic censorship"
-        ]
-    },
-    {
-        "[黒礫] 実験＜だー17＞ (原神) [中国語]":[
-            "parody:genshin impact",
-            "artist:kokureki",
-            "male:dark skin",
-            "female:lolicon",
-            "female:sole female",
+            "female:swimsuit",
+            "female:twintails",
             "female:unusual pupils",
-            "other:full color"
+            "female:very long hair",
+            "mixed:group",
+            "other:uncensored"
         ]
     },
     {
-        "[Digital Lover (なかじまゆか)] DLO-04 カレと私の壊れたキズナ [中国翻訳] [DL版]":[
+        "[40010試作型] プロトタイプティーンズ [DL版][中國翻譯]":[
             "language:translated",
-            "group:digital lover",
-            "male:bbm",
-            "male:condom",
-            "male:dilf",
-            "male:glasses",
-            "female:apron",
-            "female:blackmail",
-            "female:netorare",
-            "female:niece",
+            "female:blowjob",
+            "female:piercing",
+            "female:schoolgirl uniform"
+        ]
+    },
+    {
+        "[ふずめ] アロナに女装した先生を搾り取るバニートキ (ブルーアーカイブ) [中国翻訳]":[
+            "language:translated",
+            "character:arona",
+            "group:fuzume",
+            "male:big penis",
+            "male:cosplaying",
+            "male:crossdressing",
+            "male:eye-covering bang",
+            "male:shotacon",
+            "male:sole male",
+            "male:tomgirl",
+            "female:blowjob",
+            "female:blowjob face",
+            "female:bunny girl",
+            "female:emotionless sex",
+            "female:hairy",
+            "female:halo",
+            "female:kemonomimi",
+            "female:leotard",
+            "female:paizuri",
             "female:sole female",
-            "female:waitress",
-            "other:full color",
-            "other:multi-work series"
+            "female:stockings",
+            "female:very long hair",
+            "female:x-ray"
         ]
     }
 ]
