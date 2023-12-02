@@ -1495,6 +1495,13 @@
         "female:stockings",
         "female:swimsuit"
     ],
+    "(C89) [昭和最終戦線 (はなうな)] リーフちゃんのHなおこづかいかせぎ (ポケットモンスター) [中国翻訳]":[
+        "language:translated",
+        "character:leaf",
+        "artist:hanauna",
+        "male:sole male",
+        "female:sole female"
+    ],
     "(C89) [暗中模索 (まるころんど)] 姪っこな少女の絵本6(前編) [中国翻訳]":[
         "female:blowjob",
         "female:lolicon",
@@ -6959,7 +6966,6 @@
         "female:nakadashi"
     ],
     "(FF41) [Torinosu (Jakelian)] 我推倒的孩子 (アイドルマスター シンデレラガールズ) [中国語] [無修正]":[
-        "parody:the idolmaster",
         "group:torinosu",
         "male:sole male",
         "female:ahegao",
@@ -8941,7 +8947,6 @@
         "female:very long hair"
     ],
     "[2nd Life (日乃)] 同人兄妹 II.一兄妹の場合 [中国翻訳] [DL版]":[
-        "group:2nd life",
         "male:dark skin",
         "male:sole male",
         "female:blowjob",
@@ -8954,7 +8959,6 @@
         "female:sole female"
     ],
     "[2nd Life (日乃)] 同人兄妹 [中国翻訳] [DL版]":[
-        "group:2nd life",
         "male:dark skin",
         "male:sole male",
         "female:beauty mark",
@@ -9462,6 +9466,66 @@
         "female:strap-on",
         "female:twintails",
         "female:yuri"
+    ],
+    "[Asou] Pixiv FANBOX rewards (Various) [Uncensored]":[
+        "parody:fate stay night",
+        "parody:hibike euphonium",
+        "parody:hyouka",
+        "parody:isekai ojisan",
+        "parody:kaguya-sama wa kokurasetai",
+        "parody:kono subarashii sekai ni syukufuku o",
+        "parody:love live nijigasaki high school idol club",
+        "parody:lycoris recoil",
+        "parody:new game",
+        "parody:saenai heroine no sodatekata",
+        "parody:seishun buta yarou wa bunny girl senpai no yume o minai",
+        "parody:ssss.gridman",
+        "parody:toaru project",
+        "character:ai hayasaka",
+        "character:asuna yuuki",
+        "character:chika fujiwara",
+        "character:chisato nishikigi",
+        "character:eli ayase",
+        "character:eru chitanda",
+        "character:hanamaru kunikida",
+        "character:hayase nagatoro",
+        "character:honoka kosaka",
+        "character:illyasviel von einzbern",
+        "character:kaguya shinomiya",
+        "character:kasumi nakasu",
+        "character:kos-mos",
+        "character:kumiko oumae",
+        "character:maki nishikino",
+        "character:megumi kato",
+        "character:miko iino",
+        "character:nico yazawa",
+        "character:nodoka haramura",
+        "character:pekora",
+        "character:rem",
+        "character:riko sakurauchi",
+        "character:ruby kurosawa",
+        "character:sakura miko",
+        "character:suguha kirigaya",
+        "character:tsumugi kotobuki",
+        "character:usada pekora",
+        "character:yoshiko tsushima",
+        "character:you watanabe",
+        "female:blowjob",
+        "female:horns",
+        "female:masturbation",
+        "female:nakadashi",
+        "female:netorare",
+        "female:paizuri",
+        "female:ponytail",
+        "female:schoolgirl uniform",
+        "female:sex toys",
+        "female:stockings",
+        "female:sweating",
+        "female:swimsuit",
+        "female:tail",
+        "female:vtuber",
+        "mixed:group",
+        "other:uncensored"
     ],
     "[Asunaro Neat. (ろんな)] TSロリおじさんの冒険 オナニー編 [中国翻訳] [DL版]":[
         "male:age regression",
@@ -10626,6 +10690,30 @@
         "female:very long hair",
         "female:x-ray"
     ],
+    "[Kataokasan] CG图合集":[
+        "parody:arknights",
+        "character:exusiai",
+        "character:texas",
+        "artist:kataokasan",
+        "female:anal",
+        "female:asphyxiation",
+        "female:bikini",
+        "female:blindfold",
+        "female:bondage",
+        "female:double penetration",
+        "female:futanari",
+        "female:incest",
+        "female:inseki",
+        "female:kemonomimi",
+        "female:lingerie",
+        "female:rape",
+        "female:shibari",
+        "female:tentacles",
+        "female:triple penetration",
+        "female:x-ray",
+        "female:yuri",
+        "mixed:mmf threesome"
+    ],
     "[Kataokasan] Futa德狗 x 阿能 (明日方舟) [中国語] [無修正]":[
         "female:ahegao",
         "female:anal",
@@ -11643,6 +11731,12 @@
         "female:schoolgirl uniform",
         "female:sole female"
     ],
+    "[Okayushop (Okayu)] お兄ちゃんはぷにまん! (お兄ちゃんはおしまい!) [中国翻訳] [DL版]":[
+        "language:translated",
+        "character:mahiro oyama",
+        "male:gender change",
+        "female:lolicon"
+    ],
     "[Oninarasu] Asuna | 亞絲娜 (Sword Art Online)":[
         "male:big penis",
         "male:condom",
@@ -11812,7 +11906,6 @@
         "female:yuri"
     ],
     "[Pixiv | FANBOX] kataokasan (84325201 | @kataokasan)":[
-        "artist:kataokasan",
         "female:amputee",
         "female:bandages",
         "female:blood",
@@ -13100,9 +13193,7 @@
         "female:stockings"
     ],
     "[WaterRing] 2023/03-10 Patreon reward":[
-        "parody:hololive",
         "character:ochako uraraka",
-        "artist:waterring",
         "female:big breasts",
         "female:impregnation",
         "female:vtuber",
@@ -19474,7 +19565,6 @@
         "female:swimsuit"
     ],
     "[ふくよかタオル] TS自慰TS百合 [中国翻訳] [DL版]":[
-        "group:fukuyoka towel",
         "male:gender change",
         "female:females only",
         "female:kissing",
@@ -25807,6 +25897,34 @@
         "female:wings",
         "female:witch"
     ],
+    "[三崎 (むねしろ)] 黒髪妻のオトモダチ [中国翻訳]":[
+        "language:translated",
+        "group:misaki",
+        "male:beauty mark",
+        "male:big penis",
+        "male:crossdressing",
+        "male:eye-covering bang",
+        "male:josou seme",
+        "male:shotacon",
+        "male:smalldom",
+        "male:sole male",
+        "male:tomgirl",
+        "female:ahegao",
+        "female:beauty mark",
+        "female:big ass",
+        "female:big breasts",
+        "female:blowjob",
+        "female:cheating",
+        "female:handjob",
+        "female:impregnation",
+        "female:milf",
+        "female:nakadashi",
+        "female:netorare",
+        "female:paizuri",
+        "female:pregnant",
+        "female:sole female",
+        "other:multi-work series"
+    ],
     "[三崎 (紅村かる)] ぼくだけがセックスできない家 [中国翻訳] [無修正] [DL版]":[
         "female:netorare"
     ],
@@ -26530,7 +26648,6 @@
         "female:twintails"
     ],
     "[二三月そう] 1LDK+JK いきなり同居? 密着!? 初エッチ!!? 第18-44話  [中国翻訳]":[
-        "language:translated",
         "male:business suit",
         "male:schoolboy uniform",
         "male:sole male",
