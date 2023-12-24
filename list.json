@@ -12122,13 +12122,11 @@
         "female:very long hair"
     ],
     "[Poyeop] Arlecchino (原神) [颠佬旅者汉化组]":[
-        "character:arlecchino",
         "female:nakadashi",
         "female:sole female",
         "female:unusual pupils"
     ],
     "[Poyeop] Mona 2 (原神)  [中国翻訳]":[
-        "language:translated",
         "character:mona megistus",
         "male:bbm",
         "male:dark skin",
@@ -12140,17 +12138,14 @@
         "female:witch"
     ],
     "[Poyeop] Mona 4 (原神)  [中国翻訳]":[
-        "language:translated",
         "character:mona megistus",
         "female:sole female"
     ],
     "[Poyeop] 神里绫华 (原神) [颠佬旅者汉化组]":[
-        "character:ayaka kamisato",
         "female:beauty mark",
         "female:sole female"
     ],
     "[Poyeop] 아량":[
-        "artist:poyeop",
         "female:beauty mark",
         "female:big breasts",
         "female:blowjob",
@@ -12161,7 +12156,6 @@
         "female:sole female"
     ],
     "[Poyeop] 아량2":[
-        "artist:poyeop",
         "male:sole male",
         "female:blowjob",
         "female:nakadashi",
@@ -14174,6 +14168,12 @@
         "female:glasses",
         "female:tanlines"
     ],
+    "[poyeop] Noelle (原神) [中国翻訳] [無修正]":[
+        "language:translated",
+        "character:noelle",
+        "male:shotacon",
+        "female:sole female"
+    ],
     "[poyeop] 和姦成立 (原神) [中国翻訳] [無修正]":[
         "male:bbm",
         "male:sole male",
@@ -14182,6 +14182,14 @@
         "female:miko",
         "female:nakadashi",
         "female:sole female"
+    ],
+    "[poyeop] 和姦成立2 (原神) [颠佬旅者汉化组] [patreon]":[
+        "language:translated",
+        "artist:poyeop",
+        "male:dark skin",
+        "female:miko",
+        "female:mind control",
+        "other:uncensored"
     ],
     "[red miso soup (赤だし)] おじさんとイチャラブ性交日記 [中国翻訳]":[
         "male:sole male",
@@ -22534,7 +22542,6 @@
         "female:wooden horse"
     ],
     "[アヘアジフ (さなつき)] デリパコぱーてぃ♥ぶたきゅあ (デリシャスパーティ♡プリキュア) [中国翻訳] [DL版]":[
-        "parody:pretty cure",
         "female:anal",
         "female:anal intercourse",
         "female:blowjob",

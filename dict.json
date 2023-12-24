@@ -14703,22 +14703,38 @@
     },
     {
         "[Poyeop] Arlecchino (原神) [颠佬旅者汉化组]":[
-            "character:arlecchino",
             "female:nakadashi",
             "female:sole female",
             "female:unusual pupils"
         ]
     },
     {
+        "[Poyeop] Mona 2 (原神)  [中国翻訳]":[
+            "character:mona megistus",
+            "male:bbm",
+            "male:dark skin",
+            "male:sole male",
+            "female:blowjob",
+            "female:prostitution",
+            "female:sole female",
+            "female:twintails",
+            "female:witch"
+        ]
+    },
+    {
+        "[Poyeop] Mona 4 (原神)  [中国翻訳]":[
+            "character:mona megistus",
+            "female:sole female"
+        ]
+    },
+    {
         "[Poyeop] 神里绫华 (原神) [颠佬旅者汉化组]":[
-            "character:ayaka kamisato",
             "female:beauty mark",
             "female:sole female"
         ]
     },
     {
         "[Poyeop] 아량":[
-            "artist:poyeop",
             "female:beauty mark",
             "female:big breasts",
             "female:blowjob",
@@ -14731,7 +14747,6 @@
     },
     {
         "[Poyeop] 아량2":[
-            "artist:poyeop",
             "male:sole male",
             "female:blowjob",
             "female:nakadashi",
@@ -27012,7 +27027,6 @@
     },
     {
         "[アヘアジフ (さなつき)] デリパコぱーてぃ♥ぶたきゅあ (デリシャスパーティ♡プリキュア) [中国翻訳] [DL版]":[
-            "parody:pretty cure",
             "female:anal",
             "female:anal intercourse",
             "female:blowjob",
@@ -43239,24 +43253,21 @@
         ]
     },
     {
-        "[Poyeop] Mona 2 (原神)  [中国翻訳]":[
+        "[poyeop] Noelle (原神) [中国翻訳] [無修正]":[
             "language:translated",
-            "character:mona megistus",
-            "male:bbm",
-            "male:dark skin",
-            "male:sole male",
-            "female:blowjob",
-            "female:prostitution",
-            "female:sole female",
-            "female:twintails",
-            "female:witch"
+            "character:noelle",
+            "male:shotacon",
+            "female:sole female"
         ]
     },
     {
-        "[Poyeop] Mona 4 (原神)  [中国翻訳]":[
+        "[poyeop] 和姦成立2 (原神) [颠佬旅者汉化组] [patreon]":[
             "language:translated",
-            "character:mona megistus",
-            "female:sole female"
+            "artist:poyeop",
+            "male:dark skin",
+            "female:miko",
+            "female:mind control",
+            "other:uncensored"
         ]
     }
 ]
