@@ -14710,7 +14710,6 @@
     },
     {
         "[Poyeop] Mona 2 (原神)  [中国翻訳]":[
-            "character:mona megistus",
             "male:bbm",
             "male:dark skin",
             "male:sole male",
@@ -14723,7 +14722,6 @@
     },
     {
         "[Poyeop] Mona 4 (原神)  [中国翻訳]":[
-            "character:mona megistus",
             "female:sole female"
         ]
     },
@@ -17135,6 +17133,13 @@
         ]
     },
     {
+        "[poyeop] Noelle (原神) [中国翻訳] [無修正]":[
+            "character:noelle",
+            "male:shotacon",
+            "female:sole female"
+        ]
+    },
+    {
         "[poyeop] 和姦成立 (原神) [中国翻訳] [無修正]":[
             "male:bbm",
             "male:sole male",
@@ -17143,6 +17148,14 @@
             "female:miko",
             "female:nakadashi",
             "female:sole female"
+        ]
+    },
+    {
+        "[poyeop] 和姦成立2 (原神) [颠佬旅者汉化组] [patreon]":[
+            "artist:poyeop",
+            "male:dark skin",
+            "female:miko",
+            "female:mind control"
         ]
     },
     {
@@ -43253,21 +43266,32 @@
         ]
     },
     {
-        "[poyeop] Noelle (原神) [中国翻訳] [無修正]":[
+        "[poyeop] 磁场椰奶品鉴记2 (原神) [丘丘人纯爱汉化组] [中国翻译] [patreon]":[
             "language:translated",
-            "character:noelle",
-            "male:shotacon",
+            "character:ganyu",
+            "female:horns",
             "female:sole female"
         ]
     },
     {
-        "[poyeop] 和姦成立2 (原神) [颠佬旅者汉化组] [patreon]":[
+        "[poyeop] 催眠 にかかったと認めた瞬間、本当にかかってしまう催眠をかけてみた。2 (原神) [丘丘人纯爱汉化组] [pateron] [中国翻译]":[
             "language:translated",
             "artist:poyeop",
-            "male:dark skin",
-            "female:miko",
+            "male:bbm",
+            "male:sole male",
             "female:mind control",
-            "other:uncensored"
+            "female:sole female",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[GSUS] 喜多⭐...01-03 (ぼっち・ざ・ろっく!) [中国語]":[
+            "parody:bocchi the rock",
+            "artist:gsus",
+            "male:bbm",
+            "male:sole male",
+            "female:prostitution",
+            "female:sole female"
         ]
     }
 ]
