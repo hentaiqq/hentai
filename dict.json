@@ -12837,7 +12837,6 @@
     },
     {
         "[ILD CAT (弥猫うた)] 不思議の部屋のありす (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
-            "character:arisu tachibana",
             "male:tickling",
             "male:torture",
             "female:lolicon",
@@ -14746,7 +14745,6 @@
     },
     {
         "[Poyeop] モナの日常(?) (原神) [中国語]":[
-            "character:mona megistus",
             "male:bbm",
             "male:sole male",
             "female:blowjob",
@@ -14758,7 +14756,6 @@
     },
     {
         "[Poyeop] 甘雨の残業 (原神) [中国翻訳]":[
-            "character:ganyu",
             "male:bbm",
             "male:dark skin",
             "male:sole male",
@@ -39865,8 +39862,7 @@
             "female:schoolgirl uniform",
             "female:stockings",
             "female:twintails",
-            "female:x-ray",
-            "other:tankoubon"
+            "female:x-ray"
         ]
     },
     {
@@ -42993,7 +42989,6 @@
     },
     {
         "[黒魔法研究所 (ぬかじ)] 俺の娘は元カノ似 [中国翻訳] [DL版]":[
-            "group:kuromahou kenkyuujo",
             "male:dilf",
             "male:facial hair",
             "male:sole male",
@@ -43355,6 +43350,58 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
+        ]
+    },
+    {
+        "(C85) [あにまるハーブ (夜ノみつき)] ウチのペット事情 [中国翻訳]":[
+            "language:translated",
+            "group:animal herb",
+            "male:sole male",
+            "female:catgirl",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:sole female",
+            "female:stockings",
+            "female:tail",
+            "female:x-ray",
+            "other:multi-work series"
+        ]
+    },
+    {
+        "[蛹虎次郎] サカマネお〜ば〜かむ (ネトラレおなぺっと) [中国翻訳] [DL版]":[
+            "language:translated",
+            "female:anal",
+            "female:big breasts",
+            "female:bloomers",
+            "female:ponytail"
+        ]
+    },
+    {
+        "[りゆさ] 普段とは少し違うミミックを発見したフリーレン (葬送のフリーレン) [中国翻訳]":[
+            "language:translated",
+            "character:frieren",
+            "female:bondage",
+            "female:elf",
+            "female:pantyhose",
+            "female:sole female",
+            "female:tentacles",
+            "female:tights",
+            "female:twintails"
+        ]
+    },
+    {
+        "[RAID SLASH (黒小枝)] 僕の好きな娘は性処理アイドル (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:arisu tachibana",
+            "artist:yahiro",
+            "female:bloomers",
+            "female:defloration",
+            "female:lolicon",
+            "female:netorare",
+            "female:rape",
+            "female:school gym uniform",
+            "female:sole female",
+            "other:full color"
         ]
     }
 ]
