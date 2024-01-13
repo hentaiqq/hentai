@@ -847,7 +847,6 @@
     },
     {
         "(C102) [パンダの缶詰 (ないん)] 旅人敗北記 (原神) [中国翻訳]":[
-            "character:lumine",
             "female:bondage"
         ]
     },
@@ -6303,6 +6302,16 @@
             "female:tail",
             "female:thigh high boots",
             "female:yuri"
+        ]
+    },
+    {
+        "(C97) [ILD CAT (弥猫うた)] ありすとおふろ (アイドルマスター シンデレラガールズ) [中国翻訳]":[
+            "character:arisu tachibana",
+            "female:lolicon",
+            "female:mind control",
+            "female:ponytail",
+            "female:sole female",
+            "female:tickling"
         ]
     },
     {
@@ -17359,7 +17368,6 @@
     },
     {
         "[nounanka (あぶぶ)] 母姉叔母がサキュバスなショタ勇者ハーレムパーティ [中国翻訳]":[
-            "group:nounanka sedai",
             "male:eye-covering bang",
             "male:shotacon",
             "female:aunt",
@@ -28749,7 +28757,6 @@
     },
     {
         "[シュクリーン] 君がため。2 市河いのり ～陥落編～ [中国翻訳]":[
-            "group:syukurin",
             "female:nakadashi",
             "female:netorare",
             "female:schoolgirl uniform"
@@ -28757,7 +28764,6 @@
     },
     {
         "[シュクリーン] 君がため。3 仁奈川ニコル ～篭絡編～ [中国翻訳]":[
-            "artist:syukurin",
             "female:blackmail",
             "female:defloration",
             "female:netorare",
@@ -33098,6 +33104,30 @@
             "female:smell",
             "female:sole female",
             "female:twintails"
+        ]
+    },
+    {
+        "[二次結び (大野かなえ)] TRADE OFF2 -みんなの欲とキミの願い- [中国翻訳] [DL版]":[
+            "group:2jimusubi",
+            "male:coach",
+            "male:dark skin",
+            "male:dilf",
+            "male:gang rape",
+            "male:rape",
+            "male:shaved head",
+            "female:anal",
+            "female:big breasts",
+            "female:blackmail",
+            "female:blowjob",
+            "female:crying",
+            "female:double penetration",
+            "female:hair buns",
+            "female:hairy",
+            "female:nakadashi",
+            "female:netorare",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:sole female"
         ]
     },
     {
@@ -43786,42 +43816,68 @@
         ]
     },
     {
-        "[二次結び (大野かなえ)] TRADE OFF2 -みんなの欲とキミの願い- [中国翻訳] [DL版]":[
+        "[おすし食べたい (Yu)] 妹とパパと僕の複雑な家庭事情 おまけ漫画 [LS15个人汉化]":[
             "language:translated",
-            "group:2jimusubi",
-            "male:coach",
+            "artist:yu",
+            "female:daughter",
+            "female:kissing",
+            "female:lolicon",
+            "female:sister"
+        ]
+    },
+    {
+        "(C95) [スパイシーラブスヘブン (かみ田)] ニコラブ [中国翻訳]":[
+            "language:translated",
+            "group:spicy loves heaven",
             "male:dark skin",
-            "male:dilf",
-            "male:gang rape",
-            "male:rape",
-            "male:shaved head",
-            "female:anal",
-            "female:big breasts",
-            "female:blackmail",
-            "female:blowjob",
-            "female:crying",
-            "female:double penetration",
-            "female:hair buns",
-            "female:hairy",
+            "male:hairy",
+            "female:beauty mark",
+            "female:bikini",
+            "female:defloration",
+            "female:drugs",
+            "female:lolicon",
+            "female:ponytail",
+            "female:swimsuit"
+        ]
+    },
+    {
+        "[毒電波受信中 (炉心)] メスガキちゃんをもっとわからせたい! [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:doku denpa jushin-chuu",
+            "male:sole male",
+            "female:catgirl",
+            "female:collar",
+            "female:fox girl",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:mesugaki",
+            "female:stockings",
+            "female:tail",
+            "female:twintails",
+            "mixed:group"
+        ]
+    },
+    {
+        "[揚げナス(仮) (長瀬徹)] 子作りセックスが義務化した世界(…でモテない私。) [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:agenasu",
+            "male:harem",
             "female:nakadashi",
-            "female:netorare",
-            "female:rape",
+            "female:public use",
             "female:schoolgirl uniform",
             "female:sole female",
+            "female:stockings",
             "mixed:mmf threesome"
         ]
     },
     {
-        "(C97) [ILD CAT (弥猫うた)] ありすとおふろ (アイドルマスター シンデレラガールズ) [中国翻訳]":[
+        "[捕食少女(鴉醬)] 乳酸少女 I+II [中国翻訳] [無修正]":[
             "language:translated",
-            "character:arisu tachibana",
-            "artist:yaneko uta",
-            "female:lolicon",
-            "female:mind control",
-            "female:ponytail",
-            "female:sole female",
-            "female:tickling",
-            "other:full censorship"
+            "group:hoshoku shoujo",
+            "male:dilf",
+            "female:netorare",
+            "female:x-ray",
+            "other:watermarked"
         ]
     }
 ]
