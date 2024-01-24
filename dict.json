@@ -980,7 +980,6 @@
     },
     {
         "(C103) [しいたけ農園 (わかるティッシュ)] 小〇生アイドル合法性交合宿 (アイドルマスターシンデレラガールズ) [中国翻訳]":[
-            "artist:kanabun",
             "male:sole male",
             "female:bikini",
             "female:blowjob",
@@ -10230,6 +10229,15 @@
         "(秋季例大祭6) [てとが] えっちな東○レイヤーさんにご注意をっ! (東方Project) [中国翻訳]":[]
     },
     {
+        "(秋季例大祭6) [背徳漢、IRIOMOTE (背徳漢、沙流)] 古明地ナースのえちえち看護日誌 (東方Project) [中国翻訳]":[
+            "character:koishi komeiji",
+            "group:haitokukan",
+            "male:shotacon",
+            "female:lolicon",
+            "female:nurse"
+        ]
+    },
+    {
         "(秋季例大祭7) [ナギヤマスギ (那岐山)] 東方陵辱47 魔理沙 (東方Project) [中国翻訳]":[
             "male:kimono",
             "female:anal",
@@ -13373,6 +13381,25 @@
             "female:schoolgirl uniform",
             "female:sole female",
             "female:twintails"
+        ]
+    },
+    {
+        "[KENTO (KENTO OKAYAMA)] 潮吹きロリは無表情 ～魔法学校の連続絶頂生活～ [中国翻訳] [DL版]":[
+            "group:kento",
+            "male:monster",
+            "female:bondage",
+            "female:emotionless sex",
+            "female:exhibitionism",
+            "female:hidden sex",
+            "female:inflation",
+            "female:living clothes",
+            "female:lolicon",
+            "female:sex toys",
+            "female:sole female",
+            "female:squirting",
+            "female:stockings",
+            "female:stomach deformation",
+            "female:tentacles"
         ]
     },
     {
@@ -28094,6 +28121,19 @@
             "female:lolicon",
             "female:sole female",
             "female:unusual pupils"
+        ]
+    },
+    {
+        "[アルカ一区 (なだソルト)] また、夏が来る。──僕が処女を奪ったボーイッシュな従妹はメスガキになった [中国翻訳]":[
+            "group:archa1c",
+            "female:anorexic",
+            "female:cousin",
+            "female:emotionless sex",
+            "female:femdom",
+            "female:lolicon",
+            "female:mesugaki",
+            "female:tanlines",
+            "female:tomboy"
         ]
     },
     {
@@ -44720,50 +44760,40 @@
         ]
     },
     {
-        "(秋季例大祭6) [背徳漢、IRIOMOTE (背徳漢、沙流)] 古明地ナースのえちえち看護日誌 (東方Project) [中国翻訳]":[
+        "[マーマイケア (豚じまん)] SSSR Super Special Sex Resort 準備号。 (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
             "language:translated",
-            "character:koishi komeiji",
-            "character:satori komeiji",
-            "group:haitokukan",
-            "artist:haitokukan",
-            "male:shotacon",
-            "female:lolicon",
-            "female:nurse"
-        ]
-    },
-    {
-        "[アルカ一区 (なだソルト)] また、夏が来る。──僕が処女を奪ったボーイッシュな従妹はメスガキになった [中国翻訳]":[
-            "language:translated",
-            "group:archa1c",
-            "female:anorexic",
-            "female:cousin",
-            "female:emotionless sex",
-            "female:femdom",
-            "female:lolicon",
-            "female:mesugaki",
-            "female:tanlines",
-            "female:tomboy",
-            "other:multi-work series"
-        ]
-    },
-    {
-        "[KENTO (KENTO OKAYAMA)] 潮吹きロリは無表情 ～魔法学校の連続絶頂生活～ [中国翻訳] [DL版]":[
-            "language:translated",
-            "group:kento",
-            "male:monster",
+            "character:arisu tachibana",
+            "character:chie sasaki",
+            "character:koume shirasaka",
+            "character:nao kamiya",
+            "character:rin shibuya",
+            "male:bbm",
+            "male:dilf",
+            "male:smegma",
+            "female:anal",
+            "female:blowjob",
             "female:bondage",
-            "female:emotionless sex",
-            "female:exhibitionism",
-            "female:hidden sex",
-            "female:inflation",
-            "female:living clothes",
+            "female:focus blowjob",
+            "female:harem",
             "female:lolicon",
-            "female:sex toys",
-            "female:sole female",
-            "female:squirting",
-            "female:stockings",
-            "female:stomach deformation",
-            "female:tentacles"
+            "female:rimjob",
+            "mixed:group",
+            "ma-maikea"
+        ]
+    },
+    {
+        "[背徳漢] 東方催眠5 暗示によって男根中毒にさせられた聖白蓮 (東方Project) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:byakuren hijiri",
+            "artist:haitokukan",
+            "male:bald",
+            "male:dark skin",
+            "female:big breasts",
+            "female:blowjob",
+            "female:mind control",
+            "female:paizuri",
+            "female:tabi socks",
+            "mixed:mmf threesome"
         ]
     }
 ]
