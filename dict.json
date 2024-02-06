@@ -4742,7 +4742,6 @@
     },
     {
         "(C95) [nemuke？ (似せ)] 昔してた姉弟 [中国翻訳]":[
-            "group:nemuke",
             "male:shotacon",
             "male:sole male",
             "female:blowjob",
@@ -12724,8 +12723,73 @@
         ]
     },
     {
-        "[EsuEsu] 魔法少女VS淫魔生物 [中国翻訳]":[
+        "[EsuEsu] 魔法少女VS淫魔生物 11 [中国翻訳]":[
             "group:esuesu",
+            "male:monster",
+            "male:orc",
+            "female:ahegao",
+            "female:emotionless sex",
+            "female:leotard",
+            "female:magical girl",
+            "female:mind control",
+            "female:nakadashi",
+            "female:rape",
+            "female:tentacles"
+        ]
+    },
+    {
+        "[EsuEsu] 魔法少女VS淫魔生物 6 [中国翻訳]":[
+            "group:esuesu",
+            "male:big penis",
+            "male:monster",
+            "male:orc",
+            "female:ahegao",
+            "female:armpit licking",
+            "female:big breasts",
+            "female:kemonomimi",
+            "female:magical girl",
+            "female:nakadashi",
+            "female:parasite",
+            "female:pregnant",
+            "female:rape",
+            "female:stomach deformation",
+            "female:vaginal birth",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[EsuEsu] 魔法少女VS淫魔生物 8 [中国翻訳]":[
+            "group:esuesu",
+            "male:monster",
+            "female:ahegao",
+            "female:anal",
+            "female:gloves",
+            "female:kemonomimi",
+            "female:magical girl",
+            "female:nakadashi",
+            "female:parasite",
+            "female:rape",
+            "female:unbirth",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[EsuEsu] 魔法少女VS淫魔生物 9 [中国翻訳]":[
+            "group:esuesu",
+            "male:goblin",
+            "male:monster",
+            "female:anal",
+            "female:big breasts",
+            "female:blowjob",
+            "female:magical girl",
+            "female:nakadashi",
+            "female:rape",
+            "female:unusual pupils",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[EsuEsu] 魔法少女VS淫魔生物 [中国翻訳]":[
             "female:impregnation",
             "female:magical girl",
             "female:nakadashi",
@@ -12735,7 +12799,6 @@
     },
     {
         "[EsuEsu] 魔法少女vs淫魔生物 2 [中国翻訳]":[
-            "group:esuesu",
             "male:monster",
             "female:corruption",
             "female:futanari",
@@ -12749,7 +12812,6 @@
     },
     {
         "[EsuEsu] 魔法少女vs淫魔生物 3 [中国翻訳]":[
-            "group:esuesu",
             "male:monster",
             "female:big breasts",
             "female:impregnation",
@@ -12760,7 +12822,6 @@
     },
     {
         "[EsuEsu] 魔法少女vs淫魔生物4 [中国翻訳]":[
-            "group:esuesu",
             "male:monster",
             "female:big breasts",
             "female:corruption",
@@ -12773,7 +12834,6 @@
     },
     {
         "[EsuEsu] 魔法少女vs淫魔生物5 [中国翻訳]":[
-            "group:esuesu",
             "male:bbm",
             "female:body modification",
             "female:corruption",
@@ -45236,80 +45296,6 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
-        ]
-    },
-    {
-        "[EsuEsu] 魔法少女VS淫魔生物 11 [中国翻訳]":[
-            "language:translated",
-            "group:esuesu",
-            "male:monster",
-            "male:orc",
-            "female:ahegao",
-            "female:emotionless sex",
-            "female:leotard",
-            "female:magical girl",
-            "female:mind control",
-            "female:nakadashi",
-            "female:rape",
-            "female:tentacles",
-            "other:multi-work series"
-        ]
-    },
-    {
-        "[EsuEsu] 魔法少女VS淫魔生物 9 [中国翻訳]":[
-            "language:translated",
-            "group:esuesu",
-            "male:goblin",
-            "male:monster",
-            "female:anal",
-            "female:big breasts",
-            "female:blowjob",
-            "female:magical girl",
-            "female:nakadashi",
-            "female:rape",
-            "female:unusual pupils",
-            "female:x-ray",
-            "other:mosaic censorship"
-        ]
-    },
-    {
-        "[EsuEsu] 魔法少女VS淫魔生物 8 [中国翻訳]":[
-            "language:translated",
-            "group:esuesu",
-            "male:monster",
-            "female:ahegao",
-            "female:anal",
-            "female:gloves",
-            "female:kemonomimi",
-            "female:magical girl",
-            "female:nakadashi",
-            "female:parasite",
-            "female:rape",
-            "female:unbirth",
-            "female:x-ray",
-            "other:mosaic censorship"
-        ]
-    },
-    {
-        "[EsuEsu] 魔法少女VS淫魔生物 6 [中国翻訳]":[
-            "language:translated",
-            "group:esuesu",
-            "male:big penis",
-            "male:monster",
-            "male:orc",
-            "female:ahegao",
-            "female:armpit licking",
-            "female:big breasts",
-            "female:kemonomimi",
-            "female:magical girl",
-            "female:nakadashi",
-            "female:parasite",
-            "female:pregnant",
-            "female:rape",
-            "female:stomach deformation",
-            "female:vaginal birth",
-            "female:x-ray",
-            "other:multi-work series"
         ]
     }
 ]
