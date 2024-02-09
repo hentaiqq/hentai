@@ -12738,7 +12738,6 @@
     },
     {
         "[EsuEsu] 魔法少女VS淫魔生物 12 [中国翻訳]":[
-            "group:esuesu",
             "male:monster",
             "female:ahegao",
             "female:anal",
@@ -12814,7 +12813,6 @@
     },
     {
         "[EsuEsu] 魔法少女vs淫魔生物 13 [中国翻訳]":[
-            "group:esuesu",
             "male:forniphilia",
             "male:goblin",
             "male:monster",
@@ -12833,7 +12831,6 @@
     },
     {
         "[EsuEsu] 魔法少女vs淫魔生物 15":[
-            "group:esuesu",
             "male:forniphilia",
             "male:miniguy",
             "male:monster",
@@ -12844,8 +12841,21 @@
         ]
     },
     {
-        "[EsuEsu] 魔法少女vs淫魔生物 17.6 [中国翻訳]":[
+        "[EsuEsu] 魔法少女vs淫魔生物 17.5 [中国翻訳]":[
             "group:esuesu",
+            "male:monster",
+            "female:age regression",
+            "female:big breasts",
+            "female:blindfold",
+            "female:blowjob",
+            "female:bondage",
+            "female:gag",
+            "female:haigure",
+            "female:magical girl"
+        ]
+    },
+    {
+        "[EsuEsu] 魔法少女vs淫魔生物 17.6 [中国翻訳]":[
             "male:shotacon",
             "female:big breasts",
             "female:haigure",
@@ -23046,7 +23056,6 @@
     },
     {
         "[しまそふと (縦縞キタ)] シスター×ゴブリン [中国翻訳] [DL版]":[
-            "group:shimasoft",
             "male:goblin",
             "female:lolicon",
             "female:rape",
@@ -45177,7 +45186,6 @@
     },
     {
         "おツマミ·罗德岛的性爱精液品鉴会（明日方舟H）（明日方舟H·LC整合汉化组）":[
-            "character:ansel",
             "male:dark skin",
             "female:hairy",
             "female:kemonomimi",
@@ -45393,19 +45401,85 @@
         ]
     },
     {
-        "[EsuEsu] 魔法少女vs淫魔生物 17.5 [中国翻訳]":[
+        "[あいるあいる (あいる)] 僕にハーレムセフレができた理由3 [中国翻訳]":[
+            "language:translated",
+            "group:ailail",
+            "male:shotacon",
+            "male:sole male",
+            "female:big breasts",
+            "female:nakadashi",
+            "female:ponytail",
+            "female:teacher",
+            "other:multi-work series"
+        ]
+    },
+    {
+        "[EsuEsu] 魔法少女vs淫魔生物15.2 [中国翻訳]":[
             "language:translated",
             "group:esuesu",
             "male:monster",
-            "female:age regression",
+            "male:orc",
+            "female:hidden sex",
+            "female:lactation",
+            "female:magical girl",
+            "female:mother",
+            "female:pregnant",
+            "female:sole female",
+            "female:vaginal birth",
+            "female:very long hair"
+        ]
+    },
+    {
+        "[十はやみ] 淫乱お姉さんとひみつの三角関係 第1-4話 [中国翻訳] [DL版]":[
+            "language:translated",
+            "male:shotacon",
+            "male:sole male",
             "female:big breasts",
-            "female:blindfold",
+            "female:milf",
+            "female:sole female"
+        ]
+    },
+    {
+        "[モノ手紙 (かるたも)] えっちなおなかかんさつ。おなか×水着 [中国翻訳] [無修正] [DL版]":[
+            "language:translated",
+            "group:mono letter",
+            "male:sole male",
+            "female:ahegao",
+            "female:bikini",
             "female:blowjob",
-            "female:bondage",
-            "female:gag",
+            "female:nakadashi",
+            "female:sole female",
+            "female:swimsuit",
+            "female:twintails",
+            "female:unusual pupils",
+            "female:x-ray",
+            "other:uncensored"
+        ]
+    },
+    {
+        "[EsuEsu] 魔法少女vs淫魔生物 17 [中国翻訳]":[
+            "language:translated",
+            "group:esuesu",
+            "male:monster",
+            "male:shotacon",
+            "female:big breasts",
+            "female:blackmail",
             "female:haigure",
             "female:magical girl",
+            "female:nakadashi",
+            "female:paizuri",
             "other:multi-work series"
+        ]
+    },
+    {
+        "[GSUS] 喜多⭐... (ぼっち・ざ・ろっく!) [中国語]":[
+            "parody:bocchi the rock",
+            "character:nijika ijichi",
+            "male:bbm",
+            "male:sole male",
+            "female:prostitution",
+            "female:sole female",
+            "other:uncensored"
         ]
     }
 ]
