@@ -595,6 +595,13 @@
         ]
     },
     {
+        "(C101) [かしこいセント・バーナード (どんぐりIIFZ改)] なんでもモラがあれば売ってくれるドリーチャン (原神) [中国翻訳]":[
+            "character:dori sangemah bay",
+            "female:elf",
+            "female:lolicon"
+        ]
+    },
+    {
         "(C101) [ここのき屋 (ここのき奈緒)] ふたじょっ！1 [中国翻訳]":[
             "female:blowjob",
             "female:dark skin",
@@ -16315,7 +16322,6 @@
     },
     {
         "[Poyeop] 催眠硬币大冒险 (原神) [丘丘人纯爱汉化组] [patreon]":[
-            "artist:poyeop",
             "male:first person perspective",
             "male:sole male",
             "female:sole female"
@@ -19144,6 +19150,21 @@
             "male:sole male",
             "female:halo",
             "female:horns",
+            "female:sole female"
+        ]
+    },
+    {
+        "[poyeop] 胡桃捡尸 (原神) [丘丘人纯爱汉化组] [patreon]":[
+            "character:hu tao",
+            "male:sole male",
+            "female:sole female"
+        ]
+    },
+    {
+        "[poyeop] 迪希亚恰人记 (原神) [丘丘人纯爱汉化组] [patreon]":[
+            "artist:poyeop",
+            "male:bbm",
+            "male:sole male",
             "female:sole female"
         ]
     },
@@ -47323,32 +47344,6 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
-        ]
-    },
-    {
-        "(C101) [かしこいセント・バーナード (どんぐりIIFZ改)] なんでもモラがあれば売ってくれるドリーチャン (原神) [中国翻訳]":[
-            "language:translated",
-            "character:dori sangemah bay",
-            "artist:donguri iifz kai",
-            "female:elf",
-            "female:lolicon"
-        ]
-    },
-    {
-        "[poyeop] 迪希亚恰人记 (原神) [丘丘人纯爱汉化组] [patreon]":[
-            "language:translated",
-            "artist:poyeop",
-            "male:bbm",
-            "male:sole male",
-            "female:sole female"
-        ]
-    },
-    {
-        "[poyeop] 胡桃捡尸 (原神) [丘丘人纯爱汉化组] [patreon]":[
-            "language:translated",
-            "character:hu tao",
-            "male:sole male",
-            "female:sole female"
         ]
     }
 ]
