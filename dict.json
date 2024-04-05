@@ -1157,7 +1157,6 @@
     },
     {
         "(C103) [はだいろクレヨン (羽田暮)] どんな装備してシますか? (アイドルマスター シンデレラガールズ) [中国翻訳]":[
-            "character:arisu tachibana",
             "female:bikini",
             "female:cosplaying",
             "female:lolicon",
@@ -2462,6 +2461,20 @@
             "female:rape",
             "female:sole female",
             "female:stockings"
+        ]
+    },
+    {
+        "(C90) [TRAP (浦乃まみ)] SAKURA Festival (カードキャプターさくら) [中国翻訳]":[
+            "character:fujitaka kinomoto",
+            "character:touya kinomoto",
+            "male:bondage",
+            "male:shotacon",
+            "female:blowjob",
+            "female:daughter",
+            "female:defloration",
+            "female:lolicon",
+            "female:sister",
+            "female:yuri"
         ]
     },
     {
@@ -12765,6 +12778,24 @@
         ]
     },
     {
+        "[CHINZURI BOP (チンズリーナ)] 無知ホモ親友(カノジョ) [中国翻訳] [DL版]":[
+            "group:chinzuri bop",
+            "male:anal",
+            "male:anal intercourse",
+            "male:big penis",
+            "male:condom",
+            "male:crossdressing",
+            "male:leg lock",
+            "male:males only",
+            "male:nakadashi",
+            "male:stockings",
+            "male:tomgirl",
+            "male:unusual pupils",
+            "male:x-ray",
+            "male:yaoi"
+        ]
+    },
+    {
         "[CHRONOLOG (桜沢いづみ)] かみさまと、いけにえのおんなのこ。 弐 [中国翻訳]":[
             "female:lolicon",
             "female:miko",
@@ -13342,7 +13373,6 @@
     },
     {
         "[EsuEsu] 魔法少女vs淫魔生物 14 [中国翻訳]":[
-            "group:esuesu",
             "male:monster",
             "female:bestiality",
             "female:lolicon",
@@ -13419,7 +13449,6 @@
     },
     {
         "[EsuEsu] 魔法少女vs淫魔生物 7 [中国翻訳]":[
-            "group:esuesu",
             "male:monster",
             "female:big breasts",
             "female:impregnation",
@@ -13444,7 +13473,6 @@
     },
     {
         "[EsuEsu] 魔法少女vs淫魔生物19 [中国翻訳]":[
-            "group:esuesu",
             "male:monster",
             "female:big breasts",
             "female:gloves",
@@ -14367,7 +14395,6 @@
     },
     {
         "[ILD CAT (弥猫うた)] ありすの催眠日記2 (アイドルマスター シンデレラガールズ) [中国翻訳] [2019年2月16日]":[
-            "character:arisu tachibana",
             "male:sole male",
             "female:lolicon",
             "female:mind control",
@@ -16066,7 +16093,6 @@
     },
     {
         "[Pale Scarlet (松河)] 睡華 弐 [中国翻訳] [DL版]":[
-            "group:pale scarlet",
             "male:gyaru-oh",
             "female:apron",
             "female:beauty mark",
@@ -16083,7 +16109,6 @@
     },
     {
         "[Pale Scarlet (松河)] 睡華肆 [中国翻訳] [無修正] [DL版]":[
-            "group:pale scarlet",
             "male:dark skin",
             "male:dilf",
             "male:gyaru-oh",
@@ -16093,8 +16118,7 @@
             "female:mind break",
             "female:netorare",
             "female:schoolgirl uniform",
-            "female:stockings",
-            "other:multi-work series"
+            "female:stockings"
         ]
     },
     {
@@ -44890,12 +44914,10 @@
     },
     {
         "[藤崎ひかり] しぐ○うい～クラスメイトの男子にカラオケへ連れ込まれ洗ってないちんぽで口内凌辱される美少女神絵師編～ (しぐれうい) [中国翻訳]":[
-            "group:french letter",
             "female:blowjob",
             "female:handjob",
             "female:sole female",
-            "female:vtuber",
-            "other:variant set"
+            "female:vtuber"
         ]
     },
     {
@@ -47895,40 +47917,16 @@
         ]
     },
     {
-        "[CHINZURI BOP (チンズリーナ)] 無知ホモ親友(カノジョ) [中国翻訳] [DL版]":[
+        "[サイクロン (和泉、冷泉)] サイクロンのフルカラーパック1「Sui-Sui」 (スイートプリキュア♪) [中国翻訳] [DL版]":[
             "language:translated",
-            "group:chinzuri bop",
-            "male:anal",
-            "male:anal intercourse",
-            "male:big penis",
-            "male:condom",
-            "male:crossdressing",
-            "male:leg lock",
-            "male:males only",
-            "male:nakadashi",
-            "male:stockings",
-            "male:tomgirl",
-            "male:unusual pupils",
-            "male:x-ray",
-            "male:yaoi"
-        ]
-    },
-    {
-        "(C90) [TRAP (浦乃まみ)] SAKURA Festival (カードキャプターさくら) [中国翻訳]":[
-            "language:translated",
-            "character:fujitaka kinomoto",
-            "character:syaoran li",
-            "character:touya kinomoto",
-            "group:trap",
-            "male:bondage",
-            "male:shotacon",
-            "female:blowjob",
-            "female:daughter",
-            "female:defloration",
-            "female:lolicon",
-            "female:sister",
-            "female:yuri",
-            "mixed:mmf threesome"
+            "character:cure beat",
+            "group:cyclone",
+            "artist:reizei",
+            "female:chikan",
+            "female:magical girl",
+            "female:rape",
+            "female:stockings",
+            "other:full color"
         ]
     }
 ]
