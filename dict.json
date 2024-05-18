@@ -2105,7 +2105,6 @@
     },
     {
         "(C88) [お猿の脳みそ (ロケットモンキー)] ギリギリアイドル2 [中国翻訳]":[
-            "group:osaru no noumiso",
             "male:bbm",
             "female:ahegao",
             "female:anal",
@@ -4196,6 +4195,22 @@
             "female:netorare",
             "female:sole female",
             "female:thigh high boots"
+        ]
+    },
+    {
+        "(C94) [Chelsea lip (湊良弘)] 魔女ノ残り香 (Re:ゼロから始める異世界生活) [中国翻訳]":[
+            "character:emilia",
+            "male:masturbation",
+            "male:shotacon",
+            "male:sole male",
+            "male:virginity",
+            "female:defloration",
+            "female:elf",
+            "female:nakadashi",
+            "female:netorare",
+            "female:sole female",
+            "female:thigh high boots",
+            "female:very long hair"
         ]
     },
     {
@@ -48899,21 +48914,73 @@
         ]
     },
     {
-        "(C94) [Chelsea lip (湊良弘)] 魔女ノ残り香 (Re:ゼロから始める異世界生活) [中国翻訳]":[
+        "[ロケットモンキー] ギリギリアイドル 第3話 [中国翻訳]":[
             "language:translated",
-            "character:emilia",
-            "artist:minato yoshihiro",
-            "male:masturbation",
-            "male:shotacon",
-            "male:sole male",
-            "male:virginity",
-            "female:defloration",
-            "female:elf",
+            "male:dilf",
+            "female:anal",
+            "female:cheating",
+            "female:focus anal",
+            "female:glasses",
+            "female:gloves",
+            "female:hairy",
+            "female:hotpants",
+            "female:kemonomimi",
             "female:nakadashi",
             "female:netorare",
+            "female:sex toys",
+            "female:stirrup legwear",
+            "female:stockings",
+            "female:sweating",
+            "female:tail plug",
+            "female:twintails",
+            "female:unusual pupils",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[WaterRing] 2023/03-2024/04 Patreon reward":[
+            "language:english",
+            "parody:hololive",
+            "parody:my hero academia",
+            "character:nahida",
+            "character:ochako uraraka",
+            "character:shiori novella",
+            "character:tsuyu asui",
+            "female:big breasts",
+            "female:impregnation",
+            "female:tentacles",
+            "female:vtuber",
+            "female:x-ray",
+            "other:uncensored"
+        ]
+    },
+    {
+        "[プリン海ヨーグルト (ちり)] 犯され系少女メイナ 総集編 [中国翻訳] [DL版]  [ページ欠落]":[
+            "language:translated",
+            "group:purin kai yoghurt",
+            "female:catgirl",
+            "female:futanari",
+            "female:kemonomimi",
+            "female:penis enlargement",
+            "female:tentacles",
+            "other:incomplete",
+            "other:soushuuhen"
+        ]
+    },
+    {
+        "[プリン海ヨーグルト (ちり)] 犯され系少女メイナ  売春淫獄篇  [中国翻訳]  [DL版]":[
+            "language:translated",
+            "group:purin kai yoghurt",
+            "male:dark skin",
+            "female:anal",
+            "female:bukkake",
+            "female:catgirl",
+            "female:filming",
+            "female:kemonomimi",
+            "female:sex toys",
             "female:sole female",
-            "female:thigh high boots",
-            "female:very long hair",
+            "female:stockings",
+            "other:full color",
             "other:multi-work series"
         ]
     }
