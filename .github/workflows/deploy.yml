@@ -4,8 +4,8 @@ on:
   schedule:
     - cron: '0 15 * * *'
 env:
-  GIT_USER: chinoll
-  GIT_EMAIL: chinoll@protonmail.com
+  GIT_USER: 1500208912
+  GIT_EMAIL: 1500208912@qq.com
   THEME_BRANCH: master
   DEPLOY_REPO: hentaiqq/hentai
   DEPLOY_BRANCH: master
