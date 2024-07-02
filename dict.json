@@ -17679,7 +17679,6 @@
     },
     {
         "[TSF妄想蓄積所 (倉塚りこ、皆月ななな)] 不良 in 彼女 〜僕の彼女のカラダは不良男（アイツ）に乗っ取られました。〜 [中国翻訳]":[
-            "group:tsf mousou chikusekijo",
             "male:gender change",
             "male:glasses",
             "male:schoolboy uniform",
@@ -49548,6 +49547,18 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
+        ]
+    },
+    {
+        "[真・聖堂☆本舗 (聖☆司)] いつもの弟の性欲処理を、今日はラブホでしたい姉。 [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:shin hijiridou honpo",
+            "male:sole male",
+            "female:big breasts",
+            "female:glasses",
+            "female:sister",
+            "female:sole female",
+            "mixed:inseki"
         ]
     }
 ]
