@@ -7012,6 +7012,17 @@
         ]
     },
     {
+        "(C97) [IRIOMOTE (沙流)] のじゃ神様よ! [中国翻訳]":[
+            "group:iriomote",
+            "male:sole male",
+            "female:fox girl",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:sole female",
+            "female:tail"
+        ]
+    },
+    {
         "(C97) [MIDDLY (みどりのちや)] カラフルコネクト 3rd:Dive (プリンセスコネクト!Re:Dive) [中国翻訳]":[
             "male:sole male",
             "female:collar",
@@ -9797,7 +9808,6 @@
     },
     {
         "(めっさ気になるぅ3) [こまねすと (クックロビン)] おしえて!りなじさん! (ケムリクサ) [中国翻訳]":[
-            "character:rina",
             "male:sole male",
             "female:lolicon",
             "female:maid",
@@ -24064,6 +24074,13 @@
     {
         "[くろわさび (くろず)] 全裸お仕事情報雑誌 あんっ♥ VOL.1 [DL版]":[
             "female:exhibitionism"
+        ]
+    },
+    {
+        "[くろわさび (くろず)] 全裸お仕事情報雑誌 あんっ♥ VOL.1 [中国翻訳] [DL版]":[
+            "group:kurowasabi",
+            "female:exhibitionism",
+            "other:mosaic censorship"
         ]
     },
     {
@@ -49744,27 +49761,6 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
-        ]
-    },
-    {
-        "[くろわさび (くろず)] 全裸お仕事情報雑誌 あんっ♥ VOL.1 [中国翻訳] [DL版]":[
-            "language:translated",
-            "group:kurowasabi",
-            "female:exhibitionism",
-            "other:artbook",
-            "other:mosaic censorship"
-        ]
-    },
-    {
-        "(C97) [IRIOMOTE (沙流)] のじゃ神様よ! [中国翻訳]":[
-            "language:translated",
-            "group:iriomote",
-            "male:sole male",
-            "female:fox girl",
-            "female:kemonomimi",
-            "female:lolicon",
-            "female:sole female",
-            "female:tail"
         ]
     }
 ]
