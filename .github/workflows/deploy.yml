@@ -7,7 +7,7 @@ env:
   GIT_USER: 1500208912
   GIT_EMAIL: 1500208912@qq.com
   THEME_BRANCH: master
-  DEPLOY_REPO: hentaiqq/hentai
+  DEPLOY_REPO: 1500208912/hentai
   DEPLOY_BRANCH: master
 
 jobs:
