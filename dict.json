@@ -71,7 +71,6 @@
     },
     {
         "(C101) [Futosuto (Junsui na Fujunbutsu)] Sannin Sanshoku | 三人三色 (Blue Archive) [Chinese] [碧蓝档案同人组]":[
-            "artist:junsui na fujunbutsu",
             "female:halo"
         ]
     },
@@ -139,7 +138,6 @@
     },
     {
         "(C102) [Edamametei (Uko)] Bunny+ (Blue Archive) [Chinese] [欶澜汉化组]":[
-            "character:sensei",
             "male:glasses",
             "male:sole male",
             "female:big breasts",
@@ -167,7 +165,6 @@
     },
     {
         "(C102) [Hiyashi Yaki Teishoku (Hiyashi Mirano, Mother Kiisuke)] Yukemuri Archive | 氤氲档案 (Blue Archive) [Chinese] [欶澜汉化组]":[
-            "artist:hiyashi mirano",
             "male:glasses",
             "female:dark skin",
             "female:defloration",
@@ -211,7 +208,6 @@
     },
     {
         "(C102) [Yumesaki Annai Kairanban (Hiro Hiroki)] Yappari Oyama ga Warui!! | 果然都是绪山的错!! (Onii-chan wa Oshimai!) [Chinese] [瑞树汉化组]":[
-            "artist:hiro hiroki",
             "male:gender change",
             "male:shotacon",
             "male:virginity",
@@ -262,7 +258,6 @@
     },
     {
         "(C103) [Yumesaki Annai Kairanban (Hiro Hiroki)] Yappari Oyama ga Warui 2!! Junbi-gou | 果然都是绪山的错2!! 準備號 (Onii-chan wa Oshimai!) [Chinese] [瑞树汉化组]":[
-            "artist:hiro hiroki",
             "male:gender change",
             "male:shotacon",
             "female:bukkake",
@@ -385,7 +380,6 @@
     },
     {
         "(C99) [Miyazen] Lavenza to, Tokubetsu na Kankei ni Natta... (Persona 5) [Chinese] [Lolipoi汉化组]":[
-            "group:miyazen",
             "male:sole male",
             "female:blowjob",
             "female:domination loss",
@@ -400,7 +394,6 @@
     },
     {
         "(C99) [Tottoko Starou (Mda Starou)] Tokuiten LR (Fate/Grand Order) [Chinese] [左手伐柱右手做本漢化]":[
-            "character:leonardo da vinci",
             "male:collar",
             "male:leash",
             "male:sole male",
@@ -422,7 +415,6 @@
     },
     {
         "(COMIC1☆24) [Muraimura] Mahiro-chan ga Kivotos de Arona-chan to Ecchi Suru Hon (Blue Archive, Onii-chan wa Oshimai!) [Chinese] [白杨汉化组]":[
-            "artist:muraimura",
             "male:gender change",
             "female:halo",
             "female:lolicon"
@@ -517,13 +509,9 @@
     },
     {
         "BLVEFO9 (2484671) Fanbox (07/22 - 08/23) (uncensored)":[
-            "parody:demi-chan wa kataritai",
             "parody:overlord",
-            "character:ai yashajin",
             "character:eldridge",
-            "character:hina sorasaki",
             "character:kobato hasegawa",
-            "character:nagatsuki",
             "character:sussurro",
             "male:big penis",
             "male:dark skin",
@@ -584,7 +572,6 @@
     },
     {
         "Hyouuma [Patreon]":[
-            "character:keqing",
             "female:anal",
             "female:anal intercourse",
             "female:enema",
@@ -638,7 +625,6 @@
     },
     {
         "[54BURGER (Marugoshi)] Abydos Seito Zenin to Mizugi Ecchi suru Hon (Blue Archive) [Chinese] [颠佬旅者汉化组] [Digital]":[
-            "character:shiroko sunaookami",
             "male:sole male",
             "female:bikini",
             "female:elf",
@@ -1139,7 +1125,6 @@
     },
     {
         "[Fantia/fanbox] hxD (@hxD9585) (2020/12/01-2024/04/27)":[
-            "character:jean gunnhildr",
             "male:big penis",
             "male:muscle",
             "male:nipple stimulation",
@@ -1171,7 +1156,6 @@
     },
     {
         "[Futsu-no-Tapioca-Yasan (Futatsuno-Peanuts)] BluArch Saimin-bu 2 ~Saiba Midori & Momoi Hen~ (Blue Archive) [Chinese] [SAN个人汉化] [Digital]":[
-            "artist:futatsuno-peanuts",
             "male:bald",
             "male:sole male",
             "female:catgirl",
@@ -1234,6 +1218,11 @@
     },
     {
         "[GRINP (Neko Toufu)] Onimai hukudokuhon Mihari no Kenkyuushitsu | 別酱了副讀本 美波里在實驗室 [Chinese] [闇夜黑猫] [Digital]":[]
+    },
+    {
+        "[GSUS] Kita's Xmas dating⭐ (Bocchi the Rock!) [Chinese]":[
+            "artist:gsus"
+        ]
     },
     {
         "[GSUS] Kita's part-time job⭐... (Bocchi the Rock!) [Chinese] [Ongoing]":[
@@ -1363,7 +1352,6 @@
     },
     {
         "[Hadairo Crayon (Hadacra)] Love Beat (THE IDOLM@STER CINDERELLA GIRLS) [Chinese] [吸住没碎个人汉化] [Digital]":[
-            "artist:hadacra",
             "male:sole male",
             "female:bikini",
             "female:lolicon",
@@ -2213,7 +2201,6 @@
     },
     {
         "[Mimoneland (Mimonel)] Seito to Issen Koechau Hon -C&C Hen- (Blue Archive) [Chinese] [鸡斯拉汉化组] [Digital]":[
-            "character:sensei",
             "male:big penis",
             "male:sole male",
             "female:anal",
@@ -2330,7 +2317,6 @@
     },
     {
         "[NNL (Mary-san)] Byururu Archive #2 (Blue Archive) [Chinese] [影子VAN个人汉化] [Digital]":[
-            "artist:mary-san",
             "male:sole male",
             "female:bloomers",
             "female:halo",
@@ -2570,7 +2556,6 @@
     },
     {
         "[OptionalTypo(Typpo8)] Collection (2022-04) [Patreon | Discord]":[
-            "parody:kill la kill",
             "character:asuka langley soryu"
         ]
     },
@@ -2641,7 +2626,6 @@
     },
     {
         "[Patreon | Pixiv] Kidmo (4641981)":[
-            "parody:overwatch",
             "character:jigoku no fubuki",
             "male:ahegao",
             "male:beauty mark",
@@ -2709,13 +2693,10 @@
         ]
     },
     {
-        "[Pixiv] Himiya Zyo-zu (9609632) [2018.01 - 2023.09.24]":[
-            "character:mika misono"
-        ]
+        "[Pixiv] Himiya Zyo-zu (9609632) [2018.01 - 2023.09.24]":[]
     },
     {
         "[Pixiv] Neps (18151375)":[
-            "character:reisalin stout",
             "female:bunny girl",
             "female:kemonomimi",
             "female:lolicon",
@@ -2821,7 +2802,6 @@
     },
     {
         "[Roirasu]  Pixiv (Ai Generated)":[
-            "character:klee",
             "character:sora",
             "female:lolicon"
         ]
@@ -3597,7 +3577,6 @@
     },
     {
         "[Xration (mil)] bou 14 (Various) [Chinese] [Digital]":[
-            "group:xration",
             "male:gang rape",
             "male:goblin",
             "female:elf",
@@ -3609,7 +3588,6 @@
     },
     {
         "[Yagami Dai] Rance 10 ~Adult Edition~":[
-            "character:sheila helman",
             "male:big penis",
             "male:muscle",
             "male:sole male",
@@ -3664,7 +3642,6 @@
     },
     {
         "[Yume no Tsuzuki (Yumemiteeru)] Hakari to Karane to IchaLove H suru HON (Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo) [Chinese] [ShiKiの个人汉化] [Digital]":[
-            "artist:yumemi teer",
             "male:sole male",
             "female:big breasts",
             "female:schoolgirl uniform"
@@ -4032,9 +4009,7 @@
     },
     {
         "[殿宮] 蔚藍檔案相关翻译合集":[
-            "character:chise waraku",
             "character:junko akashi",
-            "character:mine aomori",
             "character:shun sunohara",
             "female:halo"
         ]
@@ -4097,7 +4072,6 @@
     },
     {
         "小野妹子 (165192)":[
-            "character:kula diamond",
             "female:anal",
             "female:blowjob",
             "female:bondage",
@@ -4111,12 +4085,6 @@
         "总想和我处对象的犬系青梅竹马漫画_八木户マト - 看漫画":[
             "female:dog girl",
             "female:kemonomimi"
-        ]
-    },
-    {
-        "[GSUS] Kita's Xmas dating⭐ (Bocchi the Rock!) [Chinese]":[
-            "parody:bocchi the rock",
-            "artist:gsus"
         ]
     }
 ]
