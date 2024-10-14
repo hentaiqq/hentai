@@ -991,7 +991,6 @@
         "female:pregnant"
     ],
     "(C103) [ハンサム兄貴 (アスヒロ)] In Motion～陰毛至上主義～U149編 (アイドルマスター シンデレラガールズ) [中国翻訳]":[
-        "artist:asuhiro",
         "male:glasses",
         "male:hairy",
         "female:hairy",
@@ -14071,37 +14070,21 @@
         "female:x-ray"
     ],
     "[Pixiv] gweda (17282018) 2024.10.13":[
-        "parody:blue archive",
         "parody:date a live",
-        "parody:genshin impact",
         "parody:hololive",
-        "parody:kaguya-sama wa kokurasetai",
         "parody:kimetsu no yaiba",
-        "parody:pokemon",
         "parody:sousou no frieren",
-        "parody:yu-gi-oh",
         "character:ako amau",
-        "character:aqua",
         "character:bronya rand",
-        "character:chisato nishikigi",
         "character:fern",
-        "character:hilda",
         "character:houshou marine",
-        "character:inugami korone",
         "character:jane doe",
-        "character:kaguya",
         "character:kayoko onikata",
-        "character:kurumi tokisaki",
         "character:march 7th",
-        "character:miku nakano",
         "character:mitsuri kanroji",
-        "character:navia caspar",
         "character:nino nakano",
-        "character:rio tsukatsuki",
         "character:saori joumae",
-        "character:yae miko",
         "character:yotsuba nakano",
-        "character:zhu yuan",
         "female:anal",
         "female:big ass",
         "female:big breasts",
@@ -16959,6 +16942,13 @@
         "female:horns",
         "female:sole female"
     ],
+    "[poyeop] 纯爱 max [颠佬旅者汉化组]":[
+        "language:translated",
+        "artist:poyeop",
+        "male:condom",
+        "female:big breasts",
+        "female:sole female"
+    ],
     "[poyeop] 终极屋乳阿露 [颠佬旅者汉化组]":[
         "male:glasses",
         "male:sole male",
@@ -16967,11 +16957,9 @@
         "female:sole female"
     ],
     "[poyeop] 胡桃 (原神) [中国翻訳]":[
-        "language:translated",
         "character:hu tao",
         "male:bald",
-        "female:twintails",
-        "other:uncensored"
+        "female:twintails"
     ],
     "[poyeop] 胡桃捡尸 (原神) [丘丘人纯爱汉化组] [patreon]":[
         "male:sole male",
@@ -25875,7 +25863,6 @@
         "female:twintails"
     ],
     "[りとるほっぱー (橋広こう、ホロナミン)] 拉致られ少女は、マンガの中で――。千夏編 [中国翻訳] [DL版]":[
-        "language:translated",
         "group:little hopper with h",
         "male:glasses",
         "male:sole male",
@@ -25886,7 +25873,6 @@
         "female:twintails"
     ],
     "[りとるほっぱー (橋広こう、ホロナミン)] 拉致られ少女は、マンガの中で――。小春篇 [中国翻訳] [DL版]":[
-        "language:translated",
         "group:little hopper with h",
         "male:glasses",
         "male:sole male",
@@ -25908,6 +25894,26 @@
         "female:sleeping",
         "female:sole female",
         "female:twintails"
+    ],
+    "[りとるほっぱー、ホロナミンZ (橋広こう、ホロナミン)] ドM少女は、マンガの中で―。[中国翻訳]  [DL版]":[
+        "language:translated",
+        "group:littlehopper",
+        "artist:horonamin",
+        "male:glasses",
+        "male:sole male",
+        "female:bdsm",
+        "female:bondage",
+        "female:clamp",
+        "female:clit stimulation",
+        "female:collar",
+        "female:gag",
+        "female:nakadashi",
+        "female:nipple stimulation",
+        "female:orgasm denial",
+        "female:schoolgirl uniform",
+        "female:sex toys",
+        "female:sole female",
+        "female:sweating"
     ],
     "[りゆさ] 普段とは少し違うミミックを発見したフリーレン (葬送のフリーレン) [中国翻訳]":[
         "female:bondage",
@@ -37620,7 +37626,6 @@
         "female:swinging"
     ],
     "[灯色の研究室 (灯問)] 援交彼女と見学会2 [中国翻訳] [DL版]":[
-        "language:translated",
         "group:hiiro no kenkyuushitsu",
         "male:bbm",
         "male:dilf",
@@ -37629,8 +37634,7 @@
         "female:netorare",
         "female:netorase",
         "female:prostitution",
-        "female:sole female",
-        "other:multi-work series"
+        "female:sole female"
     ],
     "[灯色の研究室 (灯問)] 援交彼女と見学会After  [中国翻訳]":[
         "male:bald",
