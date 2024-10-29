@@ -284,7 +284,6 @@
     },
     {
         "(C104) [Milkshake Work (Milkshake)] Sensei no Himitsu Gakuseiryou Houmon (Blue Archive) [Chinese] [白杨汉化组]":[
-            "group:milkshake work",
             "female:halo",
             "female:kemonomimi",
             "female:lolicon",
@@ -294,7 +293,6 @@
     },
     {
         "(C79) [Asaki Blog Branch Office (Asaki Takayuki)] Love Urabe+ (Nazo no Kanojo X) [Chinese] [流浪貓·裏]":[
-            "character:akira tsubaki",
             "male:sole male",
             "female:ahegao",
             "female:big ass",
@@ -306,13 +304,9 @@
     },
     {
         "(C84) [Marchen Box (Various)] THE Under Chuugakusei 2 (Various)":[
-            "parody:sword art online",
             "character:anko kitashirakawa",
-            "character:suguha kirigaya",
             "group:marchen box",
-            "artist:kurosaki kotora",
             "artist:shimosan",
-            "artist:watanabe akio",
             "female:bike shorts",
             "female:bikini",
             "female:bloomers",
@@ -503,7 +497,6 @@
     },
     {
         "(Reitaisai 10) [100yenMoFA (Mirino)] Ofuro Agari no Megane Youmu wo Yopparawasete Binkan DokiDoki LoveLove Ecchi!! ～Nakadashi Kimete Saigo wa Berochuu～ (Touhou Project) [Chinese] [脸肿汉化组]":[
-            "character:youmu konpaku",
             "female:glasses",
             "female:lolicon"
         ]
@@ -619,7 +612,6 @@
     },
     {
         "Hyoco Road (Hyocorou)] Seiso x Hanten ~Onna Tomodachi ga Succubus ga Karada ni Nottorarete Mainichi Seiryoku Kyoukyuu saserareru Hanashi~ | 清纯×反转 ~关于女性朋友被魅魔附身后我只能每天供奉精力这件事~ [Chinese] [驴子汉化组]":[
-            "group:hyoco road",
             "male:glasses",
             "male:sole male",
             "female:beauty mark",
@@ -1180,7 +1172,6 @@
     },
     {
         "[Eromazun (Ma-kurou)] Falin Shikan | 法琳死姦 (Dungeon Meshi) [Chinese]":[
-            "character:falin thorden",
             "female:big breasts",
             "female:corpse",
             "female:necrophilia",
@@ -1272,8 +1263,7 @@
             "female:schoolgirl uniform",
             "female:sex toys",
             "female:stockings",
-            "female:swimsuit",
-            "other:tankoubon"
+            "female:swimsuit"
         ]
     },
     {
@@ -1490,15 +1480,10 @@
     },
     {
         "[HarmoNeaR (Various)] BluArch Juukan Goudoushi Sow do on me! Vol. 1 (Blue Archive) [Chinese] [星塔旅人汉化组] [Digital]":[
-            "group:harmonear",
             "artist:choco dice",
-            "artist:futatsuno-peanuts",
             "artist:ishimari yuuya",
-            "artist:mameojitan",
             "artist:nekko",
-            "artist:sacha",
             "artist:taji",
-            "artist:uno ryoku",
             "male:bear",
             "male:bear boy",
             "male:bull",
@@ -1559,7 +1544,6 @@
     },
     {
         "[Hatsuyasumi] Mukashi no Sugata ni Modotta Otto to no Sex wa Uwaki desu ka? | 和返老还童的丈夫做爱算是出轨吗？[Chinese] [白杨汉化组]":[
-            "artist:hatsuyasumi",
             "male:age regression",
             "male:shotacon",
             "male:sole male",
@@ -2167,7 +2151,6 @@
     },
     {
         "[Kuga Tsuniya] Medusa Dorei o Katta [Chinese] [禁漫漢化組漢化]":[
-            "artist:kuga tsuniya",
             "female:blindfold",
             "female:blowjob",
             "female:christmas",
@@ -2257,14 +2240,12 @@
     },
     {
         "[London Tea Party (Rimukoro)] Gehenna Mofumofu Daikessen | 格黑娜毛茸茸大决战 (Blue Archive) [Chinese] [Digital]":[
-            "character:hina sorasaki",
             "artist:rimukoro",
             "female:swimsuit"
         ]
     },
     {
         "[Losttail (Ameraku)] Amenochi Loli ~Mesugaki ni Okasaremakuru Ohanashi~ |雨后萝莉~被雌小鬼狠狠侵犯这件事~[Chinese][甜族星人X茄某人个人汉化]":[
-            "artist:ameraku",
             "male:sole male",
             "female:blowjob",
             "female:femdom",
@@ -2479,7 +2460,6 @@
     },
     {
         "[MountainHan] Ｈ Game開發部_柚子篇 (Blue Archive) [Chinese] [Decensored]":[
-            "character:yuzu hanaoka",
             "female:gloves",
             "female:halo",
             "female:kemonomimi",
@@ -2663,7 +2643,6 @@
     },
     {
         "[Nazunaya Honpo (7zu7)] Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | 感覺很地雷但本性好像很溫柔的女孩子 [Chinese] [夢之行蹤漢化組] [Digital]":[
-            "group:nazunaya honpo",
             "male:condom",
             "male:sole male",
             "female:collar",
@@ -2848,7 +2827,6 @@
     },
     {
         "[OptionalTypo] Twisted Intent Vol.2 (League of Legends)[Chinese][final個人漢化]":[
-            "character:ahri",
             "male:furry",
             "male:lizard guy",
             "male:metal armor",
@@ -4433,8 +4411,20 @@
         ]
     },
     {
-        "野九bbbs":[
-            "artist:yejiu glzqb"
+        "野九bbbs":[]
+    },
+    {
+        "[JunkZero] Robot Girl":[
+            "male:sole male",
+            "female:doll joints",
+            "female:robot",
+            "female:sole female"
+        ]
+    },
+    {
+        "[hej] Nobido (Doraemon) [Chinese]":[
+            "parody:doraemon",
+            "character:shizuka minamoto"
         ]
     }
 ]

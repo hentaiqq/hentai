@@ -235,7 +235,6 @@
         "female:urination"
     ],
     "(C104) [Milkshake Work (Milkshake)] Sensei no Himitsu Gakuseiryou Houmon (Blue Archive) [Chinese] [白杨汉化组]":[
-        "group:milkshake work",
         "female:halo",
         "female:kemonomimi",
         "female:lolicon",
@@ -243,7 +242,6 @@
         "female:very long hair"
     ],
     "(C79) [Asaki Blog Branch Office (Asaki Takayuki)] Love Urabe+ (Nazo no Kanojo X) [Chinese] [流浪貓·裏]":[
-        "character:akira tsubaki",
         "male:sole male",
         "female:ahegao",
         "female:big ass",
@@ -253,13 +251,9 @@
         "female:x-ray"
     ],
     "(C84) [Marchen Box (Various)] THE Under Chuugakusei 2 (Various)":[
-        "parody:sword art online",
         "character:anko kitashirakawa",
-        "character:suguha kirigaya",
         "group:marchen box",
-        "artist:kurosaki kotora",
         "artist:shimosan",
-        "artist:watanabe akio",
         "female:bike shorts",
         "female:bikini",
         "female:bloomers",
@@ -420,7 +414,6 @@
         "female:tail plug"
     ],
     "(Reitaisai 10) [100yenMoFA (Mirino)] Ofuro Agari no Megane Youmu wo Yopparawasete Binkan DokiDoki LoveLove Ecchi!! ～Nakadashi Kimete Saigo wa Berochuu～ (Touhou Project) [Chinese] [脸肿汉化组]":[
-        "character:youmu konpaku",
         "female:glasses",
         "female:lolicon"
     ],
@@ -514,7 +507,6 @@
         "female:vaginal birth"
     ],
     "Hyoco Road (Hyocorou)] Seiso x Hanten ~Onna Tomodachi ga Succubus ga Karada ni Nottorarete Mainichi Seiryoku Kyoukyuu saserareru Hanashi~ | 清纯×反转 ~关于女性朋友被魅魔附身后我只能每天供奉精力这件事~ [Chinese] [驴子汉化组]":[
-        "group:hyoco road",
         "male:glasses",
         "male:sole male",
         "female:beauty mark",
@@ -1007,7 +999,6 @@
         "female:sole female"
     ],
     "[Eromazun (Ma-kurou)] Falin Shikan | 法琳死姦 (Dungeon Meshi) [Chinese]":[
-        "character:falin thorden",
         "female:big breasts",
         "female:corpse",
         "female:necrophilia",
@@ -1089,8 +1080,7 @@
         "female:schoolgirl uniform",
         "female:sex toys",
         "female:stockings",
-        "female:swimsuit",
-        "other:tankoubon"
+        "female:swimsuit"
     ],
     "[G-10] Jihatsu Arui wa Kyousei Shuuchi [Digital]":[
         "male:big penis",
@@ -1273,15 +1263,10 @@
         "female:tomboy"
     ],
     "[HarmoNeaR (Various)] BluArch Juukan Goudoushi Sow do on me! Vol. 1 (Blue Archive) [Chinese] [星塔旅人汉化组] [Digital]":[
-        "group:harmonear",
         "artist:choco dice",
-        "artist:futatsuno-peanuts",
         "artist:ishimari yuuya",
-        "artist:mameojitan",
         "artist:nekko",
-        "artist:sacha",
         "artist:taji",
-        "artist:uno ryoku",
         "male:bear",
         "male:bear boy",
         "male:bull",
@@ -1338,7 +1323,6 @@
         "female:x-ray"
     ],
     "[Hatsuyasumi] Mukashi no Sugata ni Modotta Otto to no Sex wa Uwaki desu ka? | 和返老还童的丈夫做爱算是出轨吗？[Chinese] [白杨汉化组]":[
-        "artist:hatsuyasumi",
         "male:age regression",
         "male:shotacon",
         "male:sole male",
@@ -1601,6 +1585,12 @@
         "male:sole male",
         "female:blowjob",
         "female:schoolgirl uniform",
+        "female:sole female"
+    ],
+    "[JunkZero] Robot Girl":[
+        "male:sole male",
+        "female:doll joints",
+        "female:robot",
         "female:sole female"
     ],
     "[Kaniya (Kanyapyi)] Chibi Succu Shiko Life 2 Nioi de Ecchi na Kibun ni Sasechau Succubus Hen [Chinese] [山樱汉化] [Digital]":[
@@ -1870,7 +1860,6 @@
         "female:sole female"
     ],
     "[Kuga Tsuniya] Medusa Dorei o Katta [Chinese] [禁漫漢化組漢化]":[
-        "artist:kuga tsuniya",
         "female:blindfold",
         "female:blowjob",
         "female:christmas",
@@ -1946,12 +1935,10 @@
     ],
     "[London Tea Party (Rimukoro)] Gehenna Mofumofu Dai Sensou (Blue Archive) [Chinese] [天天神券漢化組] [Digital]":[],
     "[London Tea Party (Rimukoro)] Gehenna Mofumofu Daikessen | 格黑娜毛茸茸大决战 (Blue Archive) [Chinese] [Digital]":[
-        "character:hina sorasaki",
         "artist:rimukoro",
         "female:swimsuit"
     ],
     "[Losttail (Ameraku)] Amenochi Loli ~Mesugaki ni Okasaremakuru Ohanashi~ |雨后萝莉~被雌小鬼狠狠侵犯这件事~[Chinese][甜族星人X茄某人个人汉化]":[
-        "artist:ameraku",
         "male:sole male",
         "female:blowjob",
         "female:femdom",
@@ -2140,7 +2127,6 @@
         "female:twintails"
     ],
     "[MountainHan] Ｈ Game開發部_柚子篇 (Blue Archive) [Chinese] [Decensored]":[
-        "character:yuzu hanaoka",
         "female:gloves",
         "female:halo",
         "female:kemonomimi",
@@ -2296,7 +2282,6 @@
         "female:very long hair"
     ],
     "[Nazunaya Honpo (7zu7)] Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | 感覺很地雷但本性好像很溫柔的女孩子 [Chinese] [夢之行蹤漢化組] [Digital]":[
-        "group:nazunaya honpo",
         "male:condom",
         "male:sole male",
         "female:collar",
@@ -2455,7 +2440,6 @@
         "female:twintails"
     ],
     "[OptionalTypo] Twisted Intent Vol.2 (League of Legends)[Chinese][final個人漢化]":[
-        "character:ahri",
         "male:furry",
         "male:lizard guy",
         "male:metal armor",
@@ -3481,6 +3465,10 @@
         "female:sole female",
         "female:stockings"
     ],
+    "[hej] Nobido (Doraemon) [Chinese]":[
+        "parody:doraemon",
+        "character:shizuka minamoto"
+    ],
     "[kakao] Dokushin Hunter no Deai wa Elf no Mori de Ch. 1-5 [Chinese] [逃亡者×真不可视汉化组]":[
         "male:bbm",
         "male:sole male",
@@ -3832,7 +3820,5 @@
         "female:dog girl",
         "female:kemonomimi"
     ],
-    "野九bbbs":[
-        "artist:yejiu glzqb"
-    ]
+    "野九bbbs":[]
 }
