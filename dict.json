@@ -304,9 +304,7 @@
     },
     {
         "(C84) [Marchen Box (Various)] THE Under Chuugakusei 2 (Various)":[
-            "character:anko kitashirakawa",
             "group:marchen box",
-            "artist:shimosan",
             "female:bike shorts",
             "female:bikini",
             "female:bloomers",
@@ -1480,9 +1478,7 @@
     },
     {
         "[HarmoNeaR (Various)] BluArch Juukan Goudoushi Sow do on me! Vol. 1 (Blue Archive) [Chinese] [星塔旅人汉化组] [Digital]":[
-            "artist:choco dice",
             "artist:ishimari yuuya",
-            "artist:nekko",
             "artist:taji",
             "male:bear",
             "male:bear boy",
@@ -1846,6 +1842,14 @@
             "male:sole male",
             "female:blowjob",
             "female:schoolgirl uniform",
+            "female:sole female"
+        ]
+    },
+    {
+        "[JunkZero] Robot Girl":[
+            "male:sole male",
+            "female:doll joints",
+            "female:robot",
             "female:sole female"
         ]
     },
@@ -2240,7 +2244,6 @@
     },
     {
         "[London Tea Party (Rimukoro)] Gehenna Mofumofu Daikessen | 格黑娜毛茸茸大决战 (Blue Archive) [Chinese] [Digital]":[
-            "artist:rimukoro",
             "female:swimsuit"
         ]
     },
@@ -4000,6 +4003,11 @@
         ]
     },
     {
+        "[hej] Nobido (Doraemon) [Chinese]":[
+            "character:shizuka minamoto"
+        ]
+    },
+    {
         "[kakao] Dokushin Hunter no Deai wa Elf no Mori de Ch. 1-5 [Chinese] [逃亡者×真不可视汉化组]":[
             "male:bbm",
             "male:sole male",
@@ -4412,19 +4420,5 @@
     },
     {
         "野九bbbs":[]
-    },
-    {
-        "[JunkZero] Robot Girl":[
-            "male:sole male",
-            "female:doll joints",
-            "female:robot",
-            "female:sole female"
-        ]
-    },
-    {
-        "[hej] Nobido (Doraemon) [Chinese]":[
-            "parody:doraemon",
-            "character:shizuka minamoto"
-        ]
     }
 ]
