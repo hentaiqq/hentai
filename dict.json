@@ -304,7 +304,6 @@
     },
     {
         "(C84) [Marchen Box (Various)] THE Under Chuugakusei 2 (Various)":[
-            "group:marchen box",
             "female:bike shorts",
             "female:bikini",
             "female:bloomers",
@@ -1478,7 +1477,6 @@
     },
     {
         "[HarmoNeaR (Various)] BluArch Juukan Goudoushi Sow do on me! Vol. 1 (Blue Archive) [Chinese] [星塔旅人汉化组] [Digital]":[
-            "artist:ishimari yuuya",
             "artist:taji",
             "male:bear",
             "male:bear boy",
@@ -4003,9 +4001,7 @@
         ]
     },
     {
-        "[hej] Nobido (Doraemon) [Chinese]":[
-            "character:shizuka minamoto"
-        ]
+        "[hej] Nobido (Doraemon) [Chinese]":[]
     },
     {
         "[kakao] Dokushin Hunter no Deai wa Elf no Mori de Ch. 1-5 [Chinese] [逃亡者×真不可视汉化组]":[
