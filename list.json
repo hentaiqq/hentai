@@ -1089,7 +1089,6 @@
         "female:rape"
     ],
     "(C104) [でんきねこ (とく)]  ミッコと寝て食ってヤるだけ。 (ガールズ&パンツァー) [中国翻訳]":[
-        "character:mikko",
         "male:condom",
         "male:dark skin",
         "male:sole male",
@@ -1102,9 +1101,7 @@
         "female:x-ray"
     ],
     "(C104) [空色まーち (成沢空)] 有村麻央 汚された夏 (学園アイドルマスター) [中国翻訳]":[
-        "language:translated",
         "character:mao arimura",
-        "artist:narusawa sora",
         "female:anal",
         "female:double penetration",
         "female:rape",
@@ -14390,21 +14387,13 @@
         "female:x-ray"
     ],
     "[Pixiv] gweda (17282018) 2024.11.03":[
-        "parody:date a live",
         "parody:hololive",
-        "parody:kimetsu no yaiba",
         "parody:sousou no frieren",
-        "character:ako amau",
         "character:bronya rand",
-        "character:fern",
         "character:houshou marine",
-        "character:jane doe",
         "character:kayoko onikata",
-        "character:march 7th",
         "character:mitsuri kanroji",
-        "character:nino nakano",
         "character:saori joumae",
-        "character:yotsuba nakano",
         "female:anal",
         "female:big ass",
         "female:big breasts",
@@ -14557,6 +14546,11 @@
         "female:mother",
         "female:nakadashi",
         "female:very long hair"
+    ],
+    "[Poyeop] 2024.06 神里绫华 (原神)[颠佬旅者汉化组]":[
+        "language:translated",
+        "character:ayaka kamisato",
+        "other:full color"
     ],
     "[Poyeop] Arlecchino (原神) [颠佬旅者汉化组]":[
         "female:nakadashi",
@@ -21758,7 +21752,6 @@
         "female:tanlines"
     ],
     "[しいたけ農園 (わかるティッシュ)] クソガキぶち犯す [中国翻訳] [無修正]":[
-        "group:shiitake nouen",
         "male:domination loss",
         "male:gang rape",
         "male:phimosis",
@@ -21773,8 +21766,7 @@
         "female:rape",
         "female:sole female",
         "female:stockings",
-        "female:twintails",
-        "other:kodomo only"
+        "female:twintails"
     ],
     "[しいたけ農園 (わかるティッシュ)] デカすぎ小〇生ななはちゃん [中国翻訳] [DL版]":[
         "female:anal",
@@ -22126,7 +22118,6 @@
         "female:x-ray"
     ],
     "[すぱいらる (在誠舞あゆか+)] 娘の友達のメスガキに犯されました2 [中国翻訳]":[
-        "group:spiral",
         "male:anal",
         "male:bbm",
         "male:big penis",
@@ -32919,6 +32910,21 @@
         "female:nakadashi",
         "female:sole female",
         "female:twintails"
+    ],
+    "[元気太郎] 高木さんJC1援交快楽堕ちNTR漫画 (からかい上手の高木さん) [中国翻訳]":[
+        "language:translated",
+        "character:takagi",
+        "male:bbm",
+        "male:dilf",
+        "male:sole male",
+        "female:ahegao",
+        "female:lolicon",
+        "female:nakadashi",
+        "female:netorare",
+        "female:prostitution",
+        "female:schoolgirl uniform",
+        "female:sole female",
+        "female:x-ray"
     ],
     "[兔子老大 (Sayika)] とある村の慈悲の花 [中国語] [無修正] [DL版]":[
         "female:elf",
