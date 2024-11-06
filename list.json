@@ -213,7 +213,6 @@
         "female:tail"
     ],
     "(C103) [Yoneya (hyouta)] Schrödinger no Kuroneko to | 与薛定谔的黑猫一起 (Blue Archive) [Chinese]":[
-        "character:kazusa kyouyama",
         "male:sole male",
         "female:catgirl",
         "female:collar",
@@ -3682,9 +3681,7 @@
         "female:very long hair"
     ],
     "[ro] Grimm no Musume-tachi - Grimm's Children | 格林的孩子们  [Chinese] [火兔汉化组]  [Digital]":[
-        "language:translated",
         "parody:little red riding hood",
-        "character:alice liddell",
         "character:little red riding hood",
         "male:cat",
         "male:furry",
@@ -3707,8 +3704,7 @@
         "female:rape",
         "female:sheep girl",
         "female:stomach deformation",
-        "female:urination",
-        "other:tankoubon"
+        "female:urination"
     ],
     "[tokyo prominence tomato]Isekai Tensei Cheat Skill Mochi OL wa Otoko ni mo Katenai[Chinese][魯路修個人漢化]":[
         "male:dilf",
