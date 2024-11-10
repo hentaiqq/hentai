@@ -12149,7 +12149,6 @@
     },
     {
         "[40010壱号 (40010試作型)] 佐天さん、温泉リポートをする 夏 (とある科学の超電磁砲) [中国翻訳] [DL版]":[
-            "character:ruiko saten",
             "male:harem",
             "female:bikini",
             "female:double penetration",
@@ -13430,6 +13429,30 @@
             "female:swinging",
             "female:tanlines",
             "female:x-ray"
+        ]
+    },
+    {
+        "[DOZA Village (どざむら)] 一家総寝取り～天地家美人3母娘 [中国翻訳]":[
+            "group:doza village",
+            "male:bald",
+            "male:bbm",
+            "male:big lips",
+            "male:dark skin",
+            "male:sole male",
+            "female:cheating",
+            "female:harem",
+            "female:impregnation",
+            "female:lolicon",
+            "female:milf",
+            "female:mind control",
+            "female:netorare",
+            "female:oyakodon",
+            "female:pixie cut",
+            "female:pregnant",
+            "female:rape",
+            "female:stockings",
+            "female:tanlines",
+            "female:tomboy"
         ]
     },
     {
@@ -17402,6 +17425,62 @@
     },
     {
         "[Pixiv] gweda (17282018) 2024.11.07":[
+            "parody:date a live",
+            "parody:hololive",
+            "parody:kimetsu no yaiba",
+            "parody:sousou no frieren",
+            "character:ako amau",
+            "character:bronya rand",
+            "character:fern",
+            "character:houshou marine",
+            "character:jane doe",
+            "character:kayoko onikata",
+            "character:march 7th",
+            "character:mitsuri kanroji",
+            "character:nino nakano",
+            "character:saori joumae",
+            "character:yotsuba nakano",
+            "female:anal",
+            "female:big ass",
+            "female:big breasts",
+            "female:bikini",
+            "female:blowjob",
+            "female:bunny girl",
+            "female:catgirl",
+            "female:chinese dress",
+            "female:christmas",
+            "female:cosplaying",
+            "female:dark skin",
+            "female:demon girl",
+            "female:dog girl",
+            "female:elf",
+            "female:fox girl",
+            "female:glasses",
+            "female:hair buns",
+            "female:headphones",
+            "female:horns",
+            "female:kemonomimi",
+            "female:latex",
+            "female:mouth mask",
+            "female:nakadashi",
+            "female:nun",
+            "female:pantyhose",
+            "female:ponytail",
+            "female:school gym uniform",
+            "female:schoolgirl uniform",
+            "female:sex toys",
+            "female:stockings",
+            "female:sunglasses",
+            "female:swimsuit",
+            "female:tail",
+            "female:twintails",
+            "female:very long hair",
+            "female:wings",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[Pixiv] gweda (17282018) 2024.11.09":[
             "parody:date a live",
             "parody:hololive",
             "parody:kimetsu no yaiba",
@@ -24052,7 +24131,6 @@
     },
     {
         "[かたゆでたまご (ハードボイルドよし子)] 幼い妹の大きな胸は今日も兄を惑わせる [中国翻訳] [DL版]":[
-            "group:katayude tamago",
             "male:sole male",
             "female:glasses",
             "female:lolicon",
@@ -27733,7 +27811,6 @@
     },
     {
         "[とらのえのまきもの (トラノエ)] ルゥとおむねあそびするゥ? (キラッとプリ☆チャン) [中国翻訳] [DL版]":[
-            "character:luu asuka",
             "male:sole male",
             "female:lolicon",
             "female:oppai loli",
@@ -31133,7 +31210,6 @@
     },
     {
         "[ももさわ] 抜いてくれる蛍ちゃん + 前回の続き (原神) [中国翻訳]":[
-            "character:lumine",
             "male:bald",
             "male:dilf",
             "male:sole male",
@@ -34846,7 +34922,6 @@
     },
     {
         "[チラ裏格納庫 (och4suke)] 自由の国のアイドル (原神) [中国翻訳] [DL版]":[
-            "character:barbara pegg",
             "male:dark skin",
             "male:harem",
             "female:ahegao",
@@ -49780,7 +49855,6 @@
     },
     {
         "[陰毛チョレギサラダ (陰ちょれ)] とある田舎の秘湯にて [中国翻訳] [DL版]":[
-            "group:inmou choregi salad",
             "male:bald",
             "male:dilf",
             "male:sole male",
@@ -50190,6 +50264,15 @@
         ]
     },
     {
+        "[電気みかん] 触手妖怪うしろのヌメヌメさん [中国翻訳]":[
+            "artist:denki mikan",
+            "female:chikan",
+            "female:schoolgirl uniform",
+            "female:sole female",
+            "female:tentacles"
+        ]
+    },
+    {
         "[霜降りまぐろ] ドM裏垢女子が拘束百合えっちで女同士の良さを教え込まれちゃう本 [中国翻訳]":[
             "female:bdsm",
             "female:bondage",
@@ -50212,6 +50295,17 @@
             "female:stockings",
             "female:twintails",
             "female:voyeurism"
+        ]
+    },
+    {
+        "[青空少女 (白根戴斗)] 地味子なんかに負けないもんっ2  [中国翻訳] [DL版]":[
+            "group:aozora shoujo",
+            "male:sole male",
+            "male:teacher",
+            "female:glasses",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:twintails"
         ]
     },
     {
@@ -51718,123 +51812,45 @@
         ]
     },
     {
-        "[電気みかん] 触手妖怪うしろのヌメヌメさん [中国翻訳]":[
+        "(C104) [夢先案内回覧版 (ひろひろき)] やっぱり緒山が悪い!!2 (お兄ちゃんはおしまい!) [中国翻訳]":[
             "language:translated",
-            "artist:denki mikan",
-            "female:chikan",
-            "female:schoolgirl uniform",
+            "character:mahiro oyama",
+            "artist:hiro hiroki",
+            "male:gender change",
+            "male:shotacon",
+            "female:catgirl",
+            "female:cunnilingus",
+            "female:defloration",
+            "female:double penetration",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:nakadashi",
             "female:sole female",
-            "female:tentacles"
+            "female:tail",
+            "mixed:kodomo doushi",
+            "other:full color",
+            "other:multi-work series"
         ]
     },
     {
-        "[DOZA Village (どざむら)] 一家総寝取り～天地家美人3母娘 [中国翻訳]":[
+        "[飯食って寝る。 (あたげ)] どえむ家族の幸せ種付け新生活 [中国翻訳] [DL版]":[
             "language:translated",
-            "group:doza village",
+            "group:meshikutteneru.",
             "male:bald",
-            "male:bbm",
-            "male:big lips",
             "male:dark skin",
+            "male:glasses",
+            "male:old man",
             "male:sole male",
-            "female:cheating",
+            "female:daughter",
+            "female:exhibitionism",
             "female:harem",
             "female:impregnation",
             "female:lolicon",
-            "female:milf",
-            "female:mind control",
             "female:netorare",
-            "female:oyakodon",
-            "female:pixie cut",
-            "female:pregnant",
-            "female:rape",
-            "female:stockings",
-            "female:tanlines",
-            "female:tomboy"
-        ]
-    },
-    {
-        "[青空少女 (白根戴斗)] 地味子なんかに負けないもんっ2  [中国翻訳] [DL版]":[
-            "language:translated",
-            "group:aozora shoujo",
-            "male:sole male",
-            "male:teacher",
-            "female:glasses",
-            "female:lolicon",
-            "female:nakadashi",
+            "female:piss drinking",
+            "female:stomach deformation",
             "female:twintails",
-            "mixed:group"
-        ]
-    },
-    {
-        "[Pixiv] gweda (17282018) 2024.11.09":[
-            "parody:blue archive",
-            "parody:date a live",
-            "parody:genshin impact",
-            "parody:hololive",
-            "parody:kaguya-sama wa kokurasetai",
-            "parody:kimetsu no yaiba",
-            "parody:pokemon",
-            "parody:sousou no frieren",
-            "parody:yu-gi-oh",
-            "character:ako amau",
-            "character:aqua",
-            "character:bronya rand",
-            "character:chisato nishikigi",
-            "character:fern",
-            "character:hilda",
-            "character:houshou marine",
-            "character:inugami korone",
-            "character:jane doe",
-            "character:kaguya",
-            "character:kayoko onikata",
-            "character:kurumi tokisaki",
-            "character:march 7th",
-            "character:miku nakano",
-            "character:mitsuri kanroji",
-            "character:navia caspar",
-            "character:nino nakano",
-            "character:rio tsukatsuki",
-            "character:saori joumae",
-            "character:yae miko",
-            "character:yotsuba nakano",
-            "character:zhu yuan",
-            "female:anal",
-            "female:big ass",
-            "female:big breasts",
-            "female:bikini",
-            "female:blowjob",
-            "female:bunny girl",
-            "female:catgirl",
-            "female:chinese dress",
-            "female:christmas",
-            "female:cosplaying",
-            "female:dark skin",
-            "female:demon girl",
-            "female:dog girl",
-            "female:elf",
-            "female:fox girl",
-            "female:glasses",
-            "female:hair buns",
-            "female:headphones",
-            "female:horns",
-            "female:kemonomimi",
-            "female:latex",
-            "female:mouth mask",
-            "female:nakadashi",
-            "female:nun",
-            "female:pantyhose",
-            "female:ponytail",
-            "female:school gym uniform",
-            "female:schoolgirl uniform",
-            "female:sex toys",
-            "female:stockings",
-            "female:sunglasses",
-            "female:swimsuit",
-            "female:tail",
-            "female:twintails",
-            "female:very long hair",
-            "female:wings",
-            "female:x-ray"
+            "mixed:inseki"
         ]
     }
 ]
