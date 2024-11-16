@@ -2209,7 +2209,6 @@
     },
     {
         "[Kurumaya Koudou] Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made- [Chinese] [蕪菁堂]":[
-            "group:kurumaya koudou",
             "male:sole male",
             "female:emotionless sex",
             "female:schoolgirl uniform",
@@ -3125,7 +3124,6 @@
     },
     {
         "[Poriuretan] Sute Elf | 被遗弃的精灵 [Chinese]":[
-            "artist:poriuretan",
             "male:sole male",
             "female:age progression",
             "female:big breasts",
@@ -4523,5 +4521,18 @@
     },
     {
         "野九bbbs":[]
+    },
+    {
+        "[ねっこ] 蔚藍檔案相关翻译合集":[
+            "language:translated",
+            "character:hifumi ajitani",
+            "character:plana",
+            "character:shigure mayoi",
+            "character:toki asuma",
+            "female:catgirl",
+            "female:fox girl",
+            "female:gokkun",
+            "female:kemonomimi"
+        ]
     }
 ]
