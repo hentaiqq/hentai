@@ -17595,21 +17595,13 @@
     },
     {
         "[Pixiv] gweda (17282018) 2024.11.17":[
-            "parody:date a live",
             "parody:hololive",
-            "parody:kimetsu no yaiba",
             "parody:sousou no frieren",
-            "character:ako amau",
             "character:bronya rand",
-            "character:fern",
             "character:houshou marine",
-            "character:jane doe",
             "character:kayoko onikata",
-            "character:march 7th",
             "character:mitsuri kanroji",
-            "character:nino nakano",
             "character:saori joumae",
-            "character:yotsuba nakano",
             "female:anal",
             "female:big ass",
             "female:big breasts",
@@ -30564,7 +30556,6 @@
     },
     {
         "[まんねんドコドコドンドドコ (とっととねろ太郎。)] ぷりきゅあのえっちなうすいうすい本 (わんだふるぷりきゅあ!,ひろがるスカイ!プリキュア) [中国翻訳] [DL版]":[
-            "parody:wonderful precure",
             "character:cure wonderful",
             "male:bbm",
             "male:dark skin",
@@ -47495,6 +47486,20 @@
         ]
     },
     {
+        "[秘密結社うさぎ (だんちょ)] かわいいけど性格悪いからイジメちゃお!❤ [中国翻訳] [DL版]":[
+            "group:himitsukessya usagi",
+            "male:dark skin",
+            "male:sole male",
+            "female:body writing",
+            "female:crying",
+            "female:filming",
+            "female:humiliation",
+            "female:lolicon",
+            "female:rape",
+            "female:sweating"
+        ]
+    },
+    {
         "[秘密結社うさぎ (だんちょ)] 委員長は今日からみんなのオモチャ ～レイプ写真で脅迫編～ [中国翻訳]":[
             "female:blackmail",
             "female:blowjob",
@@ -49118,6 +49123,16 @@
     },
     {
         "[角煮煮] 常識改変活動記録 ~何でもアタリマエ撮影現場~ (WEEKLY快楽天 2021.No.09) [中国翻訳]":[
+            "male:sole male",
+            "female:emotionless sex",
+            "female:mind control",
+            "female:sole female",
+            "female:twintails",
+            "female:urination"
+        ]
+    },
+    {
+        "[角煮煮] 常識改変活動記録 ~何でもアタリマエ撮影現場~ (WEEKLY快楽天 2021.No.09) [中国翻訳]":[
             "male:sole male",
             "female:emotionless sex",
             "female:mind control",
@@ -52051,29 +52066,41 @@
         ]
     },
     {
-        "[秘密結社うさぎ (だんちょ)] かわいいけど性格悪いからイジメちゃお!❤ [中国翻訳] [DL版]":[
+        "[YahYah6] ペットのいる性活 躾 -case ポチ-[中国翻訳]":[
             "language:translated",
-            "group:himitsukessya usagi",
-            "male:dark skin",
-            "male:sole male",
-            "female:body writing",
-            "female:crying",
-            "female:filming",
-            "female:humiliation",
-            "female:lolicon",
-            "female:rape",
-            "female:sweating"
+            "male:anal",
+            "male:bondage",
+            "male:chastity belt",
+            "male:enema",
+            "male:fisting",
+            "male:gag",
+            "male:gloves",
+            "male:kemonomimi",
+            "male:males only",
+            "male:nipple piercing",
+            "male:petplay",
+            "male:piercing",
+            "male:tail plug",
+            "male:tomgirl",
+            "male:urethra insertion",
+            "male:yaoi"
         ]
     },
     {
-        "[角煮煮] 常識改変活動記録 ~何でもアタリマエ撮影現場~ (WEEKLY快楽天 2021.No.09) [中国翻訳]":[
+        "[にゅう工房 (Ijou)] オレを罰ゲームのネタにするな!(しろ!)EX [中国翻訳]":[
             "language:translated",
+            "group:nyuu koubou",
+            "male:bbm",
             "male:sole male",
-            "female:emotionless sex",
-            "female:mind control",
-            "female:sole female",
-            "female:twintails",
-            "female:urination"
+            "male:virginity",
+            "female:blowjob",
+            "female:clothed male nude female",
+            "female:glasses",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:sister",
+            "female:sumata",
+            "female:twintails"
         ]
     }
 ]
