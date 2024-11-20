@@ -2343,6 +2343,19 @@
         ]
     },
     {
+        "[Mainichi Kenkou Seikatsu (Healthyman)] JC Shiori-chan, Kuzu Oji ni Kawareru  | JC小詩織被人渣大叔買下了 [Chinese] [山樱汉化] [Digital]":[
+            "group:mainichi kenkou seikatsu",
+            "male:sole male",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:ponytail",
+            "female:prostitution",
+            "female:schoolgirl uniform",
+            "female:shimapan",
+            "female:sole female"
+        ]
+    },
+    {
         "[Mannen Dokodoko Dondodoko (Tottotonero Tarou.)] DELICIOUS TIME (Delicious Party PreCure) [Chinese] [79%汉化组] [Digital]":[
             "male:bald",
             "male:bbm",
@@ -4548,17 +4561,72 @@
         "野九bbbs":[]
     },
     {
-        "[Mainichi Kenkou Seikatsu (Healthyman)] JC Shiori-chan, Kuzu Oji ni Kawareru  | JC小詩織被人渣大叔買下了 [Chinese] [山樱汉化] [Digital]":[
+        "[Konnyaku] Tensai Onaho Saika-chan | 天才飞机杯彩香酱 [Chinese] [白杨汉化组]":[
             "language:translated",
-            "group:mainichi kenkou seikatsu",
+            "artist:konnyaku",
+            "male:bbm",
             "male:sole male",
+            "female:bike shorts",
+            "female:lab coat",
+            "female:lolicon",
+            "female:mesugaki",
+            "female:nakadashi",
+            "female:sole female",
+            "female:stomach deformation",
+            "female:twintails",
+            "female:very long hair",
+            "other:full color"
+        ]
+    },
+    {
+        "[Tabuchi-san Chi (Tabuchi)]Natsuyasumi janai kara, muteikou nai toko ni chinko ireru hanashi [Chinese] [甜族星人赞助汉化]":[
+            "language:translated",
+            "group:tabuchi-san chi",
+            "male:school gym uniform",
+            "male:shotacon",
+            "male:sole male",
+            "male:sumata",
+            "female:blowjob",
+            "female:fingering",
             "female:lolicon",
             "female:nakadashi",
-            "female:ponytail",
-            "female:prostitution",
-            "female:schoolgirl uniform",
-            "female:shimapan",
-            "female:sole female"
+            "female:school gym uniform",
+            "female:tracksuit",
+            "female:twintails",
+            "other:full color"
+        ]
+    },
+    {
+        "[Asatsuki Dou (Youta)] Onii-chan Daisuki H Shiyo Full Color Manga Bangaihen 2 [Chinese] [不咕鸟汉化组] [Digital]":[
+            "language:translated",
+            "group:asatsuki dou",
+            "male:sole male",
+            "female:cheerleader",
+            "female:chinese dress",
+            "female:hair buns",
+            "female:lolicon",
+            "female:sister",
+            "female:sole female",
+            "female:twintails",
+            "other:full color",
+            "other:multi-work series"
+        ]
+    },
+    {
+        "[Tabuchi-san Chi (Tabuchi)] Natsuyasumi dakara Muteikou na Itoko ni Chinko Ireru Hanashi [Chinese] [甜族星人赞助汉化]":[
+            "language:translated",
+            "group:tabuchi-san chi",
+            "male:shotacon",
+            "male:sole male",
+            "female:cousin",
+            "female:emotionless sex",
+            "female:kimono",
+            "female:lolicon",
+            "female:school swimsuit",
+            "female:sole female",
+            "female:twintails",
+            "mixed:kodomo doushi",
+            "other:story arc"
         ]
     }
 ]
