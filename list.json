@@ -728,7 +728,6 @@
         "female:stomach deformation"
     ],
     "[Asatsuki Dou (Youta)] Onii-chan Daisuki H Shiyo Full Color Manga Bangaihen 2 [Chinese] [不咕鸟汉化组] [Digital]":[
-        "language:translated",
         "group:asatsuki dou",
         "male:sole male",
         "female:cheerleader",
@@ -738,7 +737,6 @@
         "female:sister",
         "female:sole female",
         "female:twintails",
-        "other:full color",
         "other:multi-work series"
     ],
     "[Azure Ghost] Gadgets α 04 (Genshin Impact) [Chinese]":[
@@ -1892,7 +1890,6 @@
         "female:sole female"
     ],
     "[Konnyaku] Tensai Onaho Saika-chan | 天才飞机杯彩香酱 [Chinese] [白杨汉化组]":[
-        "language:translated",
         "artist:konnyaku",
         "male:bbm",
         "male:sole male",
@@ -1904,8 +1901,7 @@
         "female:sole female",
         "female:stomach deformation",
         "female:twintails",
-        "female:very long hair",
-        "other:full color"
+        "female:very long hair"
     ],
     "[Kuga Tsuniya] Medusa Dorei o Katta":[
         "female:blindfold",
@@ -2045,7 +2041,6 @@
         "female:stockings"
     ],
     "[Mainichi Kenkou Seikatsu (Healthyman)] JC Shiori-chan, Kuzu Oji ni Kawareru  | JC小詩織被人渣大叔買下了 [Chinese] [山樱汉化] [Digital]":[
-        "group:mainichi kenkou seikatsu",
         "male:sole male",
         "female:lolicon",
         "female:nakadashi",
@@ -3269,7 +3264,6 @@
         "female:tomboy"
     ],
     "[Tabuchi-san Chi (Tabuchi)] Natsuyasumi dakara Muteikou na Itoko ni Chinko Ireru Hanashi [Chinese] [甜族星人赞助汉化]":[
-        "language:translated",
         "group:tabuchi-san chi",
         "male:shotacon",
         "male:sole male",
@@ -3280,11 +3274,9 @@
         "female:school swimsuit",
         "female:sole female",
         "female:twintails",
-        "mixed:kodomo doushi",
         "other:story arc"
     ],
     "[Tabuchi-san Chi (Tabuchi)]Natsuyasumi janai kara, muteikou nai toko ni chinko ireru hanashi [Chinese] [甜族星人赞助汉化]":[
-        "language:translated",
         "group:tabuchi-san chi",
         "male:school gym uniform",
         "male:shotacon",
@@ -3296,8 +3288,7 @@
         "female:nakadashi",
         "female:school gym uniform",
         "female:tracksuit",
-        "female:twintails",
-        "other:full color"
+        "female:twintails"
     ],
     "[Takeno no Nedoko (Takeno)] Nijika to Guitar Hero | 虹夏与吉他英雄 (Bocchi the Rock!) [Chinese] [Digital]":[
         "female:females only"
