@@ -728,7 +728,6 @@
         "female:stomach deformation"
     ],
     "[Asatsuki Dou (Youta)] Onii-chan Daisuki H Shiyo Full Color Manga Bangaihen 2 [Chinese] [不咕鸟汉化组] [Digital]":[
-        "group:asatsuki dou",
         "male:sole male",
         "female:cheerleader",
         "female:chinese dress",
@@ -736,8 +735,7 @@
         "female:lolicon",
         "female:sister",
         "female:sole female",
-        "female:twintails",
-        "other:multi-work series"
+        "female:twintails"
     ],
     "[Azure Ghost] Gadgets α 04 (Genshin Impact) [Chinese]":[
         "female:gloves",
@@ -1890,7 +1888,6 @@
         "female:sole female"
     ],
     "[Konnyaku] Tensai Onaho Saika-chan | 天才飞机杯彩香酱 [Chinese] [白杨汉化组]":[
-        "artist:konnyaku",
         "male:bbm",
         "male:sole male",
         "female:bike shorts",
@@ -3264,7 +3261,6 @@
         "female:tomboy"
     ],
     "[Tabuchi-san Chi (Tabuchi)] Natsuyasumi dakara Muteikou na Itoko ni Chinko Ireru Hanashi [Chinese] [甜族星人赞助汉化]":[
-        "group:tabuchi-san chi",
         "male:shotacon",
         "male:sole male",
         "female:cousin",
@@ -3273,11 +3269,9 @@
         "female:lolicon",
         "female:school swimsuit",
         "female:sole female",
-        "female:twintails",
-        "other:story arc"
+        "female:twintails"
     ],
     "[Tabuchi-san Chi (Tabuchi)]Natsuyasumi janai kara, muteikou nai toko ni chinko ireru hanashi [Chinese] [甜族星人赞助汉化]":[
-        "group:tabuchi-san chi",
         "male:school gym uniform",
         "male:shotacon",
         "male:sole male",
