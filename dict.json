@@ -16413,7 +16413,6 @@
     },
     {
         "[NekoFawnの隠れ家 (NekoFawn)] 魔法少女の世界におけるモブおじさん3 [中国語]":[
-            "artist:nekofawn",
             "male:dilf",
             "female:magical girl",
             "female:twintails"
@@ -18537,7 +18536,6 @@
     },
     {
         "[Steel Mayonnaise (ひぐちいさみ)] 肉巫女の宴 捌 ～痴濡の雌午～ (ヘアあり通常版)  [中国翻訳] [DL版]":[
-            "group:steel mayonnaise",
             "male:dark skin",
             "female:ahegao",
             "female:anal",
@@ -19759,9 +19757,7 @@
     },
     {
         "[WaterRing] 2023/03-2024/11 Patreon reward":[
-            "character:arlecchino",
             "character:hakos baelz",
-            "character:nerissa ravencroft",
             "artist:waterring",
             "female:big breasts",
             "female:impregnation",
@@ -28149,7 +28145,6 @@
     },
     {
         "[どうしょく (そらみる)] 常識改変わからせレイプ〜生意気なメスを更生指導〜 [中国翻訳] [DL版]":[
-            "group:doushoku",
             "male:dilf",
             "female:lolicon",
             "female:mesugaki",
@@ -38966,7 +38961,6 @@
     },
     {
         "[世捨人な漫画描き (ともきとものり)] エッチな解毒にハマっちゃって自分から毒を受ける困ったアリス (不思議の国のアリス) [中国翻訳] [DL版]":[
-            "character:alice liddell",
             "male:long tongue",
             "male:sole male",
             "female:cunnilingus",
@@ -52347,6 +52341,17 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
+        ]
+    },
+    {
+        "[世捨人な漫画描き (ともきとものり)] SEXできる条件が見えるメガネと不思議な注意事項 (東方Project) [中国翻訳] [DL版]":[
+            "language:translated",
+            "character:mystia lorelei",
+            "group:yosutebito na mangakaki",
+            "male:glasses",
+            "male:sole male",
+            "female:stockings",
+            "female:wings"
         ]
     }
 ]
