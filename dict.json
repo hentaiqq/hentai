@@ -16413,13 +16413,24 @@
     },
     {
         "[NekoFawnの隠れ家 (NekoFawn)] 魔法少女の世界におけるモブおじさん [中国語]":[
-            "artist:nekofawn",
             "male:bald",
             "male:bbm",
             "male:dilf",
             "male:sole male",
             "female:collar",
             "female:defloration",
+            "female:detached sleeves",
+            "female:magical girl",
+            "female:sole female",
+            "female:thigh high boots"
+        ]
+    },
+    {
+        "[NekoFawnの隠れ家 (NekoFawn)] 魔法少女の世界におけるモブおじさん2 [中国語]":[
+            "male:bald",
+            "male:bbm",
+            "male:dark skin",
+            "male:sole male",
             "female:detached sleeves",
             "female:magical girl",
             "female:sole female",
@@ -20372,7 +20383,6 @@
     },
     {
         "[elel] 不人気性処理当番黒井ちゃん 使っているのはクラスで俺だけ [中国翻訳]":[
-            "group:elel",
             "male:condom",
             "male:sole male",
             "female:big breasts",
@@ -52498,17 +52508,21 @@
         ]
     },
     {
-        "[NekoFawnの隠れ家 (NekoFawn)] 魔法少女の世界におけるモブおじさん2 [中国語]":[
-            "parody:original",
-            "male:bald",
-            "male:bbm",
-            "male:dark skin",
+        "(C103) [しいたけ農園 (わかるティッシュ)] 小〇生アイドル合法性交合宿 (アイドルマスター シンデレラガールズ) [中国翻訳]":[
+            "language:translated",
+            "character:kaoru ryuzaki",
+            "character:producer",
+            "artist:kanabun",
             "male:sole male",
-            "female:detached sleeves",
-            "female:magical girl",
-            "female:sole female",
-            "female:thigh high boots",
-            "other:mosaic censorship"
+            "female:bikini",
+            "female:blowjob",
+            "female:impregnation",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:stomach deformation",
+            "female:swimsuit",
+            "female:tanlines",
+            "mixed:group"
         ]
     }
 ]
