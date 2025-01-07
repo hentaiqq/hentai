@@ -30088,7 +30088,6 @@
     },
     {
         "[ぷるめたる] 異世界転生した先でパーティーメンバー全員と内緒でえっちしてるニート(この素晴らしい世界に祝福を!) [中国翻訳] [DL版]":[
-            "character:aqua",
             "group:purumetal",
             "male:sole male",
             "female:big breasts",
@@ -32997,6 +32996,19 @@
             "female:voyeurism",
             "female:x-ray",
             "female:yandere"
+        ]
+    },
+    {
+        "[アガタ] はだかぐらし [中国翻訳] [DL版]":[
+            "male:dark skin",
+            "male:shotacon",
+            "female:big breasts",
+            "female:dark skin",
+            "female:exhibitionism",
+            "female:lolicon",
+            "female:milf",
+            "female:tanlines",
+            "other:tankoubon"
         ]
     },
     {
@@ -52864,21 +52876,6 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
-        ]
-    },
-    {
-        "[アガタ] はだかぐらし [中国翻訳] [DL版]":[
-            "language:translated",
-            "male:dark skin",
-            "male:shotacon",
-            "female:big breasts",
-            "female:dark skin",
-            "female:exhibitionism",
-            "female:lolicon",
-            "female:milf",
-            "female:tanlines",
-            "mixed:kodomo doushi",
-            "other:tankoubon"
         ]
     }
 ]
