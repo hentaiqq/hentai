@@ -459,6 +459,21 @@
         "female:masturbation",
         "female:sole female"
     ],
+    "(FF43) [Fe3C (Cementite)] Ryoushi Rikigaku | 兩子力學 (Blue Archive) [Japanese, Chinese]":[
+        "language:japanese",
+        "character:hikari tachibana",
+        "character:sensei",
+        "artist:cementite",
+        "female:elf",
+        "female:halo",
+        "female:lolicon",
+        "female:pantyhose",
+        "female:shimaidon",
+        "female:tail",
+        "female:twins",
+        "female:very long hair",
+        "mixed:group"
+    ],
     "(GW Chou Doujinsai) [Little Hamlet (Kiira)] Sensei to Watashi to Nekomimi Parka":[
         "male:sole male",
         "female:hood",
@@ -765,6 +780,21 @@
         "female:sole female",
         "female:twintails"
     ],
+    "[Aozora Shoujo (Shirane Taito)] Aitsu ni Nanka Makenai Mon | 我才不会输给那土妹子呢 [Chinese] [白杨汉化组] [Digital]":[
+        "language:translated",
+        "group:aozora shoujo",
+        "male:blackmail",
+        "male:sole male",
+        "male:teacher",
+        "female:defloration",
+        "female:glasses",
+        "female:lolicon",
+        "female:nakadashi",
+        "female:randoseru",
+        "female:stockings",
+        "female:twintails",
+        "female:voyeurism"
+    ],
     "[Artist] 春夏秋冬 鈴 (85499714)":[
         "female:blowjob",
         "female:halo",
@@ -1013,9 +1043,7 @@
         "female:sole female"
     ],
     "[Dekai Tsuno (Keimo)] Hatenkou de Tamanarai Kimi to | 就破天荒地和忍不住的你 (Blue Archive) [Chinese] [白杨汉化组]":[
-        "language:translated",
         "character:kasumi kinugawa",
-        "group:dekai tsuno",
         "male:sole male",
         "female:ahegao",
         "female:halo",
@@ -1672,6 +1700,29 @@
         "female:thick eyebrows",
         "female:wet clothes",
         "female:yandere"
+    ],
+    "[Inmou Choregi Salad (Inchore)] Club Abnormal [Chinese] [鈽鐳鉻銻] [Digital]":[
+        "language:translated",
+        "group:inmou choregi salad",
+        "male:big penis",
+        "male:sole male",
+        "female:ahegao",
+        "female:anal",
+        "female:anal intercourse",
+        "female:collar",
+        "female:defloration",
+        "female:enema",
+        "female:impregnation",
+        "female:kemonomimi",
+        "female:lolicon",
+        "female:prostitution",
+        "female:randoseru",
+        "female:schoolgirl uniform",
+        "female:sex toys",
+        "female:sole female",
+        "female:stockings",
+        "female:stomach deformation",
+        "female:unusual pupils"
     ],
     "[Inonaka Kawazu] Cool na Tsuma no Sa-chan (COMIC Kairakuten BEAST 2023-10) [Chinese] [大鸟可不敢乱转汉化] [Digital]":[
         "male:sole male",
@@ -3621,7 +3672,6 @@
         "female:rimjob"
     ],
     "[Toranoe no Makimono (Toranoe)] Hanazono Shuuka GOLDEN SLAVE (Idol Time PriPara) [Chinese] [Polaris个人汉化] [Digital]":[
-        "language:translated",
         "artist:toranoe",
         "female:ahegao",
         "female:bondage",
@@ -3907,7 +3957,6 @@
         "female:tomboy"
     ],
     "[kanabun] Hikari-chan Kanshasai | 明璃酱粉丝感谢会 [Chinese] [某不靠谱个人汉化] [Decensored]":[
-        "language:translated",
         "artist:kanabun",
         "male:harem",
         "female:anal",
@@ -3919,9 +3968,7 @@
         "female:nakadashi",
         "female:sole female",
         "female:swimsuit",
-        "mixed:mmf threesome",
-        "other:multi-work series",
-        "other:uncensored"
+        "other:multi-work series"
     ],
     "[kanabun] Tokubetsu Tokkun [Decensored] [Chinese] [SAN个人汉化]":[
         "male:harem",
