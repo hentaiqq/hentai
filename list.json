@@ -460,9 +460,7 @@
         "female:sole female"
     ],
     "(FF43) [Fe3C (Cementite)] Ryoushi Rikigaku | 兩子力學 (Blue Archive) [Japanese, Chinese]":[
-        "language:japanese",
         "character:hikari tachibana",
-        "character:sensei",
         "artist:cementite",
         "female:elf",
         "female:halo",
@@ -471,8 +469,7 @@
         "female:shimaidon",
         "female:tail",
         "female:twins",
-        "female:very long hair",
-        "mixed:group"
+        "female:very long hair"
     ],
     "(GW Chou Doujinsai) [Little Hamlet (Kiira)] Sensei to Watashi to Nekomimi Parka":[
         "male:sole male",
@@ -781,7 +778,6 @@
         "female:twintails"
     ],
     "[Aozora Shoujo (Shirane Taito)] Aitsu ni Nanka Makenai Mon | 我才不会输给那土妹子呢 [Chinese] [白杨汉化组] [Digital]":[
-        "language:translated",
         "group:aozora shoujo",
         "male:blackmail",
         "male:sole male",
@@ -1043,7 +1039,6 @@
         "female:sole female"
     ],
     "[Dekai Tsuno (Keimo)] Hatenkou de Tamanarai Kimi to | 就破天荒地和忍不住的你 (Blue Archive) [Chinese] [白杨汉化组]":[
-        "character:kasumi kinugawa",
         "male:sole male",
         "female:ahegao",
         "female:halo",
@@ -1702,7 +1697,6 @@
         "female:yandere"
     ],
     "[Inmou Choregi Salad (Inchore)] Club Abnormal [Chinese] [鈽鐳鉻銻] [Digital]":[
-        "language:translated",
         "group:inmou choregi salad",
         "male:big penis",
         "male:sole male",
@@ -3672,7 +3666,6 @@
         "female:rimjob"
     ],
     "[Toranoe no Makimono (Toranoe)] Hanazono Shuuka GOLDEN SLAVE (Idol Time PriPara) [Chinese] [Polaris个人汉化] [Digital]":[
-        "artist:toranoe",
         "female:ahegao",
         "female:bondage",
         "female:collar",
@@ -3957,7 +3950,6 @@
         "female:tomboy"
     ],
     "[kanabun] Hikari-chan Kanshasai | 明璃酱粉丝感谢会 [Chinese] [某不靠谱个人汉化] [Decensored]":[
-        "artist:kanabun",
         "male:harem",
         "female:anal",
         "female:anal intercourse",
@@ -3967,8 +3959,7 @@
         "female:lolicon",
         "female:nakadashi",
         "female:sole female",
-        "female:swimsuit",
-        "other:multi-work series"
+        "female:swimsuit"
     ],
     "[kanabun] Tokubetsu Tokkun [Decensored] [Chinese] [SAN个人汉化]":[
         "male:harem",
