@@ -250,7 +250,6 @@
         "female:urination"
     ],
     "(C104) [(A)C (Yoshi Yoshiyuki)] Ibuki to Asobo | 和伊吹一起玩吧 (Blue Archive) [Chinese] [粽子憨憨汉化]":[
-        "character:ibuki tanga",
         "female:demon girl",
         "female:halo",
         "female:horns",
@@ -260,7 +259,6 @@
         "female:wings"
     ],
     "(C104) [DOGYEAR (Kujou Danbo)] Neverland ni Torawarete - Trapped in Neverland | 囚禁于梦幻岛之中 (Blue Archive) [Chinese] [粽子憨憨汉化]":[
-        "character:sensei",
         "female:blowjob",
         "female:cervix penetration",
         "female:chinese dress",
@@ -559,6 +557,11 @@
         "female:wolf girl",
         "female:yuri"
     ],
+    "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings The Complete Guide [Digital]":[
+        "artist:noco",
+        "other:artbook",
+        "other:non-h game manual"
+    ],
     "BLVEFO9 (2484671) Fanbox (07/22 - 08/23) (uncensored)":[
         "male:big penis",
         "male:dark skin",
@@ -661,6 +664,11 @@
         "female:swimsuit"
     ],
     "NieRAutomata World Guide Art Collection":[],
+    "Sophie no Atelier - Fushigi na Yume no Renkinjutsushi - Koushiki Visual Collection (Dengeki no Kouryakubon)":[
+        "parody:atelier sophie",
+        "character:sophie neuenmuller",
+        "artist:yuugen"
+    ],
     "The Art of Porco Rosso":[],
     "Yomu (Sgt Epper) Collection":[],
     "[54BURGER (Marugoshi)] Abydos Seito Zenin to Mizugi Ecchi suru Hon (Blue Archive) [Chinese] [颠佬旅者汉化组] [Digital]":[
@@ -1088,6 +1096,20 @@
         "female:very long hair",
         "female:yuri"
     ],
+    "[Dinosaur House (Kaidiu)] Momo Mido to Umi (Beach) de Ecchi | 和小桃小绿在海边 (沙滩) 色色♥ (Blue Archive) [Chinese] [才羽桃井汉化组] [Digital]":[
+        "language:translated",
+        "character:midori saiba",
+        "character:sensei",
+        "artist:kaidiu",
+        "male:sole male",
+        "female:bikini",
+        "female:halo",
+        "female:headphones",
+        "female:kemonomimi",
+        "female:lolicon",
+        "female:nakadashi",
+        "female:swimsuit"
+    ],
     "[Doji Ro Books (Doji Ro)] #Yuuryou Shoujo 3 [Kougaku Shien Ban] ~Okane o Harau to ○○ Shite Kureru Onnanoko~ <Kanketsu> [Chinese] [幸德秋良与以北汉化]":[
         "female:collar",
         "female:dark skin",
@@ -1186,9 +1208,7 @@
         "female:paizuri"
     ],
     "[Fanbox] ﾌﾞﾚｴﾄﾞ(2020.12.01 ~ 2024.06.10)":[
-        "parody:fate grand order",
         "character:elizabeth bathory",
-        "character:kyaru",
         "female:anal",
         "female:anal intercourse",
         "female:bodystocking",
