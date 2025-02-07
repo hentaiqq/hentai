@@ -337,9 +337,7 @@
         "female:very long hair"
     ],
     "(C104) [Yumesaki Annai Kairanban (Hiro Hiroki)] Yappari Oyama ga Warui!! 2 | 果然都是绪山的错2!! (Onii-chan wa Oshimai!) [Chinese] [瑞树汉化组]":[
-        "language:translated",
         "character:mahiro oyama",
-        "artist:hiro hiroki",
         "male:gender change",
         "male:shotacon",
         "female:catgirl",
@@ -351,9 +349,7 @@
         "female:nakadashi",
         "female:sole female",
         "female:tail",
-        "mixed:kodomo doushi",
-        "other:full color",
-        "other:mosaic censorship"
+        "other:full color"
     ],
     "(C79) [Asaki Blog Branch Office (Asaki Takayuki)] Love Urabe+ (Nazo no Kanojo X) [Chinese] [流浪貓·裏]":[
         "male:sole male",
@@ -2634,7 +2630,6 @@
         "female:very long hair"
     ],
     "[Nameraka Seinikuten (kamasu)] Gal to Tenin [Chinese]":[
-        "language:translated",
         "group:yawaraka seinikuten",
         "male:bbm",
         "male:glasses",
