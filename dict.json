@@ -404,7 +404,6 @@
     },
     {
         "(C104) [Yumesaki Annai Kairanban (Hiro Hiroki)] Yappari Oyama ga Warui!! 2 | 果然都是绪山的错2!! (Onii-chan wa Oshimai!) [Chinese] [瑞树汉化组]":[
-            "character:mahiro oyama",
             "male:gender change",
             "male:shotacon",
             "female:catgirl",
@@ -415,8 +414,7 @@
             "female:lolicon",
             "female:nakadashi",
             "female:sole female",
-            "female:tail",
-            "other:full color"
+            "female:tail"
         ]
     },
     {
@@ -3055,7 +3053,6 @@
     },
     {
         "[Nameraka Seinikuten (kamasu)] Gal to Tenin [Chinese]":[
-            "group:yawaraka seinikuten",
             "male:bbm",
             "male:glasses",
             "male:sole male",
