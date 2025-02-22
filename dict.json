@@ -26755,7 +26755,6 @@
     },
     {
         "[こっとん堂] まひると沼田〜罠にハメられた彼女〜  [中国翻訳]":[
-            "group:cotton house",
             "male:condom",
             "male:dilf",
             "male:teacher",
@@ -36549,7 +36548,6 @@
     },
     {
         "[ゼロ (ぬんぬ)] トラントールの兄妹 (アイリス☆クロニクル) [中国翻訳]":[
-            "group:oiran ichimi",
             "male:crossdressing",
             "male:stockings",
             "female:anal",
@@ -36559,8 +36557,7 @@
             "female:rape",
             "female:sister",
             "female:sole female",
-            "female:stockings",
-            "mixed:twins"
+            "female:stockings"
         ]
     },
     {
@@ -37191,7 +37188,6 @@
     },
     {
         "[トヤスアイナ (十安愛七)] せつ菜シークレットリー (ラブライブ! 虹ヶ咲学園スクールアイドル同好会) [中国翻訳] [DL版]":[
-            "character:setsuna yuki",
             "male:sole male",
             "female:blowjob",
             "female:glasses",
@@ -37967,7 +37963,6 @@
     },
     {
         "[ノラネコノタマ (雪野みなと)] わらべ団地のいろはちゃん [中国翻訳] [DL版]":[
-            "group:noraneko-no-tama",
             "male:bbm",
             "male:dilf",
             "male:glasses",
@@ -43851,7 +43846,6 @@
     },
     {
         "[寝語屋] クロワリア 5 [中国翻訳]":[
-            "group:negoya",
             "male:bbm",
             "female:drugs",
             "female:lolicon",
@@ -54360,6 +54354,56 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
+        ]
+    },
+    {
+        "[Pixiv] gweda (17282018) 2025.02.22":[
+            "parody:blue archive",
+            "parody:date a live",
+            "parody:genshin impact",
+            "parody:hololive",
+            "parody:kaguya-sama wa kokurasetai",
+            "parody:kimetsu no yaiba",
+            "parody:pokemon",
+            "parody:sousou no frieren",
+            "parody:yu-gi-oh",
+            "female:anal",
+            "female:big ass",
+            "female:big breasts",
+            "female:bikini",
+            "female:blowjob",
+            "female:bunny girl",
+            "female:catgirl",
+            "female:chinese dress",
+            "female:christmas",
+            "female:cosplaying",
+            "female:dark skin",
+            "female:demon girl",
+            "female:dog girl",
+            "female:elf",
+            "female:fox girl",
+            "female:glasses",
+            "female:hair buns",
+            "female:headphones",
+            "female:horns",
+            "female:kemonomimi",
+            "female:latex",
+            "female:mouth mask",
+            "female:nakadashi",
+            "female:nun",
+            "female:pantyhose",
+            "female:ponytail",
+            "female:school gym uniform",
+            "female:schoolgirl uniform",
+            "female:sex toys",
+            "female:stockings",
+            "female:sunglasses",
+            "female:swimsuit",
+            "female:tail",
+            "female:twintails",
+            "female:very long hair",
+            "female:wings",
+            "female:x-ray"
         ]
     }
 ]
