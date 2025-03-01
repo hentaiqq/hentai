@@ -1270,9 +1270,7 @@
     },
     {
         "(C103) [パンダの缶詰 (ないん)] 旅人敗北記Ver.1.0 モンド・璃月編 (原神) [中国翻訳]":[
-            "character:lumine",
-            "female:impregnation",
-            "other:watermarked"
+            "female:impregnation"
         ]
     },
     {
@@ -1444,7 +1442,6 @@
     },
     {
         "(C105) [piccione!! (piccione!!)] 自由の悦びに溺れて (原神) [中国翻訳]":[
-            "character:focalors",
             "male:condom",
             "male:prostitution",
             "female:heterochromia",
@@ -12266,7 +12263,6 @@
     },
     {
         "[23.4ド (イチリ)] 堕天計画描きおろし [中国翻訳] [DL版]":[
-            "group:23.4do",
             "male:multiple straddling",
             "male:sole male",
             "female:angel",
@@ -18426,9 +18422,7 @@
     },
     {
         "[Pixiv] gweda (17282018) 2025.02.27":[
-            "parody:date a live",
             "parody:hololive",
-            "parody:kimetsu no yaiba",
             "parody:sousou no frieren",
             "female:anal",
             "female:big ass",
@@ -54489,6 +54483,19 @@
             "female:stockings",
             "female:tentacles",
             "female:tickling"
+        ]
+    },
+    {
+        "[毒電波受信中 (炉心)] ちはやさんと楽しいハメ撮りH [中国翻訳] [DL版]":[
+            "language:translated",
+            "group:doku denpa jushin-chuu",
+            "male:sole male",
+            "female:fox girl",
+            "female:kemonomimi",
+            "female:lolicon",
+            "female:pantyhose",
+            "female:sole female",
+            "female:tail"
         ]
     }
 ]
