@@ -624,7 +624,6 @@
     },
     {
         "(COMIC1☆25) [Tsukuten (Madoka Tsukumo)] Shupogaki o Wakaraseru Tsumori ga Gyaku ni Hamarareta Hanashi | 关于本想狠狠教育这对磁小轨但却反而被缠上的这件事 (Blue Archive) [Chinese] [白杨汉化组]":[
-            "artist:madoka tsukumo",
             "male:sole male",
             "female:halo",
             "female:lolicon",
@@ -5229,5 +5228,12 @@
     },
     {
         "野九bbbs":[]
+    },
+    {
+        "[AI Generated] [Karō Nanashi] 3-F Banīgāru Kissa [孤独的蛇个人汉化]":[
+            "language:translated",
+            "female:bunny girl",
+            "female:nakadashi"
+        ]
     }
 ]
