@@ -18995,9 +18995,7 @@
     },
     {
         "[Pixiv] gweda (17282018) 2025.04.09":[
-            "parody:date a live",
             "parody:hololive",
-            "parody:kimetsu no yaiba",
             "parody:sousou no frieren",
             "female:anal",
             "female:big ass",
@@ -24779,6 +24777,16 @@
             "female:stockings",
             "female:tail",
             "female:yuri"
+        ]
+    },
+    {
+        "[あめしょー (三日月ネコ)] ちょっとお兄ちゃんひっ憑かないで [中国翻訳]":[
+            "group:ameshoo",
+            "male:sole male",
+            "female:lolicon",
+            "female:possession",
+            "female:sister",
+            "female:sole female"
         ]
     },
     {
@@ -55498,14 +55506,32 @@
         ]
     },
     {
-        "[あめしょー (三日月ネコ)] ちょっとお兄ちゃんひっ憑かないで [中国翻訳]":[
+        "(C105) [秒殺狸団 (佐伯達也)] 働くお兄ちゃん JKリフレと本番禁止 (お兄ちゃんはおしまい!) [中国翻訳]":[
             "language:translated",
-            "group:ameshoo",
-            "male:sole male",
+            "character:mahiro oyama",
+            "artist:saeki tatsuya",
+            "male:gender change",
             "female:lolicon",
-            "female:possession",
-            "female:sister",
+            "female:nakadashi",
+            "female:schoolgirl uniform",
             "female:sole female",
+            "other:mosaic censorship"
+        ]
+    },
+    {
+        "[しいたけ農園 (kanabun)] サキュバス3姉妹に搾り取られる話 [中国翻訳]":[
+            "language:translated",
+            "group:shiitake nouen",
+            "male:shotacon",
+            "female:collar",
+            "female:demon girl",
+            "female:gloves",
+            "female:horns",
+            "female:lolicon",
+            "female:oppai loli",
+            "female:stockings",
+            "female:tail",
+            "female:wings",
             "other:full color"
         ]
     }
