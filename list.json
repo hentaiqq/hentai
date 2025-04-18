@@ -2091,7 +2091,6 @@
         "female:sole female"
     ],
     "[KYDE] SLG 1-3":[
-        "character:fiolina germi",
         "male:alien",
         "male:monster",
         "female:dark skin",
@@ -2101,8 +2100,7 @@
         "female:nakadashi",
         "female:ponytail",
         "female:rape",
-        "female:tentacles",
-        "other:animated"
+        "female:tentacles"
     ],
     "[Kakure area (Kakushi Area β) & LK] RabbitHole (VOCALOID)":[
         "female:blowjob",
@@ -2694,6 +2692,25 @@
         "female:rape",
         "female:schoolgirl uniform"
     ],
+    "[Midori no Rupe] Girls on the Blue Film [Chinese] [Digital]":[
+        "language:translated",
+        "male:dilf",
+        "male:glasses",
+        "female:beauty mark",
+        "female:blowjob",
+        "female:bondage",
+        "female:daughter",
+        "female:glasses",
+        "female:hidden sex",
+        "female:lolicon",
+        "female:mind control",
+        "female:niece",
+        "female:pantyhose",
+        "female:piercing",
+        "female:schoolgirl uniform",
+        "mixed:group",
+        "other:story arc"
+    ],
     "[Mimoneland (Mimonel)] Seito to Issen Koechau Hon -C&C Hen- (Blue Archive) [Chinese] [鸡斯拉汉化组] [Digital]":[
         "male:big penis",
         "male:sole male",
@@ -2713,6 +2730,78 @@
         "female:nakadashi",
         "female:pregnant",
         "female:stockings"
+    ],
+    "[Mizone Doubutsuen (Mizone)] Doukyusei wa Hatsujouki [Chinese] [肉包汉化组] [Digital]":[
+        "language:translated",
+        "group:mizone doubutsuen",
+        "male:human on furry",
+        "male:schoolboy uniform",
+        "male:sole male",
+        "female:big breasts",
+        "female:dog girl",
+        "female:furry",
+        "female:schoolboy uniform",
+        "female:sole female"
+    ],
+    "[Mizone] Hatsujou Jingai Nisshi - Heat Monster Girl's diary Page 2 (COMIC BAVEL 2024-05) [Chinese] [Kirin个人汉化] [Digital]":[
+        "language:translated",
+        "male:coach",
+        "male:sole male",
+        "female:harpy",
+        "female:impregnation",
+        "female:monster girl",
+        "female:sole female"
+    ],
+    "[Mizone] Hebina Otome Wa Juusha o Nomu (COMIC BAVEL 2021-11) [Chinese] [Kirin个人汉化] [Digital]":[
+        "language:translated",
+        "male:butler",
+        "male:sole male",
+        "female:blowjob",
+        "female:defloration",
+        "female:long tongue",
+        "female:monster girl",
+        "female:snake girl",
+        "female:sole female"
+    ],
+    "[Mizone] Ihou no Otome - Monster Girls in Another World  + Hebi na Otome wa Juusha o Nomu after  [Chinese] [Kirin个人汉化]  [Digital]":[
+        "language:translated",
+        "male:glasses",
+        "male:orc",
+        "male:scar",
+        "female:big breasts",
+        "female:blowjob",
+        "female:centaur",
+        "female:cunnilingus",
+        "female:dark skin",
+        "female:defloration",
+        "female:demon girl",
+        "female:dragon",
+        "female:eggs",
+        "female:emotionless sex",
+        "female:fingering",
+        "female:footjob",
+        "female:harpy",
+        "female:horns",
+        "female:kemonomimi",
+        "female:kissing",
+        "female:lizard girl",
+        "female:long tongue",
+        "female:monster girl",
+        "female:nakadashi",
+        "female:paizuri",
+        "female:plant girl",
+        "female:snake girl",
+        "female:tail",
+        "female:twintails",
+        "female:wings"
+    ],
+    "[Mizone] Isekai Renai (Ihou no Otome - Monster Girls in Another World) [Chinese] [幸德秋良汉化]":[
+        "language:translated",
+        "male:sole male",
+        "female:horns",
+        "female:monster girl",
+        "female:nakadashi",
+        "female:sole female"
     ],
     "[Momojiru Teien (Momokumo)] Kunikida Senpai no Kakushigoto | 国木田学姐的隐瞒之事 [Chinese] [暴碧汉化组×刀刃汉化组] [Digital]":[
         "male:schoolboy uniform",
@@ -4670,6 +4759,10 @@
         "female:sister",
         "mixed:group",
         "other:multi-work series"
+    ],
+    "[ねっこ] 蔚藍檔案R18相关翻译合集":[
+        "language:translated",
+        "artist:nekko"
     ],
     "[ねっこ] 蔚藍檔案相关翻译合集":[
         "female:catgirl",
