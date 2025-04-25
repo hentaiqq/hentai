@@ -1001,7 +1001,6 @@
         "female:sole female"
     ],
     "[Bonifasko] Dark Green | 沉碧之森[Chinese][Ongoing][水猫汉化]":[
-        "language:translated",
         "male:furry",
         "female:big ass",
         "female:big breasts",
@@ -1021,8 +1020,7 @@
         "female:unusual insertions",
         "female:unusual pupils",
         "female:witch",
-        "female:yuri",
-        "other:comic"
+        "female:yuri"
     ],
     "[Camrism (Kito Sakeru)] Toki no Bokkiryoku Kaizen Perfect Training (Blue Archive) [Chinese] [葱鱼个人汉化] [Digital]":[
         "male:sole male",
@@ -1329,7 +1327,6 @@
         "female:pregnant"
     ],
     "[FANBOX] ばーくろー (-2024.09)":[
-        "character:reisalin stout",
         "female:bikini",
         "female:stockings",
         "female:swimsuit",
@@ -1341,7 +1338,6 @@
         "female:paizuri"
     ],
     "[Fanbox] Oden":[
-        "parody:atelier sophie",
         "artist:oden",
         "female:anal",
         "female:blowjob",
@@ -2052,7 +2048,6 @@
         "female:thigh high boots"
     ],
     "[Iwami Yasoya] Ha ga Gizagiza no Gizaba-san | 牙齒凹凸不平的鯊魚伢小姐  (COMIC X-EROS #104) [Chinese] [一〇〇五] [Digital]":[
-        "language:translated",
         "male:sole male",
         "female:ahegao",
         "female:blowjob",
@@ -3094,7 +3089,6 @@
         "female:twintails"
     ],
     "[Nikubou Maranoshin] Barairo ryou omoi (COMIC Kairakuten 2023-06) [Chinese] [大鸟可不敢乱转汉化] [Digital]":[
-        "language:translated",
         "male:big penis",
         "male:sole male",
         "female:beauty mark",
@@ -3105,7 +3099,6 @@
         "female:tomboy"
     ],
     "[Nikubou Maranoshin] Samukunai You ni (COMIC Kairakuten 2023-03) [Chinese] [大鸟可不敢乱转汉化] [Digital]":[
-        "language:translated",
         "male:sole male",
         "female:big breasts",
         "female:sole female",
@@ -3123,7 +3116,6 @@
         "female:tomboy"
     ],
     "[Nikubou Maranoshin] Tenshi o Tsukamaeta (COMIC Kairakuten 2022-11) [Chinese] [鬼畜王汉化组] [Digital]":[
-        "language:translated",
         "male:sole male",
         "male:virginity",
         "female:domination loss",
@@ -3135,15 +3127,13 @@
         "female:tomboy"
     ],
     "[Nikuhou Maranoshin] Natsukun Daisuki Zenhen+Kouhen [Chinese] [鬼畜王汉化组] [Digital]":[
-        "language:translated",
         "male:big penis",
         "male:sole male",
         "female:pixie cut",
         "female:shimaidon",
         "female:small breasts",
         "female:tomboy",
-        "female:twins",
-        "mixed:group"
+        "female:twins"
     ],
     "[No Future] Tokumei Shoujo Aigis Pink":[
         "female:bodysuit",
@@ -4668,9 +4658,7 @@
         "female:sole female",
         "female:very long hair"
     ],
-    "[pixiv FANBOX] Baakurou / ばーくろー":[
-        "parody:atelier sophie"
-    ],
+    "[pixiv FANBOX] Baakurou / ばーくろー":[],
     "[pixiv]YiMa MianTang(20236223)":[
         "female:chinese dress",
         "female:furry",
