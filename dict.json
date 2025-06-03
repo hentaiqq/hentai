@@ -5067,7 +5067,6 @@
     },
     {
         "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 3 [Chinese] [Digital] [OCR+AI翻译]":[
-            "artist:tukigi kousuke",
             "male:gender change",
             "male:gender morph",
             "male:sole male",
@@ -5900,5 +5899,28 @@
     },
     {
         "野九bbbs":[]
+    },
+    {
+        "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 3 [Chinese] [Strelka個犬漢化] [Incomplete]":[
+            "language:translated",
+            "artist:tukigi kousuke",
+            "male:gender change",
+            "female:lolicon",
+            "female:sister",
+            "mixed:inseki"
+        ]
+    },
+    {
+        "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 2 [Chinese] [OCR+AI翻译]":[
+            "language:translated",
+            "artist:tukigi kousuke",
+            "male:gender change",
+            "male:gender morph",
+            "male:sole male",
+            "female:lolicon",
+            "female:ponytail",
+            "female:sister",
+            "mixed:inseki"
+        ]
     }
 ]
