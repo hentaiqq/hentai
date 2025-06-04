@@ -5057,6 +5057,17 @@
         ]
     },
     {
+        "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 2 [Chinese] [OCR+AI翻译]":[
+            "artist:tukigi kousuke",
+            "male:gender change",
+            "male:gender morph",
+            "male:sole male",
+            "female:lolicon",
+            "female:ponytail",
+            "female:sister"
+        ]
+    },
+    {
         "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 3":[
             "male:gender change",
             "male:sole male",
@@ -5073,6 +5084,14 @@
             "female:lolicon",
             "female:sister",
             "female:sole female"
+        ]
+    },
+    {
+        "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 3 [Chinese] [Strelka個犬漢化] [Incomplete]":[
+            "artist:tukigi kousuke",
+            "male:gender change",
+            "female:lolicon",
+            "female:sister"
         ]
     },
     {
@@ -5901,26 +5920,12 @@
         "野九bbbs":[]
     },
     {
-        "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 3 [Chinese] [Strelka個犬漢化] [Incomplete]":[
+        "[Rimu-chan Chi (Rimukoro)] Gehenna Mofumofu Daikessen | 格黑娜毛茸茸大决战 (Blue Archive) [Chinese] [Digital]":[
             "language:translated",
-            "artist:tukigi kousuke",
-            "male:gender change",
-            "female:lolicon",
-            "female:sister",
-            "mixed:inseki"
-        ]
-    },
-    {
-        "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 2 [Chinese] [OCR+AI翻译]":[
-            "language:translated",
-            "artist:tukigi kousuke",
-            "male:gender change",
-            "male:gender morph",
-            "male:sole male",
-            "female:lolicon",
-            "female:ponytail",
-            "female:sister",
-            "mixed:inseki"
+            "character:hina sorasaki",
+            "character:sensei",
+            "group:rimu-chan chi",
+            "female:swimsuit"
         ]
     }
 ]

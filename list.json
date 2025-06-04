@@ -3601,6 +3601,13 @@
     "[Poyeop] HK416 (Girls' Frontline) [Chinese] [大受气包烤RO组汉化]":[
         "female:big breasts"
     ],
+    "[Rimu-chan Chi (Rimukoro)] Gehenna Mofumofu Daikessen | 格黑娜毛茸茸大决战 (Blue Archive) [Chinese] [Digital]":[
+        "language:translated",
+        "character:hina sorasaki",
+        "character:sensei",
+        "group:rimu-chan chi",
+        "female:swimsuit"
+    ],
     "[Roirasu]  Pixiv (Ai Generated)":[
         "female:lolicon"
     ],
@@ -4363,15 +4370,13 @@
         "female:sister"
     ],
     "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 2 [Chinese] [OCR+AI翻译]":[
-        "language:translated",
         "artist:tukigi kousuke",
         "male:gender change",
         "male:gender morph",
         "male:sole male",
         "female:lolicon",
         "female:ponytail",
-        "female:sister",
-        "mixed:inseki"
+        "female:sister"
     ],
     "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 3":[
         "male:gender change",
@@ -4389,12 +4394,10 @@
         "female:sole female"
     ],
     "[Tsukigi Kousuke] Aniki no Kanojo ni Naru, Onnanoko ni Nacchatta Otouto 3 [Chinese] [Strelka個犬漢化] [Incomplete]":[
-        "language:translated",
         "artist:tukigi kousuke",
         "male:gender change",
         "female:lolicon",
-        "female:sister",
-        "mixed:inseki"
+        "female:sister"
     ],
     "[Tsukigi Kousuke] Saishuuteki ni TS Otouto to Love Hotel ni Iku Hanashi [Chinese] [角都九阳个人汉化]":[
         "male:condom",
