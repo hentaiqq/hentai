@@ -2670,7 +2670,6 @@
     },
     {
         "[KRS] Shikikan no Tame ni Naisho de AV ni Shutsuen suru RO to Honnin to wa Kizukazu ni Sono AV o Mitsuzukeru Shikikan (Girls' Frontline) [Chinese] [大受气包烤RO组汉化]":[
-            "artist:krs",
             "male:dark skin",
             "female:big breasts",
             "female:handjob",
@@ -3337,6 +3336,19 @@
             "female:monster girl",
             "female:pregnant",
             "female:sole female"
+        ]
+    },
+    {
+        "[Meifu Madou (Ogami Kazuki)] Joshu-kun ni Sukareteru to wa Mijin mo Omotteinai Ningyou no Majo Sensei [Chinese]":[
+            "group:meifu madou",
+            "male:sole male",
+            "female:albino",
+            "female:doll joints",
+            "female:glasses",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:sole female",
+            "female:very long hair"
         ]
     },
     {
@@ -6236,15 +6248,144 @@
         "野九bbbs":[]
     },
     {
-        "[Meifu Madou (Ogami Kazuki)] Joshu-kun ni Sukareteru to wa Mijin mo Omotteinai Ningyou no Majo Sensei [Chinese]":[
+        "(C105) [Come Through (Adumi Kazuki)] Sensei, Ibuki ni Amaete Ii yo | 老师、可以向伊吹尽情撒娇哟♥ (Blue Archive) [Chinese]":[
             "language:translated",
-            "group:meifu madou",
+            "character:ibuki tanga",
+            "group:come through",
             "male:sole male",
-            "female:albino",
-            "female:doll joints",
-            "female:glasses",
+            "female:halo",
+            "female:horns",
             "female:lolicon",
-            "female:nakadashi",
+            "female:sole female",
+            "female:twintails"
+        ]
+    },
+    {
+        "[Toranoe no Makimono (Toranoe)] Weiß Schwarz | 黑白双翼 (PriPara) [Chinese] [种付大叔个人汉化] [Digital]":[
+            "language:translated",
+            "character:aroma kurosu",
+            "group:toranoe no makimono",
+            "male:dark skin",
+            "male:sole male",
+            "female:detached sleeves",
+            "female:leotard",
+            "female:lolicon",
+            "female:ponytail",
+            "female:stockings",
+            "mixed:group",
+            "other:rough translation"
+        ]
+    },
+    {
+        "无糖红茶附赠本 [种植园汉化]":[
+            "language:translated",
+            "artist:mutou koucha",
+            "female:maid",
+            "female:stockings"
+        ]
+    },
+    {
+        "[GOT (Various)] Kuro Bunny Club [Digital]":[
+            "artist:akino ell",
+            "artist:danimaru",
+            "artist:fuumi",
+            "artist:harimoji",
+            "artist:kaoming",
+            "artist:kimishima ao",
+            "artist:marumoru",
+            "artist:monaka curl",
+            "artist:naenae",
+            "artist:piyopoyo",
+            "artist:rosuuri",
+            "artist:suihei sen",
+            "artist:teddy",
+            "artist:yom",
+            "female:bunny girl",
+            "female:collar",
+            "female:high heels",
+            "female:kemonomimi",
+            "other:full color"
+        ]
+    },
+    {
+        "[Danimaru] Machikirenai Kouhai Kanojo Tsujinaka-Chan (COMIC Anthurium 2022-02) [Chinese] [两面包夹汉化组] [Digital]":[
+            "language:translated",
+            "male:sole male",
+            "female:blowjob",
+            "female:masturbation",
+            "female:sole female"
+        ]
+    },
+    {
+        "[Danimaru] Kouhai Kanojo Tsujinaka-chan no Oshioki (COMIC Anthurium 2021-11) [Chinese] [两面包夹汉化组] [Digital]":[
+            "language:translated",
+            "male:sole male",
+            "female:handjob",
+            "female:pantyhose",
+            "female:sockjob",
+            "female:sole female"
+        ]
+    },
+    {
+        "[Danimaru] Futagomori (COMIC Anthurium 2021-08) [Chinese] [两面包夹汉化组] [Digital]":[
+            "language:translated",
+            "male:bondage",
+            "male:sole male",
+            "female:beauty mark",
+            "female:femdom",
+            "female:schoolgirl uniform",
+            "female:shimaidon",
+            "female:stockings",
+            "female:twins",
+            "mixed:group"
+        ]
+    },
+    {
+        "[Danimaru] Kono Koi ni Kiduite (COMIC Anthurium 2021-05) [Chinese] [不够色汉化组] [Digital]":[
+            "language:translated",
+            "male:drunk",
+            "male:sole male",
+            "female:femdom",
+            "female:sole female"
+        ]
+    },
+    {
+        "[Danimaru] Himitsu no Haishin (COMIC HOTMILK 2021-03) [Chinese] [不够色汉化组] [Digital]":[
+            "language:translated",
+            "male:sole male",
+            "female:filming",
+            "female:hairy",
+            "female:pantyhose",
+            "female:schoolgirl uniform",
+            "female:sole female"
+        ]
+    },
+    {
+        "[Danimaru] Wanko na Kanojo | 小狗女友 (COMIC Anthurium 2020-12) [Chinese] [暴碧汉化组] [Digital]":[
+            "language:translated",
+            "male:sole male",
+            "female:anal",
+            "female:blowjob",
+            "female:collar",
+            "female:dog girl",
+            "female:kemonomimi",
+            "female:leash",
+            "female:petplay",
+            "female:sex toys",
+            "female:sole female",
+            "female:stockings",
+            "female:sweating",
+            "female:tail plug"
+        ]
+    },
+    {
+        "[Danimaru] Chikakute Tooi Anata (COMIC Anthurium 2020-06) [Chinese] [无毒汉化组x無邪気漢化組] [Digital]":[
+            "language:translated",
+            "male:business suit",
+            "male:butler",
+            "male:sole male",
+            "female:defloration",
+            "female:hairy",
             "female:sole female",
             "female:very long hair"
         ]
