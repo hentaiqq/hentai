@@ -369,9 +369,7 @@
         "female:tail"
     ],
     "(C105) [Come Through (Adumi Kazuki)] Sensei, Ibuki ni Amaete Ii yo | 老师、可以向伊吹尽情撒娇哟♥ (Blue Archive) [Chinese]":[
-        "language:translated",
         "character:ibuki tanga",
-        "group:come through",
         "male:sole male",
         "female:halo",
         "female:horns",
@@ -1203,7 +1201,6 @@
         "female:sole female"
     ],
     "[Danimaru] Chikakute Tooi Anata (COMIC Anthurium 2020-06) [Chinese] [无毒汉化组x無邪気漢化組] [Digital]":[
-        "language:translated",
         "male:business suit",
         "male:butler",
         "male:sole male",
@@ -1213,7 +1210,6 @@
         "female:very long hair"
     ],
     "[Danimaru] Futagomori (COMIC Anthurium 2021-08) [Chinese] [两面包夹汉化组] [Digital]":[
-        "language:translated",
         "male:bondage",
         "male:sole male",
         "female:beauty mark",
@@ -1221,11 +1217,9 @@
         "female:schoolgirl uniform",
         "female:shimaidon",
         "female:stockings",
-        "female:twins",
-        "mixed:group"
+        "female:twins"
     ],
     "[Danimaru] Himitsu no Haishin (COMIC HOTMILK 2021-03) [Chinese] [不够色汉化组] [Digital]":[
-        "language:translated",
         "male:sole male",
         "female:filming",
         "female:hairy",
@@ -1234,14 +1228,12 @@
         "female:sole female"
     ],
     "[Danimaru] Kono Koi ni Kiduite (COMIC Anthurium 2021-05) [Chinese] [不够色汉化组] [Digital]":[
-        "language:translated",
         "male:drunk",
         "male:sole male",
         "female:femdom",
         "female:sole female"
     ],
     "[Danimaru] Kouhai Kanojo Tsujinaka-chan no Oshioki (COMIC Anthurium 2021-11) [Chinese] [两面包夹汉化组] [Digital]":[
-        "language:translated",
         "male:sole male",
         "female:handjob",
         "female:pantyhose",
@@ -1249,7 +1241,6 @@
         "female:sole female"
     ],
     "[Danimaru] Machikirenai Kouhai Kanojo Tsujinaka-Chan (COMIC Anthurium 2022-02) [Chinese] [两面包夹汉化组] [Digital]":[
-        "language:translated",
         "male:sole male",
         "female:blowjob",
         "female:masturbation",
@@ -1276,7 +1267,6 @@
         "female:sole female"
     ],
     "[Danimaru] Wanko na Kanojo | 小狗女友 (COMIC Anthurium 2020-12) [Chinese] [暴碧汉化组] [Digital]":[
-        "language:translated",
         "male:sole male",
         "female:anal",
         "female:blowjob",
@@ -1679,25 +1669,17 @@
         "female:stockings"
     ],
     "[GOT (Various)] Kuro Bunny Club [Digital]":[
-        "artist:akino ell",
         "artist:danimaru",
-        "artist:fuumi",
         "artist:harimoji",
-        "artist:kaoming",
         "artist:kimishima ao",
-        "artist:marumoru",
         "artist:monaka curl",
-        "artist:naenae",
         "artist:piyopoyo",
-        "artist:rosuuri",
         "artist:suihei sen",
-        "artist:teddy",
         "artist:yom",
         "female:bunny girl",
         "female:collar",
         "female:high heels",
-        "female:kemonomimi",
-        "other:full color"
+        "female:kemonomimi"
     ],
     "[GRINP (Neko Toufu)] Onimai hukudokuhon Mihari no Kenkyuushitsu | 別酱了副讀本 美波里在實驗室 [Chinese] [闇夜黑猫] [Digital]":[],
     "[GSUS] Kita's Xmas dating⭐ (Bocchi the Rock!) [Chinese]":[],
@@ -2974,7 +2956,6 @@
         "female:sole female"
     ],
     "[Meifu Madou (Ogami Kazuki)] Joshu-kun ni Sukareteru to wa Mijin mo Omotteinai Ningyou no Majo Sensei [Chinese]":[
-        "group:meifu madou",
         "male:sole male",
         "female:albino",
         "female:doll joints",
@@ -4628,9 +4609,7 @@
         "female:stockings"
     ],
     "[Toranoe no Makimono (Toranoe)] Weiß Schwarz | 黑白双翼 (PriPara) [Chinese] [种付大叔个人汉化] [Digital]":[
-        "language:translated",
         "character:aroma kurosu",
-        "group:toranoe no makimono",
         "male:dark skin",
         "male:sole male",
         "female:detached sleeves",
@@ -4638,7 +4617,6 @@
         "female:lolicon",
         "female:ponytail",
         "female:stockings",
-        "mixed:group",
         "other:rough translation"
     ],
     "[Torotarou] Shoujo Fondue - Sweet Girls Sex Diary | 少女性愛日記 [Chinese] [uncensored] [Digital]":[
@@ -5492,7 +5470,6 @@
         "female:kemonomimi"
     ],
     "无糖红茶附赠本 [种植园汉化]":[
-        "language:translated",
         "artist:mutou koucha",
         "female:maid",
         "female:stockings"
