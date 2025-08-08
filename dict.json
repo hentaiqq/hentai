@@ -442,7 +442,6 @@
     },
     {
         "(C105) [Come Through (Adumi Kazuki)] Sensei, Ibuki ni Amaete Ii yo | 老师、可以向伊吹尽情撒娇哟♥ (Blue Archive) [Chinese]":[
-            "character:ibuki tanga",
             "male:sole male",
             "female:halo",
             "female:horns",
@@ -1966,13 +1965,9 @@
     },
     {
         "[GOT (Various)] Kuro Bunny Club [Digital]":[
-            "artist:danimaru",
             "artist:harimoji",
-            "artist:kimishima ao",
             "artist:monaka curl",
-            "artist:piyopoyo",
             "artist:suihei sen",
-            "artist:yom",
             "female:bunny girl",
             "female:collar",
             "female:high heels",
@@ -5346,15 +5341,13 @@
     },
     {
         "[Toranoe no Makimono (Toranoe)] Weiß Schwarz | 黑白双翼 (PriPara) [Chinese] [种付大叔个人汉化] [Digital]":[
-            "character:aroma kurosu",
             "male:dark skin",
             "male:sole male",
             "female:detached sleeves",
             "female:leotard",
             "female:lolicon",
             "female:ponytail",
-            "female:stockings",
-            "other:rough translation"
+            "female:stockings"
         ]
     },
     {
@@ -6359,12 +6352,27 @@
     },
     {
         "无糖红茶附赠本 [种植园汉化]":[
-            "artist:mutou koucha",
             "female:maid",
             "female:stockings"
         ]
     },
     {
         "野九bbbs":[]
+    },
+    {
+        "[BINZOKO (Shinobiin)] Neko Sakaru Shuumatsu - Neko sakaru weekend | 猫猫发情周末 (Blue Archive) [Chinese] [才羽桃井汉化组] [Digital]":[
+            "language:translated",
+            "character:kazusa kyouyama",
+            "group:binzoko",
+            "male:sole male",
+            "female:anal",
+            "female:anal intercourse",
+            "female:catgirl",
+            "female:collar",
+            "female:halo",
+            "female:kemonomimi",
+            "female:nakadashi",
+            "female:sole female"
+        ]
     }
 ]
