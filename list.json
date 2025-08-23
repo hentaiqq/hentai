@@ -3126,6 +3126,15 @@
         "female:sole female",
         "female:twintails"
     ],
+    "(C92) [みずしらず (水科湊)] コントロールドロップアウト (ガヴリールドロップアウト) [中国翻訳]":[
+        "language:translated",
+        "character:gabriel tenma white",
+        "character:vignette tsukinose april",
+        "artist:mizushina minato",
+        "male:sole male",
+        "female:mind control",
+        "female:schoolgirl uniform"
+    ],
     "(C92) [ろ～たり～Engine (神無月元史)] サターニャVS触手風呂 (ガヴリールドロップアウト) [中国翻訳]":[
         "female:anal",
         "female:double penetration",
@@ -15931,9 +15940,7 @@
         "female:x-ray"
     ],
     "[Pixiv] gweda (111455072) 2025.08.20":[
-        "parody:genshin impact",
         "parody:lycoris recoil",
-        "character:castorice",
         "female:anal",
         "female:big ass",
         "female:big breasts",
@@ -18230,6 +18237,11 @@
     "[Poyeop] 神里绫华 (原神) [颠佬旅者汉化组]":[
         "female:beauty mark",
         "female:sole female"
+    ],
+    "[Poyeop] 胡桃 2 [颠佬旅者汉化组]":[
+        "language:translated",
+        "character:hu tao",
+        "female:impregnation"
     ],
     "[Poyeop] 芭芭拉援交 (原神) [颠佬旅者汉化组]":[
         "female:blowjob",
@@ -25992,7 +26004,6 @@
         "female:sister"
     ],
     "[さける豚 (朝倉拓3)] 強気な魔導少女と触手の檻ーダンジョンにて触手に墜つるー [中国翻訳]":[
-        "language:translated",
         "group:sakeru buta",
         "female:bondage",
         "female:sole female",
@@ -46236,6 +46247,19 @@
         "female:lolicon"
     ],
     "[秘密結社うさぎ (だんちょ)] かわいいけど性格悪いからイジメちゃお!❤ [中国翻訳] [DL版]":[
+        "male:dark skin",
+        "male:sole male",
+        "female:body writing",
+        "female:crying",
+        "female:filming",
+        "female:humiliation",
+        "female:lolicon",
+        "female:rape",
+        "female:sweating"
+    ],
+    "[秘密結社うさぎ (だんちょ)] かわいいけど性格悪いからイジメちゃお❤ [中国翻訳] [DL版]":[
+        "language:translated",
+        "group:himitsukessya usagi",
         "male:dark skin",
         "male:sole male",
         "female:body writing",
