@@ -247,6 +247,17 @@
         ]
     },
     {
+        "(C103) [Little Hamlet (Kiira)] Oniichan Hina to Isshoni Bikun Shiyo! [Chinese] [仰天大笑漢化組]":[
+            "group:little hamlet",
+            "male:sole male",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:sister",
+            "female:sole female",
+            "other:mosaic censorship"
+        ]
+    },
+    {
         "(C103) [Takeno no Nedoko (Takeno)] Bocchi to Band no Senpai | 波奇与乐队的前辈 (Bocchi the Rock!) [Chinese] [猫岛汉化组]":[
             "female:females only",
             "female:ponytail",
@@ -1124,6 +1135,19 @@
         ]
     },
     {
+        "[Aruma] Boku no Osananajimi wa Chiisai | 我的青梅竹马小小的 (Koakuma-tachi ga Yattekita!) [Chinese] [甜族星人X超勇漢化組]":[
+            "male:sole male",
+            "female:blowjob",
+            "female:eye-covering bang",
+            "female:hidden sex",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:schoolgirl uniform",
+            "female:sole female",
+            "female:stockings"
+        ]
+    },
+    {
         "[Asatsuki Dou (Youta)] Onii-chan Daisuki H Shiyo Full Color Manga Bangaihen 2 [Chinese] [不咕鸟汉化组] [Digital]":[
             "male:sole male",
             "female:cheerleader",
@@ -1372,6 +1396,15 @@
             "female:lolicon",
             "female:schoolgirl uniform",
             "female:sole female"
+        ]
+    },
+    {
+        "[Corundum] Osananajimi ni Muishiki ni Kokutte Shimatta node Awatete Gomakasu Hanashi | 在青梅竹马无意识告白后慌张地糊弄过去的故事 [Chinese]":[
+            "artist:corundum",
+            "male:sole male",
+            "female:small breasts",
+            "female:sole female",
+            "female:twintails"
         ]
     },
     {
@@ -3234,6 +3267,13 @@
         ]
     },
     {
+        "[Kyaradain] Kyou no Pantsu! (COMIC LO 2020-10) [Chinese] [Decensored] [Digital]":[
+            "female:lolicon",
+            "female:ponytail",
+            "female:sole female"
+        ]
+    },
+    {
         "[Kyaradain] Lonely Pink Hole (COMIC LO 2021-10) [Chinese] [一匙咖啡豆汉化组] [Decensored] [Digital]":[
             "male:condom",
             "male:shotacon",
@@ -4181,6 +4221,14 @@
             "female:twins",
             "female:twintails",
             "female:x-ray"
+        ]
+    },
+    {
+        "[Ominaeshi] Konna Osananajimi ga Ite hoshii | 想要这样的青梅竹马 [Chinese] [无糖·漫画组]":[
+            "artist:tachibana omina",
+            "female:pantyhose",
+            "female:schoolgirl uniform",
+            "female:swimsuit"
         ]
     },
     {
@@ -5318,6 +5366,16 @@
         ]
     },
     {
+        "[Tears 39 (Sorai Shinya)] ARIA [Chinese] [白杨汉化组] [Digital]":[
+            "group:tears39",
+            "male:sole male",
+            "female:beauty mark",
+            "female:sole female",
+            "female:stockings",
+            "female:twintails"
+        ]
+    },
+    {
         "[Tenkirin (Kanroame)] Icha Love Sex de 100 Kai Ikanai... | The Room You Can't Leave Unless Cum 100 Times...  [English] [The Unseelie Court] [Digital]":[
             "male:collar",
             "male:dark skin",
@@ -6430,68 +6488,29 @@
         "野九bbbs":[]
     },
     {
-        "(C103) [Little Hamlet (Kiira)] Oniichan Hina to Isshoni Bikun Shiyo! [Chinese] [仰天大笑漢化組]":[
-            "language:translated",
-            "group:little hamlet",
-            "male:sole male",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:sister",
-            "female:sole female",
-            "mixed:inseki",
-            "other:mosaic censorship"
-        ]
-    },
-    {
-        "[Kyaradain] Kyou no Pantsu! (COMIC LO 2020-10) [Chinese] [Decensored] [Digital]":[
-            "language:translated",
-            "female:lolicon",
-            "female:ponytail",
-            "female:sole female"
-        ]
-    },
-    {
-        "[Tears 39 (Sorai Shinya)] ARIA [Chinese] [白杨汉化组] [Digital]":[
-            "language:translated",
-            "group:tears39",
-            "male:sole male",
-            "female:beauty mark",
-            "female:sole female",
-            "female:stockings",
-            "female:twintails"
-        ]
-    },
-    {
-        "[Aruma] Boku no Osananajimi wa Chiisai | 我的青梅竹马小小的 (Koakuma-tachi ga Yattekita!) [Chinese] [甜族星人X超勇漢化組]":[
-            "language:translated",
-            "male:sole male",
-            "female:blowjob",
-            "female:eye-covering bang",
-            "female:hidden sex",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:schoolgirl uniform",
-            "female:sole female",
-            "female:stockings"
-        ]
-    },
-    {
-        "[Ominaeshi] Konna Osananajimi ga Ite hoshii | 想要这样的青梅竹马 [Chinese] [无糖·漫画组]":[
-            "language:translated",
-            "artist:tachibana omina",
+        "[Juanha] Let’s conquer monsters together 01～07 [Chinese]":[
+            "parody:original",
+            "male:goblin",
+            "male:orc",
+            "male:snuff",
+            "female:netorare",
             "female:pantyhose",
-            "female:schoolgirl uniform",
-            "female:swimsuit"
+            "female:rape",
+            "female:tights"
         ]
     },
     {
-        "[Corundum] Osananajimi ni Muishiki ni Kokutte Shimatta node Awatete Gomakasu Hanashi | 在青梅竹马无意识告白后慌张地糊弄过去的故事 [Chinese]":[
+        "[Gudl] My Friend's sister,Kirlia《我朋友的姐姐,奇鲁莉安》[Chinese]":[
             "language:translated",
-            "artist:corundum",
+            "character:kirlia",
+            "male:big penis",
+            "male:multiple orgasms",
             "male:sole male",
-            "female:small breasts",
+            "female:kissing",
+            "female:monster girl",
+            "female:multiple orgasms",
             "female:sole female",
-            "female:twintails"
+            "female:x-ray"
         ]
     }
 ]
