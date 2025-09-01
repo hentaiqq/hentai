@@ -205,13 +205,11 @@
         "female:x-ray"
     ],
     "(C103) [Little Hamlet (Kiira)] Oniichan Hina to Isshoni Bikun Shiyo! [Chinese] [仰天大笑漢化組]":[
-        "group:little hamlet",
         "male:sole male",
         "female:lolicon",
         "female:nakadashi",
         "female:sister",
-        "female:sole female",
-        "other:mosaic censorship"
+        "female:sole female"
     ],
     "(C103) [Takeno no Nedoko (Takeno)] Bocchi to Band no Senpai | 波奇与乐队的前辈 (Bocchi the Rock!) [Chinese] [猫岛汉化组]":[
         "female:females only",
@@ -1179,7 +1177,6 @@
         "female:sole female"
     ],
     "[Corundum] Osananajimi ni Muishiki ni Kokutte Shimatta node Awatete Gomakasu Hanashi | 在青梅竹马无意识告白后慌张地糊弄过去的故事 [Chinese]":[
-        "artist:corundum",
         "male:sole male",
         "female:small breasts",
         "female:sole female",
@@ -1838,7 +1835,6 @@
         "female:tomboy"
     ],
     "[Gudl] My Friend's sister,Kirlia《我朋友的姐姐,奇鲁莉安》[Chinese]":[
-        "language:translated",
         "character:kirlia",
         "male:big penis",
         "male:multiple orgasms",
@@ -2392,7 +2388,6 @@
         "female:sole female"
     ],
     "[Juanha] Let’s conquer monsters together 01～07 [Chinese]":[
-        "parody:original",
         "male:goblin",
         "male:orc",
         "male:snuff",
@@ -3650,7 +3645,6 @@
         "female:x-ray"
     ],
     "[Ominaeshi] Konna Osananajimi ga Ite hoshii | 想要这样的青梅竹马 [Chinese] [无糖·漫画组]":[
-        "artist:tachibana omina",
         "female:pantyhose",
         "female:schoolgirl uniform",
         "female:swimsuit"
@@ -4640,7 +4634,6 @@
         "female:twintails"
     ],
     "[Tears 39 (Sorai Shinya)] ARIA [Chinese] [白杨汉化组] [Digital]":[
-        "group:tears39",
         "male:sole male",
         "female:beauty mark",
         "female:sole female",
