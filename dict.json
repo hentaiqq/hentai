@@ -2559,7 +2559,6 @@
     },
     {
         "[Hyoco Road (Hyocorou)] Seiso x Hanten ~Onna Tomodachi ga Succubus ga Karada ni Nottorarete Mainichi Seiryoku Kyoukyuu saserareru Hanashi~ | 清纯×反转 ~关于女性朋友被魅魔附身后我只能每天供奉精力这件事~ [Chinese] [柚香農業]":[
-            "group:hyoco road",
             "male:glasses",
             "male:sole male",
             "female:big breasts",
@@ -6599,5 +6598,34 @@
     },
     {
         "野九bbbs":[]
+    },
+    {
+        "[Kageusu Gokuto] Ilulu Icha Love Nakadashi Jusei Koubi (Kobayashi-san-chi no Maid Dragon)":[
+            "character:ilulu",
+            "artist:kageusu gokuto",
+            "male:first person perspective",
+            "male:sole male",
+            "female:big breasts",
+            "female:horns",
+            "female:impregnation",
+            "female:nakadashi",
+            "female:sole female",
+            "female:stockings",
+            "female:swimsuit",
+            "female:twintails",
+            "other:variant set"
+        ]
+    },
+    {
+        "[Mizone] Bakemono Ecchi [Chinese] [lolipoi汉化组] [Decensored] [Digital]":[
+            "language:translated",
+            "female:big breasts",
+            "female:dark skin",
+            "female:horns",
+            "female:monster girl",
+            "female:oni",
+            "female:plant girl",
+            "other:tankoubon"
+        ]
     }
 ]
