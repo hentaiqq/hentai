@@ -22,6 +22,24 @@
         "female:tanlines",
         "female:twintails"
     ],
+    "(Akihabara Chou Doujinsai) [OrangeMaru (YD)] Zettai Mash Sensen (Fate/Grand Order) [Chinese] [不咕鸟汉化组] [Decensored]":[
+        "language:translated",
+        "character:gilgamesh",
+        "group:orangemaru",
+        "male:sole male",
+        "female:bondage",
+        "female:defloration",
+        "female:eye-covering bang",
+        "female:gloves",
+        "female:leotard",
+        "female:mind break",
+        "female:mouth mask",
+        "female:netorare",
+        "female:rape",
+        "female:stirrup legwear",
+        "female:stockings",
+        "other:uncensored"
+    ],
     "(Bocchi the Book! #2) [Takeno no Nedoko (Takeno)] Nijika to Alcohol | 虹夏与酒精 (Bocchi the Rock!) [Chinese] [猫岛汉化组]":[
         "female:females only"
     ],
@@ -161,6 +179,16 @@
         "female:swimsuit",
         "female:urination",
         "female:very long hair"
+    ],
+    "(C102) [OrangeMaru (YD)] Murasaki no Yume 3 (THE iDOLM@STER: Shiny Colors) [Chinese] [绅士仓库汉化] [Decensored]":[
+        "language:translated",
+        "character:madoka higuchi",
+        "group:orangemaru",
+        "female:beauty mark",
+        "female:double penetration",
+        "female:pantyhose",
+        "mixed:mmf threesome",
+        "other:uncensored"
     ],
     "(C102) [Turuturuodeco (Deco)] Momoyodou wa Ecchi na Omise ja Arimasen! (Blue Archive) [Chinese] [白杨汉化组]":[
         "male:sole male",
@@ -489,6 +517,20 @@
         "female:schoolgirl uniform",
         "female:sole female"
     ],
+    "(C96) [OrangeMaru (YD)] Chaldea Maid #Mash (Fate/Grand Order) [Chinese] [空気系☆漢化] [Decensored]":[
+        "language:translated",
+        "character:gudao",
+        "group:orangemaru",
+        "male:sole male",
+        "female:blowjob",
+        "female:eye-covering bang",
+        "female:gloves",
+        "female:maid",
+        "female:nakadashi",
+        "female:sole female",
+        "female:stockings",
+        "other:uncensored"
+    ],
     "(C96) [Tamakakeya (Tamakake)] JC x Kinbaku x Omocha [Chinese] [绅士仓库汉化]":[
         "male:sole male",
         "female:anal",
@@ -499,6 +541,22 @@
         "female:sex toys",
         "female:shibari",
         "female:sole female"
+    ],
+    "(C97) [OrangeMaru (YD)] Mogurikomi (Fate/Grand Order)  [Chinese] [寂月汉化组]":[
+        "language:translated",
+        "character:gudao",
+        "character:scathach skadi",
+        "artist:yd",
+        "male:clothed female nude male",
+        "male:sole male",
+        "female:anal",
+        "female:bodystocking",
+        "female:bodysuit",
+        "female:mouth mask",
+        "female:pantyhose",
+        "female:tiara",
+        "female:unusual pupils",
+        "female:very long hair"
     ],
     "(C99) [Miyazen] Lavenza to, Tokubetsu na Kankei ni Natta... (Persona 5) [Chinese] [Lolipoi汉化组]":[
         "male:sole male",
@@ -511,6 +569,15 @@
         "female:lolicon",
         "female:twins",
         "female:very long hair"
+    ],
+    "(C99) [OrangeMaru (YD)] Mousou Diary - Fantasy Diary (THE iDOLM@STER: Shiny Colors) [Chinese] [無邪気漢化組]":[
+        "language:translated",
+        "character:madoka higuchi",
+        "group:orangemaru",
+        "male:sole male",
+        "female:beauty mark",
+        "female:schoolgirl uniform",
+        "female:sole female"
     ],
     "(C99) [Tottoko Starou (Mda Starou)] Tokuiten LR (Fate/Grand Order) [Chinese] [左手伐柱右手做本漢化]":[
         "male:collar",
@@ -535,6 +602,36 @@
         "female:lolicon",
         "female:sole female",
         "female:twintails"
+    ],
+    "(COMIC1☆15) [OrangeMaru (YD)] Hidden Quest + OrangeMaru Special 08 (Fate/Grand Order) [chinese][洨五組]":[
+        "language:translated",
+        "character:gudao",
+        "group:orangemaru",
+        "male:sole male",
+        "female:bunny girl",
+        "female:high heels",
+        "female:hotpants",
+        "female:leotard",
+        "female:pantyhose",
+        "female:ponytail",
+        "female:small breasts",
+        "female:sole female",
+        "female:stockings",
+        "female:tomboy"
+    ],
+    "(COMIC1☆17) [OrangeMaru (YD)] Nightmare (Fate/Grand Order) [Chinese] [黎欧x新桥月白日语社]":[
+        "language:translated",
+        "character:gudao",
+        "character:tomoe gozen",
+        "artist:yd",
+        "male:dark skin",
+        "male:muscle",
+        "male:sole male",
+        "female:bodystocking",
+        "female:ponytail",
+        "female:rape",
+        "female:swimsuit",
+        "other:full color"
     ],
     "(COMIC1☆24) [Muraimura] Mahiro-chan ga Kivotos de Arona-chan to Ecchi Suru Hon (Blue Archive, Onii-chan wa Oshimai!) [Chinese] [白杨汉化组]":[
         "male:gender change",
@@ -5081,9 +5178,7 @@
         "female:twintails"
     ],
     "[Xration (mil)] bou 12 (Various) [Chinese] [闲得无聊汉化] [Digital]":[
-        "language:translated",
         "parody:puella magi madoka magica side story magia record",
-        "artist:mil",
         "male:bbm",
         "female:defloration",
         "female:emotionless sex",
@@ -5092,8 +5187,7 @@
         "female:mind control",
         "female:pregnant",
         "female:rape",
-        "female:vaginal birth",
-        "other:full censorship"
+        "female:vaginal birth"
     ],
     "[Xration (mil)] bou 14 (Various) [Chinese] [Digital]":[
         "male:gang rape",
@@ -5775,6 +5869,14 @@
     "总想和我处对象的犬系青梅竹马漫画_八木户マト - 看漫画":[
         "female:dog girl",
         "female:kemonomimi"
+    ],
+    "折口ヒラタ イラスト（ぼっち・ざ・ぶっく）【透明声彩汉化组】":[
+        "language:translated",
+        "character:hitori gotou",
+        "artist:orikuchi hirata",
+        "female:females only",
+        "female:ponytail",
+        "female:very long hair"
     ],
     "无糖红茶附赠本 [种植园汉化]":[
         "female:maid",
