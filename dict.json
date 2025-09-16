@@ -26,7 +26,6 @@
     },
     {
         "(Akihabara Chou Doujinsai) [OrangeMaru (YD)] Zettai Mash Sensen (Fate/Grand Order) [Chinese] [不咕鸟汉化组] [Decensored]":[
-            "character:gilgamesh",
             "male:sole male",
             "female:bondage",
             "female:defloration",
@@ -213,11 +212,9 @@
     },
     {
         "(C102) [OrangeMaru (YD)] Murasaki no Yume 3 (THE iDOLM@STER: Shiny Colors) [Chinese] [绅士仓库汉化] [Decensored]":[
-            "character:madoka higuchi",
             "female:beauty mark",
             "female:double penetration",
-            "female:pantyhose",
-            "other:uncensored"
+            "female:pantyhose"
         ]
     },
     {
@@ -613,7 +610,6 @@
     },
     {
         "(C96) [OrangeMaru (YD)] Chaldea Maid #Mash (Fate/Grand Order) [Chinese] [空気系☆漢化] [Decensored]":[
-            "character:gudao",
             "male:sole male",
             "female:blowjob",
             "female:eye-covering bang",
@@ -639,7 +635,6 @@
     },
     {
         "(C97) [OrangeMaru (YD)] Mogurikomi (Fate/Grand Order)  [Chinese] [寂月汉化组]":[
-            "character:gudao",
             "artist:yd",
             "male:clothed female nude male",
             "male:sole male",
@@ -669,7 +664,6 @@
     },
     {
         "(C99) [OrangeMaru (YD)] Mousou Diary - Fantasy Diary (THE iDOLM@STER: Shiny Colors) [Chinese] [無邪気漢化組]":[
-            "character:madoka higuchi",
             "male:sole male",
             "female:beauty mark",
             "female:schoolgirl uniform",
@@ -706,7 +700,6 @@
     },
     {
         "(COMIC1☆15) [OrangeMaru (YD)] Hidden Quest + OrangeMaru Special 08 (Fate/Grand Order) [chinese][洨五組]":[
-            "character:gudao",
             "male:sole male",
             "female:bunny girl",
             "female:high heels",
@@ -722,7 +715,6 @@
     },
     {
         "(COMIC1☆17) [OrangeMaru (YD)] Nightmare (Fate/Grand Order) [Chinese] [黎欧x新桥月白日语社]":[
-            "character:gudao",
             "artist:yd",
             "male:dark skin",
             "male:muscle",
@@ -6813,7 +6805,6 @@
     },
     {
         "折口ヒラタ イラスト（ぼっち・ざ・ぶっく）【透明声彩汉化组】":[
-            "character:hitori gotou",
             "female:females only",
             "female:ponytail",
             "female:very long hair"
