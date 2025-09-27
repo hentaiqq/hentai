@@ -253,7 +253,6 @@
     },
     {
         "(C103) [DA HOOTCH (ShindoL)] Onna Yuusha no Tabi 6 Abarezaru Rangi (Dragon Quest III) [Chinese] [路过的骑士汉化组]":[
-            "character:cleric",
             "group:da hootch",
             "male:monster",
             "female:bestiality",
@@ -542,7 +541,6 @@
     },
     {
         "(C85) [DA HOOTCH (Shindo L)] PIG (The Legend Of Zelda) [Chinese] [新桥月白日语社]":[
-            "character:link",
             "male:gender change",
             "male:monster",
             "male:pig man",
@@ -2581,7 +2579,6 @@
     },
     {
         "[HUQU] hk416 NTR series":[
-            "artist:huqu",
             "male:dark skin",
             "female:netorare",
             "female:pregnant",
@@ -5493,7 +5490,6 @@
     },
     {
         "[Shiitake Nouen (Kanabun)] Hajimete no (Motto) Arbeit | 人生首次的(更多)兼职 [Chinese] [感受棱镜个人汉化] [Decensored]":[
-            "group:shiitake nouen",
             "male:dilf",
             "male:facial hair",
             "male:harem",
@@ -5509,8 +5505,7 @@
             "female:tanlines",
             "female:tomboy",
             "female:twintails",
-            "female:x-ray",
-            "other:uncensored"
+            "female:x-ray"
         ]
     },
     {
@@ -7166,8 +7161,7 @@
             "female:vaginal birth",
             "female:very long hair",
             "female:vore",
-            "female:zombie",
-            "other:pixel art"
+            "female:zombie"
         ]
     },
     {
