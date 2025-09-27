@@ -15260,7 +15260,6 @@
     },
     {
         "[French letter (藤崎ひかり)] アイドル神絵師Vtuberのエロ裏垢活動 (しぐれうい) [中国翻訳] [DL版]":[
-            "group:french letter",
             "male:condom",
             "male:sole male",
             "female:blowjob",
@@ -15740,6 +15739,15 @@
             "female:nakadashi",
             "female:sole female",
             "female:tentacles",
+            "female:twintails"
+        ]
+    },
+    {
+        "[Horizontal World (またのんき▼)] 悠久・ももかよいつま (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
+            "character:momoka sakurai",
+            "male:sole male",
+            "female:lolicon",
+            "female:sole female",
             "female:twintails"
         ]
     },
@@ -48054,7 +48062,6 @@
     },
     {
         "[加瀬大輝] 10歳年下のいとこちゃん m1-m48 [Uncenseored] [中国翻訳]":[
-            "artist:kase daiki",
             "male:first person perspective",
             "male:sole male",
             "male:teacher",
@@ -48090,8 +48097,7 @@
             "female:tanlines",
             "female:unusual pupils",
             "female:wet clothes",
-            "female:yuri",
-            "other:uncensored"
+            "female:yuri"
         ]
     },
     {
@@ -60896,14 +60902,134 @@
         ]
     },
     {
-        "[Horizontal World (またのんき▼)] 悠久・ももかよいつま (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]":[
+        "(C106) [阿修羅堂 (阿修羅クモ)] 生えちゃった高松さん (BanG Dream! It's MyGO!!!!!) [中国翻訳]":[
             "language:translated",
-            "character:momoka sakurai",
-            "artist:kinnotama",
-            "male:sole male",
+            "character:anon chihaya",
+            "group:ashuradou",
+            "female:dickgirl on female",
+            "female:futanari",
+            "female:kissing",
+            "female:nakadashi",
+            "female:schoolgirl uniform"
+        ]
+    },
+    {
+        "[Hamao] わたあめとカラメル [中国翻訳] [無修正] [DL版]":[
+            "language:translated",
+            "male:shotacon",
+            "male:voyeurism",
+            "female:big breasts",
+            "female:bondage",
+            "female:defloration",
+            "female:filming",
+            "female:hairy",
             "female:lolicon",
-            "female:sole female",
-            "female:twintails"
+            "female:netorare",
+            "female:paizuri",
+            "female:piercing",
+            "female:twintails",
+            "other:uncensored"
+        ]
+    },
+    {
+        "[Pixiv] gweda (111455072) 2025.09.27":[
+            "parody:atelier ryza",
+            "parody:blue archive",
+            "parody:date a live",
+            "parody:genshin impact",
+            "parody:gotoubun no hanayome",
+            "parody:honkai star rail",
+            "parody:kanojo okarishimasu",
+            "parody:kono subarashii sekai ni syukufuku o",
+            "parody:pokemon",
+            "parody:sousou no frieren",
+            "parody:yu-gi-oh",
+            "character:aglaea",
+            "character:alice thymefield",
+            "character:arlecchino",
+            "character:augusta",
+            "character:barbara pegg",
+            "character:black swan",
+            "character:caesar king",
+            "character:cantarella",
+            "character:castorice",
+            "character:charlotte",
+            "character:chevreuse",
+            "character:cipher",
+            "character:clorinde",
+            "character:ellen joe",
+            "character:emilie",
+            "character:eula lawrence",
+            "character:faruzan",
+            "character:firefly",
+            "character:fleurdelys",
+            "character:fu xuan",
+            "character:himeko",
+            "character:hyacine",
+            "character:jinshi",
+            "character:kirara",
+            "character:lan yan",
+            "character:li sushang",
+            "character:luciana auxesis theodoro de montefio",
+            "character:lupa",
+            "character:megumin",
+            "character:mizuki yumemizuki",
+            "character:nilou",
+            "character:pekoras mother",
+            "character:phrolova",
+            "character:ronova",
+            "character:sara kujou",
+            "character:shenhe",
+            "character:silver wolf",
+            "character:sparkle",
+            "character:the herta",
+            "character:tingyun",
+            "character:varesa",
+            "character:xianyun",
+            "character:yanagi tsukishiro",
+            "character:yelan",
+            "character:yixuan",
+            "character:yun jin",
+            "character:yunli",
+            "character:zani",
+            "artist:putama",
+            "female:anal",
+            "female:big ass",
+            "female:big breasts",
+            "female:bikini",
+            "female:blowjob",
+            "female:bunny girl",
+            "female:catgirl",
+            "female:chinese dress",
+            "female:christmas",
+            "female:cosplaying",
+            "female:dark skin",
+            "female:demon girl",
+            "female:dog girl",
+            "female:elf",
+            "female:fox girl",
+            "female:glasses",
+            "female:hair buns",
+            "female:headphones",
+            "female:horns",
+            "female:kemonomimi",
+            "female:latex",
+            "female:mouth mask",
+            "female:nakadashi",
+            "female:nun",
+            "female:pantyhose",
+            "female:ponytail",
+            "female:school gym uniform",
+            "female:schoolgirl uniform",
+            "female:sex toys",
+            "female:stockings",
+            "female:sunglasses",
+            "female:swimsuit",
+            "female:tail",
+            "female:twintails",
+            "female:very long hair",
+            "female:wings",
+            "female:x-ray"
         ]
     }
 ]
