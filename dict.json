@@ -17110,6 +17110,17 @@
         ]
     },
     {
+        "[Myuchiron] 問題のあるお服 [中国翻訳] [無修正]":[
+            "group:myuchiron",
+            "male:sole male",
+            "female:bikini",
+            "female:blowjob",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:sole female"
+        ]
+    },
+    {
         "[MだSたろう] ロリサーヴァント裸並べ (Fate/Grand Order) [中国翻訳]":[
             "female:lolicon",
             "female:very long hair",
@@ -23009,6 +23020,21 @@
             "female:lolicon",
             "female:twintails",
             "female:very long hair"
+        ]
+    },
+    {
+        "[Story Circle (隣)] 義理の弟がTSしたのに距離感が変わらなくてヤバい!? [中国翻訳] [DL版]":[
+            "group:story circle",
+            "male:condom",
+            "male:gender change",
+            "male:sole male",
+            "female:blowjob",
+            "female:defloration",
+            "female:fingering",
+            "female:handjob",
+            "female:lolicon",
+            "female:sister",
+            "female:sole female"
         ]
     },
     {
@@ -60985,32 +61011,59 @@
         ]
     },
     {
-        "[Story Circle (隣)] 義理の弟がTSしたのに距離感が変わらなくてヤバい!? [中国翻訳] [DL版]":[
-            "language:translated",
-            "group:story circle",
-            "male:condom",
-            "male:gender change",
-            "male:sole male",
-            "female:blowjob",
-            "female:defloration",
-            "female:fingering",
-            "female:handjob",
-            "female:lolicon",
-            "female:sister",
-            "female:sole female",
-            "mixed:inseki"
-        ]
-    },
-    {
-        "[Myuchiron] 問題のあるお服 [中国翻訳] [無修正]":[
-            "language:translated",
-            "group:myuchiron",
-            "male:sole male",
+        "[Pixiv] gweda (111455072) 2025.10.01":[
+            "parody:atelier ryza",
+            "parody:blue archive",
+            "parody:date a live",
+            "parody:genshin impact",
+            "parody:gotoubun no hanayome",
+            "parody:honkai star rail",
+            "parody:kanojo okarishimasu",
+            "parody:lycoris recoil",
+            "parody:sono bisque doll wa koi o suru",
+            "parody:spy x family",
+            "character:alice",
+            "character:castorice",
+            "character:rapi",
+            "artist:gwegwe",
+            "artist:yuuka",
+            "female:anal",
+            "female:big ass",
+            "female:big breasts",
             "female:bikini",
             "female:blowjob",
-            "female:lolicon",
+            "female:bunny girl",
+            "female:catgirl",
+            "female:chinese dress",
+            "female:christmas",
+            "female:cosplaying",
+            "female:dark skin",
+            "female:demon girl",
+            "female:dog girl",
+            "female:elf",
+            "female:fox girl",
+            "female:glasses",
+            "female:hair buns",
+            "female:headphones",
+            "female:horns",
+            "female:kemonomimi",
+            "female:latex",
+            "female:mouth mask",
             "female:nakadashi",
-            "female:sole female"
+            "female:nun",
+            "female:pantyhose",
+            "female:ponytail",
+            "female:school gym uniform",
+            "female:schoolgirl uniform",
+            "female:sex toys",
+            "female:stockings",
+            "female:sunglasses",
+            "female:swimsuit",
+            "female:tail",
+            "female:twintails",
+            "female:very long hair",
+            "female:wings",
+            "female:x-ray"
         ]
     }
 ]
