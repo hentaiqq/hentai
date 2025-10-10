@@ -5813,7 +5813,6 @@
     ],
     "[hej] Nobido (Doraemon) [Chinese]":[],
     "[ie Kenkyuushitsu (ie)] Yuusha to Hime to Okaa-sama!?  [Chinese] [XLM个人汉化] [Decensored] [Digital]":[
-        "language:translated",
         "artist:ie",
         "male:sole male",
         "female:ahegao",
@@ -5825,8 +5824,7 @@
         "female:oyakodon",
         "female:ponytail",
         "female:sweating",
-        "female:widow",
-        "mixed:group"
+        "female:widow"
     ],
     "[kakao] Dokushin Hunter no Deai wa Elf no Mori de Ch. 1-5 [Chinese] [逃亡者×真不可视汉化组]":[
         "male:bbm",
