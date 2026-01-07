@@ -31558,6 +31558,18 @@
         ]
     },
     {
+        "[おとなごっこ委員会 (いちはや)] 妹の声がきこえる (僕らのCQC) [中国翻訳] [DL版]":[
+            "group:otonagokko iinkai",
+            "male:sole male",
+            "male:virginity",
+            "female:defloration",
+            "female:lolicon",
+            "female:rape",
+            "female:sister",
+            "female:sole female"
+        ]
+    },
+    {
         "[おとなごっこ委員会 (ぴよ寺むちゃ)] 隣のお姉ちゃんが僕の家庭教師になって少し経った頃の話 (僕らのCQC) [中国翻訳]":[
             "male:blindfold",
             "male:bondage",
@@ -31597,7 +31609,46 @@
         ]
     },
     {
+        "[おとなごっこ委員会 (よろず)] 僕らのCQC [中国翻訳]  [DL版]":[
+            "group:otonagokko iinkai",
+            "artist:ichihaya",
+            "male:blindfold",
+            "male:bondage",
+            "male:glasses",
+            "female:anal",
+            "female:blowjob",
+            "female:collar",
+            "female:defloration",
+            "female:demon girl",
+            "female:double penetration",
+            "female:femdom",
+            "female:gloves",
+            "female:horns",
+            "female:lolicon",
+            "female:oppai loli",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:sister",
+            "female:stockings",
+            "female:swimsuit",
+            "female:tail",
+            "female:twintails"
+        ]
+    },
+    {
         "[おとなごっこ委員会 (ホロナミン)] 彼女は夜に消える (僕らのCQC) [中国翻訳]":[
+            "female:anal",
+            "female:anal intercourse",
+            "female:double penetration",
+            "female:lolicon",
+            "female:rape",
+            "female:schoolgirl uniform",
+            "female:sole female"
+        ]
+    },
+    {
+        "[おとなごっこ委員会 (ホロナミン)] 彼女は夜に消える (僕らのCQC) [中国翻訳] [DL版]":[
+            "group:otonagokko iinkai",
             "female:anal",
             "female:anal intercourse",
             "female:double penetration",
@@ -39285,7 +39336,6 @@
     },
     {
         "[まんねんドコドコドンドドコ (とっととねろ太郎。)] きゅんきゅん♡はあとドロップ (キミとアイドルプリキュア♪) [中国翻訳] [DL版]":[
-            "character:cure kyun kyun",
             "male:bbm",
             "male:dark skin",
             "male:dilf",
@@ -52561,6 +52611,16 @@
         ]
     },
     {
+        "[姫野蜜柑]それゆけ千明ちゃん!! (COMIC LOE VOL.19 TS 2) [中国翻訳] [DL版]":[
+            "male:gender change",
+            "male:sole male",
+            "female:defloration",
+            "female:lolicon",
+            "female:nipple stimulation",
+            "female:sole female"
+        ]
+    },
+    {
         "[学食亭 (わたのん)] [ごちうさ] 猫こすチノにゃんと初めての交尾♡ [中国翻訳]":[
             "male:dilf",
             "male:sole male",
@@ -63924,72 +63984,104 @@
         ]
     },
     {
-        "[姫野蜜柑]それゆけ千明ちゃん!! (COMIC LOE VOL.19 TS 2) [中国翻訳] [DL版]":[
-            "language:translated",
-            "male:gender change",
-            "male:sole male",
-            "female:defloration",
-            "female:lolicon",
-            "female:nipple stimulation",
-            "female:sole female"
-        ]
-    },
-    {
-        "[おとなごっこ委員会 (よろず)] 僕らのCQC [中国翻訳]  [DL版]":[
-            "language:translated",
-            "group:otonagokko iinkai",
-            "artist:hanamiya natsuka",
-            "artist:ichihaya",
-            "artist:piyodera mucha",
-            "male:blindfold",
-            "male:bondage",
-            "male:glasses",
+        "[Pixiv] gweda (111455072) 2026.01.07":[
+            "parody:atelier ryza",
+            "parody:blue archive",
+            "parody:date a live",
+            "parody:genshin impact",
+            "parody:gotoubun no hanayome",
+            "parody:honkai star rail",
+            "parody:kanojo okarishimasu",
+            "parody:kono subarashii sekai ni syukufuku o",
+            "parody:pokemon",
+            "parody:sousou no frieren",
+            "parody:yu-gi-oh",
+            "character:acheron",
+            "character:alice",
+            "character:amber",
+            "character:astra yao",
+            "character:ayaka kamisato",
+            "character:belle",
+            "character:burnice white",
+            "character:camellya",
+            "character:carlotta",
+            "character:changli",
+            "character:chasca",
+            "character:chiori",
+            "character:citlali",
+            "character:dehya",
+            "character:elysia",
+            "character:escoffier",
+            "character:evelyn chevalier",
+            "character:feixiao",
+            "character:fischl",
+            "character:focalors",
+            "character:guinaifen",
+            "character:huohuo",
+            "character:jean gunnhildr",
+            "character:keqing",
+            "character:kokomi sangonomiya",
+            "character:layla",
+            "character:lingsha",
+            "character:lumine",
+            "character:lynette",
+            "character:miyabi hoshimi",
+            "character:mona megistus",
+            "character:ningguang",
+            "character:phoebe",
+            "character:rapi",
+            "character:rover",
+            "character:seele vollerei",
+            "character:shinobu kuki",
+            "character:skirk",
+            "character:stelle",
+            "character:the shorekeeper",
+            "character:topaz",
+            "character:vivian banshee",
+            "character:xilonen",
+            "character:yanfei",
+            "character:yinlin",
+            "character:yoimiya naganohara",
+            "character:yun yun",
+            "character:yuzuha ukinami",
+            "artist:gwegwe",
             "female:anal",
+            "female:big ass",
+            "female:big breasts",
+            "female:bikini",
             "female:blowjob",
-            "female:collar",
-            "female:defloration",
+            "female:bunny girl",
+            "female:catgirl",
+            "female:chinese dress",
+            "female:christmas",
+            "female:cosplaying",
+            "female:dark skin",
             "female:demon girl",
-            "female:double penetration",
-            "female:femdom",
-            "female:gloves",
+            "female:dog girl",
+            "female:elf",
+            "female:fox girl",
+            "female:glasses",
+            "female:hair buns",
+            "female:headphones",
             "female:horns",
-            "female:lolicon",
-            "female:oppai loli",
-            "female:rape",
+            "female:kemonomimi",
+            "female:latex",
+            "female:mouth mask",
+            "female:nakadashi",
+            "female:nun",
+            "female:pantyhose",
+            "female:ponytail",
+            "female:school gym uniform",
             "female:schoolgirl uniform",
-            "female:sister",
+            "female:sex toys",
             "female:stockings",
+            "female:sunglasses",
             "female:swimsuit",
             "female:tail",
             "female:twintails",
-            "mixed:incest"
-        ]
-    },
-    {
-        "[おとなごっこ委員会 (いちはや)] 妹の声がきこえる (僕らのCQC) [中国翻訳] [DL版]":[
-            "language:translated",
-            "group:otonagokko iinkai",
-            "male:sole male",
-            "male:virginity",
-            "female:defloration",
-            "female:lolicon",
-            "female:rape",
-            "female:sister",
-            "female:sole female"
-        ]
-    },
-    {
-        "[おとなごっこ委員会 (ホロナミン)] 彼女は夜に消える (僕らのCQC) [中国翻訳] [DL版]":[
-            "language:translated",
-            "group:otonagokko iinkai",
-            "female:anal",
-            "female:anal intercourse",
-            "female:double penetration",
-            "female:lolicon",
-            "female:rape",
-            "female:schoolgirl uniform",
-            "female:sole female",
-            "mixed:mmf threesome"
+            "female:very long hair",
+            "female:wings",
+            "female:x-ray"
         ]
     }
 ]
