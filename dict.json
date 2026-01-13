@@ -2008,6 +2008,17 @@
         ]
     },
     {
+        "[Danimaru studio (Danimaru)] Hatsujou Touban Kyouyama Kazusa (Blue Archive) [Chinese] [冬月十夜个人漢化] [Digital]":[
+            "character:kazusa kyouyama",
+            "male:sole male",
+            "female:catgirl",
+            "female:halo",
+            "female:kemonomimi",
+            "female:nakadashi",
+            "female:sole female"
+        ]
+    },
+    {
         "[Danimaru] Chikakute Tooi Anata (COMIC Anthurium 2020-06) [Chinese] [无毒汉化组x無邪気漢化組] [Digital]":[
             "male:business suit",
             "male:butler",
@@ -6530,6 +6541,24 @@
         ]
     },
     {
+        "[Seifuku Monochrome (Yotaka no Yona)] Itoko Doushi -Dosukebe Mizugi to Manatsu no Genkai Dorodoro SEX- | 表姊弟關係 -超火辣泳衣與盛夏的極限黏黏膩膩性愛- [Chinese] [Amerins漢化] [Digital]":[
+            "group:seifuku monochrome",
+            "male:schoolboy uniform",
+            "male:sole male",
+            "female:beauty mark",
+            "female:bikini",
+            "female:blowjob",
+            "female:cousin",
+            "female:nakadashi",
+            "female:paizuri",
+            "female:pixie cut",
+            "female:sole female",
+            "female:swimsuit",
+            "female:tomboy",
+            "female:wet clothes"
+        ]
+    },
+    {
         "[Seikei Doujin (As109)] Ore no Imouto wa Seieki Chuudoku Sono Futatsu - Houkai | 我的妹妹精液中毒 其之二・崩壞 [Chinese]":[
             "male:dark skin",
             "female:beauty mark",
@@ -8780,37 +8809,5 @@
     },
     {
         "魔女は復讐の夜に Ver1.07 精翻中文 【ACT】Night of Revenge-魔女复仇之夜（完结）_哔哩哔哩bilibili_剧情 - 【20%OFF】魔女は復讐の夜に [D-lis] _ DLsite 同人作品 - R18":[]
-    },
-    {
-        "[Danimaru studio (Danimaru)] Hatsujou Touban Kyouyama Kazusa (Blue Archive) [Chinese] [冬月十夜个人漢化] [Digital]":[
-            "language:translated",
-            "character:kazusa kyouyama",
-            "group:danimaru studio",
-            "male:sole male",
-            "female:catgirl",
-            "female:halo",
-            "female:kemonomimi",
-            "female:nakadashi",
-            "female:sole female"
-        ]
-    },
-    {
-        "[Seifuku Monochrome (Yotaka no Yona)] Itoko Doushi -Dosukebe Mizugi to Manatsu no Genkai Dorodoro SEX- | 表姊弟關係 -超火辣泳衣與盛夏的極限黏黏膩膩性愛- [Chinese] [Amerins漢化] [Digital]":[
-            "language:translated",
-            "group:seifuku monochrome",
-            "male:schoolboy uniform",
-            "male:sole male",
-            "female:beauty mark",
-            "female:bikini",
-            "female:blowjob",
-            "female:cousin",
-            "female:nakadashi",
-            "female:paizuri",
-            "female:pixie cut",
-            "female:sole female",
-            "female:swimsuit",
-            "female:tomboy",
-            "female:wet clothes"
-        ]
     }
 ]
